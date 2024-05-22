@@ -1,0 +1,202 @@
+[
+    {
+        "question": "What is the primary difference between a drug and a poison according to the document?",
+        "options": [
+            "Chemical structure",
+            "Biological effect",
+            "Dosage",
+            "Source"
+        ],
+        "answer": "Dosage"
+    },
+    {
+        "question": "Which classification of drugs is based on their chemical nature?",
+        "options": [
+            "Inorganic drugs",
+            "Organic drugs",
+            "Synthetic drugs",
+            "Semi-synthetic drugs"
+        ],
+        "answer": "Inorganic drugs"
+    },
+    {
+        "question": "Which classification of drugs is based on their source?",
+        "options": [
+            "Natural source",
+            "Synthetic source",
+            "Semi-synthetic source",
+            "Bio-synthetic source"
+        ],
+        "answer": "Bio-synthetic source"
+    },
+    {
+        "question": "Which classification of drugs is based on their target organ?",
+        "options": [
+            "Central nervous system drugs",
+            "Cardiovascular system drugs",
+            "Drugs acting on respiratory system",
+            "Drugs acting on gastrointestinal tract"
+        ],
+        "answer": "Cardiovascular system drugs"
+    },
+    {
+        "question": "Which classification of drugs is based on their mode of action?",
+        "options": [
+            "Inhibitors of bacterial cell wall synthesis",
+            "Inhibitors of bacterial protein synthesis",
+            "Calcium channel blockers",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which classification of drugs is based on their therapeutic use?",
+        "options": [
+            "Antimicrobials",
+            "Antihypertensives",
+            "Antipsychotics",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which classification of drugs is based on their physical effects?",
+        "options": [
+            "Emollients",
+            "Caustic",
+            "Demulcents",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which classification of drugs is based on physiological system?",
+        "options": [
+            "Sympathomimetics",
+            "Parasympathomimetics",
+            "Neuromuscular blockers",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "How are drugs classified in terms of legal drug classifications?",
+        "options": [
+            "By chemical structure",
+            "By therapeutic use",
+            "By legal restrictions",
+            "By source"
+        ],
+        "answer": "By legal restrictions"
+    },
+    {
+        "question": "What is the primary characteristic of Schedule I Controlled Substances?",
+        "options": [
+            "High potential for abuse",
+            "Accepted medical use",
+            "Low potential for abuse",
+            "Accepted safety for use under medical supervision"
+        ],
+        "answer": "High potential for abuse"
+    },
+    {
+        "question": "Which substances fall under Schedule II/IIN Controlled Substances?",
+        "options": [
+            "Substances with low potential for abuse",
+            "Substances with high potential for abuse",
+            "Substances with moderate physical dependence",
+            "Substances with low psychological dependence"
+        ],
+        "answer": "Substances with high potential for abuse"
+    },
+    {
+        "question": "What is the primary characteristic of Schedule III/IIIN Controlled Substances?",
+        "options": [
+            "High potential for abuse",
+            "Low potential for abuse",
+            "Moderate physical dependence",
+            "High psychological dependence"
+        ],
+        "answer": "Low potential for abuse"
+    },
+    {
+        "question": "Which substances fall under Schedule IV Controlled Substances?",
+        "options": [
+            "Substances with high potential for abuse",
+            "Substances with low potential for abuse",
+            "Substances with moderate physical dependence",
+            "Substances with low psychological dependence"
+        ],
+        "answer": "Substances with low potential for abuse"
+    },
+    {
+        "question": "What is the primary characteristic of Schedule V Controlled Substances?",
+        "options": [
+            "High potential for abuse",
+            "Low potential for abuse",
+            "Moderate physical dependence",
+            "High psychological dependence"
+        ],
+        "answer": "Low potential for abuse"
+    },
+    {
+        "question": "What are the four types of names that drugs have according to the document?",
+        "options": [
+            "Chemical names, Generic names, Trade names, Company code",
+            "Chemical names, Brand names, Company code, Compound code",
+            "Chemical names, Proprietary names, Company code, Compound code",
+            "Chemical names, Generic names, Trade names, Compound code"
+        ],
+        "answer": "Chemical names, Generic names, Trade names, Company code"
+    },
+    {
+        "question": "Which organization mediates international agreement on drug names?",
+        "options": [
+            "WHO",
+            "FDA",
+            "NAFDAC",
+            "BP"
+        ],
+        "answer": "WHO"
+    },
+    {
+        "question": "What is the limitation of a generic name of a drug according to the document?",
+        "options": [
+            "It indicates stereochemistry",
+            "It is unique to each drug",
+            "It does not give indication of stereochemistry",
+            "It is the official name"
+        ],
+        "answer": "It does not give indication of stereochemistry"
+    },
+    {
+        "question": "What are the sources of information on drugs mentioned in the document?",
+        "options": [
+            "National drug formularies, Materia medica, WHO",
+            "National drug formularies, Pharmacology textbooks, Journals",
+            "WHO, Pharmaceutical Research and Manufacturers, NAFDAC",
+            "British Pharmacopoeia, Monographs, Bulletins"
+        ],
+        "answer": "National drug formularies, Materia medica, WHO"
+    },
+    {
+        "question": "What are the types of drug formulations mentioned in the document?",
+        "options": [
+            "Solutions, Suspensions, Emulsions, Tablets, Capsules",
+            "Solutions, Suspensions, Powders, Granules, Injections",
+            "Solutions, Emulsions, Tablets, Capsules, Powders",
+            "Suspensions, Emulsions, Tablets, Capsules, Injections"
+        ],
+        "answer": "Solutions, Suspensions, Emulsions, Tablets, Capsules"
+    },
+    {
+        "question": "What are the routes of drug administration mentioned in the document?",
+        "options": [
+            "Enteral, Parenteral, Topical",
+            "Oral, Sublingual, Buccal, Rectal",
+            "Intravenous, Intramuscular, Subcutaneous, Intra-arterial",
+            "Oral, Inhalation, Transdermal"
+        ],
+        "answer": "Enteral, Parenteral, Topical"
+    }
+]

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="static/script.js"></script>
+        <link rel="stylesheet" href="static/styles.css">
+        {% block script %}{% endblock %}
+        <title>{% block title %}{% endblock %}</title>
+    </head>
+    <body>
+		{% block main %}	
+		{% endblock %}
+        <hr>
+		<footer class="footer">
+            <center><h2>&#9888; Disclaimer!!! &#9888;</h2></center>
+            <p>This web app was developed by <a href="https://gideon00.github.io/">@rabboni</a> with the help of Natural
+                Language Processing (NLP)
+                and Machine Learning (ML) technology. The app generates questions and answers from PDF lecture notes,
+                but please note that these technologies are still evolving thus some questions or answers may be
+                slightly or outrightly wrong.</p>
+                <br>
+                <center><h6><a href="{{ url_for('index') }}">Start Over</a></h6></center>
+        </footer>
+    </body>
+</html>

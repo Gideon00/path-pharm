@@ -1,0 +1,54 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    {{ region }} Quiz
+{% endblock %}
+    
+{% block main %}
+    <div class="header">
+        <h1>Practice Best Choice!</h1>
+        <h3>{{ region }}</h3>
+    </div>
+    <div class="question-display">
+        <div class="drug-label">
+            <!-- <label type="hidden">{{ current_question_index + 1}}</label> -->
+            <h2>{{ current_question_index + 1}}. {{ questions['question'] }}</h2>
+            <div id="options">
+                <ul class="invisible-numbering">
+                    {% for option in questions['options'] %}
+                    <li>
+                        <input type="radio" id="option-{{ loop.index }}" name="answer">
+                        <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }}</label>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="pill-bottle">
+            <div class="pill" id="pill"></div>
+        </div>
+
+        <h3 style="visibility: hidden;" id="score">Current score is {{ score }}</h3>
+        <!-- Bottom buttons -->
+        <div id="nextPrev">
+            <form action="{{ url_for('previous_question') }}" method="post">
+                <input class="Previous" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled
+                    {% endif %}>
+            </form>
+            
+            <form action="{{ url_for('end') }}" method="post">
+                <input id="end_answer" name="endquiz" value="student.answer" type="hidden">
+                <input class="end" type="submit" value="End" {% if disable_previous %} id="disabled" disabled
+                {% endif %}>
+            </form>
+            
+            <button id="toggle">See Score</button>
+
+            <form action="{{ url_for('next_question') }}" method="post">
+                <input id="next_answer" name="proceed" value="student.answer" type="hidden">
+                <input class="next" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
+            </form>
+        </div>
+    </div>
+
+{% endblock %}

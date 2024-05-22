@@ -1,0 +1,164 @@
+
+.question-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: antiquewhite; */
+}
+
+.drug-label {
+    /* margin: 20px 20px 20px 20px;
+    padding: 20px; */
+    width: 95%;
+    margin-bottom: 20px;
+    /* background-color: #b18a8a; */
+}
+
+.pill-bottle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pill {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#pill {
+    opacity: 0;
+}
+
+#toggle {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+}
+
+#toggle:hover {
+    background-color: #3e8e41;
+}
+#nextPrev {
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+}
+.Previous{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #c46729;
+    cursor: pointer;
+}
+.Previous:hover{
+    background-color: #884d26;
+}
+.next{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    cursor: pointer;
+}
+.next:hover{
+    background-color: #3e8e41;
+}
+.end{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(219, 37, 37);
+    cursor: pointer;
+}
+.end:hover{
+    background-color: rgb(167, 15, 15);
+}
+#disabled {
+    background-color: #adb4ad;
+}
+.invisible-numbering li {
+    list-style-type: none;
+}
+/* .question-container {
+    display: flex;
+    align-items: center; /* Align items vertically 
+}*/
+
+.question-container label:first-of-type {
+    width: 50px; /* Adjust as needed to accommodate the widest numbering */
+    flex-shrink: 0; /* Prevent the first label from shrinking */
+}
+.header {
+    /* background-color: #477bff; */
+    color: black;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+#end_style{
+    text-decoration: none;
+    color: white;
+}
+body{
+    /* background-color: rgb(167, 157, 145); */
+    background-color: antiquewhite;
+}
+
+/* For Index page */
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header {
+    background-color: rgb(206, 204, 202);
+    /* color: #fff; */
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.section {
+    padding: 0.5rem 2rem 1rem 2rem;
+}
+
+/* Style the dropdown menus */
+.dropdown {
+    display: none;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+    /* margin-top: 5px;
+    background-color: #f9f9f9; */
+}
+.question {
+    cursor: pointer;
+    /* margin: 10px 0; */
+}
+
+.questContainer{
+    display: flex;
+    justify-content: space-around;
+}
+.questColumn {
+    flex: 1;
+    margin: 10px;
+}
+.question_item {
+    padding: 5px;
+    background-color: #f4f4f4;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+}

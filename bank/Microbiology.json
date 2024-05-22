@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What is the term used to describe the highly resistant bacterial structure discovered by John Tyndall?",
+        "options": ["Endospore", "Capsule", "Flagellum", "Ribosome", "Nucleus"],
+        "answer": "Endospore"
+    },
+    {
+        "question": "Who is known as the father of antiseptic surgery?",
+        "options": ["Louis Pasteur", "John Needham", "Robert Koch", "Lord Joseph Lister", "Edward Jenner"],
+        "answer": "Lord Joseph Lister"
+    },
+    {
+        "question": "Which scientist demonstrated that air carried germs to the culture medium?",
+        "options": ["Francesco Redi", "John Tyndall", "Lazzaro Spallanzani", "Robert Koch", "Edward Jenner"],
+        "answer": "Lazzaro Spallanzani"
+    },
+    {
+        "question": "Who discovered the penicillin from penicillium notatum that destroys several pathogenic bacteria?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Paul Ehrlich", "Edward Jenner", "Robert Koch"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "Who is considered the father of antiseptic surgery?",
+        "options": ["Louis Pasteur", "John Needham", "Robert Koch", "Lord Joseph Lister", "Edward Jenner"],
+        "answer": "Lord Joseph Lister"
+    },
+    {
+        "question": "What process did Louis Pasteur invent to destroy undesirable organisms in food without ruining the taste?",
+        "options": ["Sterilization", "Fermentation", "Vaccination", "Pasteurization", "Tyndallisation"],
+        "answer": "Pasteurization"
+    },
+    {
+        "question": "Who discovered the technique of vaccination to prevent smallpox?",
+        "options": ["Louis Pasteur", "John Tyndall", "Robert Koch", "Lord Joseph Lister", "Edward Jenner"],
+        "answer": "Edward Jenner"
+    },
+    {
+        "question": "What did John Tyndall discover that required prolonged boiling or intermittent heating to kill?",
+        "options": ["Endospores", "Capsules", "Flagella", "Ribosomes", "Nuclei"],
+        "answer": "Endospores"
+    },
+    {
+        "question": "Who discovered the penicillin from Penicillium notatum that destroys several pathogenic bacteria?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Paul Ehrlich", "Edward Jenner", "Robert Koch"],
+        "answer": "Alexander Fleming"
+    }
+]

@@ -1,0 +1,648 @@
+[
+    {
+        "question": "Which of the following is the best example of physiological hypertrophy?",
+        "options": ["Growth of uterus during pregnancy", "Left ventricular hypertrophy in hypertension", "Enlarged muscles of weight lifters", "Renal hypertrophy following nephrectomy"],
+        "answer": "Growth of uterus during pregnancy"
+    },
+    {
+        "question": "The best description of metaplasia is:",
+        "options": ["Increase in cell size", "Increase in cell number", "Replacement of one cell type with another", "A type of cell injury"],
+        "answer": "Replacement of one cell type with another"
+    },
+    {
+        "question": "Which is the best example of pathological hyperplasia?",
+        "options": ["Liver regeneration after partial hepatectomy", "Endometrial hyperplasia due to excess estrogen", "Prostate enlargement due to age", "Callus formation on the skin"],
+        "answer": "Endometrial hyperplasia due to excess estrogen"
+    },
+    {
+        "question": "What is the best indicator of irreversible cell injury?",
+        "options": ["Cell swelling", "Mitochondrial damage", "Nuclear fragmentation", "Fatty change"],
+        "answer": "Nuclear fragmentation"
+    },
+    {
+        "question": "The best example of an adaptive response to increased workload is:",
+        "options": ["Hypertrophy of the heart in hypertension", "Atrophy of muscles due to disuse", "Hyperplasia of the liver", "Metaplasia of the respiratory epithelium in smokers"],
+        "answer": "Hypertrophy of the heart in hypertension"
+    },
+    {
+        "question": "Which of the following best describes apoptosis?",
+        "options": ["Necrotic cell death", "Unregulated cell death", "Programmed cell death", "Cell death due to injury"],
+        "answer": "Programmed cell death"
+    },
+    {
+        "question": "The best method to remove reactive oxygen species (ROS) is through the action of:",
+        "options": ["Superoxide dismutase", "Mitochondria", "Cell membrane", "Endoplasmic reticulum"],
+        "answer": "Superoxide dismutase"
+    },
+    {
+        "question": "Which of the following best describes the process of autophagy?",
+        "options": ["Programmed cell death", "Cell growth", "Self-eating to remove damaged organelles", "Cellular swelling"],
+        "answer": "Self-eating to remove damaged organelles"
+    },
+    {
+        "question": "The best example of liquefactive necrosis is found in:",
+        "options": ["Myocardial infarction", "Brain infarction", "Tuberculosis", "Fat necrosis of the pancreas"],
+        "answer": "Brain infarction"
+    },
+    {
+        "question": "The best explanation for the cause of caseous necrosis is:",
+        "options": ["Bacterial infection", "Tuberculosis", "Ischemia", "Chemical injury"],
+        "answer": "Tuberculosis"
+    },
+    {
+        "question": "Which of the following best describes dystrophic calcification?",
+        "options": ["Calcium deposits in normal tissues", "Calcium deposits in necrotic tissues", "Calcium absorption in bones", "None of the above"],
+        "answer": "Calcium deposits in necrotic tissues"
+    },
+    {
+        "question": "The best characteristic of reversible cell injury is:",
+        "options": ["Nuclear fragmentation", "Cell swelling", "Mitochondrial damage", "Karyolysis"],
+        "answer": "Cell swelling"
+    },
+    {
+        "question": "The best description of hypertrophy is:",
+        "options": ["Increase in cell number", "Decrease in cell size", "Increase in cell size", "Decrease in cell number"],
+        "answer": "Increase in cell size"
+    },
+    {
+        "question": "The best definition of hyperplasia is:",
+        "options": ["Increase in cell size", "Increase in cell number", "Decrease in cell size", "Replacement of one cell type with another"],
+        "answer": "Increase in cell number"
+    },
+    {
+        "question": "Which of the following is the best example of apoptosis?",
+        "options": ["Cell death in response to injury", "Unregulated cell death", "Programmed cell death during development", "Cell swelling"],
+        "answer": "Programmed cell death during development"
+    },
+    {
+        "question": "The best indicator of necrosis is:",
+        "options": ["Cell swelling", "Nuclear fragmentation", "Increased eosinophilia", "Fatty change"],
+        "answer": "Nuclear fragmentation"
+    },
+    {
+        "question": "Which is the best characteristic of cellular adaptation?",
+        "options": ["Apoptosis", "Necrosis", "Hypertrophy", "Karyolysis"],
+        "answer": "Hypertrophy"
+    },
+    {
+        "question": "The best method of identifying free radical injury is:",
+        "options": ["Measuring ATP levels", "Detection of lipid peroxidation", "Cell swelling", "Nuclear fragmentation"],
+        "answer": "Detection of lipid peroxidation"
+    },
+    {
+        "question": "The best example of pathologic atrophy is:",
+        "options": ["Muscle hypertrophy in weightlifters", "Thymus involution during childhood", "Muscle atrophy due to immobilization", "Liver regeneration"],
+        "answer": "Muscle atrophy due to immobilization"
+    },
+    {
+        "question": "Which of the following best describes pyknosis?",
+        "options": ["Nuclear shrinkage", "Nuclear fragmentation", "Nuclear dissolution", "Cell swelling"],
+        "answer": "Nuclear shrinkage"
+    },
+    {
+        "question": "The best example of cellular adaptation is:",
+        "options": ["Hypertrophy", "Necrosis", "Karyorrhexis", "Karyolysis"],
+        "answer": "Hypertrophy"
+    },
+    {
+        "question": "The best example of physiological hyperplasia is:",
+        "options": ["Endometrial hyperplasia", "Liver regeneration", "Prostate enlargement", "Callus formation"],
+        "answer": "Liver regeneration"
+    },
+    {
+        "question": "Which of the following best describes autophagy?",
+        "options": ["Cell division", "Programmed cell death", "Self-digestion of cellular components", "Cellular swelling"],
+        "answer": "Self-digestion of cellular components"
+    },
+    {
+        "question": "The best example of pathologic hyperplasia is:",
+        "options": ["Muscle hypertrophy in weightlifters", "Endometrial hyperplasia due to excess estrogen", "Liver regeneration", "Callus formation"],
+        "answer": "Endometrial hyperplasia due to excess estrogen"
+    },
+    {
+        "question": "The best indicator of oxidative stress in cells is:",
+        "options": ["Low ATP levels", "Increased reactive oxygen species (ROS)", "Cell swelling", "Fatty change"],
+        "answer": "Increased reactive oxygen species (ROS)"
+    },
+    {
+        "question": "Which of the following best characterizes fat necrosis?",
+        "options": ["Occurs in the brain", "Associated with pancreatitis", "Results from tuberculosis", "None of the above"],
+        "answer": "Associated with pancreatitis"
+    },
+    {
+        "question": "The best example of metaplasia is:",
+        "options": ["Hypertrophy of the heart in hypertension", "Atrophy of muscles due to disuse", "Metaplasia of the respiratory epithelium in smokers", "Dysplasia in the cervix"],
+        "answer": "Metaplasia of the respiratory epithelium in smokers"
+    },
+    {
+        "question": "The best indicator of apoptosis is:",
+        "options": ["Cell swelling", "Formation of apoptotic bodies", "Karyolysis", "Increased cell size"],
+        "answer": "Formation of apoptotic bodies"
+    },
+    {
+        "question": "The best example of cellular swelling is seen in:",
+        "options": ["Cell death", "Apoptosis", "Reversible cell injury", "Hyperplasia"],
+        "answer": "Reversible cell injury"
+    },
+    {
+        "question": "Which of the following is a cause of acute inflammation?",
+        "options": ["Oxygen deprivation", "Physical agents", "Chemical agents and drugs", "Infectious agents", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "The five cardinal signs of inflammation include all except:",
+        "options": ["Rubor", "Tumor", "Calor", "Dolor", "Nausea"],
+        "answer": "Nausea"
+    },
+    {
+        "question": "Which chemical mediator is responsible for vasodilation in acute inflammation?",
+        "options": ["Histamine", "Nitric oxide", "Prostaglandins", "Leukotrienes", "All of the above"],
+        "answer": "Histamine"
+    },
+    {
+        "question": "What is the primary function of leukocytes during inflammation?",
+        "options": ["Ingest offending agents", "Kill bacteria and other microbes", "Get rid of necrotic tissue", "All of the above", "None of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is NOT a vascular change in acute inflammation?",
+        "options": ["Increased blood flow", "Increased vascular permeability", "Leukocyte emigration", "Reduced blood flow", "Stasis"],
+        "answer": "Reduced blood flow"
+    },
+    {
+        "question": "Granulomatous inflammation is a type of:",
+        "options": ["Acute inflammation", "Chronic inflammation", "Both A and B", "Neither A nor B", "None of the above"],
+        "answer": "Chronic inflammation"
+    },
+    {
+        "question": "Which cell type is primarily involved in phagocytosis?",
+        "options": ["Neutrophils", "Lymphocytes", "Eosinophils", "Basophils", "Platelets"],
+        "answer": "Neutrophils"
+    },
+    {
+        "question": "ICAM-1 and VCAM-1 are examples of:",
+        "options": ["Selectins", "Integrins", "Immunoglobulin family molecules", "Chemokines", "Cytokines"],
+        "answer": "Immunoglobulin family molecules"
+    },
+    {
+        "question": "Which of the following is a feature of chronic inflammation?",
+        "options": ["Infiltration with mononuclear cells", "Tissue destruction", "Attempts at healing", "All of the above", "None of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which mediator is involved in increased vascular permeability?",
+        "options": ["Histamine", "Leukotrienes C4, D4, E4", "Prostaglandins", "Thromboxane A2", "Nitric oxide"],
+        "answer": "Histamine"
+    },
+    {
+        "question": "Which disease is associated with defects in leukocyte adhesion?",
+        "options": ["Chédiak-Higashi syndrome", "Chronic granulomatous disease", "Leukocyte Adhesion Deficiency", "Asthma", "Glomerulonephritis"],
+        "answer": "Leukocyte Adhesion Deficiency"
+    },
+    {
+        "question": "Which of the following is NOT a plasma-derived mediator of inflammation?",
+        "options": ["Complement proteins", "Kinins", "Prostaglandins", "Coagulation proteins", "All are plasma-derived"],
+        "answer": "Prostaglandins"
+    },
+    {
+        "question": "The process of phagocytosis involves which of the following steps?",
+        "options": ["Recognition and attachment", "Engulfment", "Formation of a phagocytic vacuole", "Degradation of ingested material", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Chronic inflammation may result from all of the following EXCEPT:",
+        "options": ["Persistent infections", "Prolonged exposure to toxic agents", "Autoimmunity", "Acute trauma", "All can cause chronic inflammation"],
+        "answer": "Acute trauma"
+    },
+    {
+        "question": "Which cytokine is the major macrophage-activating cytokine?",
+        "options": ["TNF", "IL-1", "IFN-γ", "IL-6", "IL-8"],
+        "answer": "IFN-γ"
+    },
+    {
+        "question": "Which of the following is NOT a feature of suppurative inflammation?",
+        "options": ["Pus formation", "Abscess formation", "Necrotic tissue", "Fibrosis", "Neutrophil infiltration"],
+        "answer": "Fibrosis"
+    },
+    {
+        "question": "What is the primary role of Toll-like receptors (TLRs) in inflammation?",
+        "options": ["Activate leukocytes", "Recognize microbes", "Stimulate microbicidal substances production", "All of the above", "None of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is NOT a step in leukocyte extravasation?",
+        "options": ["Rolling", "Activation", "Adhesion", "Transmigration", "Phagocytosis"],
+        "answer": "Phagocytosis"
+    },
+    {
+        "question": "Which molecule is involved in firm adhesion of leukocytes to endothelium?",
+        "options": ["Selectins", "Chemokines", "Integrins", "ICAM-1", "VCAM-1"],
+        "answer": "Integrins"
+    },
+    {
+        "question": "Which of the following mediators is NOT derived from arachidonic acid?",
+        "options": ["Prostaglandins", "Leukotrienes", "Lipoxins", "Histamine", "Thromboxane"],
+        "answer": "Histamine"
+    },
+    {
+        "question": "Which of the following is a feature of serous inflammation?",
+        "options": ["Thin fluid outpouring", "Fibrin deposition", "Pus formation", "Chronic inflammation", "Necrosis"],
+        "answer": "Thin fluid outpouring"
+    },
+    {
+        "question": "In the context of inflammation, what does 'stasis' refer to?",
+        "options": ["Increased blood flow", "Reduced blood flow", "Accumulation of leukocytes", "Increased vascular permeability", "None of the above"],
+        "answer": "Reduced blood flow"
+    },
+    {
+        "question": "Which of the following is NOT a chemical mediator of inflammation?",
+        "options": ["Histamine", "Prostaglandins", "Leukotrienes", "Acetylcholine", "Cytokines"],
+        "answer": "Acetylcholine"
+    },
+    {
+        "question": "Which of the following is a systemic effect of inflammation?",
+        "options": ["Fever", "Leukocytosis", "Acute-phase proteins", "All of the above", "None of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "The switch from pro-inflammatory leukotrienes to anti-inflammatory lipoxins is an example of:",
+        "options": ["Termination of acute inflammation", "Initiation of chronic inflammation", "Activation of leukocytes", "Mediators of vascular permeability", "None of the above"],
+        "answer": "Termination of acute inflammation"
+    },
+    {
+        "question": "Which is a primary event in the process of leukocyte adhesion?",
+        "options": ["Leukocyte rolling", "Increased avidity of integrins", "Firm adhesion", "Transmigration", "All of the above"],
+        "answer": "Firm adhesion"
+    },
+    {
+        "question": "Which of the following is a histologic feature of granulomatous inflammation?",
+        "options": ["Granuloma formation", "Presence of multinucleated giant cells", "Central necrosis", "Lymphocytic cuffing", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following mediators is involved in chemotaxis?",
+        "options": ["Histamine", "Prostaglandins", "Chemokines", "Leukotrienes", "Cytokines"],
+        "answer": "Chemokines"
+    },
+    {
+        "question": "Which of the following is a characteristic of chronic inflammation?",
+        "options": ["Rapid onset", "Predominance of neutrophils", "Prolonged duration", "Resolution and repair", "Absence of fibrosis"],
+        "answer": "Prolonged duration"
+    },    
+    {
+        "question": "Which of the following markers is best associated with prostate cancer?",
+        "options": ["CEA", "AFP", "PSA", "CA-125", "CA-19-9"],
+        "answer": "PSA"
+    },
+    {
+        "question": "Which environmental factor is the most significant risk for lung cancer?",
+        "options": ["Air pollution", "Asbestos", "Secondhand smoke", "Radon gas", "Tobacco smoke"],
+        "answer": "Tobacco smoke"
+    },
+    {
+        "question": "Which of the following is the most common cause of cancer death worldwide?",
+        "options": ["Lung cancer", "Breast cancer", "Colorectal cancer", "Liver cancer", "Stomach cancer"],
+        "answer": "Lung cancer"
+    },
+    {
+        "question": "What is the most common site for metastasis in breast cancer?",
+        "options": ["Brain", "Bone", "Liver", "Lung", "Kidney"],
+        "answer": "Bone"
+    },
+    {
+        "question": "Which cancer type is most likely to arise from chronic Barrett's esophagus?",
+        "options": ["Adenocarcinoma", "Squamous cell carcinoma", "Small cell carcinoma", "Large cell carcinoma", "Neuroendocrine tumor"],
+        "answer": "Adenocarcinoma"
+    },
+    {
+        "question": "Which oncogene is most commonly associated with breast cancer?",
+        "options": ["HER2", "RAS", "MYC", "BCR-ABL", "EGFR"],
+        "answer": "HER2"
+    },
+    {
+        "question": "Which virus is most closely linked with hepatocellular carcinoma?",
+        "options": ["HPV", "EBV", "HCV", "HBV", "HTLV-1"],
+        "answer": "HBV"
+    },
+    {
+        "question": "Which of the following is the most important prognostic factor in breast cancer?",
+        "options": ["Tumor size", "Lymph node status", "Histological grade", "Hormone receptor status", "Patient age"],
+        "answer": "Lymph node status"
+    },
+    {
+        "question": "What is the most common type of kidney cancer in adults?",
+        "options": ["Transitional cell carcinoma", "Wilms' tumor", "Clear cell carcinoma", "Papillary carcinoma", "Chromophobe carcinoma"],
+        "answer": "Clear cell carcinoma"
+    },
+    {
+        "question": "Which of the following is the most common hematologic malignancy in children?",
+        "options": ["AML", "CLL", "ALL", "CML", "Hodgkin lymphoma"],
+        "answer": "ALL"
+    },
+    {
+        "question": "Which genetic syndrome is most strongly associated with colorectal cancer?",
+        "options": ["Lynch syndrome", "Li-Fraumeni syndrome", "Down syndrome", "Turner syndrome", "Klinefelter syndrome"],
+        "answer": "Lynch syndrome"
+    },
+    {
+        "question": "What is the best method for early detection of cervical cancer?",
+        "options": ["HPV testing", "Pap smear", "Colposcopy", "Biopsy", "MRI"],
+        "answer": "Pap smear"
+    },
+    {
+        "question": "Which of the following cancers is associated with the highest incidence of paraneoplastic syndromes?",
+        "options": ["Breast cancer", "Lung cancer", "Prostate cancer", "Colorectal cancer", "Melanoma"],
+        "answer": "Lung cancer"
+    },
+    {
+        "question": "Which of the following is the most common primary brain tumor in adults?",
+        "options": ["Astrocytoma", "Glioblastoma", "Meningioma", "Oligodendroglioma", "Ependymoma"],
+        "answer": "Glioblastoma"
+    },
+    {
+        "question": "What is the best screening method for colorectal cancer?",
+        "options": ["Fecal occult blood test", "Sigmoidoscopy", "Colonoscopy", "CT colonography", "Barium enema"],
+        "answer": "Colonoscopy"
+    },
+    {
+        "question": "Which type of leukemia is most commonly seen in adults over 60 years old?",
+        "options": ["AML", "CML", "ALL", "CLL", "Hairy cell leukemia"],
+        "answer": "CLL"
+    },
+    {
+        "question": "Which tumor marker is most commonly used to monitor treatment response in ovarian cancer?",
+        "options": ["CEA", "CA-125", "AFP", "PSA", "LDH"],
+        "answer": "CA-125"
+    },
+    {
+        "question": "What is the most common type of bladder cancer?",
+        "options": ["Squamous cell carcinoma", "Adenocarcinoma", "Transitional cell carcinoma", "Small cell carcinoma", "Large cell carcinoma"],
+        "answer": "Transitional cell carcinoma"
+    },
+    {
+        "question": "Which of the following cancers is most likely to cause hypercalcemia as a paraneoplastic syndrome?",
+        "options": ["Breast cancer", "Lung cancer", "Prostate cancer", "Colorectal cancer", "Melanoma"],
+        "answer": "Lung cancer"
+    },
+    {
+        "question": "Which of the following is the most common site for melanoma metastasis?",
+        "options": ["Liver", "Bone", "Brain", "Lung", "Lymph nodes"],
+        "answer": "Lung"
+    },
+    {
+        "question": "Which virus is associated with Kaposi sarcoma?",
+        "options": ["HIV", "HPV", "EBV", "HHV-8", "HBV"],
+        "answer": "HHV-8"
+    },
+    {
+        "question": "Which of the following is the most common type of thyroid cancer?",
+        "options": ["Medullary carcinoma", "Follicular carcinoma", "Papillary carcinoma", "Anaplastic carcinoma", "Hurthle cell carcinoma"],
+        "answer": "Papillary carcinoma"
+    },
+    {
+        "question": "Which type of breast cancer is most likely to be associated with BRCA1 mutations?",
+        "options": ["Lobular carcinoma", "Ductal carcinoma in situ", "Invasive ductal carcinoma", "Inflammatory breast cancer", "Triple-negative breast cancer"],
+        "answer": "Triple-negative breast cancer"
+    },
+    {
+        "question": "Which of the following is the best indicator of prognosis in patients with non-Hodgkin lymphoma?",
+        "options": ["Age", "Tumor size", "Histological subtype", "Stage of disease", "B symptoms"],
+        "answer": "Stage of disease"
+    },
+    {
+        "question": "Which of the following is the most common cancer in men?",
+        "options": ["Lung cancer", "Prostate cancer", "Colorectal cancer", "Bladder cancer", "Melanoma"],
+        "answer": "Prostate cancer"
+    },
+    {
+        "question": "Which virus is most closely associated with Burkitt's lymphoma?",
+        "options": ["HPV", "EBV", "HCV", "HBV", "HTLV-1"],
+        "answer": "EBV"
+    },
+    {
+        "question": "Which of the following cancers is most commonly associated with elevated CA-19-9 levels?",
+        "options": ["Breast cancer", "Pancreatic cancer", "Prostate cancer", "Colorectal cancer", "Liver cancer"],
+        "answer": "Pancreatic cancer"
+    },
+    {
+        "question": "Which of the following cancers is most commonly associated with polycythemia as a paraneoplastic syndrome?",
+        "options": ["Lung cancer", "Breast cancer", "Renal cell carcinoma", "Colorectal cancer", "Prostate cancer"],
+        "answer": "Renal cell carcinoma"
+    },
+    {
+        "question": "What is the most common malignant tumor of the liver in adults?",
+        "options": ["Cholangiocarcinoma", "Hepatoblastoma", "Angiosarcoma", "Hepatocellular carcinoma", "Metastatic carcinoma"],
+        "answer": "Hepatocellular carcinoma"
+    },
+    {
+        "question": "Typhoid fever is primarily caused by:",
+        "options": ["S. aureus", "S. typhi", "S. epidermidis", "S. pneumoniae", "S. pyogenes"],
+        "answer": "S. typhi"
+    },
+    {
+        "question": "The characteristic lesions of typhoid fever are primarily found in:",
+        "options": ["Lungs", "Kidneys", "Intestines", "Brain", "Heart"],
+        "answer": "Intestines"
+    },
+    {
+        "question": "Which of the following is NOT a common symptom of typhoid fever?",
+        "options": ["Fever", "Abdominal pain", "Rash", "Cough", "Diarrhea"],
+        "answer": "Cough"
+    },
+    {
+        "question": "The incubation period for typhoid fever is typically:",
+        "options": ["1-3 days", "4-7 days", "10-14 days", "15-21 days", "22-28 days"],
+        "answer": "10-14 days"
+    },
+    {
+        "question": "In typhoid fever, the bacilli primarily multiply in:",
+        "options": ["Liver", "Spleen", "Peyer's patches", "Bone marrow", "Kidneys"],
+        "answer": "Peyer's patches"
+    },
+    {
+        "question": "Which of the following is NOT a complication of typhoid fever?",
+        "options": ["Intestinal perforation", "Pericarditis", "Meningitis", "Osteomyelitis", "Glomerulonephritis"],
+        "answer": "Pericarditis"
+    },
+    {
+        "question": "The 'rose spots' seen in typhoid fever are found on the:",
+        "options": ["Face", "Abdomen", "Chest", "Back", "Legs"],
+        "answer": "Abdomen"
+    },
+    {
+        "question": "Which organ is NOT typically enlarged in typhoid fever?",
+        "options": ["Liver", "Spleen", "Gall bladder", "Heart", "Lymph nodes"],
+        "answer": "Heart"
+    },
+    {
+        "question": "The presence of typhoid nodules is most striking in which organ?",
+        "options": ["Liver", "Lungs", "Brain", "Heart", "Kidneys"],
+        "answer": "Liver"
+    },
+    {
+        "question": "Typhoid fever can be definitively diagnosed by:",
+        "options": ["Stool culture", "Blood culture", "Urine culture", "Sputum culture", "CSF culture"],
+        "answer": "Blood culture"
+    },
+    {
+        "question": "The adult worms of Schistosoma haematobium are typically found in the:",
+        "options": ["Arteries", "Veins", "Lymph nodes", "Liver", "Kidneys"],
+        "answer": "Veins"
+    },
+    {
+        "question": "Which venous plexus is predominantly affected by Schistosoma haematobium?",
+        "options": ["Mesenteric veins", "Portal veins", "Vesical plexus", "Pulmonary veins", "Renal veins"],
+        "answer": "Vesical plexus"
+    },
+    {
+        "question": "Which species of Schistosoma is confined to the Far East?",
+        "options": ["S. haematobium", "S. mansoni", "S. japonicum", "S. intercalatum", "S. bovis"],
+        "answer": "S. japonicum"
+    },
+    {
+        "question": "The immune response in schistosomiasis is dominated by:",
+        "options": ["TH-1 response", "TH-2 response", "NK cell activation", "B cell proliferation", "T cell apoptosis"],
+        "answer": "TH-2 response"
+    },
+    {
+        "question": "Granuloma formation in schistosomiasis is primarily due to:",
+        "options": ["Bacterial infection", "Viral infection", "Parasitic eggs", "Fungal infection", "Chemical toxins"],
+        "answer": "Parasitic eggs"
+    },
+    {
+        "question": "Which species of Schistosoma is associated with severe hepatic fibrosis?",
+        "options": ["S. haematobium", "S. mansoni", "S. japonicum", "S. intercalatum", "S. mekongi"],
+        "answer": "S. japonicum"
+    },
+    {
+        "question": "Katayama syndrome is NOT characterized by:",
+        "options": ["Fever", "Eosinophilia", "Diarrhea", "Hypertension", "Abdominal pain"],
+        "answer": "Hypertension"
+    },
+    {
+        "question": "The primary organ affected by Schistosoma eggs leading to granuloma formation is:",
+        "options": ["Lungs", "Kidneys", "Liver", "Heart", "Spleen"],
+        "answer": "Liver"
+    },
+    {
+        "question": "Which organ is primarily affected by Schistosoma haematobium?",
+        "options": ["Intestine", "Liver", "Urinary bladder", "Lungs", "Heart"],
+        "answer": "Urinary bladder"
+    },
+    {
+        "question": "Urinary schistosomiasis is commonly associated with:",
+        "options": ["Lung cancer", "Breast cancer", "Bladder cancer", "Colon cancer", "Prostate cancer"],
+        "answer": "Bladder cancer"
+    },
+    {
+        "question": "What is the primary staining technique used to demonstrate the organism in tissues affected by leprosy?",
+        "options": [
+            "Acid-fast (Ziehl-Neelson) technique",
+            "Fite-Faraco technique",
+            "Gomori methenamine silver method",
+            "Direct immunofluorescence",
+            "S-100 Protein"
+        ],
+        "answer": "Gomori methenamine silver method"
+    },
+    {
+        "question": "Which classification of leprosy is characterized by severe impairment of cell-mediated immunity and unrestrained multiplication of M. leprae?",
+        "options": [
+            "Lepromatous leprosy",
+            "Tuberculoid leprosy",
+            "Borderline leprosy",
+            "Pure polyneurotic leprosy",
+            "Mask leprosy"
+        ],
+        "answer": "Lepromatous leprosy"
+    },
+    {
+        "question": "What is the main presenting feature of tuberculoid leprosy?",
+        "options": [
+            "Hypopigmented anaesthetic firm rash",
+            "Loss of thermal sensation",
+            "Muscular wasting",
+            "Extensive anaesthesia",
+            "Chronic granulomatous process"
+        ],
+        "answer": "Hypopigmented anaesthetic firm rash"
+    },
+    {
+        "question": "Which of the following organs is almost always affected in lepromatous leprosy?",
+        "options": [
+            "Liver",
+            "Skeletal system",
+            "Eye",
+            "Testes",
+            "Kidneys"
+        ],
+        "answer": "Testes"
+    },
+    {
+        "question": "What is the characteristic feature of lepromatous leprosy in terms of skin lesions?",
+        "options": [
+            "Hypopigmented macules",
+            "Raised and nodular lesions",
+            "Ulceration with serosanguinous fluid",
+            "Anaesthetic firm rash",
+            "Chronic granulomatous process"
+        ],
+        "answer": "Raised and nodular lesions"
+    },
+    {
+        "question": "Which type of leprosy involves a defective Th-1 response or a dominant Th-2 response?",
+        "options": [
+            "Lepromatous leprosy",
+            "Tuberculoid leprosy",
+            "Borderline leprosy",
+            "Pure polyneurotic leprosy",
+            "Mask leprosy"
+        ],
+        "answer": "Lepromatous leprosy"
+    },
+    {
+        "question": "What is the main route of possible transmission of leprosy from patient to patient?",
+        "options": [
+            "Respiratory droplet spread",
+            "Insect vector bite",
+            "Skin abrasion",
+            "Body contact",
+            "Waterborne transmission"
+        ],
+        "answer": "Skin abrasion"
+    },
+    {
+        "question": "Which staining technique can be used to demonstrate the organism in tissues affected by leprosy?",
+        "options": [
+            "Acid-fast (Ziehl-Neelson) technique",
+            "Fite-Faraco technique",
+            "Gomori methenamine silver method",
+            "Direct immunofluorescence",
+            "S-100 Protein"
+        ],
+        "answer": "Acid-fast (Ziehl-Neelson) technique"
+    },
+    {
+        "question": "What is the reactional state in leprosy thought to be primarily caused by?",
+        "options": [
+            "Bacterial toxins",
+            "Autoimmune reaction",
+            "Viral infection",
+            "Fungal invasion",
+            "Parasitic infestation"
+        ],
+        "answer": "Autoimmune reaction"
+    },
+    {
+        "question": "Which type of leprosy involves a sudden exacerbation of symptoms and is considered an immunologic reaction?",
+        "options": [
+            "Lepromatous leprosy",
+            "Tuberculoid leprosy",
+            "Borderline leprosy",
+            "Pure polyneurotic leprosy",
+            "Mask leprosy"
+        ],
+        "answer": "Borderline leprosy"
+    }
+]
+

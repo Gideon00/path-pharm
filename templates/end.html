@@ -1,0 +1,73 @@
+{% extends "layout.html" %}
+
+{% block script %}
+    <script>
+        function toggleDropdown(dropdownId) {
+            const dropdown = document.getElementById(dropdownId);
+            if (dropdown.style.display === 'none' || dropdown.style.display === '') {
+                dropdown.style.display = 'block';
+            } else {
+                dropdown.style.display = 'none';
+            }
+        }
+    </script>
+{% endblock %}
+
+{% block title %}
+    Over
+{% endblock %}
+
+{% block main %}
+<div class="question-display">
+    <div>
+        <h1>Test Over</h1>
+    </div>
+    <div class="drug-label">
+        <div>
+            <h2>Congratulations! for your work in {{ region }}</h2>
+            <p>Total MCQs tried {{ totalQ }}</p>
+            <p>Total Score {{ score }}</p>
+            <p>Total Score Negative marking Scheme {{ scoreN }} = {{ per }}%</p>
+
+            
+            {% if fails %}
+            <h3>Questions failed and correct answers viz;</h3>
+            <ul>
+                {% for fail in fails %}
+                <li>{{ fail["Question_failed"] + 1 }}. {{ fail["answer"] }}</li>
+                {% endfor %}
+                <h6>The answer(s) above are the corrections!!</h6>
+            </ul>
+
+            {% elif totalFails %}
+            <h3>Questions failed, Click to see correct answers;</h3>
+
+            <!-- Create a container for the dropdown menus -->
+            <div class="dropdown-container">
+                <!-- Create a list of 5 dropdown menus -->
+                <ul class="invisible-numbering">
+                    {% for fail in totalFails %}
+                    <li>
+                        <div class="question" onclick="toggleDropdown('dropdown{{ loop.index }}')"><p>{{ fail["Question_number"] }}. {{ fail["question"] }}</p></div>
+                        <div id="dropdown{{ loop.index }}" class="dropdown">
+                            {% for i in range(fail.options | length) %}
+                                <p>{{ fail["options"][i] }}: {{ fail["answer"][i] }}</p>
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <h4>The answer(s) above are the corrections!!</h4>
+                {% else %}
+                <p>None</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <h6 class="next"><a id="end_style" href="{{ url_for('index') }}">Start Over</a></h6>
+    </div>
+</div>
+
+{% endblock %}

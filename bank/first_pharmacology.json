@@ -1,0 +1,2134 @@
+[
+    {
+        "question": "Which of the following drugs are classified as inhibitors of bacterial cell wall synthesis?",
+        "options": [
+            "Penicillin",
+            "Tetracycline",
+            "Nifedipine",
+            "Omeprazole"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a synthetic drug?",
+        "options": [
+            "Sulphonamides",
+            "Penicillin",
+            "Morphine",
+            "Digoxin",
+            "Amoxicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are examples of semi-synthetic drugs?",
+        "options": [
+            "Amoxycillin",
+            "Ampicillin",
+            "Doxycycline",
+            "Sulphonamides"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drugs act on the central nervous system?",
+        "options": [
+            "Benzodiazepines",
+            "Barbiturates",
+            "Nifedipine",
+            "Bromhexine"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the correct classification of morphine?",
+        "options": [
+            "Inorganic drug",
+            "Organic drug",
+            "Synthetic drug",
+            "Bio-synthetic drug"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a natural source drug?",
+        "options": [
+            "Morphine",
+            "Atropine",
+            "Penicillin",
+            "Insulin"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Which substances are classified under Schedule II controlled substances?",
+        "options": [
+            "Morphine",
+            "Methadone",
+            "Meperidine",
+            "LSD"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug classification includes antihypertensives?",
+        "options": [
+            "Clonidine",
+            "Hydralazine",
+            "Haloperidol",
+            "Chlorpromazine"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Examples of calcium channel blockers include:",
+        "options": [
+            "Nifedipine",
+            "Amlodipine",
+            "Verapamil",
+            "Omeprazole"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Drugs acting on the gastrointestinal tract include:",
+        "options": [
+            "Omeprazole",
+            "Nifedipine",
+            "Magnesium sulphate",
+            "Bromhexine"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are classified based on therapeutic use?",
+        "options": [
+            "Antimicrobials",
+            "Antihypertensives",
+            "Antipsychotics",
+            "Neuromuscular blockers"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the chemical name for paracetamol?",
+        "options": [
+            "N-(4-hydroxyphenyl) acetamide",
+            "Acetaminophen",
+            "Panadol",
+            "Calpol"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug classification includes demulcents?",
+        "options": [
+            "Zinc oxide",
+            "Tannic acid",
+            "Lanolin",
+            "Silver nitrate"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are considered bio-synthetic drugs?",
+        "options": [
+            "Recombinant human erythropoietin",
+            "Recombinant bovine somatotropin",
+            "Amoxycillin",
+            "Doxycycline"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are classified as sympathomimetics?",
+        "options": [
+            "Adrenaline",
+            "Noradrenaline",
+            "Carbacol",
+            "Pilocarpine"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are considered Schedule I controlled substances?",
+        "options": [
+            "Heroin",
+            "LSD",
+            "Cannabis",
+            "Ecstasy"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Examples of drugs classified based on physical effects include:",
+        "options": [
+            "Emollients",
+            "Caustics",
+            "Demulcents",
+            "Sympathomimetics"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are classified as organic drugs?",
+        "options": [
+            "Atropine",
+            "Strychnine",
+            "Morphine",
+            "Ferrous sulphate"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are examples of prescription-only medicines (POM)?",
+        "options": [
+            "Morphine",
+            "Insulin",
+            "Penicillin",
+            "Amoxycillin"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Which substances fall under Schedule III/IIIN controlled substances?",
+        "options": [
+            "Hydrocodone",
+            "Codeine",
+            "Buprenorphine",
+            "Alprazolam"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs are classified as neuromuscular blockers?",
+        "options": [
+            "Suxamethonium",
+            "Gallamine",
+            "Pilocarpine",
+            "Atropine"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a synthetic drug?",
+        "options": [
+            "Sulphonamides",
+            "Penicillin",
+            "Morphine",
+            "Digoxin",
+            "Amoxicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug is classified as an inorganic drug?",
+        "options": [
+            "Ferrous sulphate",
+            "Atropine",
+            "Oxytocin",
+            "Digoxin",
+            "Insulin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is classified as an inhibitor of bacterial cell wall synthesis?",
+        "options": [
+            "Penicillin",
+            "Tetracycline",
+            "Nifedipine",
+            "Bromhexine",
+            "Omeprazole"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug falls under the classification of Schedule I Controlled Substances in the United States?",
+        "options": [
+            "Heroin",
+            "Morphine",
+            "Codeine",
+            "Hydrocodone",
+            "Oxycodone"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a natural drug?",
+        "options": [
+            "Morphine",
+            "Amoxicillin",
+            "Penicillin",
+            "Aspirin",
+            "Sulphonamides"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is classified as a biosynthetic drug?",
+        "options": [
+            "Insulin",
+            "Atropine",
+            "Nifedipine",
+            "Penicillin",
+            "Aspirin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug is classified under Schedule II Controlled Substances?",
+        "options": [
+            "Methamphetamine",
+            "Morphine",
+            "Codeine",
+            "Heroin",
+            "Hydrocodone"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a semi-synthetic drug?",
+        "options": [
+            "Amoxicillin",
+            "Penicillin",
+            "Morphine",
+            "Aspirin",
+            "Sulphonamides"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a biopharmaceutical?",
+        "options": [
+            "Monoclonal antibodies",
+            "Aspirin",
+            "Morphine",
+            "Penicillin",
+            "Insulin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a Schedule III Controlled Substance?",
+        "options": [
+            "Anabolic steroids",
+            "Codeine",
+            "Morphine",
+            "Heroin",
+            "Hydrocodone"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a drug derived from plants?",
+        "options": [
+            "Atropine",
+            "Aspirin",
+            "Morphine",
+            "Insulin",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is classified as an antineoplastic agent?",
+        "options": [
+            "Methotrexate",
+            "Morphine",
+            "Insulin",
+            "Nifedipine",
+            "Omeprazole"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is an example of an antiviral?",
+        "options": [
+            "Acyclovir",
+            "Morphine",
+            "Aspirin",
+            "Insulin",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is a CNS stimulant?",
+        "options": [
+            "Caffeine",
+            "Morphine",
+            "Insulin",
+            "Penicillin",
+            "Aspirin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is classified as a diuretic?",
+        "options": [
+            "Furosemide",
+            "Morphine",
+            "Insulin",
+            "Aspirin",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is an example of a beta-blocker?",
+        "options": [
+            "Propranolol",
+            "Morphine",
+            "Insulin",
+            "Aspirin",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is classified as an antihypertensive?",
+        "options": [
+            "Lisinopril",
+            "Morphine",
+            "Insulin",
+            "Aspirin",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a nonsteroidal anti-inflammatory drug (NSAID)?",
+        "options": [
+            "Ibuprofen",
+            "Morphine",
+            "Insulin",
+            "Penicillin",
+            "Aspirin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is classified as an antipyretic?",
+        "options": [
+            "Paracetamol",
+            "Morphine",
+            "Insulin",
+            "Penicillin",
+            "Aspirin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is an example of an anticoagulant?",
+        "options": [
+            "Warfarin",
+            "Morphine",
+            "Insulin",
+            "Aspirin",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which adrenergic receptor subtype is primarily responsible for increasing heart rate and force of contraction?",
+        "options": "α1, α2, β1, β2",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What effect do β2 adrenergic receptors have on the respiratory tract?",
+        "options": "Bronchoconstriction, Bronchodilation, Increased mucous secretion, Vasoconstriction",
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic action of α1 adrenergic receptors?",
+        "options": "Inhibition of NE release, Increase in heart rate, Vasoconstriction, Bronchodilation",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the effect of pure β agonists on blood pressure?",
+        "options": "Increase in systolic and diastolic blood pressure, Decrease in systolic and diastolic blood pressure, Increase in heart rate and decrease in diastolic blood pressure, No effect on blood pressure",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which histamine receptor is involved in gastric acid secretion?",
+        "options": "H1, H2, H3, H4",
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary action of H1 receptor antagonists?",
+        "options": "Inhibition of gastric acid secretion, Reduction of bronchoconstriction, Blockade of histamine binding to H1 receptors, Increase in heart rate",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs is a first-generation H1 receptor antagonist?",
+        "options": "Cetirizine, Fexofenadine, Diphenhydramine, Loratadine",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Histamine can cause a decrease in blood pressure primarily through which receptor?",
+        "options": "H1, H2, H3, H4",
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which adrenergic receptor subtypes are involved in vasoconstriction?",
+        "options": "α1, α2, β1, β2",
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What are the actions of histamine on the body?",
+        "options": "Bronchoconstriction, Vasodilation, Increased gastric acid secretion, Decreased heart rate",
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following statements about H2 receptor antagonists is true?",
+        "options": "They reduce gastric acid secretion, They are used to treat allergies, They can cross the blood-brain barrier, They are effective for asthma treatment",
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which adrenergic receptors can be found in the heart?",
+        "options": "α1, α2, β1, β2",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Histamine H3 receptors primarily act in which of the following ways?",
+        "options": "Increase neurotransmitter release, Decrease neurotransmitter release, Modulate circadian rhythms, Mediate gastric acid secretion",
+        "answer": [
+            "F",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which histamine receptor antagonists are typically used for allergies?",
+        "options": "H1 antagonists, H2 antagonists, H3 antagonists, H4 antagonists",
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "β2 adrenergic receptors are involved in which of the following processes?",
+        "options": "Bronchodilation, Glycogenolysis, Increased heart rate, Vasoconstriction",
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drugs are used as β1 adrenergic antagonists?",
+        "options": "Propranolol, Metoprolol, Albuterol, Prazosin",
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which effects are mediated by α2 adrenergic receptors?",
+        "options": "Inhibition of NE release, Vasoconstriction, Decreased insulin release, Increased lipolysis",
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What are the effects of activating β1 adrenergic receptors?",
+        "options": "Increased heart rate, Increased lipolysis, Bronchoconstriction, Increased renin release",
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which histamine receptors are involved in modulating neurotransmitter release in the brain?",
+        "options": "H1, H2, H3, H4",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which adrenergic receptors are involved in metabolic processes such as glycogenolysis and lipolysis?",
+        "options": "α1, α2, β1, β2",
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the primary purpose of pharmacovigilance?",
+        "options": [
+            "To identify new information about drug hazards",
+            "To promote safe and rational drug use",
+            "To manage risks associated with new medicines",
+            "To develop new drugs"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following adverse drug reactions should be reported?",
+        "options": [
+            "Life-threatening reactions",
+            "Mild headaches",
+            "Reactions causing disability",
+            "Non-serious rash"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the role of pharmacogenetics in drug response?",
+        "options": [
+            "It studies genetically-mediated variation in drug response",
+            "It involves the use of clinical trials to test drugs",
+            "It considers drug response at the genome level",
+            "It has no clinical implications"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which statement about drug-drug interactions (DDIs) is true?",
+        "options": [
+            "They can be useful in maximizing efficacy",
+            "They are always harmful",
+            "They can be trivial",
+            "They occur only with prescription drugs"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is a common cause of adverse drug interactions?",
+        "options": [
+            "Multiple drug therapy",
+            "Single drug therapy",
+            "Lack of genetic variations",
+            "Use of herbal supplements"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the effect of combining metoclopramide with a drug of low bioavailability?",
+        "options": [
+            "It alters the rate of drug absorption",
+            "It increases drug elimination",
+            "It decreases drug absorption",
+            "It has no effect on the drug"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which enzyme polymorphism affects the metabolism of debrisoquine?",
+        "options": [
+            "CYP450",
+            "N-acetyltransferase",
+            "Glucose-6-phosphate dehydrogenase",
+            "Pseudocholinesterase"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drugs are involved in enzyme inhibition interactions?",
+        "options": [
+            "Phenytoin and cimetidine",
+            "Warfarin and allopurinol",
+            "Azathioprine and metronidazole",
+            "Theophylline and erythromycin"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What factors can lead to drug-drug interactions?",
+        "options": [
+            "Age of the patient",
+            "Genetic polymorphisms",
+            "Number of drugs being taken",
+            "Single drug therapy"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which statement about the post-marketing surveillance of drugs is correct?",
+        "options": [
+            "It lasts for 4 years",
+            "It does not involve reporting of new drug interactions",
+            "It requires periodic safety update reports",
+            "It is only done in developing countries"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is a signal in pharmacovigilance?",
+        "options": [
+            "An alert about a drug problem",
+            "An adverse drug event",
+            "A confirmed side effect",
+            "An information report from a single source"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drugs are affected by G-6-P-D deficiency?",
+        "options": [
+            "Primaquine",
+            "Sulphones",
+            "Quinolones",
+            "Penicillin"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the significance of acetylation polymorphism in drug metabolism?",
+        "options": [
+            "It affects the metabolism of isoniazid",
+            "It is due to differences in protein binding",
+            "It results from N-acetyltransferase activity",
+            "It leads to prolonged drug action in slow acetylators"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the effect of enzyme inhibition on drug action?",
+        "options": [
+            "Increased drug concentration",
+            "Decreased drug toxicity",
+            "Enhanced drug metabolism",
+            "Reduced therapeutic effect"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which clinical condition is associated with malignant hyperthermia?",
+        "options": [
+            "Genetic predisposition",
+            "Use of halothane",
+            "Use of succinylcholine",
+            "Liver dysfunction"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What are the benefits of pharmacogenomics?",
+        "options": [
+            "Development of effective medicines",
+            "Accurate drug dosage determination",
+            "Advanced disease screening",
+            "Reduced overall healthcare cost"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Which drugs require caution due to interaction with xanthine oxidase inhibitors?",
+        "options": [
+            "6-mercaptopurine",
+            "Azathioprine",
+            "Allopurinol",
+            "Ciprofloxacin"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the role of periodic safety update reports in pharmacovigilance?",
+        "options": [
+            "Reporting new drug interactions",
+            "Ensuring drug efficacy",
+            "Identifying rare side effects",
+            "Marketing new drugs"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which factors can lead to adverse drug interactions?",
+        "options": [
+            "Genetic variations",
+            "Elderly patients",
+            "Multiple prescribers",
+            "Single drug use"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the effect of pharmacogenomic information on drug therapy?",
+        "options": [
+            "Maximizes drug efficacy",
+            "Targets drugs to responsive patients",
+            "Decreases adverse drug reactions",
+            "Increases drug side effects"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which interaction can lead to increased penicillin toxicity?",
+        "options": [
+            "Probenecid",
+            "NSAIDs",
+            "Aspirin",
+            "Antacids"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the definition of heart failure?",
+        "options": [
+            "Heart failure is the pathophysiologic state in which the heart via an abnormality of cardiac function fails to pump blood at a rate commensurate to meet the body metabolic requirements or is able to do so only with an elevated diastolic filling pressure.",
+            "Heart failure is a worldwide problem.",
+            "Heart failure is the fastest growing clinical cardiac disease in the USA.",
+            "Heart failure affects 2% of the population."
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the most common cause of heart failure in industrialized countries?",
+        "options": [
+            "Ischemic cardiomyopathy",
+            "Valvular heart disease",
+            "TB pericardial disease",
+            "Hypertension and diabetes"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is an underlying cause of heart failure?",
+        "options": [
+            "Hypertensive heart disease",
+            "Coronary artery disease",
+            "Valvular heart disease",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a precipitating cause of heart failure?",
+        "options": [
+            "Reduction in intensity of treatment or drug regimen",
+            "Uncontrolled hypertension",
+            "Arrhythmias",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which type of heart failure is characterized by decreased cardiac output?",
+        "options": [
+            "Low output heart failure",
+            "High output heart failure",
+            "Systolic heart failure",
+            "Diastolic heart failure"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the Frank-Starling mechanism?",
+        "options": [
+            "The stroke volume of the heart increases in response to an increase in the volume of blood filling the heart during diastole, assuming all other factors remain constant.",
+            "The decreased cardiac output leads to overloading and dilatation of the ventricles.",
+            "The Frank-Starling mechanism fails in heart failure as the heart muscles are overstretched due to myocardial injury.",
+            "All of the above"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a symptom of heart failure?",
+        "options": [
+            "Exertional dyspnea",
+            "Orthopnea",
+            "Fatigue and weakness",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a physical examination finding in heart failure?",
+        "options": [
+            "Tachypnea",
+            "Hypotension/low thready pulse",
+            "Pedal/Sacral/Scrotal edema",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the goal of management in heart failure?",
+        "options": [
+            "Institute general measures",
+            "Correct the underlying cause",
+            "Remove the precipitating causes",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a non-pharmacologic management strategy for heart failure?",
+        "options": [
+            "Diuretics",
+            "ACE inhibitors/ARBs",
+            "Beta blockers",
+            "None of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the mechanism of action of ACE inhibitors/ARBs in heart failure management?",
+        "options": [
+            "Neurohormonal modification",
+            "Vasodilation leading to afterload reduction",
+            "Improved left ventricular ejection fraction and survival benefit",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the role of aldosterone antagonists in heart failure management?",
+        "options": [
+            "Additive diuresis",
+            "Improved left ventricular ejection fraction",
+            "Improved survival and reduced cardiac workload",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the benefit of beta blockers in heart failure management?",
+        "options": [
+            "Neurohormonal modification",
+            "Improved left ventricular ejection fraction",
+            "Arrhythmia prevention and rate control",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the role of digoxin in heart failure management?",
+        "options": [
+            "Increased cardiac output and improved symptoms",
+            "Reduced rate of hospitalization",
+            "Not required in heart failure with normal left ventricular ejection fraction",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the purpose of anticoagulants in heart failure management?",
+        "options": [
+            "Reduced risk of thromboembolism in patients with left ventricular thrombus",
+            "Reduced risk of thromboembolic events in patients with atrial flutter/fibrillation",
+            "Routine anticoagulation in patients with normal sinus rhythm has not proven to be superior to aspirin alone",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the role of inotropic agents in heart failure management?",
+        "options": [
+            "Restore organ perfusion",
+            "Reduce congestion",
+            "Include dopamine and dobutamine",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the recommended diet for patients with heart failure?",
+        "options": [
+            "Avoid salty diet",
+            "Avoid fluid intake",
+            "Increase exercise",
+            "All of the above"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the purpose of the quote at the end of the document?",
+        "options": [
+            "To motivate healthcare professionals in their work",
+            "To provide a general overview of heart failure management",
+            "To highlight the importance of compassion in patient care",
+            "To emphasize the role of healthcare professionals in transforming lives"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is not mentioned as a type of heart failure in the document?",
+        "options": [
+            "Systolic heart failure",
+            "Diastolic heart failure",
+            "Acute heart failure",
+            "Chronic heart failure"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the role of aspirin in heart failure management?",
+        "options": [
+            "Reduced risk of thromboembolic events",
+            "Low dose recommended",
+            "Improves survival",
+            "Reduces hospitalizations"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the purpose of vasodilators in heart failure management?",
+        "options": [
+            "Add-on therapy to ACE inhibitors/ARBs and beta blockers",
+            "Improved symptoms",
+            "Improved ventricular function",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the primary function of iron in the body?",
+        "options": [
+            "A component of hemoglobin",
+            "A component of myoglobin",
+            "A cofactor for enzymes",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Where is iron primarily stored in the body?",
+        "options": [
+            "Reticuloendothelial cells",
+            "Hepatocytes",
+            "Intestinal cells",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which form of iron is more readily absorbed across the intestine?",
+        "options": [
+            "Heme iron",
+            "Inorganic iron in the ferrous state",
+            "Inorganic iron in the ferric state",
+            "Both heme iron and inorganic iron in the ferrous state"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary mechanism of iron regulation in the body?",
+        "options": [
+            "Increased excretion when iron stores are high",
+            "Increased absorption when iron stores are low",
+            "Increased storage when iron stores are high",
+            "Decreased absorption when iron stores are high"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a common adverse effect of oral iron salt supplements?",
+        "options": [
+            "Nausea",
+            "Constipation",
+            "Diarrhea",
+            "All of the above"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the most common cause of iron deficiency anemia worldwide?",
+        "options": [
+            "Gastrointestinal blood loss",
+            "Parasitic infections",
+            "Reduced dietary intake",
+            "Menstrual blood loss"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is the best single test to confirm iron deficiency anemia?",
+        "options": [
+            "Plasma ferritin",
+            "Plasma iron",
+            "TIBC",
+            "Transferrin saturation"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the typical initial oral iron supplementation regimen for iron deficiency anemia?",
+        "options": [
+            "Ferrous sulfate 200mg 8 hourly for 3-6 months",
+            "Ferrous gluconate 300mg 12 hourly for 3-6 months",
+            "Ferrous fumarate 100mg daily for 3-6 months",
+            "Polysaccharide-iron complex 50mg daily for 3-6 months"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the mechanism of action of erythropoietin (EPO) in treating anemia?",
+        "options": [
+            "Increases proliferation and differentiation of erythroid precursor cells",
+            "Increases release of reticulocytes from the bone marrow",
+            "Increases hemoglobin synthesis",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a serious adverse effect associated with EPO therapy?",
+        "options": [
+            "Hypertension",
+            "Seizures",
+            "Thromboembolism",
+            "All of the above"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the primary cause of sideroblastic anemia?",
+        "options": [
+            "Decreased hemoglobin synthesis",
+            "Intracellular accumulation of iron in erythroid precursor cells",
+            "Antagonism or depletion of pyridoxal phosphate",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "How is vitamin B12 primarily absorbed in the body?",
+        "options": [
+            "Complexed with intrinsic factor in the stomach",
+            "Actively transported in the distal ileum",
+            "Bound to transcobalamin II in the plasma",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the primary cause of pernicious anemia?",
+        "options": [
+            "Inadequate secretion of intrinsic factor",
+            "Malabsorption of vitamin B12",
+            "Dietary deficiency of vitamin B12",
+            "Dysfunction of the distal ileum"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary function of folic acid in the body?",
+        "options": [
+            "Provides single carbon groups for DNA synthesis",
+            "Essential for purine and pyrimidine biosynthesis",
+            "Required for erythroid cell maturation",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a therapeutic use of folic acid?",
+        "options": [
+            "Correcting dietary insufficiency",
+            "Supplementation during pregnancy",
+            "Reversing effects of folate antagonists",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the mechanism of action of hydroxyurea in sickle cell anemia?",
+        "options": [
+            "Increases fetal hemoglobin production",
+            "Reduces red cell sickling",
+            "Reduces adhesion molecule expression",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of megaloblastic anemia?",
+        "options": [
+            "Impaired DNA synthesis in mitotically active tissues",
+            "Appearance of large macrocytic red cells",
+            "Caused by vitamin B12 or folate deficiency",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the primary cause of iron overload in the body?",
+        "options": [
+            "Increased absorption",
+            "Decreased excretion",
+            "Parenteral iron administration",
+            "Hereditary hemochromatosis"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is a complication of severe iron overload?",
+        "options": [
+            "Liver cirrhosis",
+            "Cardiomyopathy",
+            "Endocrine dysfunction",
+            "All of the above"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the primary treatment for iron overload?",
+        "options": [
+            "Phlebotomy",
+            "Chelation therapy",
+            "Dietary restriction",
+            "Combination of phlebotomy and chelation"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a risk factor for developing iron deficiency anemia?",
+        "options": [
+            "Vegetarian diet",
+            "Pregnancy",
+            "Malabsorption disorders",
+            "All of the above"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "What is the critical step in the release of transmitter substance at the axonal terminal?",
+        "options": [
+            "Influx of calcium ions",
+            "Synthesis of transmitters",
+            "Degradation of the transmitter",
+            "Receptor binding of the transmitter"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which process initiates the docking of synaptic vesicles and the release of their content?",
+        "options": [
+            "Influx of calcium ions",
+            "Exocytosis of vesicles",
+            "Receptor activation",
+            "Degradation of the transmitter"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary neurotransmitter involved in cholinergic neurotransmission?",
+        "options": [
+            "Acetylcholine",
+            "Dopamine",
+            "Serotonin",
+            "Glutamate"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Where does the synthesis of acetylcholine primarily occur?",
+        "options": [
+            "Nerve terminal",
+            "Mitochondria",
+            "Endoplasmic reticulum",
+            "Golgi apparatus"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the rate-limiting step in acetylcholine synthesis?",
+        "options": [
+            "Transport of choline into the nerve terminal",
+            "Acetylation of choline with AcetylCoA",
+            "Synthesis of AcetylCoA",
+            "Degradation of Acetylcholine"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which enzyme is responsible for the hydrolysis of acetylcholine?",
+        "options": [
+            "Cholinesterase",
+            "Acetyltransferase",
+            "Acetyl kinase",
+            "Acetylcholinesterase"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary mechanism of termination of acetylcholine action?",
+        "options": [
+            "Hydrolysis by cholinesterase",
+            "Reuptake by the axonal terminal",
+            "Receptor desensitization",
+            "Degradation by enzymes"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which enzyme is found in the vicinity of cholinergic synapses and at the neuromuscular junction?",
+        "options": [
+            "Acetylcholinesterase",
+            "Butyrylcholinesterase",
+            "Acetyltransferase",
+            "Choline transporter"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary effect of acetylcholine on heart muscle contraction?",
+        "options": [
+            "Reduces contraction",
+            "Increases contraction",
+            "No effect",
+            "Induces relaxation"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which receptors mediate responses to acetylcholine?",
+        "options": [
+            "Muscarinic and nicotinic receptors",
+            "Adrenergic receptors",
+            "Dopaminergic receptors",
+            "Serotonergic receptors"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the structure of nicotinic acetylcholine receptors?",
+        "options": [
+            "Pentameric",
+            "Monomeric",
+            "Dimeric",
+            "Hexameric"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Where are muscarinic receptors predominantly found?",
+        "options": [
+            "G-protein coupled receptors",
+            "Adrenergic synapses",
+            "Dopaminergic synapses",
+            "Serotonergic synapses"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Digoxin primarily exerts its inotropic effect by inhibiting the activity of which enzyme?",
+        "options": [
+            "Na⁺/K⁺ ATPase",
+            "Ca²⁺ ATPase",
+            "Na⁺/Ca²⁺ exchanger",
+            "Acetylcholinesterase"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is the most common ECG finding in digoxin toxicity?",
+        "options": [
+            "Shortened PR interval",
+            "Prolonged PR interval",
+            "ST-segment elevation",
+            "QT-segment shortening"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "A patient taking digoxin presents with nausea, vomiting, and bradycardia. What is the most likely cause of these symptoms?",
+        "options": [
+            "Hypokalemia",
+            "Hyperkalemia",
+            "Hypocalcemia",
+            "Hypernatremia"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Digoxin has a narrow therapeutic window. Which of the following medications can increase digoxin levels and increase the risk of toxicity?",
+        "options": [
+            "Verapamil",
+            "Furosemide",
+            "Metformin",
+            "Aspirin"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "The digitalis effect, characterized by nausea, vomiting, and visual disturbances, is primarily due to the action of digoxin on which organ system?",
+        "options": [
+            "Gastrointestinal system",
+            "Central nervous system",
+            "Cardiovascular system",
+            "Respiratory system"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following statements is TRUE regarding the mechanism of action of digoxin?",
+        "options": [
+            "Digoxin directly increases the force of myocardial contraction",
+            "Digoxin increases intracellular calcium concentration in cardiomyocytes",
+            "Digoxin decreases heart rate by acting on the sinoatrial node",
+            "Digoxin has no effect on peripheral vascular resistance"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "A patient with atrial fibrillation is taking digoxin to control the heart rate. What is the primary mechanism by which digoxin achieves this effect?",
+        "options": [
+            "Decreased conduction velocity through the AV node",
+            "Increased automaticity of the sinoatrial node",
+            "Enhanced contractility of the ventricles",
+            "Prolonged repolarization of the ventricles"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which laboratory finding is most suggestive of digoxin toxicity?",
+        "options": [
+            "Elevated serum digoxin level",
+            "Elevated blood urea nitrogen (BUN)",
+            "Decreased white blood cell count",
+            "Prolonged prothrombin time (PT)"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "An antidote for digoxin toxicity is derived from which of the following plants?",
+        "options": [
+            "Digitalis purpurea",
+            "Atropa belladonna",
+            "Physostigma venenosum",
+            "Antibody fragments specific to digoxin"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Digoxin is most effective in treating which of the following heart failure conditions?",
+        "options": [
+            "Systolic heart failure with preserved ejection fraction (EF)",
+            "Diastolic heart failure",
+            "Systolic heart failure with reduced ejection fraction (EF)",
+            "Acute myocardial infarction"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    }
+]

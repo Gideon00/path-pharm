@@ -1,0 +1,302 @@
+    [
+    {
+        "question": "Which type of bone marrow is found in virtually all bones of infants?",
+        "options": ["Red Marrow", "Yellow Marrow", "White Marrow", "Brown Marrow", "Black Marrow"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What function does yellow marrow primarily serve?",
+        "options": ["Fat storage", "Red blood cell production", "Immune response", "Bone formation", "Calcium storage"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "The non-vascular region of bone marrow includes all of the following EXCEPT:",
+        "options": ["Hematopoietic cells", "Stromal cells", "Extracellular matrix", "Blood vessels", "Adipocytes"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following cells is NOT typically found in the stromal cell population of the hematopoietic inductive microenvironment?",
+        "options": ["Osteoblasts", "Adipocytes", "Endothelial cells", "Macrophages", "Neurons"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the main source of blood supply to the bone marrow?",
+        "options": ["Nutrient artery", "Periosteal veins", "Cortical capillaries", "Lymphatic vessels", "Subchondral arteries"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Hematopoiesis primarily occurs in which part of the bone marrow?",
+        "options": ["Non-vascular region", "Vascular region", "Endosteum", "Periosteum", "Haversian canal"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which growth factor is known to stimulate erythropoiesis?",
+        "options": ["Erythropoietin", "Granulocyte Colony-Stimulating Factor (G-CSF)", "Thrombopoietin", "Interleukin-1 (IL-1)", "Stem Cell Factor"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What process describes the movement of hematopoietic stem cells from peripheral blood to the bone marrow niches?",
+        "options": ["Homing", "Mobilization", "Translocation", "Infiltration", "Emigration"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Bone marrow aspiration is commonly used to diagnose all of the following EXCEPT:",
+        "options": ["Leukemia", "Osteoporosis", "Myelodysplastic syndromes", "Myeloproliferative diseases", "Bone marrow failure syndromes"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "The erythroblastic island within the bone marrow consists of which central cell type?",
+        "options": ["Macrophage", "Erythrocyte", "Megakaryocyte", "Lymphocyte", "Granulocyte"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following bones is NOT a major site of red marrow in adults?",
+        "options": ["Femur diaphysis", "Lower skull", "Vertebrae", "Pelvic girdle", "Sternum"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Adhesion molecules in the bone marrow are primarily involved in which function?",
+        "options": ["Mediating attachment of cells", "Nutrient transport", "Bone remodeling", "Oxygen exchange", "Hormone production"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary function of bone marrow?",
+        "options": ["Hematopoiesis", "Detoxification", "Calcium storage", "Muscle contraction", "Thermoregulation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of myeloid and lymphoid growth factors?",
+        "options": ["They act at very low concentrations", "They are produced by a single cell type", "They affect only one lineage", "They inhibit cell differentiation", "They are primarily active in the thymus"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which cytokine is involved in stimulating granulocytopoiesis?",
+        "options": ["Granulocyte Colony-Stimulating Factor (G-CSF)", "Interleukin-5 (IL-5)", "Thrombopoietin", "Stem Cell Factor", "Erythropoietin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "The process of mobilization in bone marrow transplantation involves which of the following?",
+        "options": ["Releasing HSCs from the bone marrow niche", "Directly injecting HSCs into the bone", "Homing of HSCs to the bone marrow", "Converting yellow marrow to red marrow", "Stimulating fat cell differentiation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following structures is involved in the innervation of bone marrow?",
+        "options": ["Nutrient canals", "Lymphatic vessels", "Haversian systems", "Volkmann's canals", "Synovial membranes"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "In bone marrow, the sinusoidal network is primarily part of which region?",
+        "options": ["Vascular region", "Non-vascular region", "Endosteum", "Periosteum", "Cortical region"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of stromal cell is NOT typically found in the hematopoietic inductive microenvironment?",
+        "options": ["Neuron", "Adipocyte", "Fibroblast", "Osteoblast", "Endothelial cell"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of the extracellular matrix in the bone marrow?",
+        "options": ["Providing structural support", "Producing blood cells", "Oxygen transport", "Nutrient absorption", "Hormone production"],
+        "answer": ["T", "F", "F", "F", "F"]
+    }, 
+    {
+        "question": "What is the most common cause of vitamin B12 deficiency?",
+        "options": ["Total gastrectomy", "Malabsorption", "Pernicious anemia", "Crohn's disease", "Chronic kidney disease"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug inhibits vitamin B12 absorption?",
+        "options": ["Omeprazole", "Aspirin", "Ibuprofen", "Paracetamol", "Metformin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is not a cause of folate deficiency?",
+        "options": ["Tropical sprue", "Gluten-induced enteropathy", "Chronic kidney disease", "Myelofibrosis", "Alcoholism"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which symptom is commonly associated with megaloblastic anemia?",
+        "options": ["Diarrhea", "Pallor", "Shortness of breath", "Frequent infections", "Weight loss"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary site of folate absorption in the gastrointestinal tract?",
+        "options": ["Stomach", "Duodenum", "Jejunum", "Ileum", "Colon"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a common neurological symptom of vitamin B12 deficiency?",
+        "options": ["Confusion", "Loss of appetite", "Constipation", "Numbness and tingling sensation", "Headache"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which laboratory finding is typical in megaloblastic anemia?",
+        "options": ["Macrocytosis", "Microcytosis", "Normocytic anemia", "Hypochromia", "Thrombocytosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of megaloblastic anemia?",
+        "options": ["Hypersegmented neutrophils", "Increased MCV", "Decreased MCV", "Pancytopenia", "Elevated LDH"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following vitamins is essential for DNA synthesis?",
+        "options": ["Vitamin B1", "Vitamin B6", "Vitamin B9", "Vitamin B12", "Vitamin C"],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which condition is associated with a high risk of vitamin B12 deficiency?",
+        "options": ["Crohn's disease", "Ulcerative colitis", "Celiac disease", "Lactose intolerance", "Hypothyroidism"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements is true regarding pernicious anemia?",
+        "options": ["It is an autoimmune disorder", "It is caused by vitamin C deficiency", "It leads to microcytic anemia", "It is common in young adults", "It is associated with iron overload"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the Schilling test used for?",
+        "options": ["Diagnosing folate deficiency", "Assessing iron levels", "Diagnosing vitamin B12 absorption defects", "Measuring serum calcium", "Testing for hemoglobinopathies"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a clinical feature of vitamin B12 deficiency?",
+        "options": ["Glossitis", "Angular cheilitis", "Peripheral neuropathy", "Dementia", "Hyporeflexia"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the treatment for folate deficiency?",
+        "options": ["Oral folic acid", "Vitamin B12 injections", "Iron supplements", "Calcium supplements", "Vitamin D"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following foods is high in folate?",
+        "options": ["Spinach", "Milk", "Chicken", "Fish", "Cheese"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "In megaloblastic anemia, which type of anemia is observed on blood smear?",
+        "options": ["Microcytic hypochromic anemia", "Normocytic normochromic anemia", "Macrocytic anemia", "Hemolytic anemia", "Sideroblastic anemia"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is inhibited in folate deficiency, affecting DNA synthesis?",
+        "options": ["Dihydrofolate reductase", "RNA polymerase", "Topoisomerase", "DNA ligase", "Helicase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions can result from severe vitamin B12 deficiency?",
+        "options": ["Pernicious anemia", "Hemophilia", "Sickle cell anemia", "Thalassemia", "G6PD deficiency"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the effect of prolonged use of proton pump inhibitors (PPIs) on vitamin B12 levels?",
+        "options": ["Increase B12 levels", "No effect", "Decrease B12 levels", "Increase iron absorption", "Decrease calcium absorption"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following diagnostic tools is used to evaluate bone marrow function in anemia?",
+        "options": ["Bone marrow biopsy", "MRI scan", "CT scan", "Ultrasound", "X-ray"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following diagnostic tools is used to evaluate bone marrow function in anemia?",
+        "options": ["Bone marrow biopsy", "MRI scan", "CT scan", "Ultrasound", "X-ray"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary function of hepcidin?",
+        "options": ["Enhances iron absorption", "Inhibits iron absorption", "Stimulates erythropoiesis", "Decreases serum ferritin"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is associated with normochromic or hypochromic anemia?",
+        "options": ["Iron-deficiency anemia", "Thalassemia", "Anemia of chronic disease", "Sideroblastic anemia"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which gene is associated with type 1 hereditary hemochromatosis?",
+        "options": ["HFE", "TfR2", "Ferroportin 1", "Haemojuvelin"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common symptom of hemochromatosis?",
+        "options": ["Pallor", "Hyperpigmentation", "Glossitis", "Koilonychia"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following laboratory findings is indicative of iron-deficiency anemia?",
+        "options": ["High serum ferritin", "Low serum iron", "Low total iron-binding capacity", "High serum transferrin saturation"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the treatment of choice for hereditary hemochromatosis?",
+        "options": ["Iron supplementation", "Phlebotomy", "Oral iron chelation", "Vitamin C supplementation"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a clinical feature of iron-deficiency anemia?",
+        "options": ["Pallor", "Fatigue", "Cardiac decompensation", "All of the above"],
+        "answer": ["F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the primary storage form of iron in the body?",
+        "options": ["Hemoglobin", "Myoglobin", "Ferritin", "Transferrin"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following iron compartments has the highest iron content in the body?",
+        "options": ["Hemoglobin iron", "Storage iron", "Myoglobin iron", "Transport iron"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following increases iron absorption?",
+        "options": ["Haem iron", "Ferric form", "Alkalis", "Precipitating agents"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of transferrin in iron metabolism?",
+        "options": ["Iron storage", "Iron transport", "Iron absorption", "Iron excretion"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a cause of iron overload?",
+        "options": ["Hereditary hemochromatosis", "Iron-deficiency anemia", "Vitamin C deficiency", "Copper deficiency"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which pathway is primarily responsible for the absorption of non-haem iron?",
+        "options": ["DMT1", "Transferrin", "Ferritin", "Lactoferrin"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main cause of transfusion siderosis?",
+        "options": ["Increased dietary iron", "Chronic blood transfusions", "Decreased iron absorption", "Vitamin B12 deficiency"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by microcytic and hypochromic red blood cells?",
+        "options": ["Iron-deficiency anemia", "Megaloblastic anemia", "Hemolytic anemia", "Sickle cell anemia"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following factors reduces iron absorption?",
+        "options": ["Vitamin C", "Ferrous form", "Phytates", "Amino acids"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "What is a common clinical feature of anemia of chronic disease?",
+        "options": ["Hyperchromic red cells", "High serum iron", "High serum ferritin", "Increased erythropoiesis"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of myoglobin?",
+        "options": ["Iron storage", "Oxygen reservoir", "Iron transport", "Iron excretion"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a sign of severe iron-deficiency anemia?",
+        "options": ["Increased serum ferritin", "Koilonychia", "Hyperchromic red cells", "Normal hemoglobin levels"],
+        "answer": ["F", "T", "F", "F"]
+    }
+]
