@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the primary function of the kidneys in protein metabolism?",
+        "options": [
+            "Synthesis of non-essential amino acids",
+            "Degradation of proteins into amino acids",
+            "Excretion of the end products of protein metabolism",
+            "Conversion of ammonia to urea"
+        ],
+        "answer": "Excretion of the end products of protein metabolism"
+    },
+    {
+        "question": "Which of the following is not a component of the Basic Metabolic Panel (BMP)?",
+        "options": [
+            "Sodium",
+            "Glucose",
+            "Calcium",
+            "Bilirubin"
+        ],
+        "answer": "Bilirubin"
+    },
+    {
+        "question": "What does an elevated creatinine level in the blood typically indicate?",
+        "options": [
+            "Liver dysfunction",
+            "Dehydration",
+            "Kidney dysfunction",
+            "Overhydration"
+        ],
+        "answer": "Kidney dysfunction"
+    },
+    {
+        "question": "Which substance is a waste product formed from the breakdown of proteins and usually excreted in urine?",
+        "options": [
+            "Creatinine",
+            "Urea",
+            "Bilirubin",
+            "Glucose"
+        ],
+        "answer": "Urea"
+    },
+    {
+        "question": "What does eGFR stand for and what does it measure?",
+        "options": [
+            "Estimated glomerular filtration rate, which measures kidney function",
+            "Estimated glucose filtration rate, which measures blood sugar levels",
+            "Effective glomerular filtration rate, which measures protein synthesis",
+            "Essential glomerular filtration rate, which measures electrolyte balance"
+        ],
+        "answer": "Estimated glomerular filtration rate, which measures kidney function"
+    },
+    {
+        "question": "What is the primary purpose of ordering a laboratory test for diagnosis?",
+        "options": [
+            "To monitor drug therapy",
+            "To rule in or rule out a diagnosis",
+            "To screen for congenital conditions",
+            "To conduct research"
+        ],
+        "answer": "To rule in or rule out a diagnosis"
+    },
+    {
+        "question": "Which of the following is not a sub-specialty of clinical laboratory tests?",
+        "options": [
+            "General chemistry",
+            "Clinical endocrinology",
+            "Electrophysiology",
+            "Toxicology"
+        ],
+        "answer": "Electrophysiology"
+    },
+    {
+        "question": "Which of these tests is included in a Comprehensive Metabolic Panel (CMP) but not in a Basic Metabolic Panel (BMP)?",
+        "options": [
+            "Sodium",
+            "Calcium",
+            "Albumin",
+            "Glucose"
+        ],
+        "answer": "Albumin"
+    },
+    {
+        "question": "What does the lipid profile test primarily measure?",
+        "options": [
+            "Kidney function",
+            "Liver enzymes",
+            "Blood lipid levels",
+            "Hormone levels"
+        ],
+        "answer": "Blood lipid levels"
+    },
+    {
+        "question": "Which marker is used to detect myocardial infarction in clinical chemistry tests?",
+        "options": [
+            "Troponin",
+            "Creatinine",
+            "Bilirubin",
+            "Albumin"
+        ],
+        "answer": "Troponin"
+    },
+    {
+        "question": "Which amino acid is not considered essential?",
+        "options": [
+            "Leucine",
+            "Valine",
+            "Methionine",
+            "Glutamine"
+        ],
+        "answer": "Glutamine"
+    },
+    {
+        "question": "Which organ is primarily responsible for the synthesis of plasma proteins?",
+        "options": [
+            "Kidney",
+            "Liver",
+            "Pancreas",
+            "Spleen"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "What type of protein is serum albumin classified as?",
+        "options": [
+            "Conjugated protein",
+            "Simple protein",
+            "Derived protein",
+            "Metaloprotein"
+        ],
+        "answer": "Simple protein"
+    },
+    {
+        "question": "Which immunoglobulin is known to cross the placenta and provide immunity to the fetus?",
+        "options": [
+            "IgA",
+            "IgG",
+            "IgM",
+            "IgE"
+        ],
+        "answer": "IgG"
+    },
+    {
+        "question": "Which technique is used to separate plasma proteins based on their electrical charge?",
+        "options": [
+            "Ultracentrifugation",
+            "Immunologic analysis",
+            "Electrophoresis",
+            "Enzymatic digestion"
+        ],
+        "answer": "Electrophoresis"
+    },
+    {
+        "question": "Which parameter is the most accurate indicator of kidney function?",
+        "options": [
+            "Blood urea nitrogen (BUN)",
+            "Serum creatinine",
+            "Estimated glomerular filtration rate (eGFR)",
+            "Urine protein levels"
+        ],
+        "answer": "Estimated glomerular filtration rate (eGFR)"
+    },
+    {
+        "question": "What is the most important question to consider before ordering a laboratory test?",
+        "options": [
+            "How much does the test cost?",
+            "How are the test results interpreted?",
+            "How reliable is the test?",
+            "Why is the test being ordered?"
+        ],
+        "answer": "Why is the test being ordered?"
+    },
+    {
+        "question": "Which function is not associated with plasma proteins?",
+        "options": [
+            "Oncotic pressure regulation",
+            "Enzyme activity",
+            "Immune response",
+            "DNA replication"
+        ],
+        "answer": "DNA replication"
+    }
+]
