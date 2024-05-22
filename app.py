@@ -305,5 +305,4 @@ def end():
                            totalQ=totalQ,
                            region=session["region"])
 
-if __name__ == "__main__":
-    app.run(debug=False)
+
