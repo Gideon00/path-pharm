@@ -1,182 +1,92 @@
 [
     {
         "question": "Which of the following is a function of the kidneys?",
-        "options": [
-            "Regulation of blood pressure",
-            "Excretion of waste products",
-            "Hormone production",
-            "All of the above"
-        ],
+        "options": ["Regulation of blood pressure", "Excretion of waste products", "Hormone production", "All of the above"],
         "answer": ["F", "F", "F", "T"]
     },
     {
         "question": "Which component is not included in a Basic Metabolic Panel (BMP)?",
-        "options": [
-            "Sodium",
-            "Glucose",
-            "Bilirubin",
-            "Calcium"
-        ],
+        "options": ["Sodium", "Glucose", "Bilirubin", "Calcium"],
         "answer": ["F", "F", "T", "F"]
     },
     {
         "question": "Elevated blood urea nitrogen (BUN) levels can indicate:",
-        "options": [
-            "Kidney dysfunction",
-            "Dehydration",
-            "High protein diet",
-            "All of the above"
-        ],
+        "options": ["Kidney dysfunction", "Dehydration", "High protein diet", "All of the above"],
         "answer": ["F", "F", "F", "T"]
     },
     {
         "question": "Which of the following substances is primarily excreted by the kidneys?",
-        "options": [
-            "Creatinine",
-            "Bilirubin",
-            "Hemoglobin",
-            "Ammonia"
-        ],
+        "options": ["Creatinine", "Bilirubin", "Hemoglobin", "Ammonia"],
         "answer": ["T", "F", "F", "F"]
     },
     {
         "question": "The eGFR test is used to measure:",
-        "options": [
-            "Liver function",
-            "Blood glucose levels",
-            "Kidney function",
-            "Heart function"
-        ],
+        "options": ["Liver function", "Blood glucose levels", "Kidney function", "Heart function"],
         "answer": ["F", "F", "T", "F"]
     },
     {
         "question": "The primary purpose of a laboratory test for diagnosis is to:",
-        "options": [
-            "Monitor drug therapy",
-            "Rule in or rule out a diagnosis",
-            "Screen for congenital conditions",
-            "Conduct research"
-        ],
+        "options": ["Monitor drug therapy", "Rule in or rule out a diagnosis", "Screen for congenital conditions", "Conduct research"],
         "answer": ["F", "T", "F", "F"]
     },
     {
         "question": "Clinical laboratory tests do not include:",
-        "options": [
-            "General chemistry",
-            "Clinical endocrinology",
-            "Electrophysiology",
-            "Toxicology"
-        ],
+        "options": ["General chemistry", "Clinical endocrinology", "Electrophysiology", "Toxicology"],
         "answer": ["F", "F", "T", "F"]
     },
     {
         "question": "Which test is not included in a Comprehensive Metabolic Panel (CMP)?",
-        "options": [
-            "Sodium",
-            "Calcium",
-            "Albumin",
-            "Glucose"
-        ],
+        "options": ["Sodium", "Calcium", "Albumin", "Glucose"],
         "answer": ["F", "F", "F", "F"]
     },
     {
         "question": "A lipid profile test measures:",
-        "options": [
-            "Kidney function",
-            "Liver enzymes",
-            "Blood lipid levels",
-            "Hormone levels"
-        ],
+        "options": ["Kidney function", "Liver enzymes", "Blood lipid levels", "Hormone levels"],
         "answer": ["F", "F", "T", "F"]
     },
     {
         "question": "Which marker is used to detect myocardial infarction?",
-        "options": [
-            "Troponin",
-            "Creatinine",
-            "Bilirubin",
-            "Albumin"
-        ],
+        "options": ["Troponin", "Creatinine", "Bilirubin", "Albumin"],
         "answer": ["T", "F", "F", "F"]
     },
     {
         "question": "Which amino acid is not essential?",
-        "options": [
-            "Leucine",
-            "Valine",
-            "Methionine",
-            "Glutamine"
-        ],
+        "options": ["Leucine", "Valine", "Methionine", "Glutamine"],
         "answer": ["F", "F", "F", "T"]
     },
     {
         "question": "The liver is primarily responsible for the synthesis of which type of protein?",
-        "options": [
-            "Plasma proteins",
-            "Enzymes",
-            "Hormones",
-            "Membrane proteins"
-        ],
+        "options": ["Plasma proteins", "Enzymes", "Hormones", "Membrane proteins"],
         "answer": ["T", "F", "F", "F"]
     },
     {
         "question": "Serum albumin is classified as a:",
-        "options": [
-            "Conjugated protein",
-            "Simple protein",
-            "Derived protein",
-            "Metalloprotein"
-        ],
+        "options": ["Conjugated protein", "Simple protein", "Derived protein", "Metalloprotein"],
         "answer": ["F", "T", "F", "F"]
     },
     {
         "question": "Which immunoglobulin provides immunity to the fetus?",
-        "options": [
-            "IgA",
-            "IgG",
-            "IgM",
-            "IgE"
-        ],
+        "options": ["IgA", "IgG", "IgM", "IgE"],
         "answer": ["F", "T", "F", "F"]
     },
     {
         "question": "Which technique separates plasma proteins by electrical charge?",
-        "options": [
-            "Ultracentrifugation",
-            "Immunologic analysis",
-            "Electrophoresis",
-            "Enzymatic digestion"
-        ],
+        "options": ["Ultracentrifugation", "Immunologic analysis", "Electrophoresis", "Enzymatic digestion"],
         "answer": ["F", "F", "T", "F"]
     },
     {
         "question": "The best indicator of kidney function is:",
-        "options": [
-            "Blood urea nitrogen (BUN)",
-            "Serum creatinine",
-            "Estimated glomerular filtration rate (eGFR)",
-            "Urine protein levels"
-        ],
+        "options": ["Blood urea nitrogen (BUN)", "Serum creatinine", "Estimated glomerular filtration rate (eGFR)", "Urine protein levels"],
         "answer": ["F", "F", "T", "F"]
     },
     {
         "question": "What should be considered before ordering a laboratory test?",
-        "options": [
-            "Cost of the test",
-            "Interpretation of the results",
-            "Reliability of the test",
-            "Purpose of the test"
-        ],
+        "options": ["Cost of the test", "Interpretation of the results", "Reliability of the test", "Purpose of the test"],
         "answer": ["F", "F", "F", "T"]
     },
     {
         "question": "Which function is not performed by plasma proteins?",
-        "options": [
-            "Oncotic pressure regulation",
-            "Enzyme activity",
-            "Immune response",
-            "DNA replication"
-        ],
+        "options": ["Oncotic pressure regulation", "Enzyme activity", "Immune response", "DNA replication"],
         "answer": ["F", "F", "F", "T"]
     },
     {
