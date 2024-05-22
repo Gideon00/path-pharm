@@ -178,5 +178,73 @@
             "DNA replication"
         ],
         "answer": "DNA replication"
+    },
+    {
+    "question": "Which test is used to assess residual vagal innervation after vagotomy?",
+    "options": ["Pentagastrin Secretion Test", "Schilling Test", "Lundh Test Meal", "Tubation Method", "Hydrogen Breath Test"],
+    "answer": "Pentagastrin Secretion Test"
+    },
+    {
+    "question": "Which plasma protein is known for its antioxidant properties?",
+    "options": ["Fibrinogen", "Albumin", "Renin", "Immunoglobulin", "Transferrin"],
+    "answer": "Albumin"
+    },
+    {
+        "question": "Which of the following tests is used to diagnose Vitamin B12 malabsorption?",
+        "options": [
+            "Schilling test",
+            "D-xylose test",
+            "Glucose tolerance test",
+            "Lactose intolerance test",
+            "Hydrogen breath test"
+        ],
+        "answer": "Schilling test"
+    },
+    {
+        "question": "What is a common characteristic of malabsorption syndromes?",
+        "options": [
+            "Increased plasma amylase",
+            "Low urinary excretion of PABA",
+            "High levels of serum cholesterol",
+            "Suboptimal absorption of fats and vitamins",
+            "Increased serum bilirubin"
+        ],
+        "answer": "Suboptimal absorption of fats and vitamins"
+    },
+    {
+        "question": "Which of the following is a feature of the acute phase protein response?",
+        "options": [
+            "Decrease in albumin levels",
+            "Increase in alpha-1 antitrypsin",
+            "Decrease in immunoglobulins",
+            "Increase in histone proteins",
+            "Decrease in alpha-2 macroglobulin"
+        ],
+        "answer": "Increase in alpha-1 antitrypsin"
+    },
+    {
+        "question": "What is the primary method of measuring pancreatic function indirectly?",
+        "options": [
+            "Tubation test",
+            "PABA test",
+            "Schilling test",
+            "Electrophoresis",
+            "D-xylose test"
+        ],
+        "answer": "PABA test"
+    },
+    {
+        "question": "Which of the following proteins is involved in buffering?",
+        "options": [
+            "Albumin",
+            "Immunoglobulins",
+            "Clotting factors",
+            "Enzymes",
+            "Carrier proteins"
+        ],
+        "answer": "All of the above"
     }
 ]
+
+
+
