@@ -1,0 +1,242 @@
+[
+    {
+        "question": "Which of the following is a function of the kidneys?",
+        "options": [
+            "Regulation of blood pressure",
+            "Excretion of waste products",
+            "Hormone production",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "T"]
+    },
+    {
+        "question": "Which component is not included in a Basic Metabolic Panel (BMP)?",
+        "options": [
+            "Sodium",
+            "Glucose",
+            "Bilirubin",
+            "Calcium"
+        ],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Elevated blood urea nitrogen (BUN) levels can indicate:",
+        "options": [
+            "Kidney dysfunction",
+            "Dehydration",
+            "High protein diet",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following substances is primarily excreted by the kidneys?",
+        "options": [
+            "Creatinine",
+            "Bilirubin",
+            "Hemoglobin",
+            "Ammonia"
+        ],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "The eGFR test is used to measure:",
+        "options": [
+            "Liver function",
+            "Blood glucose levels",
+            "Kidney function",
+            "Heart function"
+        ],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "The primary purpose of a laboratory test for diagnosis is to:",
+        "options": [
+            "Monitor drug therapy",
+            "Rule in or rule out a diagnosis",
+            "Screen for congenital conditions",
+            "Conduct research"
+        ],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Clinical laboratory tests do not include:",
+        "options": [
+            "General chemistry",
+            "Clinical endocrinology",
+            "Electrophysiology",
+            "Toxicology"
+        ],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which test is not included in a Comprehensive Metabolic Panel (CMP)?",
+        "options": [
+            "Sodium",
+            "Calcium",
+            "Albumin",
+            "Glucose"
+        ],
+        "answer": ["F", "F", "F", "F"]
+    },
+    {
+        "question": "A lipid profile test measures:",
+        "options": [
+            "Kidney function",
+            "Liver enzymes",
+            "Blood lipid levels",
+            "Hormone levels"
+        ],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which marker is used to detect myocardial infarction?",
+        "options": [
+            "Troponin",
+            "Creatinine",
+            "Bilirubin",
+            "Albumin"
+        ],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which amino acid is not essential?",
+        "options": [
+            "Leucine",
+            "Valine",
+            "Methionine",
+            "Glutamine"
+        ],
+        "answer": ["F", "F", "F", "T"]
+    },
+    {
+        "question": "The liver is primarily responsible for the synthesis of which type of protein?",
+        "options": [
+            "Plasma proteins",
+            "Enzymes",
+            "Hormones",
+            "Membrane proteins"
+        ],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Serum albumin is classified as a:",
+        "options": [
+            "Conjugated protein",
+            "Simple protein",
+            "Derived protein",
+            "Metalloprotein"
+        ],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which immunoglobulin provides immunity to the fetus?",
+        "options": [
+            "IgA",
+            "IgG",
+            "IgM",
+            "IgE"
+        ],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which technique separates plasma proteins by electrical charge?",
+        "options": [
+            "Ultracentrifugation",
+            "Immunologic analysis",
+            "Electrophoresis",
+            "Enzymatic digestion"
+        ],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "The best indicator of kidney function is:",
+        "options": [
+            "Blood urea nitrogen (BUN)",
+            "Serum creatinine",
+            "Estimated glomerular filtration rate (eGFR)",
+            "Urine protein levels"
+        ],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "What should be considered before ordering a laboratory test?",
+        "options": [
+            "Cost of the test",
+            "Interpretation of the results",
+            "Reliability of the test",
+            "Purpose of the test"
+        ],
+        "answer": ["F", "F", "F", "T"]
+    },
+    {
+        "question": "Which function is not performed by plasma proteins?",
+        "options": [
+            "Oncotic pressure regulation",
+            "Enzyme activity",
+            "Immune response",
+            "DNA replication"
+        ],
+        "answer": ["F", "F", "F", "T"]
+    },
+    {
+        "question": "Essential amino acids cannot be synthesized by the body and must be supplied through food. Which of the following is an essential amino acid?",
+        "options": ["Leucine", "Glycine", "Alanine", "Proline", "Tyrosine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements is true regarding plasma proteins compared to tissue proteins?",
+        "options": ["Plasma proteins have a higher carbohydrate content.", "Plasma proteins have less -S-S- bonds than intra-cellular proteins.", "Tissue proteins are more soluble than plasma proteins.", "Tissue proteins are typically glycoproteins.", "Plasma proteins are less prone to denaturation."],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary site for the catabolism of proteins in the body?",
+        "options": ["Kidney", "Liver", "Intestine", "Stomach", "Pancreas"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which method is NOT used for assessing plasma protein concentration?",
+        "options": ["Ultracentrifugation", "Immunologic analysis", "X-ray diffraction", "Electrophoresis", "Spectrophotometry"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which immunoglobulin is responsible for protection of mucosal surfaces?",
+        "options": ["IgG", "IgA", "IgM", "IgE", "IgD"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following plasma proteins is involved in blood clotting?",
+        "options": ["Albumin", "Fibrinogen", "Immunoglobulin", "Transferrin", "Ceruloplasmin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is characterized by hyposecretion of gastric juice?",
+        "options": ["Peptic ulcer disease", "Zollinger-Ellison syndrome", "Pernicious anemia", "Chronic gastritis", "Crohn's disease"],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "In the Pentagastrin Secretion Test, what is the normal basal acid output for males?",
+        "options": ["0-5 mmol/hr", "0-10.5 mmol/hr", "5-15 mmol/hr", "15-20 mmol/hr", "20-25 mmol/hr"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is more specific for the pancreas and can be useful to measure if the source of a raised plasma amylase is not obvious?",
+        "options": ["Trypsin", "Elastase", "Chymotrypsin", "Amylase", "Lipase"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is indicated by a low urinary excretion of p-aminobenzoic acid (PABA) in the PABA test for chymotrypsin?",
+        "options": ["Normal pancreatic function", "Chronic pancreatitis", "Renal dysfunction", "Liver disease", "Malabsorption"],
+        "answer": ["F", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which condition is not a cause of low vitamin B12 absorption indicated by the Schilling test?",
+        "options": ["Lack of intrinsic factor", "Small bowel bacterial overgrowth", "Gastrectomy", "Cystic fibrosis", "Pancreatic enzyme deficiency"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What diagnostic approach is used to identify lactose intolerance?",
+        "options": ["Pentagastrin Secretion Test", "Schilling Test", "Hydrogen Breath Test", "Lundh Test Meal", "Tubation Method"],
+        "answer": ["F", "F", "T", "F", "F"]
+    }
+]
