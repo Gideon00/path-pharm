@@ -96,7 +96,7 @@ def index():
 
         else:
             # Load the question bank from the JSON file
-            with open(f"bank/{session["region"]}.json") as f:
+            with open(f"bank/{session['region']}.json") as f:
                 question_bank = json.load(f)
             if start not in range(len(question_bank)):
                 return apology("Start number out of range", 403)
