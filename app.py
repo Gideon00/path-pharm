@@ -23,19 +23,19 @@ REGIONS = [
 ]
 MCQ_REGIONS = [
     "First Posting PHARMACOLOGY",
-    "First Posting ANATOMICAL PATHOLOGY",
+    "First Posting ANATOMICAL",
     "First Posting HEMATOLOGY",
-    "First Posting CHEMICAL PATHOLOGY",
+    "First Posting CHEMICAL",
     "First Posting MICROBIOLOGY",
     "Second Posting PHARMACOLOGY",
-    "Second Posting ANATOMICAL PATHOLOGY",
+    "Second Posting ANATOMICAL",
     "Second Posting HEMATOLOGY",
-    "Second Posting CHEMICAL PATHOLOGY",
+    "Second Posting CHEMICAL",
     "Second Posting MICROBIOLOGY",
     "Third Posting PHARMACOLOGY",
-    "Third Posting ANATOMICAL PATHOLOGY",
+    "Third Posting ANATOMICAL",
     "Third Posting HEMATOLOGY",
-    "Third Posting CHEMICAL PATHOLOGY",
+    "Third Posting CHEMICAL",
     "Third Posting MICROBIOLOGY",
 ]
 
