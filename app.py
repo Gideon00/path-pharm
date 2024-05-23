@@ -86,7 +86,7 @@ def index():
             posting, _, subject = session["region"].lower().split(" ")
             # TODO populate second posting at least
             if posting != "first":
-                return apology("Sorry Only first posting available", 400)  #Acept only first posting for now
+                return apology("Sorry Only first posting available yet", 400)  #Acept only first posting for now
             with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
                 question_bank = json.load(f)
 
