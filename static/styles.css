@@ -180,4 +180,34 @@ body{
         width: 100%; /* Full width for each column */
         max-width: 500px; /* Max width to keep it manageable */
     }
+/*     new line for to set options on mobile */
+    ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.question-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.question-item label {
+    margin: 0;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+}
+
+.radio-group label {
+    margin-left: 10px;
+}
+
+.radio-group input {
+    margin-left: 5px;
+}
+
 }
