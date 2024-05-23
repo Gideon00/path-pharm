@@ -79,6 +79,7 @@ def index():
         session["score"] = 0
         session["fails"] = []
         session["answers"] = []
+        session["start"] = start - 1
         session["current_question_index"] = start - 1
         if request.form.get("region") in MCQ_REGIONS:
             # Load the question bank from the JSON file
@@ -188,7 +189,7 @@ def previous_question():
     return render_template("quiz.html", 
                            questions=question_bank[session["current_question_index"]], 
                            disable_next=False, 
-                           disable_previous=session["current_question_index"] == 0, 
+                           disable_previous=session["current_question_index"] == session["start"], 
                            current_question_index=session["current_question_index"], 
                            current_num=session["current_num"], 
                            score=session["score"], 
@@ -209,7 +210,7 @@ def previous_mcq_question():
     return render_template("mcquiz.html", 
                            questions=question_bank[session["current_question_index"]], 
                            disable_next=False, 
-                           disable_previous=session["current_question_index"] == 0, 
+                           disable_previous=session["current_question_index"] == session["start"], 
                            current_question_index=session["current_question_index"],
                            score=session["score"], 
                            region=session["region"])
