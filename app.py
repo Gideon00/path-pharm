@@ -95,7 +95,7 @@ def index():
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
             if subject in triads:
-                session["region"] = f"{session["region"]} PATHOLOGY"
+                session["region"] = f"{session['region']} PATHOLOGY"
             return render_template("mcquiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
