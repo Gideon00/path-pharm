@@ -82,8 +82,6 @@ def index():
         session["start"] = start - 1
         session["current_question_index"] = start - 1
         disable_next = False if start == len(question_bank) else True
-        if not (1 <= start <= len(question_bank)):
-                return apology("Start number out of range", 403)
         if request.form.get("region") in MCQ_REGIONS:
             # Load the question bank from the JSON file
             posting, _, subject = session["region"].lower().split(" ")
@@ -92,15 +90,18 @@ def index():
                 return apology("Sorry Only first posting available", 400)  #Acept only first posting for now
             with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
                 question_bank = json.load(f)
+
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
+
             if subject in triads:
-                session["region"] = f"{session['region']} PATHOLOGY"
+                session['region'] = f"{session['region']} PATHOLOGY"
+
             return render_template("mcquiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
                                    score=session["score"],
-                                   disable_next=disable_next, 
+                                   disable_next=disable_next,
                                    disable_previous=True, 
                                    region=session["region"].title())
 
@@ -110,6 +111,7 @@ def index():
                 question_bank = json.load(f)
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
+            
             return render_template("quiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    disable_next=disable_next,
@@ -120,7 +122,6 @@ def index():
    
     question_bank.clear()
     return render_template("index.html", regions=REGIONS, mcq_regions=MCQ_REGIONS)
-
     
 @app.route("/next", methods=["POST"])
 def next_question():
