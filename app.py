@@ -91,14 +91,14 @@ def index():
             if start not in range(len(question_bank)):
                 return apology("Start number out of range", 403)
             if subject in triads:
-                session["region"] = f"{session["region"]} PATHOLOGY".title()
+                session["region"] = f"{session["region"]} PATHOLOGY"
             return render_template("mcquiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
                                    score=session["score"],
                                    disable_next=False, 
                                    disable_previous=True, 
-                                   region=session["region"])
+                                   region=session["region"].title())
 
         else:
             # Load the question bank from the JSON file
