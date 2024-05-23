@@ -97,7 +97,6 @@ def index():
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
                                    score=session["score"],
-                                   disabled_end=True,
                                    disable_next=False, 
                                    disable_previous=True, 
                                    region=session["region"].title())
@@ -111,7 +110,6 @@ def index():
             return render_template("quiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    disable_next=False,
-                                   disabled_end=True,
                                    disable_previous=True, 
                                    current_question_index=session["current_question_index"], 
                                    current_num=session["current_num"], score=session["score"], 
@@ -143,7 +141,6 @@ def next_question():
     return render_template("quiz.html", questions=question_bank[session["current_question_index"]], 
                            disable_next=session["current_question_index"] == len(question_bank) - 1, 
                            disable_previous=False,
-                           disabled_end=True,
                            current_question_index=session["current_question_index"], 
                            current_num=session["current_num"], score=session["score"], region=session["region"])
 
@@ -178,7 +175,6 @@ def next_mcq_question():
                            current_question_index=session["current_question_index"],
                            score=session["score"], 
                            region=session["region"],
-                           disabled_end=True,
                            disable_previous=False, 
                            disable_next=session["current_question_index"] == len(question_bank) - 1)
 
@@ -193,7 +189,6 @@ def previous_question():
     session["current_num"] = session["current_num"] - 5
     return render_template("quiz.html", 
                            questions=question_bank[session["current_question_index"]], 
-                           disabled_end=True,
                            disable_next=False, 
                            disable_previous=session["current_question_index"] == session["start"], 
                            current_question_index=session["current_question_index"], 
@@ -216,7 +211,6 @@ def previous_mcq_question():
     return render_template("mcquiz.html", 
                            questions=question_bank[session["current_question_index"]], 
                            disable_next=False,
-                           disabled_end=True,
                            disable_previous=session["current_question_index"] == session["start"], 
                            current_question_index=session["current_question_index"],
                            score=session["score"], 
