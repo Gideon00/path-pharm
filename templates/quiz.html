@@ -38,7 +38,7 @@
             
             <form action="{{ url_for('end') }}" method="post">
                 <input id="end_answer" name="endquiz" value="student.answer" type="hidden">
-                <input class="end" type="submit" value="End" {% if disable_previous %} id="disabled" disabled
+                <input class="end" type="submit" value="End" {% if disable_end %} id="disabled" disabled
                 {% endif %}>
             </form>
             
