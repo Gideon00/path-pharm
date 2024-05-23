@@ -43,5 +43,115 @@
         "question": "Who discovered the penicillin from Penicillium notatum that destroys several pathogenic bacteria?",
         "options": ["Louis Pasteur", "Alexander Fleming", "Paul Ehrlich", "Edward Jenner", "Robert Koch"],
         "answer": "Alexander Fleming"
+    },
+    {
+        "question": "Which of the following is the main feature of adaptive immunity?",
+        "options": [
+            "Immediate response",
+            "Non-specific response",
+            "Memory cell production",
+            "Physical barrier formation",
+            "Antimicrobial peptide production"
+        ],
+        "answer": "Memory cell production"
+    },
+    {
+        "question": "What is the principal function of the immune system?",
+        "options": [
+            "To protect the host against invasion",
+            "To maintain homeostasis",
+            "To produce antibodies",
+            "To prevent autoimmune diseases",
+            "To regulate body temperature"
+        ],
+        "answer": "To protect the host against invasion"
+    },
+    {
+        "question": "Which immune response is involved in autoimmunity?",
+        "options": [
+            "Innate immune response",
+            "Adaptive immune response",
+            "Non-specific immune response",
+            "Physical barrier response",
+            "Chemical barrier response"
+        ],
+        "answer": "Adaptive immune response"
+    },
+    {
+        "question": "What is the function of IgA?",
+        "options": [
+            "Protection of tissue spaces and bloodstream",
+            "Protection of body mucosal surfaces",
+            "Binding complement",
+            "Crossing the placenta",
+            "Forming pentamers"
+        ],
+        "answer": "Protection of body mucosal surfaces"
+    },
+    {
+        "question": "What is the role of epithelial cells in the innate immune system?",
+        "options": [
+            "Producing antibodies",
+            "Forming tight junctions",
+            "Producing mucus",
+            "Acting as antigen-presenting cells",
+            "Activating adaptive immunity"
+        ],
+        "answer": "Forming tight junctions"
+    },
+    {
+        "question": "Which cells are involved in cell-mediated immunity?",
+        "options": [
+            "Helper T lymphocytes",
+            "B lymphocytes",
+            "Macrophages",
+            "Neutrophils",
+            "NK cells"
+        ],
+        "answer": "Helper T lymphocytes"
+    },
+    {
+        "question": "Which component of the immune system can react immediately against pathogens?",
+        "options": [
+            "Innate immune system",
+            "Adaptive immune system",
+            "Humoral immune system",
+            "Cell-mediated immune system",
+            "Acquired immune system"
+        ],
+        "answer": "Innate immune system"
+    },
+    {
+        "question": "Which immune response involves the production of 'memory' cells?",
+        "options": [
+            "Innate immune response",
+            "Adaptive immune response",
+            "Immediate immune response",
+            "Non-specific immune response",
+            "Physical barrier response"
+        ],
+        "answer": "Adaptive immune response"
+    },
+    {
+        "question": "Which of the following is NOT part of the innate immune system's activities?",
+        "options": [
+            "Pathogen blocking",
+            "Pathogen uptake by phagocytosis",
+            "Pathogen killing via cytotoxic mediators",
+            "Increased recruitment of immune cells",
+            "Memory cell production"
+        ],
+        "answer": "Memory cell production"
+    },
+    {
+        "question": "Which of the following is a characteristic of the adaptive immune system?",
+        "options": [
+            "Rapid response",
+            "Non-specific response",
+            "Memory cell production",
+            "Barrier formation",
+            "Production of mucus"
+        ],
+        "answer": "Memory cell production"
     }
 ]
