@@ -81,6 +81,9 @@ def index():
         session["answers"] = []
         session["start"] = start - 1
         session["current_question_index"] = start - 1
+        disable_next = False if start == len(question_bank) else True
+        if not (1 <= start <= len(question_bank)):
+                return apology("Start number out of range", 403)
         if request.form.get("region") in MCQ_REGIONS:
             # Load the question bank from the JSON file
             posting, _, subject = session["region"].lower().split(" ")
@@ -89,7 +92,7 @@ def index():
                 return apology("Sorry Only first posting available", 400)  #Acept only first posting for now
             with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
                 question_bank = json.load(f)
-            if start not in range(len(question_bank)):
+            if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
             if subject in triads:
                 session["region"] = f"{session["region"]} PATHOLOGY"
@@ -97,7 +100,7 @@ def index():
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
                                    score=session["score"],
-                                   disable_next=False, 
+                                   disable_next=disable_next, 
                                    disable_previous=True, 
                                    region=session["region"].title())
 
@@ -105,11 +108,11 @@ def index():
             # Load the question bank from the JSON file
             with open(f"bank/{session['region']}.json") as f:
                 question_bank = json.load(f)
-            if start not in range(len(question_bank)):
+            if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
             return render_template("quiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
-                                   disable_next=False,
+                                   disable_next=disable_next,
                                    disable_previous=True, 
                                    current_question_index=session["current_question_index"], 
                                    current_num=session["current_num"], score=session["score"], 
