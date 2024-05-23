@@ -38,6 +38,10 @@ MCQ_REGIONS = [
     "Third Posting CHEMICAL",
     "Third Posting MICROBIOLOGY",
 ]
+triads = [
+    "chemical",
+    "anatomical",
+]
 
 question_bank = []
 
@@ -86,6 +90,8 @@ def index():
                 question_bank = json.load(f)
             if start not in range(len(question_bank)):
                 return apology("Start number out of range", 403)
+            if subject in triads:
+                session["region"] = f"{session["region"]} PATHOLOGY".titlecase()
             return render_template("mcquiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
