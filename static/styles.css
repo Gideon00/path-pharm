@@ -170,32 +170,53 @@ body{
         flex-direction: column; /* Stacks the columns vertically */
         align-items: center; /* Centers the columns */
     }
+    
+/* Default (Desktop) styles */
 .question-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-bottom: 10px;
 }
 
 .question-item label {
     margin: 0;
+    float: left;
 }
 
 .radio-group {
-    display: flex;
-    align-items: center;
+    float: right;
 }
 
 .radio-group label {
+    float: right;
     margin-left: 10px;
 }
 
 .radio-group input {
+    float: right;
     margin-left: 5px;
 }
 
-    .questColumn {
-        width: 100%; /* Full width for each column */
-        max-width: 500px; /* Max width to keep it manageable */
+/* Mobile styles */
+@media (max-width: 576px) {
+    .question-item {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .radio-group {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .radio-group label {
+        margin: 0;
+        float: none;
+    }
+
+    .radio-group input {
+        margin-left: 5px;
+        float: none;
     }
 }
