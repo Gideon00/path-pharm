@@ -1,0 +1,1739 @@
+[
+    {
+        "question": "Which of the following is not a factor to consider when selecting antimicrobial therapy?",
+        "options": [
+            "Identification of pathogen",
+            "Selection of presumptive therapy",
+            "Host factors",
+            "Color of the drug",
+            "Monitor therapeutic response"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the minimum inhibitory concentration (MIC)?",
+        "options": [
+            "The highest concentration of drug that prevents visible bacterial growth",
+            "The lowest concentration of drug that prevents visible bacterial growth",
+            "The concentration of drug that kills 50% of bacteria",
+            "The concentration of drug that inhibits 90% of bacteria",
+            "The optimal concentration of drug for human use"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Empiric antimicrobial therapy is used when:",
+        "options": [
+            "The infecting organism is identified",
+            "The infecting organism is not yet identified",
+            "Specific therapy is chosen",
+            "To prevent initial infection",
+            "To target fungal infections"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs are active against anaerobic gram-negative bacilli?",
+        "options": [
+            "Chloramphenicol",
+            "Clindamycin",
+            "Metronidazole",
+            "Penicillin",
+            "Vancomycin"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of fungi?",
+        "options": [
+            "Prokaryotic",
+            "Heterotrophic",
+            "Autotrophic",
+            "Lacks a nucleus",
+            "Cell wall composed of peptidoglycan"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What type of infections are caused by Bacteroides spp.?",
+        "options": [
+            "Superficial infections",
+            "Deep tissue infections",
+            "Systemic fungal infections",
+            "Viral infections",
+            "None of the above"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antimicrobial agent is known for its activity against anaerobes?",
+        "options": [
+            "Amoxicillin",
+            "Metronidazole",
+            "Ciprofloxacin",
+            "Azithromycin",
+            "Tetracycline"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What type of infections do Cephalosporins generally target?",
+        "options": [
+            "Gram-positive bacteria",
+            "Gram-negative bacteria",
+            "Viral infections",
+            "Fungal infections",
+            "Protozoal infections"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which generation of Cephalosporins has good antipseudomonal and antistaphylococcal coverage?",
+        "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth",
+            "Fifth"
+        ],
+        "answer": ["F", "F", "F", "T", "T"]
+    },
+    {
+        "question": "Which antibiotics are known to inhibit protein synthesis?",
+        "options": [
+            "Tetracyclines",
+            "Aminoglycosides",
+            "Macrolides",
+            "Beta-lactams",
+            "Fluoroquinolones"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the post-antibiotic effect (PAE)?",
+        "options": [
+            "Immediate regrowth of bacteria after antibiotic exposure",
+            "Delayed regrowth of bacteria following antibiotic exposure",
+            "Complete eradication of bacteria after antibiotic exposure",
+            "No effect on bacterial growth after antibiotic exposure",
+            "Growth stimulation of bacteria after antibiotic exposure"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Aminoglycosides are most active against which type of bacteria?",
+        "options": [
+            "Aerobic gram-negative bacteria",
+            "Anaerobic bacteria",
+            "Gram-positive bacteria",
+            "Fungi",
+            "Viruses"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic inhibits bacterial DNA gyrase?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic binds to the 50s subunit of bacterial ribosomes?",
+        "options": [
+            "Tetracycline",
+            "Gentamicin",
+            "Erythromycin",
+            "Vancomycin",
+            "Metronidazole"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Sulfonamides inhibit bacterial growth by:",
+        "options": [
+            "Inhibiting cell wall synthesis",
+            "Inhibiting protein synthesis",
+            "Inhibiting folic acid synthesis",
+            "Disrupting cell membrane",
+            "Inhibiting DNA gyrase"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is effective against mycobacteria?",
+        "options": [
+            "Vancomycin",
+            "Rifampicin",
+            "Ciprofloxacin",
+            "Amoxicillin",
+            "Clindamycin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action for tetracyclines?",
+        "options": [
+            "Inhibit cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Disrupt cell membrane integrity",
+            "Inhibit RNA polymerase"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of beta-lactam antibiotics?",
+        "options": [
+            "Inhibit cell wall synthesis",
+            "Bind to bacterial ribosomes",
+            "Inhibit DNA synthesis",
+            "Bind to bacterial RNA polymerase",
+            "Disrupt cell membrane"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is used for its activity against methicillin-resistant Staphylococcus aureus (MRSA)?",
+        "options": [
+            "Vancomycin",
+            "Penicillin",
+            "Amoxicillin",
+            "Ciprofloxacin",
+            "Clindamycin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics has a broad spectrum of activity against both gram-positive and gram-negative bacteria?",
+        "options": [
+            "Vancomycin",
+            "Metronidazole",
+            "Tetracycline",
+            "Clindamycin",
+            "Rifampicin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Fluoroquinolones primarily target which bacterial enzyme?",
+        "options": [
+            "DNA gyrase",
+            "RNA polymerase",
+            "Peptidoglycan synthetase",
+            "Beta-lactamase",
+            "Transpeptidase"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known for its effectiveness against Clostridium difficile?",
+        "options": [
+            "Amoxicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of action of macrolides?",
+        "options": [
+            "Inhibit cell wall synthesis",
+            "Bind to bacterial ribosomes",
+            "Disrupt cell membrane",
+            "Inhibit DNA synthesis",
+            "Inhibit folic acid synthesis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the pharmacokinetics of a drug?",
+        "options": [
+            "Mechanism of drug action",
+            "Absorption, distribution, metabolism, and elimination of a drug",
+            "Effects of drugs on the body",
+            "Interaction between drugs",
+            "Allergic reactions to drugs"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Penicillinase is an enzyme that:",
+        "options": [
+            "Synthesizes penicillin",
+            "Inhibits penicillin binding proteins",
+            "Destroys penicillin",
+            "Promotes penicillin absorption",
+            "Inhibits bacterial cell wall synthesis"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which type of drug interaction occurs when one drug increases the metabolism of another drug?",
+        "options": [
+            "Synergism",
+            "Antagonism",
+            "Potentiation",
+            "Induction",
+            "Inhibition"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the most common adverse effect of aminoglycosides?",
+        "options": [
+            "Hepatotoxicity",
+            "Ototoxicity",
+            "Neurotoxicity",
+            "Cardiotoxicity",
+            "Nephrotoxicity"
+        ],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is a beta-lactamase inhibitor?",
+        "options": [
+            "Ceftriaxone",
+            "Ciprofloxacin",
+            "Clavulanic acid",
+            "Vancomycin",
+            "Azithromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of prophylactic antimicrobial therapy?",
+        "options": [
+            "Treat existing infections",
+            "Prevent potential infections",
+            "Treat chronic infections",
+            "Target viral infections",
+            "Inhibit fungal growth"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a side effect of tetracyclines?",
+        "options": [
+            "Photosensitivity",
+            "Nephrotoxicity",
+            "Ototoxicity",
+            "Hepatotoxicity",
+            "Neurotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following bacteria are known for their resistance to beta-lactam antibiotics due to the production of beta-lactamase?",
+        "options": [
+            "Staphylococcus aureus",
+            "Streptococcus pneumoniae",
+            "Escherichia coli",
+            "Pseudomonas aeruginosa",
+            "Clostridium difficile"
+        ],
+        "answer": ["T", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which class of antibiotics inhibits cell wall synthesis by binding to penicillin-binding proteins?",
+        "options": [
+            "Aminoglycosides",
+            "Fluoroquinolones",
+            "Macrolides",
+            "Beta-lactams",
+            "Tetracyclines"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Vancomycin is primarily used to treat infections caused by:",
+        "options": [
+            "Gram-negative bacteria",
+            "Gram-positive bacteria",
+            "Viruses",
+            "Fungi",
+            "Protozoa"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is bacteriostatic?",
+        "options": [
+            "Penicillin",
+            "Gentamicin",
+            "Erythromycin",
+            "Ciprofloxacin",
+            "Vancomycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a mechanism of antibiotic resistance?",
+        "options": [
+            "Increased drug efflux",
+            "Enzymatic degradation of the drug",
+            "Alteration of drug target sites",
+            "Decreased drug permeability",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following describes the selective toxicity of antibiotics?",
+        "options": [
+            "Targets both host and pathogen cells",
+            "Targets only host cells",
+            "Targets only pathogen cells",
+            "Targets neither host nor pathogen cells",
+            "Targets immune cells"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of a broad-spectrum antibiotic?",
+        "options": [
+            "Effective against a wide range of bacteria",
+            "Targets a specific type of bacteria",
+            "Inhibits viral replication",
+            "Used for fungal infections",
+            "Narrow therapeutic index"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mode of action of fluoroquinolones?",
+        "options": [
+            "Inhibit cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Inhibit RNA synthesis",
+            "Disrupt cell membrane"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about bactericidal antibiotics?",
+        "options": [
+            "They inhibit bacterial growth without killing",
+            "They kill bacteria directly",
+            "They enhance bacterial growth",
+            "They neutralize bacterial toxins",
+            "They are ineffective against viruses"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known to cause 'Red Man Syndrome'?",
+        "options": [
+            "Penicillin",
+            "Erythromycin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Amoxicillin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of metronidazole?",
+        "options": [
+            "Treating viral infections",
+            "Treating fungal infections",
+            "Treating anaerobic bacterial infections",
+            "Treating aerobic bacterial infections",
+            "Treating parasitic infections"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Beta-lactam antibiotics target which bacterial structure?",
+        "options": [
+            "Ribosomes",
+            "Cell wall",
+            "DNA",
+            "RNA",
+            "Cell membrane"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is an example of an antiviral drug?",
+        "options": [
+            "Acyclovir",
+            "Amoxicillin",
+            "Tetracycline",
+            "Ibuprofen"
+        ],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a side effect associated with aminoglycosides?",
+        "options": [
+            "Ototoxicity",
+            "Hepatotoxicity",
+            "Photosensitivity",
+            "Cardiotoxicity",
+            "Neurotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antifungal agents works by binding to ergosterol in fungal cell membranes?",
+        "options": [
+            "Fluconazole",
+            "Itraconazole",
+            "Amphotericin B",
+            "Ketoconazole",
+            "Griseofulvin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a nucleotide analog used to treat viral infections?",
+        "options": [
+            "Acyclovir",
+            "Ribavirin",
+            "Zidovudine",
+            "Oseltamivir",
+            "Lamivudine"
+        ],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following antifungal agents inhibits the synthesis of ergosterol?",
+        "options": [
+            "Griseofulvin",
+            "Terbinafine",
+            "Fluconazole",
+            "Amphotericin B",
+            "Nystatin"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common side effect of fluoroquinolones?",
+        "options": [
+            "Hepatotoxicity",
+            "Ototoxicity",
+            "Photosensitivity",
+            "Nephrotoxicity",
+            "Tendonitis"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following statements about vancomycin is true?",
+        "options": [
+            "It is effective against gram-negative bacteria",
+            "It is orally absorbed",
+            "It can cause nephrotoxicity",
+            "It binds to the 30S ribosomal subunit",
+            "It is primarily used to treat MRSA"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is not an aminoglycoside?",
+        "options": [
+            "Gentamicin",
+            "Streptomycin",
+            "Tobramycin",
+            "Amikacin",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antibiotics inhibits bacterial cell wall synthesis?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a beta-lactamase inhibitor?",
+        "options": [
+            "Clavulanic acid",
+            "Sulbactam",
+            "Tazobactam",
+            "Amoxicillin",
+            "Piperacillin"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is a macrolide?",
+        "options": [
+            "Penicillin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Vancomycin",
+            "Gentamicin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the mechanism of action of sulfonamides?",
+        "options": [
+            "Inhibit bacterial cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Inhibit folic acid synthesis",
+            "Disrupt bacterial cell membranes"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following antifungal agents disrupts the fungal cell membrane by binding to ergosterol?",
+        "options": [
+            "Fluconazole",
+            "Itraconazole",
+            "Amphotericin B",
+            "Ketoconazole",
+            "Griseofulvin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is effective against anaerobes?",
+        "options": [
+            "Metronidazole",
+            "Clindamycin",
+            "Penicillin",
+            "Amoxicillin",
+            "Gentamicin"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following drugs inhibits bacterial DNA gyrase?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known to cause discoloration of teeth in children?",
+        "options": [
+            "Penicillin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Vancomycin",
+            "Tetracycline"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the mechanism of action of beta-lactam antibiotics?",
+        "options": [
+            "Inhibit cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Disrupt cell membrane integrity",
+            "Inhibit RNA polymerase"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics binds to the 50S subunit of bacterial ribosomes?",
+        "options": [
+            "Tetracycline",
+            "Gentamicin",
+            "Erythromycin",
+            "Vancomycin",
+            "Metronidazole"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of fungi?",
+        "options": [
+            "Prokaryotic",
+            "Heterotrophic",
+            "Autotrophic",
+            "Lacks a nucleus",
+            "Cell wall composed of peptidoglycan"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of prophylactic antimicrobial therapy?",
+        "options": [
+            "Treat existing infections",
+            "Prevent potential infections",
+            "Treat chronic infections",
+            "Target viral infections",
+            "Inhibit fungal growth"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a side effect of tetracyclines?",
+        "options": [
+            "Photosensitivity",
+            "Nephrotoxicity",
+            "Ototoxicity",
+            "Hepatotoxicity",
+            "Neurotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic inhibits bacterial DNA gyrase?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known for its effectiveness against Clostridium difficile?",
+        "options": [
+            "Amoxicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics has a broad spectrum of activity against both gram-positive and gram-negative bacteria?",
+        "options": [
+            "Vancomycin",
+            "Metronidazole",
+            "Tetracycline",
+            "Clindamycin",
+            "Rifampicin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following bacteria are known for their resistance to beta-lactam antibiotics due to the production of beta-lactamase?",
+        "options": [
+            "Staphylococcus aureus",
+            "Streptococcus pneumoniae",
+            "Escherichia coli",
+            "Pseudomonas aeruginosa",
+            "Clostridium difficile"
+        ],
+        "answer": ["T", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which antibiotic is known to cause 'Red Man Syndrome'?",
+        "options": [
+            "Penicillin",
+            "Erythromycin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Amoxicillin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about bactericidal antibiotics?",
+        "options": [
+            "They inhibit bacterial growth without killing",
+            "They kill bacteria directly",
+            "They enhance bacterial growth",
+            "They neutralize bacterial toxins",
+            "They are ineffective against viruses"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a mechanism of antibiotic resistance?",
+        "options": [
+            "Increased drug efflux",
+            "Enzymatic degradation of the drug",
+            "Alteration of drug target sites",
+            "Decreased drug permeability",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antibiotics is bacteriostatic?",
+        "options": [
+            "Penicillin",
+            "Gentamicin",
+            "Erythromycin",
+            "Ciprofloxacin",
+            "Vancomycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a known adverse effect of fluoroquinolones?",
+        "options": [
+            "Tendonitis and tendon rupture",
+            "Nephrotoxicity",
+            "Ototoxicity",
+            "Photosensitivity",
+            "Hepatotoxicity"
+        ],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is an example of an antiviral drug?",
+        "options": [
+            "Acyclovir",
+            "Amoxicillin",
+            "Tetracycline",
+            "Ciprofloxacin",
+            "Erythromycin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Beta-lactam antibiotics target which bacterial structure?",
+        "options": [
+            "Ribosomes",
+            "Cell wall",
+            "DNA",
+            "RNA",
+            "Cell membrane"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of metronidazole?",
+        "options": [
+            "Treating viral infections",
+            "Treating fungal infections",
+            "Treating anaerobic bacterial infections",
+            "Treating aerobic bacterial infections",
+            "Treating parasitic infections"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which antibiotic is effective against mycobacteria?",
+        "options": [
+            "Penicillin",
+            "Isoniazid",
+            "Ciprofloxacin",
+            "Vancomycin",
+            "Tetracycline"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a beta-lactamase inhibitor?",
+        "options": [
+            "Ceftriaxone",
+            "Ciprofloxacin",
+            "Clavulanic acid",
+            "Vancomycin",
+            "Azithromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common adverse effect of aminoglycosides?",
+        "options": [
+            "Hepatotoxicity",
+            "Ototoxicity",
+            "Neurotoxicity",
+            "Cardiotoxicity",
+            "Nephrotoxicity"
+        ],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which type of drug interaction occurs when one drug increases the metabolism of another drug?",
+        "options": [
+            "Synergism",
+            "Antagonism",
+            "Potentiation",
+            "Induction",
+            "Inhibition"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Penicillinase is an enzyme that:",
+        "options": [
+            "Synthesizes penicillin",
+            "Inhibits penicillin binding proteins",
+            "Destroys penicillin",
+            "Promotes penicillin absorption",
+            "Inhibits bacterial cell wall synthesis"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about the selective toxicity of antibiotics?",
+        "options": [
+            "Targets both host and pathogen cells",
+            "Targets only host cells",
+            "Targets only pathogen cells",
+            "Targets neither host nor pathogen cells",
+            "Targets immune cells"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antifungal agents works by binding to ergosterol in fungal cell membranes?",
+        "options": [
+            "Fluconazole",
+            "Itraconazole",
+            "Amphotericin B",
+            "Ketoconazole",
+            "Griseofulvin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a nucleotide analog used to treat viral infections?",
+        "options": [
+            "Acyclovir",
+            "Ribavirin",
+            "Zidovudine",
+            "Oseltamivir",
+            "Lamivudine"
+        ],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following antifungal agents inhibits the synthesis of ergosterol?",
+        "options": [
+            "Griseofulvin",
+            "Terbinafine",
+            "Fluconazole",
+            "Amphotericin B",
+            "Nystatin"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common side effect of fluoroquinolones?",
+        "options": [
+            "Hepatotoxicity",
+            "Ototoxicity",
+            "Photosensitivity",
+            "Nephrotoxicity",
+            "Tendonitis"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following statements about vancomycin is true?",
+        "options": [
+            "It is effective against gram-negative bacteria",
+            "It is orally absorbed",
+            "It can cause nephrotoxicity",
+            "It binds to the 30S ribosomal subunit",
+            "It is primarily used to treat MRSA"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is not an aminoglycoside?",
+        "options": [
+            "Gentamicin",
+            "Streptomycin",
+            "Tobramycin",
+            "Amikacin",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antibiotics inhibits bacterial cell wall synthesis?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a beta-lactamase inhibitor?",
+        "options": [
+            "Clavulanic acid",
+            "Sulbactam",
+            "Tazobactam",
+            "Amoxicillin",
+            "Piperacillin"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is a macrolide?",
+        "options": [
+            "Penicillin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Vancomycin",
+            "Gentamicin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the mechanism of action of sulfonamides?",
+        "options": [
+            "Inhibit bacterial cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Inhibit folic acid synthesis",
+            "Disrupt bacterial cell membranes"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following antifungal agents disrupts the fungal cell membrane by binding to ergosterol?",
+        "options": [
+            "Fluconazole",
+            "Itraconazole",
+            "Amphotericin B",
+            "Ketoconazole",
+            "Griseofulvin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is effective against anaerobes?",
+        "options": [
+            "Metronidazole",
+            "Clindamycin",
+            "Penicillin",
+            "Amoxicillin",
+            "Gentamicin"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following drugs inhibits bacterial DNA gyrase?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known to cause discoloration of teeth in children?",
+        "options": [
+            "Penicillin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Vancomycin",
+            "Tetracycline"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the mechanism of action of beta-lactam antibiotics?",
+        "options": [
+            "Inhibit cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Disrupt cell membrane integrity",
+            "Inhibit RNA polymerase"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics binds to the 50S subunit of bacterial ribosomes?",
+        "options": [
+            "Tetracycline",
+            "Gentamicin",
+            "Erythromycin",
+            "Vancomycin",
+            "Metronidazole"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of fungi?",
+        "options": [
+            "Prokaryotic",
+            "Heterotrophic",
+            "Autotrophic",
+            "Lacks a nucleus",
+            "Cell wall composed of peptidoglycan"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of prophylactic antimicrobial therapy?",
+        "options": [
+            "Treat existing infections",
+            "Prevent potential infections",
+            "Treat chronic infections",
+            "Target viral infections",
+            "Inhibit fungal growth"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a side effect of tetracyclines?",
+        "options": [
+            "Photosensitivity",
+            "Nephrotoxicity",
+            "Ototoxicity",
+            "Hepatotoxicity",
+            "Neurotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic inhibits bacterial DNA gyrase?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known for its effectiveness against Clostridium difficile?",
+        "options": [
+            "Amoxicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics has a broad spectrum of activity against both gram-positive and gram-negative bacteria?",
+        "options": [
+            "Vancomycin",
+            "Metronidazole",
+            "Tetracycline",
+            "Clindamycin",
+            "Rifampicin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following bacteria are known for their resistance to beta-lactam antibiotics due to the production of beta-lactamase?",
+        "options": [
+            "Staphylococcus aureus",
+            "Streptococcus pneumoniae",
+            "Escherichia coli",
+            "Pseudomonas aeruginosa",
+            "Clostridium difficile"
+        ],
+        "answer": ["T", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which antibiotic is known to cause 'Red Man Syndrome'?",
+        "options": [
+            "Penicillin",
+            "Erythromycin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Amoxicillin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about bactericidal antibiotics?",
+        "options": [
+            "They inhibit bacterial growth without killing",
+            "They kill bacteria directly",
+            "They enhance bacterial growth",
+            "They neutralize bacterial toxins",
+            "They are ineffective against viruses"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a mechanism of antibiotic resistance?",
+        "options": [
+            "Increased drug efflux",
+            "Enzymatic degradation of the drug",
+            "Alteration of drug target sites",
+            "Decreased drug permeability",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antibiotics is bacteriostatic?",
+        "options": [
+            "Penicillin",
+            "Gentamicin",
+            "Erythromycin",
+            "Ciprofloxacin",
+            "Vancomycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a known adverse effect of fluoroquinolones?",
+        "options": [
+            "Tendonitis and tendon rupture",
+            "Nephrotoxicity",
+            "Ototoxicity",
+            "Photosensitivity",
+            "Hepatotoxicity"
+        ],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is an example of an antiviral drug?",
+        "options": [
+            "Acyclovir",
+            "Amoxicillin",
+            "Tetracycline",
+            "Ciprofloxacin",
+            "Erythromycin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Beta-lactam antibiotics target which bacterial structure?",
+        "options": [
+            "Ribosomes",
+            "Cell wall",
+            "DNA",
+            "RNA",
+            "Cell membrane"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of metronidazole?",
+        "options": [
+            "Treating viral infections",
+            "Treating fungal infections",
+            "Treating anaerobic bacterial infections",
+            "Treating aerobic bacterial infections",
+            "Treating parasitic infections"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which antibiotic is effective against mycobacteria?",
+        "options": [
+            "Penicillin",
+            "Isoniazid",
+            "Ciprofloxacin",
+            "Vancomycin",
+            "Tetracycline"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a beta-lactamase inhibitor?",
+        "options": [
+            "Ceftriaxone",
+            "Ciprofloxacin",
+            "Clavulanic acid",
+            "Vancomycin",
+            "Azithromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common adverse effect of aminoglycosides?",
+        "options": [
+            "Hepatotoxicity",
+            "Ototoxicity",
+            "Neurotoxicity",
+            "Cardiotoxicity",
+            "Nephrotoxicity"
+        ],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which type of drug interaction occurs when one drug increases the metabolism of another drug?",
+        "options": [
+            "Synergism",
+            "Antagonism",
+            "Potentiation",
+            "Induction",
+            "Inhibition"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Penicillinase is an enzyme that:",
+        "options": [
+            "Synthesizes penicillin",
+            "Inhibits penicillin binding proteins",
+            "Destroys penicillin",
+            "Promotes penicillin absorption",
+            "Inhibits bacterial cell wall synthesis"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about the selective toxicity of antibiotics?",
+        "options": [
+            "Targets both host and pathogen cells",
+            "Targets only host cells",
+            "Targets only pathogen cells",
+            "Targets neither host nor pathogen cells",
+            "Targets immune cells"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about the action of bacteriostatic antibiotics?",
+        "options": [
+            "They kill bacteria directly",
+            "They inhibit bacterial growth",
+            "They enhance bacterial growth",
+            "They neutralize bacterial toxins",
+            "They are ineffective against bacteria"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of narrow-spectrum antibiotics?",
+        "options": [
+            "Effective against a wide range of bacteria",
+            "Targets a specific type of bacteria",
+            "Inhibits viral replication",
+            "Used for fungal infections",
+            "High therapeutic index"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which class of antibiotics is known for its nephrotoxicity and ototoxicity?",
+        "options": [
+            "Macrolides",
+            "Aminoglycosides",
+            "Tetracyclines",
+            "Fluoroquinolones",
+            "Beta-lactams"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is associated with the development of Clostridium difficile-associated diarrhea?",
+        "options": [
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Metronidazole",
+            "Clindamycin",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is effective against Pseudomonas aeruginosa?",
+        "options": [
+            "Amoxicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Clindamycin",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs can cause a disulfiram-like reaction when taken with alcohol?",
+        "options": [
+            "Metronidazole",
+            "Erythromycin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of a broad-spectrum antibiotic?",
+        "options": [
+            "Effective against a wide range of bacteria",
+            "Targets a specific type of bacteria",
+            "Inhibits viral replication",
+            "Used for fungal infections",
+            "Narrow therapeutic index"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics binds to the 30S subunit of bacterial ribosomes?",
+        "options": [
+            "Tetracycline",
+            "Gentamicin",
+            "Erythromycin",
+            "Vancomycin",
+            "Metronidazole"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a second-line treatment for tuberculosis?",
+        "options": [
+            "Isoniazid",
+            "Rifampicin",
+            "Ethambutol",
+            "Streptomycin",
+            "Pyrazinamide"
+        ],
+        "answer": ["F", "F", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a side effect associated with aminoglycosides?",
+        "options": [
+            "Ototoxicity",
+            "Hepatotoxicity",
+            "Photosensitivity",
+            "Cardiotoxicity",
+            "Neurotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antifungal agents works by binding to ergosterol in fungal cell membranes?",
+        "options": [
+            "Fluconazole",
+            "Itraconazole",
+            "Amphotericin B",
+            "Ketoconazole",
+            "Griseofulvin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a nucleotide analog used to treat viral infections?",
+        "options": [
+            "Acyclovir",
+            "Ribavirin",
+            "Zidovudine",
+            "Oseltamivir",
+            "Lamivudine"
+        ],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following antifungal agents inhibits the synthesis of ergosterol?",
+        "options": [
+            "Griseofulvin",
+            "Terbinafine",
+            "Fluconazole",
+            "Amphotericin B",
+            "Nystatin"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common side effect of fluoroquinolones?",
+        "options": [
+            "Hepatotoxicity",
+            "Ototoxicity",
+            "Photosensitivity",
+            "Nephrotoxicity",
+            "Tendonitis"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following statements about vancomycin is true?",
+        "options": [
+            "It is effective against gram-negative bacteria",
+            "It is orally absorbed",
+            "It can cause nephrotoxicity",
+            "It binds to the 30S ribosomal subunit",
+            "It is primarily used to treat MRSA"
+        ],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is not an aminoglycoside?",
+        "options": [
+            "Gentamicin",
+            "Streptomycin",
+            "Tobramycin",
+            "Amikacin",
+            "Erythromycin"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following antibiotics inhibits bacterial cell wall synthesis?",
+        "options": [
+            "Penicillin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a beta-lactamase inhibitor?",
+        "options": [
+            "Clavulanic acid",
+            "Sulbactam",
+            "Tazobactam",
+            "Amoxicillin",
+            "Piperacillin"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is a macrolide?",
+        "options": [
+            "Penicillin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Vancomycin",
+            "Gentamicin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the mechanism of action of sulfonamides?",
+        "options": [
+            "Inhibit bacterial cell wall synthesis",
+            "Inhibit protein synthesis",
+            "Inhibit DNA synthesis",
+            "Inhibit folic acid synthesis",
+            "Disrupt bacterial cell membranes"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the principal function of the immune system?",
+        "options": [
+            "To protect the host against invasion",
+            "To maintain homeostasis",
+            "To produce antibodies",
+            "To prevent autoimmune diseases",
+            "To regulate body temperature"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a harmful effect of the immune system?",
+        "options": [
+            "Discomfort and collateral damage",
+            "Damage to self",
+            "Immunosuppression",
+            "Autoimmunity",
+            "Enhanced pathogen growth"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which immune response reacts the same way to all foreign antigens?",
+        "options": [
+            "Innate immune response",
+            "Adaptive immune response",
+            "Specific immune response",
+            "Acquired immune response",
+            "Humoral immune response"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following cells are NOT derived from myeloid lineage?",
+        "options": [
+            "Neutrophils",
+            "Eosinophils",
+            "Basophils",
+            "NK cells",
+            "Macrophages"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is NOT part of the innate immune system's activities?",
+        "options": [
+            "Pathogen blocking",
+            "Pathogen uptake by phagocytosis",
+            "Pathogen killing via cytotoxic mediators",
+            "Increased recruitment of immune cells",
+            "Memory cell production"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the main feature of adaptive immunity?",
+        "options": [
+            "Immediate response",
+            "Non-specific response",
+            "Memory cell production",
+            "Physical barrier",
+            "Antimicrobial peptides"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which cells are responsible for humoral immunity?",
+        "options": [
+            "T lymphocytes",
+            "B lymphocytes",
+            "NK cells",
+            "Macrophages",
+            "Neutrophils"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which immune response is involved in autoimmunity?",
+        "options": [
+            "Innate immune response",
+            "Adaptive immune response",
+            "Non-specific immune response",
+            "Physical barrier response",
+            "Chemical barrier response"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which chemical substance is NOT identified as an important chemical barrier to infection?",
+        "options": [
+            "Digestive enzymes",
+            "Lysozyme",
+            "Defensins",
+            "Insulin",
+            "Cathelicidins"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What type of immunity occurs against cells infected with viruses and intracellular bacteria?",
+        "options": [
+            "Humoral immunity",
+            "Cell-mediated immunity",
+            "Innate immunity",
+            "Specific immunity",
+            "Acquired immunity"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a function of immunoglobulins?",
+        "options": [
+            "Binding complement",
+            "Crossing the placenta",
+            "Protecting body mucosal surfaces",
+            "Producing antibodies",
+            "Acting as receptors"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the function of IgA?",
+        "options": [
+            "Protection of tissue spaces and bloodstream",
+            "Protection of body mucosal surfaces",
+            "Binding complement",
+            "Crossing the placenta",
+            "Forming pentamers"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which immune response involves the production of 'memory' cells?",
+        "options": [
+            "Innate immune response",
+            "Adaptive immune response",
+            "Immediate immune response",
+            "Non-specific immune response",
+            "Physical barrier response"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the first line of defense against pathogens?",
+        "options": [
+            "Innate immune system",
+            "Adaptive immune system",
+            "Humoral immune system",
+            "Cell-mediated immune system",
+            "Acquired immune system"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a component of the innate immune system?",
+        "options": [
+            "Neutrophils",
+            "Macrophages",
+            "B lymphocytes",
+            "Dendritic cells",
+            "NK cells"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the role of epithelial cells in the innate immune system?",
+        "options": [
+            "Producing antibodies",
+            "Forming tight junctions",
+            "Producing mucus",
+            "Acting as antigen-presenting cells",
+            "Activating adaptive immunity"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of the adaptive immune system?",
+        "options": [
+            "Rapid response",
+            "Non-specific response",
+            "Memory cell production",
+            "Barrier formation",
+            "Production of mucus"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which cells are involved in cell-mediated immunity?",
+        "options": [
+            "Helper T lymphocytes",
+            "B lymphocytes",
+            "Macrophages",
+            "Neutrophils",
+            "NK cells"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the function of IgG?",
+        "options": [
+            "Protection of tissue spaces and bloodstream",
+            "Protection of body mucosal surfaces",
+            "Binding complement",
+            "Crossing the placenta",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which component of the immune system can react immediately against pathogens?",
+        "options": [
+            "Innate immune system",
+            "Adaptive immune system",
+            "Humoral immune system",
+            "Cell-mediated immune system",
+            "Acquired immune system"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    }
+]
