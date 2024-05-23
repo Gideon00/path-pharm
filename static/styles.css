@@ -147,21 +147,37 @@ body{
     cursor: pointer;
     /* margin: 10px 0; */
 }
-
-.questContainer{
+.footer {
+    padding: 15px;
+}
+.questContainer {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap; /* This allows items to wrap to the next line on smaller screens */
 }
+
 .questColumn {
     flex: 1;
     margin: 10px;
+    min-width: 200px; /* Ensures columns don't get too small */
 }
+
 .question_item {
     padding: 5px;
     background-color: #f4f4f4;
     margin: 5px 0;
     border: 1px solid #ddd;
 }
-.footer {
-    padding: 15px;
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .questContainer {
+        flex-direction: column; /* Stacks the columns vertically */
+        align-items: center; /* Centers the columns */
+    }
+
+    .questColumn {
+        width: 100%; /* Full width for each column */
+        max-width: 500px; /* Max width to keep it manageable */
+    }
 }
