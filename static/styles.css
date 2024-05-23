@@ -90,11 +90,6 @@
 .invisible-numbering li {
     list-style-type: none;
 }
-/* .question-container {
-    display: flex;
-    align-items: center; /* Align items vertically 
-}*/
-
 .question-container label:first-of-type {
     width: 50px; /* Adjust as needed to accommodate the widest numbering */
     flex-shrink: 0; /* Prevent the first label from shrinking */
@@ -175,6 +170,29 @@ body{
         flex-direction: column; /* Stacks the columns vertically */
         align-items: center; /* Centers the columns */
     }
+.question-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.question-item label {
+    margin: 0;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+}
+
+.radio-group label {
+    margin-left: 10px;
+}
+
+.radio-group input {
+    margin-left: 5px;
+}
 
     .questColumn {
         width: 100%; /* Full width for each column */
