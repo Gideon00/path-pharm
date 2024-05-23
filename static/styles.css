@@ -89,6 +89,7 @@
 }
 .invisible-numbering li {
     list-style-type: none;
+    padding: 0;
 }
 .question-container label:first-of-type {
     width: 50px; /* Adjust as needed to accommodate the widest numbering */
@@ -171,31 +172,40 @@ body{
         align-items: center; /* Centers the columns */
     }
     
-ul {
-    list-style-type: none;
-    padding: 0;
-}
+/* Default (Desktop) styles */
 
 .question-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-bottom: 10px;
+    overflow: auto; /* Ensure the floated elements are contained */
 }
 
 .question-item label {
     margin: 0;
 }
 
-.radio-group {
-    display: flex;
-    align-items: center;
-}
-
-.radio-group label {
+.radio-label {
+    float: right;
     margin-left: 10px;
 }
 
-.radio-group input {
+.radio-label input {
     margin-left: 5px;
+}
+
+/* Mobile styles */
+@media (max-width: 576px) {
+    .question-item {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .radio-label {
+        float: none;
+        margin-left: 0;
+    }
+
+    .radio-label input {
+        margin-left: 5px;
+    }
 }
