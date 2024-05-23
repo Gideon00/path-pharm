@@ -173,18 +173,24 @@ body{
     }
     
 /* Default (Desktop) styles */
-
-.question-item {
-    margin-bottom: 10px;
-    overflow: auto; /* Ensure the floated elements are contained */
+ul {
+    list-style-type: none;
+    padding: 0;
 }
 
-.question-item label {
-    margin: 0;
+.question-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.question-label {
+    flex: 1;
+    margin-right: 20px;
 }
 
 .radio-label {
-    float: right;
     margin-left: 10px;
 }
 
@@ -195,14 +201,17 @@ body{
 /* Mobile styles */
 @media (max-width: 576px) {
     .question-item {
-        display: flex;
         flex-direction: column;
         align-items: flex-start;
     }
 
+    .question-label {
+        margin-right: 0;
+    }
+
     .radio-label {
-        float: none;
         margin-left: 0;
+        margin-top: 5px;
     }
 
     .radio-label input {
