@@ -17,10 +17,12 @@
                 <ul class="invisible-numbering">
                     <form action="{{ url_for('next_mcq_question') }}" method="post">
                         {% for option in questions['options'] %}
-                            <li>
+                            <li class="question-item">
                                 <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }}</label>
+                                <div class="radio-group">
                                 <label style="float: right;">F<input style="float: right;" type="radio" id="option-{{ loop.index }}" value="F" name="group{{ loop.index }}"></label>
                                 <label style="float: right;">T<input style="float: right; margin-right: 15px;" type="radio" id="option-{{ loop.index }}" value="T" name="group{{ loop.index }}"></label>
+                                </div>
                             </li>
                         {% endfor %}
                         <br><br>
