@@ -81,7 +81,6 @@ def index():
         session["answers"] = []
         session["start"] = start - 1
         session["current_question_index"] = start - 1
-        disable_next = False if start == len(question_bank) else True
         if request.form.get("region") in MCQ_REGIONS:
             # Load the question bank from the JSON file
             posting, _, subject = session["region"].lower().split(" ")
@@ -96,7 +95,7 @@ def index():
 
             if subject in triads:
                 session['region'] = f"{session['region']} PATHOLOGY"
-
+            disable_next = True if start == len(question_bank) else False
             return render_template("mcquiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
@@ -109,6 +108,7 @@ def index():
             # Load the question bank from the JSON file
             with open(f"bank/{session['region']}.json") as f:
                 question_bank = json.load(f)
+            disable_next = True if start == len(question_bank) else False
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
             
