@@ -74,6 +74,35 @@
 .next:hover{
     background-color: #3e8e41;
 }
+
+/* Container style to center the button */
+.center-container {
+    text-align: center;
+}
+
+.next-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white; /* Set text color */
+    cursor: pointer;
+    font-size: 16px; /* Adjust font size if needed */
+    text-align: center;
+    display: inline-block; /* Ensure proper padding and styling */
+    text-decoration: none; /* Remove underline */
+}
+
+.next-button:hover {
+    background-color: #3e8e41;
+}
+
+.next-button a {
+    color: white; /* Ensure link text color */
+    text-decoration: none; /* Remove underline from link */
+    display: block; /* Make the link cover the entire button area */
+}
+
 .end{
     padding: 10px 20px;
     border: none;
