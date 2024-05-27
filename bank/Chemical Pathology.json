@@ -243,8 +243,32 @@
             "Carrier proteins"
         ],
         "answer": "All of the above"
+    },
+    {
+        "question": "Which type of bone marrow is found in virtually all bones of infants?",
+        "options": ["Red Marrow", "Yellow Marrow", "White Marrow", "Brown Marrow", "Black Marrow"],
+        "answer": "Red Marrow"
+    },
+    {
+        "question": "What is the primary product of heme catabolism?",
+        "options": ["Biliverdin", "Bilirubin", "Iron", "Carbon monoxide", "Hemosiderin"],
+        "answer": "Bilirubin"
+    },
+    {
+        "question": "Which enzyme is involved in the conjugation of bilirubin?",
+        "options": ["UDP-glucuronosyltransferase", "Heme oxygenase", "Biliverdin reductase", "Bilirubin oxidase", "Cytochrome P450"],
+        "answer": "UDP-glucuronosyltransferase"
+    },
+    {
+        "question": "Which compound is responsible for the yellow color of jaundice?",
+        "options": ["Bilirubin", "Biliverdin", "Heme", "Iron", "Albumin"],
+        "answer": "Bilirubin"
+    },
+    {
+        "question": "In which organ does the conjugation of bilirubin primarily occur?",
+        "options": ["Liver", "Kidney", "Spleen", "Bone Marrow", "Intestine"],
+        "answer": "Liver"
     }
 ]
-
 
 
