@@ -298,5 +298,55 @@
         "question": "Which of the following is a sign of severe iron-deficiency anemia?",
         "options": ["Increased serum ferritin", "Koilonychia", "Hyperchromic red cells", "Normal hemoglobin levels"],
         "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following factors influences the differentiation of the colony forming unit erythroid?",
+        "options": ["Erythropoietin", "Interleukin 3", "Granulocyte colony-stimulating factor", "Stem cell factor", "Thrombopoietin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the earliest recognizable stage of erythropoiesis?",
+        "options": ["Reticulocyte", "Pronormoblast", "Normoblast", "Proerythroblast", "Myeloblast"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "In which stage of erythropoiesis is the nucleus extruded?",
+        "options": ["Reticulocyte", "Late normoblast", "Pronormoblast", "Mature erythrocyte", "Proerythroblast"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which cells are formed through sequential DNA multiplication without cytoplasmic division?",
+        "options": ["Erythrocytes", "Megakaryocytes", "Granulocytes", "Lymphocytes", "Monocytes"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is not part of the post-mitotic pool in granulopoiesis?",
+        "options": ["Myeloblast", "Metamyelocyte", "Band", "Segmented neutrophil", "Promyelocyte"],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which cell line is influenced by Interleukin 6 to increase platelet count?",
+        "options": ["Erythrocytes", "Megakaryocytes", "Granulocytes", "Lymphocytes", "Monocytes"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a positive immunophenotype marker for stem cells?",
+        "options": ["CD38", "CD33", "Linage marker", "CD34", "HLA-DR"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What stimulates the proliferation of colony-forming unit granulocyte monocyte (CFU-GM)?",
+        "options": ["Granulocyte-macrophage colony-stimulating factor", "Erythropoietin", "Thrombopoietin", "Interleukin 11", "Interleukin 3"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which progenitor gives rise to all blood cells except lymphocytes?",
+        "options": ["CFU-GEMM", "CFU-GM", "CFU-Eo", "CFU-Meg", "BFU-E"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which stage of granulopoiesis involves nuclear indentation beginning to form?",
+        "options": ["Myeloblast", "Promyelocyte", "Myelocyte", "Metamyelocyte", "Band"],
+        "answer": ["F", "F", "F", "T", "F"]
     }
 ]
