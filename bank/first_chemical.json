@@ -148,5 +148,55 @@
         "question": "What diagnostic approach is used to identify lactose intolerance?",
         "options": ["Pentagastrin Secretion Test", "Schilling Test", "Hydrogen Breath Test", "Lundh Test Meal", "Tubation Method"],
         "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the first step in bilirubin metabolism?",
+        "options": ["Production", "Uptake by the hepatocyte", "Conjugation", "Excretion into bile ducts", "Delivery to the intestine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is involved in the conjugation of bilirubin?",
+        "options": ["UDP-glucuronosyltransferase", "Heme oxygenase", "Biliverdin reductase", "Bilirubin oxidase", "Cytochrome P450"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "In which organ does the conjugation of bilirubin primarily occur?",
+        "options": ["Liver", "Kidney", "Spleen", "Bone Marrow", "Intestine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary product of heme catabolism?",
+        "options": ["Biliverdin", "Bilirubin", "Iron", "Carbon monoxide", "Hemosiderin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which compound is responsible for the yellow color of jaundice?",
+        "options": ["Bilirubin", "Biliverdin", "Heme", "Iron", "Albumin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by high levels of unconjugated bilirubin in the blood?",
+        "options": ["Hemolytic anemia", "Gilbert's syndrome", "Cirrhosis", "Dubin-Johnson syndrome", "Crigler-Najjar syndrome"],
+        "answer": ["T", "T", "F", "F", "T"]
+    },
+    {
+        "question": "What is the main transport protein for bilirubin in the blood?",
+        "options": ["Albumin", "Hemoglobin", "Transferrin", "Ferritin", "Ceruloplasmin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which form of bilirubin is water-soluble?",
+        "options": ["Conjugated bilirubin", "Unconjugated bilirubin", "Biliverdin", "Protoporphyrin", "Urobilinogen"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Where does the excretion of conjugated bilirubin into bile occur?",
+        "options": ["Bile ducts", "Kidney", "Spleen", "Bone Marrow", "Liver sinusoids"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which molecule is a precursor to bilirubin?",
+        "options": ["Heme", "Hemoglobin", "Iron", "Myoglobin", "Cytochrome"],
+        "answer": ["T", "T", "F", "T", "T"]
     }
 ]
