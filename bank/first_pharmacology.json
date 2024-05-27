@@ -2130,5 +2130,305 @@
             "T",
             "F"
         ]
+    },
+    {
+        "question": "Which of the following drugs are classified as inhibitors of the Renin-Angiotensin-Aldosterone System (RAAS)?",
+        "options": [
+            "Captopril",
+            "Atenolol",
+            "Furosemide",
+            "Verapamil"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a thiazide diuretic?",
+        "options": [
+            "Hydrochlorothiazide",
+            "Furosemide",
+            "Spironolactone",
+            "Propranolol"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which medication is a potassium-sparing diuretic?",
+        "options": [
+            "Amiloride",
+            "Chlorthalidone",
+            "Captopril",
+            "Atenolol"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug is commonly used to treat hypertensive emergencies?",
+        "options": [
+            "Sodium Nitroprusside",
+            "Atenolol",
+            "Hydrochlorothiazide",
+            "Lisinopril"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are symptoms of hypertensive crisis?",
+        "options": [
+            "Chest pain",
+            "Decreased urine output",
+            "Delirium",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which drugs are classified as beta-adrenoceptor blockers?",
+        "options": [
+            "Propranolol",
+            "Prazosin",
+            "Nifedipine",
+            "Losartan"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs can be used to lower blood pressure in pregnant women with severe hypertension?",
+        "options": [
+            "Methyldopa",
+            "Lisinopril",
+            "Amlodipine",
+            "Nifedipine"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following are considered modifiable risk factors for hypertension?",
+        "options": [
+            "Smoking",
+            "Age",
+            "Genetics",
+            "Physical inactivity"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which class of drugs does nifedipine belong to?",
+        "options": [
+            "Dihydropyridines",
+            "ACE inhibitors",
+            "Beta blockers",
+            "Diuretics"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following are centrally acting agents?",
+        "options": [
+            "Clonidine",
+            "Methyldopa",
+            "Trimethaphan",
+            "Prazosin"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which drug is known as an alpha adrenoceptor blocker?",
+        "options": [
+            "Prazosin",
+            "Propranolol",
+            "Hydralazine",
+            "Amlodipine"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs are used to treat hypertensive encephalopathy?",
+        "options": [
+            "Labetalol",
+            "Nicardipine",
+            "Esmolol",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following medications are classified as ACE inhibitors?",
+        "options": [
+            "Captopril",
+            "Enalapril",
+            "Lisinopril",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which drug is a mixed alpha and beta blocker?",
+        "options": [
+            "Carvedilol",
+            "Atenolol",
+            "Prazosin",
+            "Hydralazine"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following drugs are classified as vasodilators?",
+        "options": [
+            "Hydralazine",
+            "Minoxidil",
+            "Diazoxide",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which drugs are typically used in the management of resistant hypertension?",
+        "options": [
+            "Spironolactone",
+            "Lisinopril",
+            "Nifedipine",
+            "Hydrochlorothiazide"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "T",
+            "T"
+        ]
+    },
+    {
+        "question": "Which drugs are typically used to treat hypertensive urgency?",
+        "options": [
+            "Clonidine",
+            "Nifedipine",
+            "Sodium Nitroprusside",
+            "Labetalol"
+        ],
+        "answer": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following symptoms is not associated with hypertensive crisis?",
+        "options": [
+            "Myocardial infarction",
+            "Cerebral infarction",
+            "Pulmonary oedema",
+            "Hyperglycemia"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following is not a dihydropyridine calcium channel blocker?",
+        "options": [
+            "Verapamil",
+            "Amlodipine",
+            "Nifedipine",
+            "Nicardipine"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a loop diuretic?",
+        "options": [
+            "Furosemide",
+            "Hydrochlorothiazide",
+            "Spironolactone",
+            "Amiloride"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
     }
 ]
