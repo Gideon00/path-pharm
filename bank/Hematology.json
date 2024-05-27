@@ -263,5 +263,30 @@
     "question": "Which of the following is a cause of iron overload?",
     "options": ["Hereditary hemochromatosis", "Chronic liver disease", "Repeated red cell transfusions", "Sub-Saharan dietary iron overload", "All of the above"],
     "answer": ["T", "T", "T", "T", "T"]
-   }
-]    
+   },
+    {
+        "question": "Which type of bone marrow is found in virtually all bones of infants?",
+        "options": ["Red Marrow", "Yellow Marrow", "White Marrow", "Brown Marrow", "Black Marrow"],
+        "answer": "Red Marrow"
+    },
+    {
+        "question": "Which cell is the earliest committed progenitor to RBC production?",
+        "options": ["CFU-GEMM", "BFU-E", "CFU-E", "Pronormoblast", "Normoblast"],
+        "answer": "BFU-E"
+    },
+    {
+        "question": "What is the role of thrombopoietin in haemopoiesis?",
+        "options": ["Stimulates erythrocyte production", "Stimulates megakaryocyte and platelet production", "Stimulates granulocyte production", "Stimulates monocyte production", "Stimulates lymphocyte production"],
+        "answer": "Stimulates megakaryocyte and platelet production"
+    },
+    {
+        "question": "Which cytokine is known to stimulate quiescent stem cells?",
+        "options": ["Interleukin 3", "Interleukin 5", "Interleukin 6", "Granulocyte colony-stimulating factor", "Thrombopoietin"],
+        "answer": "Interleukin 6"
+    },
+    {
+        "question": "What is the earliest stage of granulopoiesis where specific granules are present?",
+        "options": ["Myeloblast", "Promyelocyte", "Myelocyte", "Metamyelocyte", "Band"],
+        "answer": "Myelocyte"
+    }
+]
