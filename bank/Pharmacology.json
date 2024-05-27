@@ -198,5 +198,65 @@
             "Oral, Inhalation, Transdermal"
         ],
         "answer": "Enteral, Parenteral, Topical"
+    },
+    {
+        "question": "Which class of drugs acts primarily by inhibiting the enzyme converting angiotensin I to angiotensin II?",
+        "options": [
+            "ACE inhibitors",
+            "Beta blockers",
+            "Calcium channel blockers",
+            "Diuretics"
+        ],
+        "answer": "ACE inhibitors"
+    },
+    {
+        "question": "Which classification of drugs is primarily based on their mechanism of action in lowering blood pressure?",
+        "options": [
+            "Diuretics",
+            "ACE inhibitors",
+            "Calcium channel blockers",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which antihypertensive drug is preferred during pregnancy to manage hypertension?",
+        "options": [
+            "Methyldopa",
+            "Lisinopril",
+            "Enalapril",
+            "Losartan"
+        ],
+        "answer": "Methyldopa"
+    },
+    {
+        "question": "Which antihypertensive drug class includes agents that block both alpha and beta receptors?",
+        "options": [
+            "Labetalol",
+            "Atenolol",
+            "Propranolol",
+            "Prazosin"
+        ],
+        "answer": "Labetalol"
+    },
+    {
+        "question": "Which of the following conditions is primarily treated with vasodilators like sodium nitroprusside?",
+        "options": [
+            "Hypertensive emergency",
+            "Chronic hypertension",
+            "Pre-hypertension",
+            "Resistant hypertension"
+        ],
+        "answer": "Hypertensive emergency"
+    },
+    {
+        "question": "Which class of drugs is primarily used to decrease the volume of circulating blood by increasing urine output?",
+        "options": [
+            "Diuretics",
+            "Beta blockers",
+            "ACE inhibitors",
+            "Calcium channel blockers"
+        ],
+        "answer": "Diuretics"
     }
 ]
