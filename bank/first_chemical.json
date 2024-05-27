@@ -198,5 +198,56 @@
         "question": "Which molecule is a precursor to bilirubin?",
         "options": ["Heme", "Hemoglobin", "Iron", "Myoglobin", "Cytochrome"],
         "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which hormone decreases blood glucose levels by increasing glycolysis, glycogenesis, and lipogenesis?",
+        "options": ["Insulin", "Glucagon", "Adrenalin", "Cortisol", "Growth Hormone"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary cause of hyperglycemia in diabetes mellitus?",
+        "options": ["Excess insulin secretion", "Defects in insulin secretion or action", "Excess glycogen storage", "Overactive glycolysis", "Increased lipogenesis"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a symptom of diabetes mellitus?",
+        "options": ["Fatigue", "Nausea", "Frequent urination", "Thirst", "Increased weight gain"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which enzyme deficiency leads to severe hypoglycemia and is treated by removing fructose from the diet?",
+        "options": ["Hexokinase", "Aldolase B", "Galactokinase", "Pyruvate Dehydrogenase", "Glucose-6-Phosphate Dehydrogenase"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by the inability to convert galactose to glucose and can lead to infantile cataracts?",
+        "options": ["Congenital Fructose Intolerance", "Galactosemia", "Pyruvate Dehydrogenase Deficiency", "Glycogen Storage Disease", "G6PD Deficiency"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone increases blood glucose by promoting glycogenolysis and gluconeogenesis?",
+        "options": ["Insulin", "Glucagon", "Cortisol", "Thyroxine", "Somatostatin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the central molecule in carbohydrate metabolism?",
+        "options": ["Fructose", "Sucrose", "Lactose", "Glucose", "Galactose"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which disorder is characterized by persistent hyperglycemia and disturbances of carbohydrate, fat, and protein metabolism?",
+        "options": ["Hypoglycemia", "Diabetes Mellitus", "Glycogen Storage Disease", "Galactosemia", "Pyruvate Dehydrogenase Deficiency"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What type of inheritance pattern is observed in most inborn errors of carbohydrate metabolism?",
+        "options": ["Autosomal Dominant", "X-Linked Recessive", "Autosomal Recessive", "Mitochondrial", "Y-Linked"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following can trigger hemolytic anemia in individuals with G6PD deficiency?",
+        "options": ["Primaquine", "Sulfonamides", "Aspirin", "Fava Beans", "All of the above"],
+        "answer": ["F", "F", "F", "F", "T"]
     }
 ]
+
