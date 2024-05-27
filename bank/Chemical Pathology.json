@@ -268,6 +268,31 @@
         "question": "In which organ does the conjugation of bilirubin primarily occur?",
         "options": ["Liver", "Kidney", "Spleen", "Bone Marrow", "Intestine"],
         "answer": "Liver"
+    },
+    {
+        "question": "Which enzyme deficiency is associated with severe hypoglycemia and requires the removal of fructose from the diet?",
+        "options": ["Hexokinase", "Aldolase B", "Galactokinase", "Pyruvate Dehydrogenase", "Glucose-6-Phosphate Dehydrogenase"],
+        "answer": "Aldolase B"
+    },
+    {
+        "question": "What is the most common carbohydrate metabolism disorder with high morbidity and mortality?",
+        "options": ["Diabetes Mellitus", "Hypoglycemia", "Glycogen Storage Disease", "Galactosemia", "Pyruvate Dehydrogenase Deficiency"],
+        "answer": "Diabetes Mellitus"
+    },
+    {
+        "question": "Which hormone increases blood glucose levels by increasing glycogenolysis and gluconeogenesis?",
+        "options": ["Insulin", "Glucagon", "Adrenalin", "Cortisol", "Thyroxine"],
+        "answer": "Glucagon"
+    },
+    {
+        "question": "Which inborn error of metabolism involves the inability to maintain glutathione in a reduced form, leading to hemolytic anemia?",
+        "options": ["Congenital Fructose Intolerance", "Galactosemia", "Pyruvate Dehydrogenase Deficiency", "G6PD Deficiency", "Glycolytic enzyme deficiencies"],
+        "answer": "G6PD Deficiency"
+    },
+    {
+        "question": "Which pathway is responsible for the breakdown of glycogen to glucose for energy?",
+        "options": ["Glycolysis", "Gluconeogenesis", "Glycogenolysis", "Lipogenesis", "Lipolysis"],
+        "answer": "Glycogenolysis"
     }
 ]
 
