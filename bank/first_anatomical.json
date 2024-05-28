@@ -588,6 +588,151 @@
         "question": "Which type of leprosy involves a defective Th-1 response or a dominant Th-2 response?",
         "options": ["Lepromatous leprosy", "Tuberculoid leprosy", "Borderline leprosy", "Pure polyneurotic leprosy", "Mask leprosy"],
         "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the term for diseases caused by exposure to chemical or physical agents in the ambient, workplace, and personal environment?",
+        "options": ["Environmental diseases", "Occupational diseases", "Communicable diseases", "Genetic diseases", "Metabolic diseases"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which metric does the Global Burden of Disease project use to estimate the burden of environmental diseases?",
+        "options": ["DALY", "BMI", "RBC", "LDL", "HDL"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of ozone is referred to as 'good ozone'?",
+        "options": ["Stratospheric ozone", "Tropospheric ozone", "Ground-level ozone", "Surface ozone", "Atmospheric ozone"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main cause of greenhouse gas increases?",
+        "options": ["Combustion of hydrocarbons", "Volcanic eruptions", "Deforestation", "Ocean currents", "Solar flares"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which pollutant is known as a systemic asphyxiant and is a significant cause of accidental and suicidal deaths?",
+        "options": ["Carbon monoxide", "Sulfur dioxide", "Nitrogen dioxide", "Particulate matter", "Ozone"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What enzyme system is the most important catalyst in the metabolism of xenobiotics?",
+        "options": ["Cytochrome P450", "Alcohol dehydrogenase", "Catalase", "Aminolevulinic acid dehydratase", "Glutathione S-transferase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of chemical reaction involves adding a direct polar group to xenobiotics to make them less lipophilic?",
+        "options": ["Phase I reactions", "Phase II reactions", "Oxidation reactions", "Reduction reactions", "Hydrolysis reactions"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which toxic substance is known for its severe effects on the brain, especially in developing children?",
+        "options": ["Lead", "Mercury", "Arsenic", "Cadmium", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary source of indoor air pollution from carbon monoxide?",
+        "options": ["Tobacco smoke", "Wood smoke", "Cooking oils", "Furnaces", "Radon"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which disease is associated with high levels of methyl mercury exposure in utero?",
+        "options": ["Minamata disease", "Asbestosis", "Silicosis", "Berylliosis", "Bronchitis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What are the main pollutants involved in the formation of smog?",
+        "options": ["Sulfur dioxide, carbon monoxide, ozone, nitrogen dioxide, lead, particulate matter", "Carbon dioxide, methane, nitrogen, oxygen, argon", "Benzene, toluene, xylene, ethylbenzene, formaldehyde", "Radon, asbestos, lead, mercury, cadmium", "Polychlorinated biphenyls, dioxins, furans, phthalates, bisphenol A"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary route of lead exposure for children?",
+        "options": ["Ingestion of contaminated food and water", "Inhalation of lead particles", "Dermal contact with lead-based paints", "Consumption of seafood", "Exposure to industrial emissions"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main adverse effect of chronic exposure to carbon monoxide?",
+        "options": ["Ischemic changes in the CNS", "Pulmonary fibrosis", "Liver cirrhosis", "Renal failure", "Bone marrow suppression"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main toxic effect of arsenic exposure?",
+        "options": ["Severe abdominal pain", "Pulmonary edema", "Liver necrosis", "Bone marrow aplasia", "Cataract formation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which substance is known as a potent carcinogen released during the combustion of fossil fuels?",
+        "options": ["Polycyclic hydrocarbons", "Organochlorines", "Volatile organic compounds", "Radon", "Mercury vapor"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which phase II reaction involves the combination of xenobiotics with other polar substances?",
+        "options": ["Glucuronidation", "Oxidation", "Hydrolysis", "Reduction", "Sulfation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which pollutant is primarily associated with the development of lung cancer in nonsmokers?",
+        "options": ["Secondhand smoke", "Radon", "Asbestos", "Benzene", "Cadmium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which metal is known for causing severe neurotoxic effects, especially in children, due to its interference with calcium metabolism?",
+        "options": ["Lead", "Mercury", "Arsenic", "Cadmium", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the characteristic morphological change in red blood cells due to lead poisoning?",
+        "options": ["Basophilic stippling", "Macrocytosis", "Hyperchromia", "Schistocytosis", "Target cells"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which pollutant is associated with systemic asphyxiation and has a high affinity for hemoglobin?",
+        "options": ["Carbon monoxide", "Sulfur dioxide", "Nitrogen dioxide", "Particulate matter", "Ozone"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which chemical is often found in drinking water and can lead to conditions such as blackfoot disease and cancer?",
+        "options": ["Arsenic", "Lead", "Mercury", "Cadmium", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What environmental factor is primarily responsible for increased risk of lung cancer in miners?",
+        "options": ["Radon", "Asbestos", "Silica", "Coal dust", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which metal is most commonly associated with chronic occupational exposure leading to renal disease?",
+        "options": ["Cadmium", "Lead", "Mercury", "Arsenic", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What pollutant is known for causing severe respiratory symptoms and is a byproduct of paper mills and power plants?",
+        "options": ["Sulfur dioxide", "Nitrogen dioxide", "Ozone", "Particulate matter", "Carbon monoxide"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which toxic agent is known for its ability to disrupt endocrine function and is found in pesticides?",
+        "options": ["Organochlorines", "Polycyclic hydrocarbons", "Volatile organic compounds", "Radon", "Mercury vapor"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which pollutant is most commonly linked to the formation of acid rain?",
+        "options": ["Sulfur dioxide", "Carbon monoxide", "Ozone", "Nitrogen dioxide", "Particulate matter"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which metal exposure is most commonly linked to neurological impairment in workers in battery factories?",
+        "options": ["Lead", "Mercury", "Arsenic", "Cadmium", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What environmental factor is associated with mesothelioma?",
+        "options": ["Asbestos", "Radon", "Silica", "Coal dust", "Benzene"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which phase I reaction involves the introduction of a polar functional group to increase water solubility?",
+        "options": ["Oxidation", "Reduction", "Hydrolysis", "Glucuronidation", "Sulfation"],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
 
