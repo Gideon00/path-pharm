@@ -643,6 +643,80 @@
             "Mask leprosy"
         ],
         "answer": "Borderline leprosy"
+    },
+    {
+        "question": "Which type of bone marrow is found in virtually all bones of infants?",
+        "options": ["Red Marrow", "Yellow Marrow", "White Marrow", "Brown Marrow", "Black Marrow"],
+        "answer": "Red Marrow"
+    },
+    {
+        "question": "What is the primary cause of air pollution in urban areas?",
+        "options": ["Vehicle emissions", "Industrial emissions", "Forest fires", "Agricultural activities", "Volcanic eruptions"],
+        "answer": "Vehicle emissions"
+    },
+    {
+        "question": "Which heavy metal is associated with Itai-Itai disease?",
+        "options": ["Cadmium", "Lead", "Mercury", "Arsenic", "Nickel"],
+        "answer": "Cadmium"
+    },
+    {
+        "question": "What is the main toxic effect of chronic exposure to asbestos?",
+        "options": ["Mesothelioma", "Liver cirrhosis", "Renal failure", "Bone marrow suppression", "Pulmonary fibrosis"],
+        "answer": "Mesothelioma"
+    },
+    {
+        "question": "Which pollutant is primarily responsible for acid rain?",
+        "options": ["Sulfur dioxide", "Carbon monoxide", "Methane", "Ozone", "Lead"],
+        "answer": "Sulfur dioxide"
+    },
+    {
+        "question": "Which substance is a well-known cause of Minamata disease?",
+        "options": ["Methyl mercury", "Lead", "Cadmium", "Arsenic", "Benzene"],
+        "answer": "Methyl mercury"
+    },
+    {
+        "question": "What is the main health effect of chronic benzene exposure?",
+        "options": ["Bone marrow suppression", "Pulmonary fibrosis", "Renal failure", "Liver cirrhosis", "Neuropathy"],
+        "answer": "Bone marrow suppression"
+    },
+    {
+        "question": "What is the primary environmental source of radon exposure?",
+        "options": ["Soil and rock", "Vehicle emissions", "Industrial waste", "Pesticides", "Ocean spray"],
+        "answer": "Soil and rock"
+    },
+    {
+        "question": "Which chemical is commonly used in the production of plastics and is an endocrine disruptor?",
+        "options": ["Bisphenol A", "Phthalates", "Polycyclic aromatic hydrocarbons", "Dioxins", "Furans"],
+        "answer": "Bisphenol A"
+    },
+    {
+        "question": "Which pollutant is a major component of smog and is harmful to the respiratory system?",
+        "options": ["Ozone", "Carbon dioxide", "Methane", "Nitrogen", "Argon"],
+        "answer": "Ozone"
+    },
+    {
+        "question": "What is the main adverse effect of acute exposure to high levels of sulfur dioxide?",
+        "options": ["Respiratory distress", "Liver failure", "Renal dysfunction", "Bone marrow suppression", "Neuropathy"],
+        "answer": "Respiratory distress"
+    },
+    {
+        "question": "Which heavy metal is known for causing blackfoot disease when present in drinking water?",
+        "options": ["Arsenic", "Lead", "Mercury", "Cadmium", "Benzene"],
+        "answer": "Arsenic"
+    },
+    {
+        "question": "What is the main route of exposure to organophosphates?",
+        "options": ["Inhalation", "Dermal contact", "Ingestion", "Injection", "Ocular contact"],
+        "answer": "Ingestion"
+    },
+    {
+        "question": "Which toxic metal exposure is associated with the development of peripheral neuropathy?",
+        "options": ["Lead", "Mercury", "Arsenic", "Cadmium", "Benzene"],
+        "answer": "Lead"
+    },
+    {
+        "question": "What is the primary health effect of chronic arsenic exposure?",
+        "options": ["Skin lesions", "Pulmonary fibrosis", "Liver cirrhosis", "Bone marrow suppression", "Renal failure"],
+        "answer": "Skin lesions"
     }
 ]
-
