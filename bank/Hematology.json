@@ -288,5 +288,105 @@
         "question": "What is the earliest stage of granulopoiesis where specific granules are present?",
         "options": ["Myeloblast", "Promyelocyte", "Myelocyte", "Metamyelocyte", "Band"],
         "answer": "Myelocyte"
+    },
+    {
+        "question": "What is the primary structural component responsible for the flexibility and strength of the red cell membrane?",
+        "options": ["Spectrin", "Ankyrin", "Actin", "Protein 4.1"],
+        "answer": "Spectrin"
+    },
+    {
+        "question": "Which disorder is characterized by an autosomal dominant inheritance pattern and the presence of spherical red cells?",
+        "options": ["Hereditary spherocytosis", "Hereditary elliptocytosis", "Hereditary pyropoikilocytosis", "Southeast Asian ovalocytosis"],
+        "answer": "Hereditary spherocytosis"
+    },
+    {
+        "question": "What is the main abnormality in hereditary pyropoikilocytosis?",
+        "options": ["Mutation in alpha-spectrin, beta-spectrin, and protein 4.1 genes", "Mutation in ankyrin gene", "Deficiency in glucose-6-phosphate dehydrogenase", "Abnormalities in the sodium-potassium pump"],
+        "answer": "Mutation in alpha-spectrin, beta-spectrin, and protein 4.1 genes"
+    },
+    {
+        "question": "Which lipid component is the most abundant in the red cell membrane?",
+        "options": ["Phospholipids", "Cholesterol", "Sphingolipids", "Triglycerides"],
+        "answer": "Phospholipids"
+    },
+    {
+        "question": "Which type of hereditary elliptocytosis shows resistance to Plasmodium falciparum invasion?",
+        "options": ["Hereditary elliptocytosis in Africa", "Southeast Asian ovalocytosis", "Hereditary pyropoikilocytosis", "Spherocytic hereditary elliptocytosis"],
+        "answer": "Hereditary elliptocytosis in Africa"
+    },
+    {
+        "question": "What is the role of band 3 protein in the red cell membrane?",
+        "options": ["Acts as an anion transport channel", "Provides structural support", "Binds hemoglobin", "Maintains cell shape"],
+        "answer": "Acts as an anion transport channel"
+    },
+    {
+        "question": "In hereditary spherocytosis, hemolysis results from:",
+        "options": ["An intrinsic membrane protein defect and an intact spleen", "Oxidative damage", "Immune-mediated destruction", "Nutritional deficiencies"],
+        "answer": "An intrinsic membrane protein defect and an intact spleen"
+    },
+    {
+        "question": "Which protein is responsible for the vertical connections in the red cell membrane?",
+        "options": ["Ankyrin", "Spectrin", "Protein 4.1", "Glycophorin"],
+        "answer": "Ankyrin"
+    },
+    {
+        "question": "What is a common treatment for severe hereditary spherocytosis?",
+        "options": ["Splenectomy", "Bone marrow transplant", "Iron supplementation", "Corticosteroids"],
+        "answer": "Splenectomy"
+    },
+    {
+        "question": "Which condition is characterized by mouth-like slits in red cells and is often accompanied by pseudohyperkalaemia?",
+        "options": ["Hereditary stomatocytosis", "Hereditary elliptocytosis", "Hereditary spherocytosis", "Hereditary pyropoikilocytosis"],
+        "answer": "Hereditary stomatocytosis"
+    },
+    {
+        "question": "What is the main carbohydrate found on the red cell membrane?",
+        "options": ["N-Acetylneuraminic acid", "Glucose", "Galactose", "Fructose"],
+        "answer": "N-Acetylneuraminic acid"
+    },
+    {
+        "question": "What type of mutation typically causes hereditary elliptocytosis?",
+        "options": ["Mutations affecting horizontal connections", "Mutations affecting vertical connections", "Defects in the sodium-potassium pump", "Enzyme deficiencies"],
+        "answer": "Mutations affecting horizontal connections"
+    },
+    {
+        "question": "Which condition is often associated with severe hemolysis in neonates and requires transfusion if anemia is severe?",
+        "options": ["Hereditary pyropoikilocytosis", "Hereditary spherocytosis", "Hereditary stomatocytosis", "Southeast Asian ovalocytosis"],
+        "answer": "Hereditary pyropoikilocytosis"
+    },
+    {
+        "question": "What percentage of the red cell membrane is composed of proteins?",
+        "options": ["50%", "40%", "30%", "60%"],
+        "answer": "50%"
+    },
+    {
+        "question": "Which protein acts as the main contact point for the cytoskeleton on the inner surface of the red cell membrane?",
+        "options": ["Actin", "Spectrin", "Ankyrin", "Protein 4.1"],
+        "answer": "Spectrin"
+    },
+    {
+        "question": "What is the typical treatment for chronic hemolysis in patients with hereditary pyropoikilocytosis?",
+        "options": ["Folic acid supplementation", "Iron supplementation", "Vitamin B12 supplementation", "Bone marrow transplant"],
+        "answer": "Folic acid supplementation"
+    },
+    {
+        "question": "What is the main feature of hereditary spherocytosis on a blood smear?",
+        "options": ["Round cells lacking central pallor", "Elongated cells", "Fragmented cells", "Cells with mouth-like slits"],
+        "answer": "Round cells lacking central pallor"
+    },
+    {
+        "question": "What structural feature is characteristic of Southeast Asian ovalocytes?",
+        "options": ["Oval-shaped red cells with increased rigidity", "Spherical cells with central pallor", "Elongated cells with fragmentation", "Red cells with mouth-like slits"],
+        "answer": "Oval-shaped red cells with increased rigidity"
+    },
+    {
+        "question": "In the context of red cell membrane disorders, what does the term 'horizontal connections' refer to?",
+        "options": ["Proteins of the cytoskeleton", "Links between the plasma surface and cytoskeleton", "Integral proteins", "Carbohydrate interactions"],
+        "answer": "Proteins of the cytoskeleton"
+    },
+    {
+        "question": "Which enzyme is involved in maintaining red cell membrane ion balance?",
+        "options": ["Na+/K+ ATPase", "Glucose-6-phosphate dehydrogenase", "Lactate dehydrogenase", "Adenylate kinase"],
+        "answer": "Na+/K+ ATPase"
     }
 ]
