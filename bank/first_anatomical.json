@@ -733,6 +733,151 @@
         "question": "Which phase I reaction involves the introduction of a polar functional group to increase water solubility?",
         "options": ["Oxidation", "Reduction", "Hydrolysis", "Glucuronidation", "Sulfation"],
         "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic feature of type I hypersensitivity?",
+        "options": ["IgE antibody involvement", "Formation of immune complexes", "T-cell mediated cytotoxicity", "Delayed-type hypersensitivity"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main effector cell type in type IV hypersensitivity?",
+        "options": ["Neutrophils", "Eosinophils", "T lymphocytes", "B lymphocytes"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which cytokine is primarily involved in the recruitment of neutrophils and monocytes in immune responses?",
+        "options": ["IL-4", "IL-10", "IL-17", "IL-2"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "What is a common feature of chronic granulomatous disease?",
+        "options": ["Defective fusion of phagosomes and lysosomes", "Impaired antibody production", "Defective phagocyte oxidase enzyme", "Enhanced T cell activation"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following cells are involved in innate immunity?",
+        "options": ["T cells", "B cells", "Macrophages", "Dendritic cells"],
+        "answer": ["F", "F", "T", "T"]
+    },
+    {
+        "question": "Which immunoglobulin class is involved in mucosal immunity?",
+        "options": ["IgA", "IgM", "IgG", "IgE"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a component of the adaptive immune system?",
+        "options": ["Natural killer cells", "Dendritic cells", "T lymphocytes", "Complement proteins"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which cytokine is essential for the differentiation of naive T cells into Th1 cells?",
+        "options": ["IL-4", "IL-12", "IL-6", "IL-10"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a primary lymphoid organ?",
+        "options": ["Lymph node", "Spleen", "Thymus", "Tonsils"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the main function of regulatory T cells?",
+        "options": ["Produce antibodies", "Activate macrophages", "Suppress immune responses", "Kill infected cells"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is characteristic of systemic lupus erythematosus (SLE)?",
+        "options": ["Granuloma formation", "Autoantibodies against nuclear antigens", "Type I hypersensitivity", "Lack of complement activation"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which immune cell type is primarily involved in allergic reactions?",
+        "options": ["Neutrophils", "Macrophages", "Mast cells", "B cells"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following describes a characteristic feature of amyloidosis?",
+        "options": ["Deposition of amyloid fibrils", "Increased IgE production", "T cell-mediated destruction", "Autoantibody production"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which immune cells are responsible for antibody production?",
+        "options": ["T lymphocytes", "B lymphocytes", "Macrophages", "Dendritic cells"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary role of complement proteins?",
+        "options": ["Phagocytosis", "Antibody production", "Cell lysis", "Antigen presentation"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a feature of adaptive immunity?",
+        "options": ["Lack of memory", "Antigen specificity", "Immediate response", "Phagocytosis"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which cytokine is known for its antiviral properties?",
+        "options": ["IL-4", "IL-2", "Type I interferons", "TNF-alpha"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following diseases is an example of an autoimmune disorder?",
+        "options": ["Asthma", "Rheumatoid arthritis", "Allergic rhinitis", "Chronic granulomatous disease"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about natural killer (NK) cells?",
+        "options": ["They require antigen presentation by MHC", "They produce antibodies", "They kill virus-infected cells", "They are a part of the adaptive immune system"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which cytokine is involved in the activation of eosinophils?",
+        "options": ["IL-5", "IL-4", "IL-6", "IL-12"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is associated with a deficiency in the complement system?",
+        "options": ["Chronic granulomatous disease", "Systemic lupus erythematosus", "Hereditary angioedema", "Multiple sclerosis"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a component of the innate immune system?",
+        "options": ["Cytotoxic T cells", "B cells", "NK cells", "Dendritic cells"],
+        "answer": ["F", "F", "T", "T"]
+    },
+    {
+        "question": "What is the main function of helper T cells?",
+        "options": ["Directly kill infected cells", "Produce antibodies", "Assist other immune cells", "Present antigens"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following cytokines is involved in the differentiation of B cells?",
+        "options": ["IL-2", "IL-4", "IL-10", "IL-12"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following immune cells are involved in antigen presentation?",
+        "options": ["Neutrophils", "Dendritic cells", "B cells", "NK cells"],
+        "answer": ["F", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a hallmark of autoimmune diseases?",
+        "options": ["Hyper-responsiveness to external pathogens", "Tolerance to self-antigens", "Immune response against self-antigens", "Deficiency in immune response"],
+        "answer": ["F", "F", "T", "F"]
+    },
+    {
+        "question": "Which type of hypersensitivity reaction is mediated by IgG or IgM antibodies?",
+        "options": ["Type I", "Type II", "Type III", "Type IV"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a function of IL-10?",
+        "options": ["Pro-inflammatory cytokine", "Inhibition of macrophage activation", "Stimulation of T cell proliferation", "Activation of NK cells"],
+        "answer": ["F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is characteristic of hypersensitivity pneumonitis?",
+        "options": ["IgE-mediated reaction", "T-cell mediated inflammation", "Immune complex deposition", "Antibody-mediated cytotoxicity"],
+        "answer": ["F", "T", "F", "F"]
     }
 ]
 
