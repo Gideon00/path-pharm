@@ -348,5 +348,125 @@
         "question": "Which stage of granulopoiesis involves nuclear indentation beginning to form?",
         "options": ["Myeloblast", "Promyelocyte", "Myelocyte", "Metamyelocyte", "Band"],
         "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which protein is most abundant in the red cell membrane and gives the cell its flexibility and strength?",
+        "options": ["Spectrin", "Ankyrin", "Protein 4.1", "Actin"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary role of Band 3 in the red cell membrane?",
+        "options": ["Acts as an anion transport channel", "Provides structural support", "Binds hemoglobin", "Synthesizes membrane lipids"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by spherical red cells lacking the area of central pallor?",
+        "options": ["Hereditary spherocytosis", "Hereditary elliptocytosis", "Southeast Asian ovalocytosis", "Hereditary stomatocytosis"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Hereditary elliptocytosis is most commonly associated with mutations affecting which protein?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1"],
+        "answer": ["T", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein is most abundant in the red cell membrane and gives the cell its flexibility and strength?",
+        "options": ["Spectrin", "Ankyrin", "Protein 4.1", "Actin", "Band 3"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary role of Band 3 in the red cell membrane?",
+        "options": ["Acts as an anion transport channel", "Provides structural support", "Binds hemoglobin", "Synthesizes membrane lipids", "Regulates ion transport"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by spherical red cells lacking the area of central pallor?",
+        "options": ["Hereditary spherocytosis", "Hereditary elliptocytosis", "Southeast Asian ovalocytosis", "Hereditary stomatocytosis", "Hereditary pyropoikilocytosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Hereditary elliptocytosis is most commonly associated with mutations affecting which protein?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1", "Glycophorin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What percentage of the red cell membrane is composed of proteins?",
+        "options": ["50%", "40%", "30%", "60%", "70%"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein acts as the main contact point for the cytoskeleton on the inner surface of the red cell membrane?",
+        "options": ["Actin", "Spectrin", "Ankyrin", "Protein 4.1", "Glycophorin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is involved in maintaining red cell membrane ion balance?",
+        "options": ["Na+/K+ ATPase", "Glucose-6-phosphate dehydrogenase", "Lactate dehydrogenase", "Adenylate kinase", "Pyruvate kinase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which structural component of the red cell membrane is responsible for its biconcave shape?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1", "Actin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "In hereditary spherocytosis, hemolysis results from:",
+        "options": ["An intrinsic membrane protein defect and an intact spleen", "Oxidative damage", "Immune-mediated destruction", "Nutritional deficiencies", "Hemoglobinopathy"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by red cells with mouth-like slits?",
+        "options": ["Hereditary stomatocytosis", "Hereditary elliptocytosis", "Hereditary spherocytosis", "Southeast Asian ovalocytosis", "Hereditary pyropoikilocytosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of mutation typically causes hereditary elliptocytosis?",
+        "options": ["Mutations affecting horizontal connections", "Mutations affecting vertical connections", "Defects in the sodium-potassium pump", "Enzyme deficiencies", "Missense mutations in hemoglobin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is often associated with severe hemolysis in neonates?",
+        "options": ["Hereditary pyropoikilocytosis", "Hereditary spherocytosis", "Hereditary stomatocytosis", "Southeast Asian ovalocytosis", "Hereditary elliptocytosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main feature of hereditary spherocytosis on a blood smear?",
+        "options": ["Round cells lacking central pallor", "Elongated cells", "Fragmented cells", "Cells with mouth-like slits", "Target cells"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What structural feature is characteristic of Southeast Asian ovalocytes?",
+        "options": ["Oval-shaped red cells with increased rigidity", "Spherical cells with central pallor", "Elongated cells with fragmentation", "Red cells with mouth-like slits", "Biconcave disk shape"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein is involved in the horizontal connections of the red cell cytoskeleton?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1", "Actin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main function of glycophorins in the red cell membrane?",
+        "options": ["Act as anion transport channels", "Provide structural support", "Bind hemoglobin", "Prevent cell aggregation", "Regulate ion transport"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "In hereditary pyropoikilocytosis, what is the common cause of severe hemolysis?",
+        "options": ["Mutations in spectrin", "Mutations in ankyrin", "Deficiency of glucose-6-phosphate dehydrogenase", "Oxidative stress", "Nutritional deficiency"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein forms the vertical connections in the red cell membrane?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1", "Actin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein is most associated with the pathogenesis of hereditary spherocytosis?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1", "Glycophorin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein acts as the main structural framework for the red cell membrane?",
+        "options": ["Spectrin", "Ankyrin", "Band 3", "Protein 4.1", "Actin"],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
