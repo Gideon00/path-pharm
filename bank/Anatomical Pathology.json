@@ -718,5 +718,155 @@
         "question": "What is the primary health effect of chronic arsenic exposure?",
         "options": ["Skin lesions", "Pulmonary fibrosis", "Liver cirrhosis", "Bone marrow suppression", "Renal failure"],
         "answer": "Skin lesions"
+    },
+    {
+        "question": "Which cytokine is primarily responsible for recruiting neutrophils and monocytes in rheumatoid arthritis?",
+        "options": ["IL-4", "IL-10", "IL-17", "IL-2"],
+        "answer": "IL-17"
+    },
+    {
+        "question": "What type of cells secrete TNF and stimulate resident synovial cells to secrete proteases in rheumatoid arthritis?",
+        "options": ["TH1 cells", "TH2 cells", "Macrophages", "B cells"],
+        "answer": "Macrophages"
+    },
+    {
+        "question": "Which molecule is most implicated in the pathogenesis of rheumatoid arthritis and is targeted by effective therapies?",
+        "options": ["IL-1", "IL-6", "TNF", "IFN-γ"],
+        "answer": "TNF"
+    },
+    {
+        "question": "Rheumatoid factor is an autoantibody that binds to which part of its own IgG?",
+        "options": ["Fab portion", "Fc portion", "Light chain", "Heavy chain"],
+        "answer": "Fc portion"
+    },
+    {
+        "question": "What is the principal mechanism by which CD8+ cytotoxic T lymphocytes kill antigen-expressing target cells?",
+        "options": ["Production of TNF", "Activation of B cells", "Release of perforins and granzymes", "Secretion of IL-4"],
+        "answer": "Release of perforins and granzymes"
+    },
+    {
+        "question": "Which hypersensitivity reaction is characterized by immune complex deposition and inflammation at the site of deposition?",
+        "options": ["Type I", "Type II", "Type III", "Type IV"],
+        "answer": "Type III"
+    },
+    {
+        "question": "What type of hypersensitivity reaction involves CD4+ T cells and macrophages leading to granuloma formation?",
+        "options": ["Type I", "Type II", "Type III", "Type IV"],
+        "answer": "Type IV"
+    },
+    {
+        "question": "What is the role of NK cells in innate immunity?",
+        "options": ["Produce antibodies", "Present antigens", "Provide early defense against viral infections", "Secrete IL-17"],
+        "answer": "Provide early defense against viral infections"
+    },
+    {
+        "question": "What is the primary function of dendritic cells in the immune system?",
+        "options": ["Secrete antibodies", "Phagocytose pathogens", "Present antigens", "Kill infected cells"],
+        "answer": "Present antigens"
+    },
+    {
+        "question": "In which type of graft rejection are preformed anti-donor antibodies already present in the recipient's circulation?",
+        "options": ["Hyperacute rejection", "Acute cellular rejection", "Chronic rejection", "Delayed-type hypersensitivity"],
+        "answer": "Hyperacute rejection"
+    },
+    {
+        "question": "What type of cells are primarily involved in acute cellular rejection of transplanted organs?",
+        "options": ["B cells", "T lymphocytes", "NK cells", "Macrophages"],
+        "answer": "T lymphocytes"
+    },
+    {
+        "question": "Which cytokine is most associated with systemic inflammation and is a target for therapy in autoimmune diseases like rheumatoid arthritis?",
+        "options": ["IL-10", "IL-6", "IL-1", "TNF"],
+        "answer": "TNF"
+    },
+    {
+        "question": "Which immune cells are the first line of defense in innate immunity and are rapidly recruited to infection sites?",
+        "options": ["B cells", "T cells", "Neutrophils", "Eosinophils"],
+        "answer": "Neutrophils"
+    },
+    {
+        "question": "What is the main pathological feature of the Arthus reaction?",
+        "options": ["Immediate hypersensitivity", "T-cell mediated cytotoxicity", "Immune complex vasculitis", "Antibody-mediated cytotoxicity"],
+        "answer": "Immune complex vasculitis"
+    },
+    {
+        "question": "In which condition are antibodies against cell surface receptors known to impair or dysregulate function without causing inflammation?",
+        "options": ["Systemic lupus erythematosus", "Grave's disease", "Rheumatoid arthritis", "Type I diabetes"],
+        "answer": "Grave's disease"
+    },
+    {
+        "question": "Which cells are involved in presenting antigens to T cells in the immune response?",
+        "options": ["Macrophages", "B cells", "Dendritic cells", "NK cells"],
+        "answer": "Dendritic cells"
+    },
+    {
+        "question": "Which immune cells secrete IFN-γ and are involved in the classical activation of macrophages?",
+        "options": ["TH1 cells", "TH2 cells", "B cells", "NK cells"],
+        "answer": "TH1 cells"
+    },
+    {
+        "question": "What type of rejection is characterized by the involvement of T lymphocytes secreting cytokines and stimulating vascular endothelial cells?",
+        "options": ["Hyperacute rejection", "Acute cellular rejection", "Chronic rejection", "Antibody-mediated rejection"],
+        "answer": "Chronic rejection"
+    },
+    {
+        "question": "Which cytokine is produced by TH17 cells and is involved in recruiting neutrophils to sites of inflammation?",
+        "options": ["IL-2", "IL-4", "IL-17", "IL-10"],
+        "answer": "IL-17"
+    },
+    {
+        "question": "What type of immune response is associated with the deposition of immune complexes and subsequent inflammation in vessel walls?",
+        "options": ["Type I hypersensitivity", "Type II hypersensitivity", "Type III hypersensitivity", "Type IV hypersensitivity"],
+        "answer": "Type III hypersensitivity"
+    },
+    {
+        "question": "Which type of cells are directly involved in killing virus-infected cells through recognition of MHC class I molecules?",
+        "options": ["B cells", "CD4+ T cells", "CD8+ T cells", "Macrophages"],
+        "answer": "CD8+ T cells"
+    },
+    {
+        "question": "What is the principal manifestation of immune complex-mediated tissue injury in blood vessels?",
+        "options": ["Fibrinoid necrosis", "Granuloma formation", "Thrombosis", "Osteoclast activation"],
+        "answer": "Fibrinoid necrosis"
+    },
+    {
+        "question": "Which of the following is a key feature of chronic antibody-mediated rejection in organ transplantation?",
+        "options": ["Immediate onset", "Involves preformed antibodies", "Primarily affects vascular components", "Rapid organ failure"],
+        "answer": "Primarily affects vascular components"
+    },
+    {
+        "question": "Which cytokine is primarily produced by activated macrophages and stimulates other immune cells in inflammation?",
+        "options": ["IL-4", "IL-10", "TNF", "IL-17"],
+        "answer": "TNF"
+    },
+    {
+        "question": "Which type of immune response involves the production of autoantibodies against the Fc portion of IgG in rheumatoid arthritis?",
+        "options": ["Cell-mediated immunity", "Type I hypersensitivity", "Humoral immunity", "Innate immunity"],
+        "answer": "Humoral immunity"
+    },
+    {
+        "question": "Which type of immune cell is involved in the formation of granulomas during chronic inflammation?",
+        "options": ["B cells", "TH17 cells", "Macrophages", "Neutrophils"],
+        "answer": "Macrophages"
+    },
+    {
+        "question": "What is the main pathological feature observed in rheumatoid arthritis affecting joints?",
+        "options": ["Neutrophil infiltration", "Synovial hyperplasia", "Lymphoid organ formation", "Pannus formation"],
+        "answer": "Pannus formation"
+    },
+    {
+        "question": "Which immune complex disease involves necrosis of vessel walls due to immune complex deposition?",
+        "options": ["Arthus reaction", "Serum sickness", "Erythroblastosis fetalis", "Grave's disease"],
+        "answer": "Arthus reaction"
+    },
+    {
+        "question": "Which type of T cell secretes IL-21 to amplify its own response during inflammation?",
+        "options": ["TH1 cells", "TH2 cells", "TH17 cells", "Regulatory T cells"],
+        "answer": "TH17 cells"
+    },
+    {
+        "question": "What is the primary role of perforins secreted by CD8+ T cells?",
+        "options": ["Activate B cells", "Induce apoptosis", "Recruit neutrophils", "Stimulate cytokine production"],
+        "answer": "Induce apoptosis"
     }
 ]
