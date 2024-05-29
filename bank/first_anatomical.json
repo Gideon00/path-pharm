@@ -735,6 +735,56 @@
         "answer": ["T", "F", "F", "F", "F"]
     },
     {
+        "question": "Which component is deficient in Chronic Granulomatous Disease?",
+        "options": ["Phagocyte oxidase", "C1 inhibitor", "Properdin", "C3", "Factor D"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common complement deficiency?",
+        "options": ["C2", "C3", "C4", "C5", "C1 inhibitor"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the result of a deficiency in C1 inhibitor?",
+        "options": ["Hereditary angioedema", "Severe combined immunodeficiency", "Myasthenia gravis", "Chronic granulomatous disease", "Erythroblastosis fetalis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which gene mutation is associated with Bruton’s agammaglobulinemia?",
+        "options": ["BTK", "C1q", "IL-7 receptor", "ADA", "IL-15 receptor"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a characteristic feature of Chediak-Higashi syndrome?",
+        "options": ["Giant granules in leukocytes", "Decreased B cells", "Increased T cells", "Elevated IgE levels", "Decreased C3"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What type of hypersensitivity reaction is associated with immune complex deposition?",
+        "options": ["Type III", "Type I", "Type II", "Type IV", "Type V"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following diseases is due to defective fusion of phagosomes and lysosomes?",
+        "options": ["Chediak-Higashi syndrome", "Myasthenia gravis", "Grave’s disease", "Erythroblastosis fetalis", "Paroxysmal nocturnal hemoglobinuria"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which deficiency is most commonly associated with hereditary angioedema?",
+        "options": ["C1 inhibitor", "C3", "C2", "Factor D", "C4"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What characterizes severe combined immunodeficiency (SCID)?",
+        "options": ["Defects in both humoral and cell-mediated immunity", "Increased B cells", "Increased T cells", "Elevated IgE levels", "Decreased C3"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary defect in X-linked SCID?",
+        "options": ["Mutation in the common γ-chain subunit of cytokine receptors", "C3 deficiency", "C1 inhibitor deficiency", "BTK gene mutation", "ADA deficiency"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
         "question": "Which of the following is a characteristic feature of type I hypersensitivity?",
         "options": ["IgE antibody involvement", "Formation of immune complexes", "T-cell mediated cytotoxicity", "Delayed-type hypersensitivity"],
         "answer": ["T", "F", "F", "F"]
@@ -878,6 +928,20 @@
         "question": "Which of the following is characteristic of hypersensitivity pneumonitis?",
         "options": ["IgE-mediated reaction", "T-cell mediated inflammation", "Immune complex deposition", "Antibody-mediated cytotoxicity"],
         "answer": ["F", "T", "F", "F"]
-    }
+    },
+    {
+        "question": "Which of the following is a primary immunodeficiency?",
+        "options": ["Wiskott-Aldrich syndrome", "Diabetes mellitus", "HIV/AIDS", "Rheumatoid arthritis", "Lupus erythematosus"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common complement protein deficiency?",
+        "options": ["C1 deficiency", "C2 deficiency", "C3 deficiency", "C4 deficiency", "C5 deficiency"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which cells are primarily affected in X-linked lymphoproliferative syndrome?",
+        "options": ["B cells", "T cells", "Neutrophils", "Macrophages", "Natural killer cells"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
 ]
-
