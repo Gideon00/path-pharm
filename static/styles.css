@@ -160,6 +160,13 @@ body{
     text-align: center;
 }
 
+.examHeader {
+    background-color: rgb(190, 47, 37);
+    /* color: #fff; */
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
 .section {
     padding: 0.5rem 2rem 1rem 2rem;
 }
