@@ -71,6 +71,13 @@
     background-color: #4CAF50;
     cursor: pointer;
 }
+#exam_mode {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4c77af;
+    cursor: pointer;
+}
 .next:hover{
     background-color: #3e8e41;
 }
@@ -159,7 +166,6 @@ body{
     padding: 2rem 1rem;
     text-align: center;
 }
-
 .examHeader {
     background-color: rgb(190, 47, 37);
     /* color: #fff; */
@@ -167,6 +173,7 @@ body{
     padding: 2rem 1rem;
     text-align: center;
 }
+
 .section {
     padding: 0.5rem 2rem 1rem 2rem;
 }
