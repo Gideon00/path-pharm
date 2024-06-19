@@ -96,6 +96,16 @@ def index():
             if subject in triads:
                 session['region'] = f"{session['region']} PATHOLOGY"
             disable_next = True if start == len(question_bank) else False
+
+            # Check if User is in exam mode
+            if request.form.get("exam_mode") == "On":
+                return render_template("exam_mcq.html",
+                                   questions=question_bank[session["current_question_index"]], 
+                                   current_question_index=session["current_question_index"],
+                                   zip=zip,
+                                   disable_next=disable_next,
+                                   disable_previous=True, 
+                                   region=session["region"].title())
             return render_template("mcquiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    current_question_index=session["current_question_index"],
@@ -111,7 +121,15 @@ def index():
             disable_next = True if start == len(question_bank) else False
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
-            
+                
+            # Check if User is in exam mode
+            if request.form.get("exam_mode") == "On":
+                return render_template("exam_quiz.html", 
+                                   questions=question_bank[session["current_question_index"]], 
+                                   disable_next=disable_next,
+                                   disable_previous=True, 
+                                   current_question_index=session["current_question_index"], 
+                                   region=session["region"])
             return render_template("quiz.html", 
                                    questions=question_bank[session["current_question_index"]], 
                                    disable_next=disable_next,
@@ -315,3 +333,54 @@ def end():
                            region=session["region"])
 
 
+""" Exam Mode Starts here, this mode allows User to see questions and answers without answering anything """
+@app.route("/next_exam_mcq", methods=["POST"])
+def next_exam_mcq():
+    session["current_question_index"] += 1
+    return render_template("exam_mcq.html",
+                           questions=question_bank[session["current_question_index"]],
+                           current_question_index=session["current_question_index"],
+                           zip=zip, 
+                           region=session["region"],
+                           disable_previous=False, 
+                           disable_next=session["current_question_index"] == len(question_bank) - 1)
+
+
+@app.route("/next_exam_quiz", methods=["POST"])
+def next_exam_quiz():
+    # Update question index and move to next question
+    session["current_question_index"] += 1
+    session["current_num"] = session["current_num"] + 5
+    return render_template("exam_quiz.html",
+                           questions=question_bank[session["current_question_index"]], 
+                           disable_next=session["current_question_index"] == len(question_bank) - 1, 
+                           disable_previous=False,
+                           current_question_index=session["current_question_index"], 
+                           current_num=session["current_num"], score=session["score"], region=session["region"])
+
+
+@app.route("/previous_exam_mcq", methods=["POST"])
+def previous_exam_mcq():
+
+    session["current_question_index"] -= 1
+    
+    return render_template("exam_mcq.html", 
+                           questions=question_bank[session["current_question_index"]], 
+                           disable_next=False,
+                           disable_previous=session["current_question_index"] == session["start"], 
+                           current_question_index=session["current_question_index"],
+                           zip=zip, 
+                           region=session["region"])
+
+
+@app.route("/previous_exam_quiz", methods=["POST"])
+def previous_exam_quiz():
+    session["current_question_index"] -= 1
+    session["current_num"] = session["current_num"] - 5
+    return render_template("exam_quiz.html", 
+                           questions=question_bank[session["current_question_index"]], 
+                           disable_next=False, 
+                           disable_previous=session["current_question_index"] == session["start"], 
+                           current_question_index=session["current_question_index"], 
+                           current_num=session["current_num"],
+                           region=session["region"])
