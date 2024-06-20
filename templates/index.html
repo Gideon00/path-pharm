@@ -11,17 +11,16 @@
 
     <div class="container">
         <div class="section">
-            <h2>Pick a region for Best Choice (Only First Posting for now)</h2>
-            <hr>
-                <!-- Choose mode to work -->
-                <p>Read mode displays the answers to question
-                    alongside the question, thus ideal for last minute exam prep.
-                    You can Choose which mode to work on.
-                </p>
+            <!-- Choose mode to work -->
+            <p>Read mode displays the answers to question
+                alongside the question, thus ideal for last minute exam prep.
+                You can Choose which mode to work on.
+            </p>
                 Read Mode: <button id="exam_mode">Off</button>
+            <hr>
+            <br>
+                <h2>Pick a region for Best Choice (Only First Posting for now)</h2>
                 <hr>
-                <br><br>
-
                 <!-- Best Choice sesction -->
                 <form action="{{ url_for('index') }}" method="post">
                     {% for region in regions %}
