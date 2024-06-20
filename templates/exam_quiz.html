@@ -17,7 +17,6 @@
                 <ul class="invisible-numbering">
                     {% for option in questions['options'] %}
                     <li>
-                        <input type="radio" id="option-{{ loop.index }}" name="answer">
                         <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }}</label>
                     </li>
                     {% endfor %}
