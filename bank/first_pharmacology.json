@@ -2430,5 +2430,501 @@
             "F",
             "F"
         ]
+    },
+    {
+        "question": "Which of the following is a depolarizing neuromuscular blocker?",
+        "options": ["Mivacurium", "Succinylcholine", "Vecuronium", "Rocuronium", "Doxacurium"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker is known for causing histamine release leading to transient hypotension?",
+        "options": ["Atracurium", "Succinylcholine", "Pancuronium", "Vecuronium", "Rocuronium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of neuromuscular blockers?",
+        "options": ["Pain relief", "Muscle relaxation during surgery", "Treating infections", "Reducing fever", "Enhancing cognition"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is an absolute contraindication for the use of succinylcholine?",
+        "options": ["Hyperkalemia", "Hypertension", "Asthma", "Diabetes", "Hypothyroidism"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What class of drugs is used to reverse the effects of non-depolarizing neuromuscular blockers?",
+        "options": ["Anticholinergics", "Beta-blockers", "Anticholinesterases", "Diuretics", "Antibiotics"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a non-depolarizing neuromuscular blocker?",
+        "options": ["Succinylcholine", "Decamethonium", "Pancuronium", "Dantrolene", "Quinine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker is preferred in patients with liver failure?",
+        "options": ["Atracurium", "Pancuronium", "Vecuronium", "Succinylcholine", "Rocuronium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which phase of action is associated with persistent depolarization caused by succinylcholine?",
+        "options": ["Phase I", "Phase II", "Phase III", "Phase IV", "Phase V"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What side effect is commonly associated with succinylcholine?",
+        "options": ["Bradycardia", "Hypertension", "Hyperkalemia", "Hypokalemia", "Hypernatremia"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is used for reversing neuromuscular blockade?",
+        "options": ["Edrophonium", "Atropine", "Diazepam", "Baclofen", "Tizanidine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker is metabolized by plasma cholinesterase?",
+        "options": ["Mivacurium", "Vecuronium", "Pancuronium", "Rocuronium", "Doxacurium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which muscle relaxant has a long duration of action and is excreted mainly by the kidney?",
+        "options": ["Mivacurium", "Atracurium", "Pancuronium", "Vecuronium", "Rocuronium"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the preferred anticholinergic to prevent muscarinic side effects when using neostigmine for reversal?",
+        "options": ["Atropine", "Glycopyrrolate", "Diazepam", "Phenylephrine", "Propranolol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug can produce severe hyperkalemia in patients with extra-junctional receptors?",
+        "options": ["Dantrolene", "Vecuronium", "Rocuronium", "Succinylcholine", "Atracurium"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a symptom of malignant hyperthermia caused by succinylcholine?",
+        "options": ["Muscle rigidity", "Bradycardia", "Hypotension", "Hypothermia", "Confusion"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker is known to cause increased intraocular pressure?",
+        "options": ["Succinylcholine", "Vecuronium", "Rocuronium", "Pancuronium", "Atracurium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is a centrally acting skeletal muscle relaxant?",
+        "options": ["Baclofen", "Pancuronium", "Succinylcholine", "Dantrolene", "Rocuronium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker has the fastest onset of action?",
+        "options": ["Succinylcholine", "Vecuronium", "Rocuronium", "Pancuronium", "Atracurium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug should be avoided in patients with a history of malignant hyperthermia?",
+        "options": ["Vecuronium", "Rocuronium", "Succinylcholine", "Atracurium", "Pancuronium"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a common side effect of non-depolarizing neuromuscular blockers like d-tubocurarine?",
+        "options": ["Hypotension", "Hypertension", "Bradycardia", "Hyperkalemia", "Increased ICP"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following agents is used to enhance the response of neuromuscular blockers?",
+        "options": ["Phenytoin", "Carbamazepine", "Calcium", "Steroids", "Azathioprine"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the mechanism of action of non-depolarizing neuromuscular blockers?",
+        "options": ["Block nicotinic receptors", "Depolarize motor end plate", "Enhance acetylcholine release", "Inhibit acetylcholine synthesis", "Increase intra-gastric pressure"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition requires careful use of neuromuscular blockers due to increased sensitivity?",
+        "options": ["Myasthenia Gravis", "Diabetes", "Hypertension", "Hyperlipidemia", "Asthma"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is used as a muscle relaxant for treating tetanus and epileptic convulsion?",
+        "options": ["Gallamine", "Vecuronium", "Atracurium", "Succinylcholine", "Pancuronium"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker is known for causing hyperkalemia and should be avoided in patients with elevated serum potassium?",
+        "options": ["Vecuronium", "Rocuronium", "Atracurium", "Succinylcholine", "Doxacurium"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which neuromuscular blocker is metabolized by Hofmann elimination and suitable for patients with liver failure?",
+        "options": ["Pancuronium", "Vecuronium", "Atracurium", "Rocuronium", "Doxacurium"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is used for the diagnosis of Myasthenia Gravis?",
+        "options": ["Neostigmine", "Pyridostigmine", "Edrophonium", "Atropine", "Prednisolone"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Myasthenia gravis is characterized by weakness in which type of muscles?",
+        "options": ["Cardiac", "Smooth", "Skeletal", "Involuntary", "Visceral"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common initial symptom of myasthenia gravis?",
+        "options": ["Shortness of breath", "Ptosis", "Muscle cramps", "Chest pain", "Tachycardia"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibodies are typically involved in myasthenia gravis?",
+        "options": ["Anti-dsDNA", "Anti-AChR", "Anti-Smith", "Anti-Ro", "Anti-La"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What type of medication is typically first-line treatment for myasthenia gravis?",
+        "options": ["Beta-blockers", "Anticholinesterases", "Antibiotics", "Diuretics", "Antivirals"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition can mimic a myasthenic crisis but is due to excessive use of cholinesterase inhibitors?",
+        "options": ["Cholinergic crisis", "Hypoglycemic crisis", "Thyroid storm", "Addisonian crisis", "Cushing's syndrome"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a treatment option for myasthenic crisis?",
+        "options": ["Thyroidectomy", "Plasmapheresis", "Antibiotics", "Beta-blockers", "Diuretics"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which clinical test is used to diagnose myasthenia gravis?",
+        "options": ["Tensilon test", "Rinne test", "Weber test", "Schilling test", "Hoffman test"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary symptom of myasthenia gravis?",
+        "options": ["Fever", "Joint pain", "Muscle weakness", "Headache", "Nausea"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which medication is NOT typically associated with exacerbating myasthenia gravis?",
+        "options": ["Macrolides", "Beta-blockers", "Fluoroquinolones", "Anticholinesterases", "Aminoglycosides"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which autoimmune disease is commonly associated with myasthenia gravis?",
+        "options": ["Systemic lupus erythematosus", "Multiple sclerosis", "Hashimoto's thyroiditis", "Graves' disease", "Rheumatoid arthritis"],
+        "answer": ["F", "F", "T", "T", "T"]
+    },
+    {
+        "question": "What type of immunosuppressive therapy is commonly used in myasthenia gravis?",
+        "options": ["Cyclophosphamide", "Azathioprine", "Methotrexate", "Rituximab", "Cyclosporine"],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which medication is NOT used for the treatment of myasthenia gravis?",
+        "options": ["Pyridostigmine", "Neostigmine", "Tacrolimus", "Atropine", "Prednisolone"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which diagnostic test measures the variability in the firing of muscle fibers from the same motor unit?",
+        "options": ["Nerve conduction study", "Single fiber electromyography", "MRI", "CT scan", "Ultrasound"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the hallmark clinical feature of myasthenia gravis?",
+        "options": ["Fever", "Rash", "Fatigability", "Pain", "Swelling"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a symptom of myasthenia gravis?",
+        "options": ["Ptosis", "Diplopia", "Difficulty swallowing", "Bradycardia", "Muscle weakness"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which class of drugs is primarily used to increase acetylcholine levels at the neuromuscular junction in myasthenia gravis?",
+        "options": ["Anticholinergics", "Anticholinesterases", "Beta-blockers", "Diuretics", "Antibiotics"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which myasthenia gravis treatment involves removing antibodies from the bloodstream?",
+        "options": ["Thymectomy", "Plasmapheresis", "Radiation therapy", "Chemotherapy", "Immunotherapy"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following defines an adverse drug reaction (ADR) according to WHO?",
+        "options": [
+            "A beneficial response to a medicine",
+            "A noxious and unintended response to a medicine",
+            "A neutral response to a medicine",
+            "A response that occurs only at high doses",
+            "A predictable pharmacological effect"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of ADR is characterized by being dose-dependent and predictable?",
+        "options": [
+            "Type A (Augmented) Reaction",
+            "Type B (Bizarre) Reaction",
+            "Type C (Continuous) Reaction",
+            "Type D (Delayed) Reaction",
+            "Type E (End of treatment) Reaction"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which ADR is most commonly associated with prolonged use of antipsychotics?",
+        "options": [
+            "Analgesic nephropathy",
+            "Thrombocytopenia",
+            "Tardive dyskinesia",
+            "Serum sickness",
+            "Stevens-Johnson syndrome"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which type of hypersensitivity reaction is mediated by IgE antibodies?",
+        "options": [
+            "Type I reaction",
+            "Type II reaction",
+            "Type III reaction",
+            "Type IV reaction",
+            "Type V reaction"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is commonly associated with causing anaphylaxis?",
+        "options": [
+            "Aspirin",
+            "Penicillin",
+            "Paracetamol",
+            "Ibuprofen",
+            "Metformin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary treatment for an IgE-mediated Type I hypersensitivity reaction?",
+        "options": [
+            "NSAIDs",
+            "Antibiotics",
+            "Epinephrine",
+            "Antivirals",
+            "Antifungals"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of Type B (Bizarre) reactions?",
+        "options": [
+            "Dose-dependent",
+            "Predictable",
+            "Common in all patients",
+            "Not dose-dependent",
+            "Due to pharmacodynamic effects"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is an example of a Type IV (delayed cell-mediated) reaction?",
+        "options": [
+            "Anaphylaxis",
+            "Hemolytic anemia",
+            "Serum sickness",
+            "Contact dermatitis",
+            "Neutropenia"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which drug is known for causing a lupus-like syndrome?",
+        "options": [
+            "Aspirin",
+            "Metformin",
+            "Hydralazine",
+            "Ibuprofen",
+            "Amoxicillin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most appropriate management for a serious adverse drug reaction?",
+        "options": [
+            "Continue the medication",
+            "Increase the dose",
+            "Discontinue the medication",
+            "Switch to a different class of drugs",
+            "Use the same medication at a different time"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which laboratory test is used to evaluate a Type II (cytotoxic) reaction?",
+        "options": [
+            "Direct Coombs' test",
+            "Skin prick test",
+            "Patch test",
+            "Liver function test",
+            "Renal function test"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is an example of a Type III (immune complex) reaction?",
+        "options": [
+            "Anaphylaxis from penicillin",
+            "Hemolytic anemia from methyldopa",
+            "Serum sickness from anti-thymocyte globulin",
+            "Contact dermatitis from nickel",
+            "Erythema multiforme from sulfonamides"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which term refers to any unintended effect of a pharmaceutical product occurring at doses normally used in humans?",
+        "options": [
+            "Toxic effect",
+            "Side effect",
+            "Adverse event",
+            "Drug interaction",
+            "Pharmacokinetic effect"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which adverse drug reaction is associated with acetaminophen overdose?",
+        "options": [
+            "Hepatotoxicity",
+            "Nephrotoxicity",
+            "Cardiotoxicity",
+            "Neurotoxicity",
+            "Myotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following factors is a common risk for adverse drug reactions in elderly patients?",
+        "options": [
+            "High muscle mass",
+            "High body water content",
+            "Polypharmacy",
+            "Rapid metabolism",
+            "Strong immune response"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which drug can cause Stevens-Johnson syndrome?",
+        "options": [
+            "Carbamazepine",
+            "Lisinopril",
+            "Simvastatin",
+            "Metformin",
+            "Omeprazole"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is associated with the abrupt withdrawal of a drug?",
+        "options": [
+            "Type A reaction",
+            "Type B reaction",
+            "Type C reaction",
+            "Type D reaction",
+            "Type E reaction"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which type of adverse drug reaction involves a delayed onset and critical time exposure?",
+        "options": [
+            "Type A reaction",
+            "Type B reaction",
+            "Type C reaction",
+            "Type D reaction",
+            "Type E reaction"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which type of hypersensitivity reaction is associated with serum sickness?",
+        "options": [
+            "Type I",
+            "Type II",
+            "Type III",
+            "Type IV",
+            "Type V"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which type of adverse drug reaction is not dose-dependent and occurs only in some people?",
+        "options": [
+            "Type A",
+            "Type B",
+            "Type C",
+            "Type D",
+            "Type E"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which clinical feature is most commonly associated with an IgE-mediated drug reaction?",
+        "options": [
+            "Urticaria",
+            "Hemolytic anemia",
+            "Serum sickness",
+            "Contact dermatitis",
+            "Fixed drug eruption"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is associated with causing hemolytic anemia in patients with G6PD deficiency?",
+        "options": [
+            "Aspirin",
+            "Penicillin",
+            "Primaquine",
+            "Paracetamol",
+            "Metformin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which adverse drug reaction is characterized by a severe skin reaction involving mucous membranes?",
+        "options": [
+            "Erythema multiforme",
+            "Contact dermatitis",
+            "Urticaria",
+            "Stevens-Johnson syndrome",
+            "Fixed drug eruption"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which type of drug reaction can be evaluated using a lymphocyte proliferation assay?",
+        "options": [
+            "Type I (IgE-mediated)",
+            "Type II (cytotoxic)",
+            "Type III (immune complex)",
+            "Type IV (delayed cell-mediated)",
+            "Type V (pseudoallergic)"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which adverse drug reaction can be prevented by genetic testing for specific polymorphisms?",
+        "options": [
+            "Hypokalemia",
+            "Tardive dyskinesia",
+            "Drug-induced lupus",
+            "Carbamazepine-induced hypersensitivity",
+            "Acetaminophen toxicity"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
     }
 ]
+
