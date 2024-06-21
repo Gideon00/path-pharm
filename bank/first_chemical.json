@@ -473,6 +473,230 @@
         "question": "Which fluid compartment is referred to as the 'third space' in the context of fluid balance?",
         "options": ["Intracellular fluid", "Extracellular fluid", "Plasma", "Interstitial fluid", "Transcellular fluid"],
         "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What hormone is primarily released from the anterior pituitary?",
+        "options": ["Growth hormone", "Oxytocin", "Antidiuretic hormone", "Adrenaline", "Insulin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is regulated by the hypothalamus via the hypothalamo-pituitary portal system?",
+        "options": ["Corticotropin-releasing hormone (CRH)", "Insulin", "Glucagon", "Testosterone", "Estrogen"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary function of Antidiuretic Hormone (ADH)?",
+        "options": ["Regulate water balance", "Increase heart rate", "Stimulate growth", "Decrease blood pressure", "Promote glucose uptake"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which part of the pituitary gland releases oxytocin?",
+        "options": ["Posterior pituitary", "Anterior pituitary", "Intermediate pituitary", "Hypothalamus", "Adrenal gland"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of Growth Hormone (GH)?",
+        "options": ["Stimulate growth and cell reproduction", "Regulate calcium levels", "Promote sleep", "Reduce inflammation", "Control hunger"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone stimulates the adrenal cortex to produce cortisol?",
+        "options": ["Adrenocorticotropic hormone (ACTH)", "Thyroid-stimulating hormone (TSH)", "Luteinizing hormone (LH)", "Follicle-stimulating hormone (FSH)", "Prolactin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is known for its role in lactation?",
+        "options": ["Prolactin", "Oxytocin", "Insulin", "Thyroxine", "Adrenaline"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is inhibited by dopamine?",
+        "options": ["Prolactin", "Growth hormone", "ACTH", "TSH", "FSH"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is responsible for regulating the circadian rhythm?",
+        "options": ["Melatonin", "Cortisol", "Insulin", "Epinephrine", "Thyroxine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What hormone does the hypothalamus release to stimulate TSH production?",
+        "options": ["Thyrotropin-releasing hormone (TRH)", "Gonadotropin-releasing hormone (GnRH)", "Corticotropin-releasing hormone (CRH)", "Growth hormone-releasing hormone (GHRH)", "Somatostatin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone has a negative feedback effect on ACTH secretion?",
+        "options": ["Cortisol", "Aldosterone", "Testosterone", "Estrogen", "Progesterone"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone directly influences metabolic rate and protein synthesis?",
+        "options": ["Thyroxine", "Insulin", "Glucagon", "Epinephrine", "Aldosterone"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is known to have anti-inflammatory effects?",
+        "options": ["Cortisol", "Prolactin", "Growth hormone", "Insulin", "Oxytocin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is produced by the hypothalamus and stored in the posterior pituitary?",
+        "options": ["Oxytocin", "Growth hormone", "Prolactin", "TSH", "ACTH"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary function of Luteinizing Hormone (LH) in females?",
+        "options": ["Trigger ovulation", "Stimulate milk production", "Regulate blood sugar", "Increase heart rate", "Control appetite"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme deficiency leads to phenylketonuria (PKU)?",
+        "options": ["Phenylalanine hydroxylase", "Tyrosinase", "Hexosaminidase A", "G6PD", "Glucocerebrosidase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary treatment for galactosemia?",
+        "options": ["Dietary restriction of galactose", "Insulin therapy", "Liver transplant", "Bone marrow transplant", "Enzyme replacement therapy"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which metabolic disorder is characterized by the accumulation of homogentisic acid?",
+        "options": ["Alkaptonuria", "Maple syrup urine disease", "Phenylketonuria", "Homocystinuria", "Gaucher disease"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main clinical feature of Tay-Sachs disease?",
+        "options": ["Progressive neurological deterioration", "Hypoglycemia", "Hyperammonemia", "Hyperuricemia", "Hemolytic anemia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which inborn error of metabolism involves a defect in the urea cycle?",
+        "options": ["Ornithine transcarbamylase deficiency", "Phenylketonuria", "Maple syrup urine disease", "Homocystinuria", "Fabry disease"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is deficient in Gaucher disease?",
+        "options": ["Glucocerebrosidase", "Hexosaminidase A", "Phenylalanine hydroxylase", "Tyrosinase", "Adenosine deaminase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which disorder is treated with a low-protein diet to manage symptoms?",
+        "options": ["Phenylketonuria", "Diabetes mellitus", "Hyperthyroidism", "Gout", "Hemophilia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common clinical feature of G6PD deficiency?",
+        "options": ["Hemolytic anemia", "Mental retardation", "Liver enlargement", "Kidney failure", "Muscle weakness"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which inborn error of metabolism is associated with the 'mousy' odor of urine?",
+        "options": ["Phenylketonuria", "Maple syrup urine disease", "Alkaptonuria", "Galactosemia", "Homocystinuria"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the treatment for patients with maple syrup urine disease?",
+        "options": ["Dietary restriction of branched-chain amino acids", "Insulin therapy", "Enzyme replacement therapy", "Liver transplant", "Gluten-free diet"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme deficiency causes Lesch-Nyhan syndrome?",
+        "options": ["Hypoxanthine-guanine phosphoribosyltransferase (HPRT)", "Phenylalanine hydroxylase", "Hexosaminidase A", "G6PD", "Tyrosinase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a major clinical feature of Niemann-Pick disease?",
+        "options": ["Hepatosplenomegaly", "Hyperglycemia", "Hypothyroidism", "Hyperammonemia", "Cataracts"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which amino acid accumulates in homocystinuria?",
+        "options": ["Homocysteine", "Phenylalanine", "Valine", "Tyrosine", "Lysine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the treatment approach for Fabry disease?",
+        "options": ["Enzyme replacement therapy", "Dietary restriction", "Liver transplant", "Bone marrow transplant", "Insulin therapy"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which disorder results from a deficiency of the enzyme alpha-galactosidase A?",
+        "options": ["Fabry disease", "Gaucher disease", "Tay-Sachs disease", "Phenylketonuria", "Maple syrup urine disease"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary goal of quality assurance in healthcare?",
+        "options": ["Ensure patient safety", "Increase hospital revenue", "Reduce staff workload", "Enhance patient comfort", "Improve medical technology"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key component of quality assurance?",
+        "options": ["Standardization of procedures", "Increase in patient fees", "Reduction of staff", "Expansion of hospital facilities", "Introduction of new services"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of clinical audits in quality assurance?",
+        "options": ["Monitor and improve patient care", "Increase hospital profits", "Reduce administrative tasks", "Enhance building infrastructure", "Expand patient base"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which quality assurance process involves comparing outcomes to standards?",
+        "options": ["Benchmarking", "Accreditation", "Licensing", "Certification", "Standardization"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common method for collecting patient feedback in quality assurance?",
+        "options": ["Surveys", "Revenue reports", "Staff meetings", "Equipment audits", "Building inspections"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which organization is known for setting healthcare quality standards?",
+        "options": ["Joint Commission", "World Bank", "UNICEF", "FDA", "IMF"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main purpose of accreditation in healthcare?",
+        "options": ["Ensure compliance with standards", "Increase hospital size", "Reduce patient numbers", "Enhance marketing efforts", "Maximize profits"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is an example of a performance indicator in quality assurance?",
+        "options": ["Patient satisfaction rates", "Hospital expansion plans", "Revenue growth", "Number of new services", "Staff turnover rates"],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is a primary benefit of implementing quality assurance programs?",
+        "options": ["Improved patient outcomes", "Increased patient fees", "Reduced staff salaries", "Enhanced hospital size", "Decreased medical research"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which tool is commonly used to identify areas for improvement in healthcare quality?",
+        "options": ["SWOT analysis", "Marketing strategy", "Revenue analysis", "Staffing plan", "Construction plan"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which factor is crucial for the success of a quality assurance program?",
+        "options": ["Staff involvement", "Increase in patient fees", "Expansion of hospital facilities", "Reduction of medical research", "Enhancement of marketing efforts"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which activity is part of continuous quality improvement (CQI)?",
+        "options": ["Regular training for staff", "Increasing patient numbers", "Maximizing revenue", "Building new facilities", "Expanding hospital services"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main focus of quality control in healthcare?",
+        "options": ["Monitor compliance with standards", "Increase patient admissions", "Enhance hospital infrastructure", "Reduce operating costs", "Expand service offerings"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which term refers to the systematic evaluation of the quality of patient care?",
+        "options": ["Clinical audit", "Financial audit", "Marketing audit", "Operational audit", "Construction audit"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of effective quality assurance programs?",
+        "options": ["Evidence-based practices", "Increased patient fees", "Staff reductions", "Infrastructure expansion", "New service development"],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
-
