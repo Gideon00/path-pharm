@@ -248,6 +248,231 @@
         "question": "Which of the following can trigger hemolytic anemia in individuals with G6PD deficiency?",
         "options": ["Primaquine", "Sulfonamides", "Aspirin", "Fava Beans", "All of the above"],
         "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the pH range of normal blood?",
+        "options": ["6.8 - 7.2", "7.0 - 7.3", "7.35 - 7.45", "7.5 - 7.6", "7.2 - 7.4"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a volatile acid in the body?",
+        "options": ["H2SO4", "HCl", "H2CO3", "Lactic acid", "Acetoacetic acid"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "The Henderson-Hasselbalch equation is used to calculate:",
+        "options": ["pH", "HCO3-", "pCO2", "Base excess", "Buffer capacity"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following organs is primarily responsible for the regulation of acid-base balance?",
+        "options": ["Liver", "Kidney", "Heart", "Lungs", "Brain"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which buffer system is the most important in extracellular fluid?",
+        "options": ["Hemoglobin buffer system", "Phosphate buffer system", "Protein buffer system", "Bicarbonate buffer system", "Ammonia buffer system"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following can lead to metabolic acidosis?",
+        "options": ["Excessive vomiting", "Diabetes mellitus", "Hyperventilation", "Excessive intake of antacids", "Renal failure"],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "The primary response to metabolic acidosis is:",
+        "options": ["Increased renal HCO3- excretion", "Decreased respiratory rate", "Increased respiratory rate", "Decreased renal HCO3- reabsorption", "Increased renal HCO3- reabsorption"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Ammoniagenesis occurs in which part of the nephron?",
+        "options": ["Proximal tubule", "Distal tubule", "Collecting duct", "Loop of Henle", "Glomerulus"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme catalyzes the formation of carbonic acid from carbon dioxide and water?",
+        "options": ["Carbonic anhydrase", "Hydrogenase", "Oxidase", "Dehydrogenase", "Reductase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "A decrease in pH corresponds to an increase in:",
+        "options": ["HCO3- concentration", "H+ concentration", "pCO2", "Oxygen saturation", "Base excess"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is an example of a non-volatile acid?",
+        "options": ["H2CO3", "HCl", "CO2", "H2SO4", "NH3"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Respiratory compensation for metabolic alkalosis involves:",
+        "options": ["Hyperventilation", "Hypoventilation", "Increased renal H+ excretion", "Decreased renal HCO3- reabsorption", "Increased renal NH3 production"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "The anion gap is calculated to evaluate:",
+        "options": ["Osmotic balance", "Electrolyte imbalance", "Acid-base disorders", "Renal function", "Liver function"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following acts as a buffer in the blood?",
+        "options": ["Glucose", "Albumin", "Hemoglobin", "Creatinine", "Lactate"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which organ plays a major role in compensating for chronic respiratory acidosis?",
+        "options": ["Liver", "Kidney", "Heart", "Lungs", "Spleen"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a function of lipids in the body?",
+        "options": ["Energy storage", "Hormone production", "Insulation", "Cell membrane structure", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a sterol derivative?",
+        "options": ["Cholesterol", "Fatty acids", "Triglycerides", "Sphingomyelin", "Terpenes"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which organ is the primary site for cholesterol synthesis?",
+        "options": ["Liver", "Kidney", "Intestine", "Adipose tissue", "Pancreas"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary function of HDL in lipid metabolism?",
+        "options": ["Transport triglycerides", "Store fat", "Transport cholesterol to the liver", "Synthesize fatty acids", "Produce bile acids"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is responsible for the esterification of cholesterol in the blood?",
+        "options": ["HMG-CoA reductase", "Lipoprotein lipase", "Lecithin-cholesterol acyltransferase", "Acyl-CoA cholesterol acyltransferase", "Hormone-sensitive lipase"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which lipoprotein is known as 'bad cholesterol'?",
+        "options": ["HDL", "LDL", "VLDL", "IDL", "Chylomicron"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which fatty acid is considered essential?",
+        "options": ["Oleic acid", "Linoleic acid", "Stearic acid", "Palmitic acid", "Myristic acid"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which apolipoprotein is primarily found in HDL?",
+        "options": ["Apo A", "Apo B100", "Apo C", "Apo E", "Apo B48"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a primary function of bile acids?",
+        "options": ["Protein synthesis", "Fat digestion", "Carbohydrate metabolism", "Hormone regulation", "Electrolyte balance"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which lipoprotein is synthesized in the liver and primarily transports triglycerides?",
+        "options": ["HDL", "LDL", "VLDL", "IDL", "Chylomicron"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of saturated fatty acids?",
+        "options": ["Contains no double bonds", "Liquid at room temperature", "Lower melting point", "Derived from plants", "Includes omega-3 fatty acids"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary function of lipoprotein lipase?",
+        "options": ["Hydrolyze triglycerides in lipoproteins", "Synthesize cholesterol", "Transport fatty acids", "Activate HDL", "Inhibit lipolysis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which lipoprotein has the highest triglyceride content?",
+        "options": ["HDL", "LDL", "VLDL", "IDL", "Chylomicron"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following conditions is associated with hyperlipidemia?",
+        "options": ["Atherosclerosis", "Hypothyroidism", "Diabetes mellitus", "Obesity", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which enzyme is the rate-limiting step in cholesterol synthesis?",
+        "options": ["Lecithin-cholesterol acyltransferase", "Hormone-sensitive lipase", "HMG-CoA reductase", "Lipoprotein lipase", "Acyl-CoA cholesterol acyltransferase"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What percentage of total body weight is water in adult males?",
+        "options": ["30%", "40%", "50%", "60%", "70%"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which compartment contains the largest percentage of body water?",
+        "options": ["Intracellular fluid", "Extracellular fluid", "Plasma", "Interstitial fluid", "Transcellular fluid"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major cation in the extracellular fluid?",
+        "options": ["Potassium", "Sodium", "Calcium", "Magnesium", "Phosphate"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the normal range of serum osmolality?",
+        "options": ["275-295 mOsm/kg", "250-270 mOsm/kg", "300-320 mOsm/kg", "220-240 mOsm/kg", "290-310 mOsm/kg"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is primarily responsible for water reabsorption in the kidneys?",
+        "options": ["Aldosterone", "Antidiuretic hormone", "Renin", "Angiotensin II", "Cortisol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is characterized by hyponatremia?",
+        "options": ["Dehydration", "Diabetes insipidus", "Syndrome of inappropriate antidiuretic hormone secretion (SIADH)", "Hyperaldosteronism", "Cushing's syndrome"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary stimulus for the release of aldosterone?",
+        "options": ["High blood glucose", "Low blood pressure", "High blood pressure", "Low blood glucose", "Increased body temperature"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following ions is the main determinant of plasma osmolality?",
+        "options": ["Potassium", "Sodium", "Calcium", "Magnesium", "Phosphate"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which electrolyte imbalance is commonly seen in patients with chronic kidney disease?",
+        "options": ["Hypokalemia", "Hyperkalemia", "Hyponatremia", "Hypocalcemia", "Hypernatremia"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which hormone is primarily involved in the regulation of sodium balance?",
+        "options": ["Insulin", "Glucagon", "Aldosterone", "Cortisol", "Parathyroid hormone"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following mechanisms does NOT contribute to maintaining water and electrolyte balance?",
+        "options": ["Thirst mechanism", "Kidney function", "Respiratory rate", "Skin perspiration", "Dietary intake"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which ion exchange is involved in the regulation of acid-base balance in the kidneys?",
+        "options": ["H+ for Na+", "K+ for Cl-", "H+ for K+", "Na+ for Ca2+", "H+ for HCO3-"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the effect of antidiuretic hormone (ADH) on the kidneys?",
+        "options": ["Increases urine output", "Decreases urine output", "Increases sodium excretion", "Decreases potassium reabsorption", "Increases calcium absorption"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which electrolyte imbalance can result from excessive use of diuretics?",
+        "options": ["Hypernatremia", "Hyponatremia", "Hyperkalemia", "Hypercalcemia", "Hypokalemia"],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which fluid compartment is referred to as the 'third space' in the context of fluid balance?",
+        "options": ["Intracellular fluid", "Extracellular fluid", "Plasma", "Interstitial fluid", "Transcellular fluid"],
+        "answer": ["F", "F", "F", "F", "T"]
     }
 ]
 
