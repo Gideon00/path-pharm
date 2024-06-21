@@ -943,5 +943,5 @@
         "question": "Which cells are primarily affected in X-linked lymphoproliferative syndrome?",
         "options": ["B cells", "T cells", "Neutrophils", "Macrophages", "Natural killer cells"],
         "answer": ["F", "T", "F", "F", "F"]
-    },
+    }
 ]
