@@ -22,7 +22,10 @@
                 <!-- Best Choice sesction -->
                 <form action="{{ url_for('index') }}" method="post">
                     {% for region in regions %}
-                    <input type="radio" name="region" value="{{ region }}">{{ region }}<br>
+                    <label>
+                        <input type="radio" name="region" value="{{ region }}">
+                        {{ region }}<br>
+                    </label>
                     {% endfor %}
                     
                     <br><br>
