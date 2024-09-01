@@ -37,12 +37,22 @@
                 <form action="{{ url_for('index') }}" method="post">
                     <div class="questContainer">
                     {% for i in range(3) %}
-                        <div class="questColumn">
-                            {% for j in range(5) %}
-                                <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}">{{ mcq_regions[i*5 + j] }}<br>
-                            {% endfor %}
-                        </div>
-                    {% endfor %}
+                            <div class="questColumn">
+                                {% for j in range(5) %}
+                                    {% if "First Posting" in mcq_regions[i*5 + j] %}
+                                        <label>
+                                            <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}">
+                                            {{ mcq_regions[i*5 + j] }}<br>
+                                        </label>
+                                    {% else %}
+                                        <label>
+                                            <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}" disabled>
+                                            {{ mcq_regions[i*5 + j] }}<br>
+                                        </label>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        {% endfor %}
                     </div>
                     <br><br>
                     
