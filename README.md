@@ -6,7 +6,7 @@ This web app was developed by a Ocholi, with the assistance of Natural Language 
 
 ## Features
 
-- **Question Bank**: A comprehensive database of questions and answers derived from lecture notes.
+- **Question Bank**: A comprehensive database of questions and answers derived from lecture notes
 - **NLP Integration**: Utilizes NLP to extract and generate content from lecture notes.
 - **ML Algorithms**: Employs ML models to ensure the relevance and accuracy of the generated questions and answers.
 - **User Interface**: An intuitive and user-friendly interface for interacting with the question bank.
