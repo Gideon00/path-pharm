@@ -1,0 +1,72 @@
+{% extends "layout.html" %}
+
+{% block script %}
+    <script>
+        function toggle()
+        {
+            let scoe = document.querySelector('#score');
+            if (scoe.style.visibility == 'hidden')
+            {
+                score.style.visibility = 'visible';
+                document.querySelector('#hide').innerHTML = 'Hide Score';
+            }
+            else
+            {
+                score.style.visibility = 'hidden'
+                document.querySelector('#hide').innerHTML = 'See Score';
+            }
+        }
+    </script>
+{% endblock %}
+
+{% block title %}
+    {{ region }} Quiz
+{% endblock %}
+
+{% block main %}
+    <div class="header">
+        <h1>Practice MCQs!</h1>
+        <h3>{{ region }}</h3>
+        {% if session.picture %}
+            <img class="profile_img" src="{{ session['picture'] }}">
+        {% else %}
+            <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}">
+        {% endif %}
+    </div>
+    <div class="question-display">
+        <div class="drug-label">
+            
+            <h2>{{ current_question_index + 1}}. {{ questions['question'] }}</h2>
+            <div id="options">
+                <ul class="invisible-numbering">
+                    <form action="{{ url_for('next_mcq_question') }}" method="post">
+                        {% for option in questions['options'] %}
+                            <li class="question-item">
+                                <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }}</label>
+                                <div class="radio-group">
+                                <label style="float: right;">F<input style="float: right;" type="radio" id="option-{{ loop.index }}" value="F" name="group{{ loop.index }}"></label>
+                                <label style="float: right;">T<input style="float: right; margin-right: 15px" type="radio" id="option-{{ loop.index }}" value="T" name="group{{ loop.index }}"></label>
+                                </div>
+                            </li>
+                        {% endfor %}
+                        <br><br>
+                        <div id="nextPrev">
+                            <input formaction="/previous_mcq" class="Previous" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled {% endif %}>
+                            <input formaction="/end_of_mcq" class="end" type="submit" value="End">
+                            <input class="next" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
+                        </div>
+                    </form>
+                    
+                </ul>
+            </div>
+        </div>
+        <p style="visibility: hidden;" id="score"> score = {{ current_score }} </p>
+        <form onsubmit="toggle(); return false;">
+            <button class="toggle" id="hide">See Score</button>
+        </form>
+        
+    </div>
+    <p style="float: right; margin-right: 5px;">{{ current_question_index + 1 }}/{{ total_quiz }}</p>
+    <br>
+<!-- TODO -->
+{% endblock %}

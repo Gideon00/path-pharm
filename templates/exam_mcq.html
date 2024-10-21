@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    {{ region }} Quiz
+{% endblock %}
+
+{% block main %}
+    <div class="examHeader">
+        <h1>Read Mode MCQs Practice!</h1>
+        <h3>{{ region }}</h3>
+        {% if session.picture %}
+            <img class="profile_img" src="{{ session['picture'] }}">
+        {% else %}
+            <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}">
+        {% endif %}
+    </div>
+    <div class="question-display">
+        <div class="drug-label">
+            
+            <h2>{{ current_question_index + 1}}. {{ questions['question'] }}</h2>
+            <div id="options">
+                <ul class="invisible-numbering">
+                    <form action="{{ url_for('next_exam_mcq') }}" method="post">
+                        
+                        {% for option, answer in zip(questions['options'], questions['answer']) %}
+                            <li class="question-item">
+                                <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }} <strong>{{ answer }}</strong></label>
+                            </li>
+                        {% endfor %}
+                        <br><br>
+                        <div id="nextPrev">
+                            <input formaction="/previous_exam_mcq" class="Previous" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled {% endif %}>
+                            <input class="next" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
+                        </div>
+                    </form>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+    <p style="float: right; margin-right: 5px;">{{ current_question_index + 1 }}/{{ total_quiz }}</p>
+    <br>
+
+<!-- TODO -->
+{% endblock %}

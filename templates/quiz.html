@@ -1,0 +1,78 @@
+{% extends "layout.html" %}
+
+{% block script %}
+    <script src="static/script/quiz.js"></script>
+    <script>
+        function toggle()
+        {
+            let scoe = document.querySelector('#score');
+            if (scoe.style.visibility == 'hidden')
+            {
+                score.style.visibility = 'visible';
+                document.querySelector('#hide').value = 'hide';
+            }
+            else
+            {
+                score.style.visibility = 'hidden'
+                document.querySelector('#hide').value = 'see';
+            }
+        }
+    </script>
+{% endblock %}
+
+{% block title %}
+    {{ region }} Quiz
+{% endblock %}
+    
+{% block main %}
+    <div class="header">
+        <h1>Practice Best Choice!</h1>
+        <h3>{{ region }}</h3>
+        {% if session.picture %}
+            <center><img class="profile_img" src="{{ session['picture'] }}"></center>
+        {% else %}
+            <center><img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}"></center>
+        {% endif %}
+    </div>
+    <div class="question-display">
+        <div class="drug-label">
+            <!-- <label type="hidden">{{ current_question_index + 1}}</label> -->
+            <h2>{{ current_question_index + 1}}. {{ questions['question'] }}</h2>
+            <div id="options">
+                <ul class="invisible-numbering">
+                    {% for option in questions['options'] %}
+                    <li>
+                        <input type="radio" id="option-{{ loop.index }}" name="answer" value="{{ option }}">
+                        <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }}</label>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <p>{{ current_question_index + 1 }}/{{ total_quiz }}</p>
+        <p style="visibility: hidden;" id="score"> score = {{ current_score }} </p>
+        <!-- <h3 style="visibility: hidden;" id="score">Current score is {{ score }}</h3> -->
+        <!-- Bottom buttons -->
+        <div id="nextPrev">
+            <form style="margin-left: 5px;" action="{{ url_for('previous_question') }}" method="post">
+                <input class="Previous" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled
+                    {% endif %}>
+            </form>
+            
+            <form action="{{ url_for('end') }}" method="post">
+                <input id="end_answer" name="endquiz" value="student_answer" type="hidden">
+                <input class="end" type="submit" value="End">
+            </form>
+            
+            <form onsubmit="toggle(); return false;">
+                <button class="toggle" id="hide">See Score</button>
+            </form>
+
+            <form style="margin-right: 5px;" action="{{ url_for('next_question') }}" method="post">
+                <input id="next_answer" name="proceed" value="student_answer" type="hidden">
+                <input class="next" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
+            </form>
+        </div>
+    </div>
+
+{% endblock %}

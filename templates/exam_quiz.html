@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    {{ region }} Quiz
+{% endblock %}
+    
+{% block main %}
+    <div class="examHeader">
+        <h1>Read Mode Best Choice Practice!</h1>
+        <h3>{{ region }}</h3>
+        {% if session.picture %}
+            <img class="profile_img" src="{{ session['picture'] }}">
+        {% else %}
+            <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}">
+        {% endif %}
+    </div>
+    <div class="question-display">
+        <div class="drug-label">
+            <!-- <label type="hidden">{{ current_question_index + 1}}</label> -->
+            <h2>{{ current_question_index + 1}}. {{ questions['question'] }}</h2>
+            <div id="options">
+                <ul class="invisible-numbering">
+                    {% for option in questions['options'] %}
+                    <li>
+                        <label for="option-{{ loop.index }}">{{ loop.index | number_to_upper }}. {{ option }}</label>
+                    </li>
+                    {% endfor %}
+                    <br>
+                    <p>The Answer is: <strong>{{ questions['answer'] }}</strong></p>
+                </ul>
+            </div>
+        </div>
+
+        <p>{{ current_question_index + 1 }}/{{ total_quiz }}</p>
+        <h3 style="visibility: hidden;" id="score">Current score is {{ score }}</h3>
+        <!-- Bottom buttons -->
+        <div id="nextPrev">
+            <form action="{{ url_for('previous_exam_quiz') }}" method="post">
+                <input class="Previous" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled
+                    {% endif %}>
+            </form>
+
+            <form action="{{ url_for('next_exam_quiz') }}" method="post">
+                <input id="next_answer" name="proceed" value="student.answer" type="hidden">
+                <input class="next" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
+            </form>
+        </div>
+    </div>
+
+{% endblock %}

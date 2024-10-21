@@ -1,0 +1,41 @@
+{% extends "layout.html" %} {% block title %} Rankers Page {% endblock %}
+
+{% block main %}
+<div class="table">
+    <center><h2>Crème de la Crème</h2></center>
+    <table>
+        <thead>
+            <th>Name</th>
+            <th>Rank</th>
+            <th>course</th>
+            <th>Format</th>
+            <th>Questions Atempted</th>
+            <th>Score in percentage</th>
+            <th>Consistency</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{ king.name }}</td>
+                <td>{{ king.rank }}</td>
+                <td>{{ king.course }}</td>
+                <td>{{ king.format }}</td>
+                <td>{{ king.total_quests }}</td>
+                <td>{{ king.score }}%</td>
+                <td>{{ king.streak }}</td>
+            </tr>
+            {% for candidate in candidates %}
+            <tr id="{% if candidate.tower_status == 'High Ranker' %}high-ranker{% elif candidate.tower_status == 'Ranker' %}ranker{% endif %}">
+                    <td>{{ candidate.name }}</td>
+                    <td>{{ candidate.tower_status }}</td>
+                    <td>{{ candidate.course }}</td>
+                    <td>{{ candidate.format }}</td>
+                    <td>{{ candidate.total_quests }}</td>
+                    <td>{{ ((candidate.highest_score / candidate.total_quests) * 100) | round(2) }}%</td>
+                    <td>{{ candidate.streak }} {{ 'Day' if candidate.streak == 1 else 'Days' }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}
