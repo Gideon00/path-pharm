@@ -42,9 +42,6 @@ Session(app)
 # Ensure templates are auto-reloaded
 app.config["TEMPLATES_AUTO_RELOAD"] = True
 
-# Configure CS50 Library to use SQLite database
-# db = SQL(os.getenv("CS50SQL"))
-
 # Configure CS50 Library to use PostgreSQL database
 db = SQL(os.getenv("POSTGRESQL"))
 
