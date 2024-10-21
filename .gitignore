@@ -1,0 +1,53 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon\r\r
+[Tt]humbs.db
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sublime-project
+*.sublime-workspace
+
+# Ignore package manager files
+node_modules/
+vendor/
+__pycache__/
+.vscode/
+pip-debug.log
+requirements.txt
+
+# Ignore build and compilation files
+build/
+dist/
+*.min.js
+*.min.css
+
+# Ignore configuration files
+.hintrc
+.env
+README.md
+config.json
+settings.json
+client_secret.json
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore database files
+*.db
+*.sqlite
+*.sql
+
+# Ignore other files
+*.env
+*.bak
+*.tmp
+*.swp
+*.swo
