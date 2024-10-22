@@ -48,8 +48,11 @@ db = SQL(os.getenv("POSTGRESQL"))
 os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = os.getenv("NUM")
 
 GOOGLE_CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID")
+# Path for Development environment
+# client_secrets_file = os.path.join(pathlib.Path(__file__).parent, "client_secret.json")
 
-client_secrets_file = os.path.join(pathlib.Path(__file__).parent, "client_secret.json")
+# Path for Production
+client_secrets_file = "/etc/secrets/client_secret.json"
 
 flow = Flow.from_client_secrets_file(
     client_secrets_file=client_secrets_file,
