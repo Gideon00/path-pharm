@@ -13,7 +13,7 @@ from google.oauth2 import id_token
 from pip._vendor import cachecontrol
 import google.auth.transport.requests
 from google_auth_oauthlib.flow import Flow
-from flask import Flask, abort, redirect, render_template, request, session
+from flask import Flask, abort, redirect, render_template, request, session, url_for
 from helpers import (
     MCQ_REGIONS,
     REGIONS,
@@ -101,6 +101,11 @@ def signin():
 
 @app.route("/login")
 def login():
+    # Dynamically generate the redirect URI
+    redirect_uri = url_for('callback', _external=True)
+    print("\n")
+    print(f'Redirect URI: {redirect_uri}')  # This will print the URI to your console/logs
+    print("\n")
     authorization_url, state = flow.authorization_url()
     session["state"] = state
     return redirect(authorization_url)
