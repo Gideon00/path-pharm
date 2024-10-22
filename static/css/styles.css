@@ -275,7 +275,10 @@ table {
    background-color: transparent;
    width: 100%;
 }
-
+td, th {
+    white-space: normal; /* Only needed when it's set differntly somewhere else */
+    word-wrap: break-word;
+}
 table th,
 table td {
     padding: 0.75rem;
