@@ -31,25 +31,6 @@ nav .navbar-brand .green
 {
     color: #2e944b;
 }
-nav .navbar-nav .nav-item .nav-link
-{
-   color: black;
-}
-nav .navbar-nav .nav-item .nav-link:hover {
-    color: blue; /* Change to your desired hover color */
-    transition: color 0.2s ease-in-out;
-}
-nav .navbar-nav .nav-item .nav-link {
-    transition: color 0.2s ease-in-out;
-}
-
-nav .navbar-nav .nav-item:hover {
-    background-color: antiquewhite; /* Change to your desired hover color */
-    transition: color 0.2s ease-in-out;
-}
-nav .navbar-nav .nav-item {
-    transition: color 0.2s ease-in-out;
-}
 
 .question-display {
     display: flex;
@@ -285,8 +266,8 @@ body{
 .profile_img {
     align-items: center;
     border-radius: 50%;
-    width: 35px;
-    height: 35px;
+    width: 32px;
+    height: 32px;
 }
 
 /* Rankings Page */
