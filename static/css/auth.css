@@ -1,9 +1,7 @@
 html, body {
     margin: 0;
     height: 100%;
-    /* background-color: rgb(255, 206, 143); */
     background: linear-gradient(180deg, #FFDEB3 0%, #FFDEB1 32.5%, #FFCE8D 64%, #FFCF8F 100%);
-
 }
 
 label {
@@ -15,6 +13,7 @@ label {
     letter-spacing: 1px;
     display: block;
 }
+
 .twoFactor p {
     padding: 10px;
     border: 1px solid #8a8787;
@@ -22,9 +21,11 @@ label {
 }
 .twoFactor p:hover {
     background-color: #3f2f19;
+    color: antiquewhite;
 }
 .byepas input:hover {
     background-color: #3f2f19;
+    color: antiquewhite;
 }
 input, button {
     width: 250px;
@@ -47,51 +48,16 @@ a {
 }
 .parent {
     display: flex;
+    flex-direction: column;
     height: 100%;
     width: 100%;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 0;
 }
 
-
-.imgSplit {
-    display: flex;
-    width: 40%;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-}
-.imgSplit img {
-    height: 100%;
-    width: 100%;
-    border-top-right-radius: 3%;
-    border-bottom-right-radius: 3%;
-}
-
-
-.txtSplit {
-    display: flex;
-    flex-direction: column;
-    width: 60%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 20px;
-}
-
 .twoFactor {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: 10px;
-}
-
-/* Make Page Responsive */
-@media screen and (max-width: 768px) {
-    .imgSplit {
-        display: none;
-    }
-    .txtSplit {
-        width: 100%;
-    }
 }
