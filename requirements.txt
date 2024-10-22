@@ -6,8 +6,8 @@ psycopg2-binary
 python-dotenv
 Flask-Session
 cs50
-google-auth
-google-auth-oauthlib
+google-auth==1.27.0
+google-auth-oauthlib==0.4.2
 google-auth-transport-requests
 cachecontrol
 asyncio
