@@ -5,7 +5,6 @@ import sqlite3
 import requests
 import psycopg2
 from cs50 import SQL
-from asyncio import threads
 from tempfile import mkdtemp
 from dotenv import load_dotenv
 from flask_session import Session
@@ -23,6 +22,7 @@ from helpers import (
     number_to_upper,
     query,
     mcq_query,
+    triads
 )
 
 
@@ -222,7 +222,7 @@ def index():
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
 
-            if subject in threads:
+            if subject in triads:
                 session["region"] = f"{session['region']} PATHOLOGY"
             disable_next = True if start == len(question_bank) else False
 
