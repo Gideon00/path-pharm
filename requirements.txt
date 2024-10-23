@@ -9,4 +9,3 @@ cs50
 google-auth==1.27.0
 google-auth-oauthlib==0.4.2
 cachecontrol
-asyncio
