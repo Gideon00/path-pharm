@@ -9,9 +9,9 @@
         <h1>Read Mode MCQs Practice!</h1>
         <h3>{{ region }}</h3>
         {% if session.picture %}
-            <img class="profile_img" src="{{ session['picture'] }}">
+            <img class="profile_img" src="{{ session['picture'] }}" alt="{{ session['name'] }}">
         {% else %}
-            <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}">
+            <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}" alt="{{ session['name'] }}">
         {% endif %}
     </div>
     <div class="question-display">
@@ -29,8 +29,8 @@
                         {% endfor %}
                         <br><br>
                         <div id="nextPrev">
-                            <input formaction="/previous_exam_mcq" class="Previous" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled {% endif %}>
-                            <input class="next" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
+                            <input formaction="/previous_exam_mcq" class="myBtn" type="submit" value="Previous" {% if disable_previous %} id="disabled" disabled {% endif %}>
+                            <input class="myBtn" type="submit" value="Next" {% if disable_next %} id="disabled" disabled {% endif %}>
                         </div>
                     </form>
                     
