@@ -12,9 +12,9 @@ Quiz App
 <div class="header">
     <h1>{{ session.name }} Welcome to practice MCQs!</h1>
     {% if session.picture %}
-        <img class="profile_img" src="{{ session['picture'] }}">
+        <img class="profile_img" src="{{ session['picture'] }}" alt="{{ session['name'] }}">
     {% else %}
-        <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}">
+        <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}" alt="{{ session['name'] }}">
     {% endif %}
 </div>
 
@@ -24,7 +24,7 @@ Quiz App
         alongside the question, thus ideal for last minute exam prep.
         You can Choose which mode to work on.
     </p>
-    Read Mode: <button id="exam_mode">Off</button>
+    Read Mode: <button class="myBtn">Off</button>
     <hr>
     <h2>Pick a region for Best Choice (Only First Posting for now)</h2>
     <!-- Best Choice sesction -->
@@ -40,7 +40,7 @@ Quiz App
 
         <input type="number" name="start" min="1" max="750" placeholder="number">
         <input id="mode_choice1" name="exam_mode" value="Off" type="hidden">
-        <input class="next" type="submit" value="Start">
+        <input class="myBtn" type="submit" value="Start">
     </form>
     <hr>
     <!-- MCQ section -->
@@ -57,7 +57,7 @@ Quiz App
                 </label>
                 {% else %}
                 <label>
-                    <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}" disabled>
+                    <input id="disableList" class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}" disabled>
                     {{ mcq_regions[i*5 + j] }}<br>
                 </label>
                 {% endif %}
@@ -69,7 +69,7 @@ Quiz App
 
         <input type="number" name="start" min="1" max="750" placeholder="number">
         <input id="mode_choice2" name="exam_mode" value="Off" type="hidden">
-        <input class="next" type="submit" value="Start">
+        <input class="myBtn" type="submit" value="Start">
     </form>
 </div>
 {% endblock %}
