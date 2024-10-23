@@ -244,8 +244,12 @@ table td {
 caption, th {
     text-align: left;
 }
+.table h2 {
+    background-color: antiquewhite;
+}
 caption {
     padding: 1rem;
+    caption-side: top;
 }
 th {
     background-color:rgb(228, 159, 69);
