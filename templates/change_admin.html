@@ -3,10 +3,10 @@
 {% block main %}
 <div class="table">
     <table>
+        <caption><h2>View Admin Status</h2></caption>
         <thead>
             <th>picture</th>
             <th>name</th>
-            <th>email</th>
             <th>is admin</th>
             {% if session["admin"] %} <th>Alter AdminStatus</th>{% endif %}
         </thead>
@@ -15,19 +15,18 @@
             <tr>
                 <td><img class="profile_img" src="{{ user.picture }}" alt="{{ user.name }}"></td>
                 <td>{{ user.name }}</td>
-                <td>{{ user.email }}</td>
                 <td>{{ user.is_admin }}</td>
                 {% if session["admin"] %}  <!-- Only show buttons to admins -->
                     <td>
                         {% if user.is_admin and session["user_id"] != user.id %}  <!-- Admins can de-admin others but not themselves -->
                             <form id="form-admin" action="/de_admin" method="post">
-                                <input class="btn btn-dark" type="submit" value="De Admin">
+                                <input class="myBtn" type="submit" value="De Admin">
                                 <input type="hidden" value="{{ user.id }}" name="id">
                                 <input type="hidden" value="{{ user.name }}" name="name">
                             </form>
                         {% elif not user.is_admin %}  <!-- Admins can make others admins -->
                             <form id="form-admin" action="/add_admin" method="post">
-                                <input class="btn btn-primary" type="submit" value="Make Admin">
+                                <input class="myBtn" type="submit" value="Make Admin">
                                 <input type="hidden" value="{{ user.id }}" name="id">
                                 <input type="hidden" value="{{ user.name }}" name="name">
                             </form>
