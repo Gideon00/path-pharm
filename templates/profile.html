@@ -3,14 +3,15 @@
 {% block main %}
 <div class="header">
     {% if session.picture %}
-        <img class="profile_img" src="{{ session['picture'] }}">
+        <img class="profile_img" src="{{ session['picture'] }}" alt="{{ session['name'] }}">
     {% else %}
-        <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}">
+        <img class="profile_img" src="{{ url_for('static', filename='images/default_profile.jpg') }}" alt="{{ session['name'] }}">
     {% endif %}
     <p>{{ session["name"] }}</p>
 </div>
 
 <div class="table">
+    <caption><h2>All your progress thus far</h2></caption>
     <table>
         <thead>
             <th>course</th>
