@@ -261,7 +261,10 @@ th {
 
 } */
 tbody tr:nth-of-type(even) {
-   background-color:rgb(245, 224, 197);
+   background-color: rgb(245, 224, 197);
+}
+tbody tr:nth-of-type(odd) {
+   background-color: transparent;
 }
 #high-ranker {
     background-color: rgb(250, 58, 58);
