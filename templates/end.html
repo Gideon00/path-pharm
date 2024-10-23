@@ -36,8 +36,8 @@
                 {% for fail in fails %}
                 <li>{{ fail["Question_failed"] + 1 }}. {{ fail["answer"] }}</li>
                 {% endfor %}
-                <h6>The answer(s) above are the corrections!!</h6>
             </ul>
+            <h6>The answer(s) above are the corrections!!</h6>
 
             {% elif totalFails %}
             <h3>Questions failed, Click to see correct answers;</h3>
@@ -66,7 +66,7 @@
         </div>
     </div>
     <div class="center-container">
-        <button class="next-button">
+        <button class="myBtn">
             <a id="end_style" href="{{ url_for('index') }}">Start Over</a>
         </button>
     </div>
