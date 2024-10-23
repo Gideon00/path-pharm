@@ -31,6 +31,14 @@ nav .navbar-brand .green
 {
     color: #2e944b;
 }
+nav .navbar-nav .nav-item .nav-link
+{
+   color: black;
+}
+nav .navbar-nav .nav-item .nav-link:hover
+{
+   color: rgb(202, 118, 8);
+}
 
 /* All buttons Should Look this way */
 .myBtn {
