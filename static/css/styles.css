@@ -47,6 +47,7 @@ nav .navbar-nav .nav-item .nav-link:hover
     border-radius: 10px;
     font-weight: bold;
     padding: 5px;
+    color: black;
 }
 .myBtn:hover{
     background-color:rgb(228, 159, 69);
