@@ -8,7 +8,7 @@
             <th>picture</th>
             <th>name</th>
             <th>is admin</th>
-            {% if session["admin"] %} <th>Alter AdminStatus</th>{% endif %}
+            {% if session["admin"] %} <th>Alter Status</th>{% endif %}
         </thead>
         <tbody>
             {% for user in users %}
@@ -31,7 +31,7 @@
                                 <input type="hidden" value="{{ user.name }}" name="name">
                             </form>
                         {% elif session["user_id"] == user.id %}
-                            5 Star
+                            Can't alter self
                         {% endif %}
                     </td>
                 {% endif %}
