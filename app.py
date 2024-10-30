@@ -209,7 +209,7 @@ def githubCallback():
     user_json = user_response.json()
 
     # Store user info in session
-    session["oauth_id"] = user_json.get("id")
+    session["oauth_id"] = str(user_json.get("id"))
     session["name"] = user_json.get("name")
     session["email"] = user_json.get("email")
     session["picture"] = user_json.get("avatar_url")
