@@ -1,7 +1,6 @@
 import os
 import json
 import pathlib
-import sqlite3
 import requests
 import psycopg2
 from cs50 import SQL
@@ -64,6 +63,12 @@ flow = Flow.from_client_secrets_file(
     redirect_uri="https://path-pharm.onrender.com/callback",
 )
 
+# GitHub OAuth details
+GITHUB_CLIENT_ID = os.getenv("GITHUB_CLIENT_ID")
+GITHUB_CLIENT_SECRET = os.getenv("GITHUB_CLIENT_SECRET")
+GITHUB_AUTHORIZE_URL = "https://github.com/login/oauth/authorize"
+GITHUB_TOKEN_URL = "https://github.com/login/oauth/access_token"
+GITHUB_API_URL = "https://api.github.com/user"
 
 question_bank = []
 default_profile_img = ""
@@ -165,9 +170,90 @@ def callback():
     return redirect("/")
 
 
-# TODO add Facebook OAuth here ///////////
+#  Add Github OAuth here ///////////
+@app.route("/github-login")
+def github_oauth():
+    # Redirect to GitHub's OAuth page
+    github_auth_url = (
+        f"{GITHUB_AUTHORIZE_URL}?client_id={GITHUB_CLIENT_ID}&scope=read:user"
+    )
+    return redirect(github_auth_url)
 
-# End Facebook OAuth//////////////////////
+@app.route("/github-callback")
+def githubCallback():
+    # Retrieve the code from GitHub's response
+    code = request.args.get("code")
+    if not code:
+        return "Error: no code returned by GitHub", 400
+
+    # Exchange the code for an access token
+    token_response = requests.post(
+        GITHUB_TOKEN_URL,
+        headers={"Accept": "application/json"},
+        data={
+            "client_id": GITHUB_CLIENT_ID,
+            "client_secret": GITHUB_CLIENT_SECRET,
+            "code": code,
+        },
+    )
+    token_json = token_response.json()
+    access_token = token_json.get("access_token")
+
+    if not access_token:
+        return "Error: no access token received from GitHub", 400
+
+    # Use the access token to get user information
+    user_response = requests.get(
+        GITHUB_API_URL, headers={"Authorization": f"token {access_token}"}
+    )
+    user_json = user_response.json()
+
+    # Store user info in session
+    session["oauth_id"] = user_json.get("id")
+    session["name"] = user_json.get("name")
+    session["email"] = user_json.get("email")
+    session["picture"] = user_json.get("avatar_url")
+
+    # Check if user exists in the database
+    existing_user = db.execute(
+        "SELECT id, is_admin FROM users WHERE oauth_id = ? AND oauth_provider = 'GitHub';",
+        session["oauth_id"]
+    )
+
+    # If the user exists, store user_id in session
+    if existing_user:
+        session["user_id"] = existing_user[0]["id"]
+        session["admin"] = existing_user[0]["is_admin"]
+    else:
+        # Insert new user into the database
+        try:
+            new_user = db.execute(
+                "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
+                session["oauth_id"],
+                session["name"],
+                session["email"],
+                session["picture"],
+                "GitHub",
+            )
+        except Exception as e:
+            error_message = str(e)
+            if "duplicate key value violates unique constraint" in error_message:
+                error_message = "Email already exists. Please login with your existing account."
+            # Handle the error, e.g., render an error page or redirect
+            return render_template("error.html", error_message=error_message), 400
+        
+        # Make the first user admin
+        if new_user[0]["id"] == 1:
+            db.execute("UPDATE users SET is_admin = TRUE WHERE id = ?;", new_user[0]["id"])
+            session["admin"] = True
+
+        # Retrieve last inserted user_id and store in session
+        session["user_id"] = new_user[0]["id"]
+
+    # Redirect to the index page
+    return redirect(url_for("index"))
+
+# End Github OAuth//////////////////////
 
 
 # Logout route
