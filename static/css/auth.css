@@ -18,9 +18,10 @@ label {
     padding: 10px;
     border: 1px solid #8a8787;
     margin-right: 10px;
+    border-radius: 5px;
 }
 .twoFactor p:hover {
-    background-color: #3f2f19;
+    background-color: #996318;
     color: antiquewhite;
 }
 .byepas input:hover {
