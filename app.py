@@ -149,15 +149,22 @@ def callback():
         session["admin"] = existing_user[0]["is_admin"]
     else:
         # Insert new user into the database
-        make_admin = db.execute(
-            "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
-            session["oauth_id"],
-            session["name"],
-            session["email"],
-            session["picture"],
-            "Google",
-        )
-
+        try:
+            make_admin = db.execute(
+                "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
+                session["oauth_id"],
+                session["name"],
+                session["email"],
+                session["picture"],
+                "Google",
+            )
+        except Exception as e:
+            error_message = str(e)
+            if "duplicate key value violates unique constraint" in error_message:
+                error_message = "Email already exists. Please login with your existing github account."
+            # Handle the error, e.g., render an error page or redirect
+            return render_template("error.html", error_message=error_message), 400
+            
         # Make first user admin
         if make_admin[0]["id"] == 1:
             db.execute("UPDATE users SET is_admin = TRUE WHERE id = ?;", make_admin)
@@ -238,7 +245,7 @@ def githubCallback():
         except Exception as e:
             error_message = str(e)
             if "duplicate key value violates unique constraint" in error_message:
-                error_message = "Email already exists. Please login with your existing account."
+                error_message = "Email already exists. Please login with your existing google account."
             # Handle the error, e.g., render an error page or redirect
             return render_template("error.html", error_message=error_message), 400
         
