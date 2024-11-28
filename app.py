@@ -304,13 +304,17 @@ def index():
         if request.form.get("region") in MCQ_REGIONS:
             # Load the question bank from the JSON file
             posting, _, subject = session["region"].lower().split(" ")
-            # populate second posting at least
-            if posting != "first":
-                return apology(
-                    "Sorry Only first posting available yet", 400
-                )  # Acept only first posting for now
-            with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
-                question_bank = json.load(f)
+            
+            # Acept only first posting for now
+            if posting == "third": # New TODO
+                return apology("Sorry Third posting is not available yet", 400) 
+            try:
+                with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
+                    question_bank = json.load(f)
+            except json.JSONDecodeError as err:
+                # Can't read an Empty file
+                print(err)
+                return apology(f"{posting.capitalize()} {subject.capitalize()} posting questions are not available yet. \nCheck back later for updates", 400)
 
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
