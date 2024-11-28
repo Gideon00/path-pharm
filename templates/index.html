@@ -50,14 +50,14 @@ Quiz App
             {% for i in range(3) %}
             <div class="questColumn">
                 {% for j in range(5) %}
-                {% if "First Posting" in mcq_regions[i*5 + j] %}
+                {% if "Third Posting" in mcq_regions[i*5 + j] %}
                 <label>
-                    <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}">
+                    <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}" disabled/>
                     {{ mcq_regions[i*5 + j] }}<br>
                 </label>
                 {% else %}
                 <label>
-                    <input id="disableList" class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}" disabled>
+                    <input class="question_item" type="radio" name="region" value="{{ mcq_regions[i*5 + j] }}" />
                     {{ mcq_regions[i*5 + j] }}<br>
                 </label>
                 {% endif %}
