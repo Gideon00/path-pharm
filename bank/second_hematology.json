@@ -1,0 +1,197 @@
+[
+    {
+        "question": "Which of the following hemoglobins are synthesized during embryonic life before the tenth week of intrauterine life?",
+        "options": ["Haemoglobin Gower I", "Haemoglobin Gower II", "Haemoglobin Portland", "HbA", "HbF"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following reactions occur in the mitochondria during haem synthesis?",
+        "options": ["Formation of δ-aminolevulinic acid (ALA)", "Oxidation of protoporphyrinogen IX", "Formation of porphobilinogen", "Conversion of protoporphyrin IX to haem", "Decarboxylation of uroporphyrinogen III"],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which components are required for the first step of haem synthesis?",
+        "options": ["Succinyl-CoA", "Glycine", "Pyridoxal phosphate", "Zinc", "Iron in the ferric state (Fe3+)"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Lead toxicity in haem synthesis inhibits:",
+        "options": ["ALA synthase", "Ferrochelatase", "ALA dehydratase", "Porphobilinogen deaminase", "Uroporphyrinogen decarboxylase"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Globin synthesis occurs in:",
+        "options": ["Cytosol", "Ribosomes", "Mitochondria", "Endoplasmic reticulum", "Nucleus"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which gene cluster is located on chromosome 16?",
+        "options": ["Alpha-like cluster", "Beta-like cluster", "Gamma-globin genes", "Delta-globin genes", "Epsilon-globin genes"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following represents haemoproteins?",
+        "options": ["Haemoglobin", "Myoglobin", "Cytochrome P450", "Catalases", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The regulation of haemoglobin synthesis involves:",
+        "options": ["Abundance of haem", "Availability of substrates", "Activity of ALAS enzyme", "Iron levels", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following are terminal codons during translation?",
+        "options": ["UAA", "UAG", "UGA", "AUG", "UGG"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is the function of 2,3-DPG in oxygen transport?",
+        "options": ["Increases oxygen affinity", "Shifts dissociation curve to the right", "Favors deoxygenation", "Binds to the beta cleft", "Prevents oxygen release"],
+        "answer": ["F", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following are functions of haemoglobin?",
+        "options": ["Oxygen transport", "Carbon dioxide removal", "Vascular tone control", "Acid buffering", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The sigmoid oxygen dissociation curve of haemoglobin is influenced by:",
+        "options": ["pH", "Temperature", "2,3-DPG concentration", "Carbon monoxide binding", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which structural level of haemoglobin involves folding of polypeptides into a pseudosphere?",
+        "options": ["Primary structure", "Secondary structure", "Tertiary structure", "Quaternary structure", "None of the above"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Haemoglobinopathies include:",
+        "options": ["Sickle cell disorders", "Thalassemias", "Porphyrias", "Sideroblastic anaemias", "All of the above"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "The Bohr effect is described as:",
+        "options": ["Decreased oxygen affinity at low pH", "Increased oxygen affinity at high pH", "Shift of dissociation curve to the left", "Enhanced oxygen binding in acidic environments", "Reduced CO2 binding at high pH"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Methaehaemoglobin is characterized by:",
+        "options": ["Iron in the ferric state (Fe3+)", "Inability to bind oxygen", "High levels in normal individuals", "Presence in CO poisoning", "All of the above"],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following genes are part of the beta-like cluster?",
+        "options": ["Epsilon", "Gamma G", "Gamma A", "Delta", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Haemoglobin's quaternary structure includes:",
+        "options": ["Tetrahedral arrangement", "Two alpha and two beta chains", "Inter-subunit bonds", "Oxygenation-dependent structural changes", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following are clinical correlates of haemoglobin synthesis disorders?",
+        "options": ["Porphyrias", "Sideroblastic anaemias", "Sickle cell disease", "Thalassemias", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The alpha-like cluster genes on chromosome 16 include:",
+        "options": ["Zeta", "Alpha 1", "Alpha 2", "Theta", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which chromosome contains the beta-like globin gene cluster?",
+        "options": ["Chromosome 11", "Chromosome 16", "Chromosome 21", "Chromosome 7", "Chromosome 19"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Globin synthesis is tightly regulated to prevent which of the following?",
+        "options": ["Excess accumulation of protoporphyrin IX", "Damage to red blood cells", "Unbalanced globin and haem production", "Shortened cell lifespan", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the main function of the alpha-like cluster located on chromosome 16?",
+        "options": ["Production of zeta and alpha globin chains", "Formation of beta globin chains", "Initiation of haem synthesis", "Synthesis of delta globin chains", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "During deoxygenation of haemoglobin, 2,3-DPG occupies which site?",
+        "options": ["Beta-cleft", "Alpha-cleft", "Gamma-cleft", "Delta-cleft", "Haem pocket"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are characteristic features of Myelodysplastic Syndromes (MDS)?",
+        "options": ["Cytopenia", "Normocellular or hypercellular bone marrow", "Ineffective hematopoiesis", "Decreased risk of leukemia transformation", "Increased dysplasia"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of these is true regarding the epidemiology of Myelodysplastic Syndromes?",
+        "options": ["Median age of diagnosis is 65 years", "Higher incidence in females", "Incidence increases with age", "Most cases are familial", "5q deletion is more common in males"],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following are associated with the etiology of MDS?",
+        "options": ["Exposure to benzene", "Cigarette smoking", "Fanconi anemia", "Defective apoptosis", "Ionizing radiation"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which mutated genes are linked with a worse prognosis in MDS?",
+        "options": ["TP53", "EZH2", "RUNX1", "ASXL1", "JAK2"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What are clinical features of MDS related to anemia?",
+        "options": ["Fatigue", "Petechiae", "Recurrent infections", "Exercise intolerance", "Pallor"],
+        "answer": ["T", "F", "F", "T", "T"]
+    },
+    {
+        "question": "What laboratory findings are consistent with MDS?",
+        "options": ["Leukocytosis", "Macrocytic anemia", "Decreased reticulocyte count", "Thrombocytopenia", "Monocytosis in CMML"],
+        "answer": ["F", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of these are commonly observed in peripheral blood films of MDS patients?",
+        "options": ["Pseudo Pelger-Huet anomaly", "Auer rods", "Hypogranulation", "Leukoerythroblastosis", "Ringed sideroblasts"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which are examples of WHO classifications for Myelodysplastic Syndromes?",
+        "options": ["MDS with ring sideroblasts", "MDS with multilineage dysplasia", "MDS with excess blasts II", "MDS with isolated del(5q)", "MDS, unclassifiable"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What are management strategies for low-risk MDS patients?",
+        "options": ["Iron chelation therapy", "Erythropoiesis-stimulating agents", "Lenalidomide", "Aggressive chemotherapy", "Luspatercept for SF3B1 mutation"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which conditions should be considered in the differential diagnosis of MDS?",
+        "options": ["HIV", "Vitamin B12 deficiency", "Parvovirus B19 infection", "Fanconi anemia", "Chronic alcohol abuse"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which cytogenetic studies are essential for diagnosing MDS?",
+        "options": ["Karyotyping", "FISH", "Flow cytometry", "PCR", "Next-generation sequencing"],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "What are features of bone marrow biopsy in MDS?",
+        "options": ["Hypercellularity", "Hypocellularity in 15% of cases", "Abnormal cell distribution", "Fibrosis detection", "Increased lymphocyte proliferation"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which clinical signs may be observed in MDS patients?",
+        "options": ["Splenomegaly", "Peripheral edema", "Petechiae", "Heart failure signs", "Ecchymosis"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What are the subtypes of myelodysplastic/myeloproliferative neoplasms?",
+        "options": ["Chronic myelomonocytic leukemia", "Atypical chronic myeloid leukemia", "Juvenile myelomonocytic leukemia", "Refractory anemia with ring sideroblasts", "Unclassifiable MDS/MPN"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which factors are associated with the pathogenesis of MDS?",
+        "options": ["Telomerase dysfunction", "Defective DNA repair", "Spliceosome dysregulation", "Abnormal signal transduction", "Vitamin E deficiency"],
+        "answer": ["T", "T", "T", "T", "F"]
+    }
+]
