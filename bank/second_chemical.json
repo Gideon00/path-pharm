@@ -1,0 +1,289 @@
+[
+    {
+        "question": "What is the primary cause of reduced renal concentrating ability in neonates?",
+        "options": [
+            "Immature active transport pumps",
+            "Absence of medullary osmotic gradient",
+            "Low plasma creatinine levels",
+            "Excess tubular function",
+            "High glomerular filtration rate (GFR)"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What percentage of a neonate's total body weight consists of water?",
+        "options": ["50%", "60%", "70%", "80%", "90%"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What factor contributes to physiological jaundice in neonates?",
+        "options": [
+            "Delayed cord clamping",
+            "Immature liver conjugation",
+            "Rapid breakdown of HbF",
+            "Excess bilirubin conjugation",
+            "Decreased erythrocyte lifespan"
+        ],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "What plasma protein reaches adult levels by 6 months of age?",
+        "options": ["Albumin", "Transferrin", "Total protein", "IgG", "IgM"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the peak TSH level after birth in neonates?",
+        "options": ["5x adult value", "10x adult value", "15x adult value", "20x adult value", "25x adult value"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which electrolyte imbalance is commonly observed in neonates with insensible water loss?",
+        "options": ["Hyponatremia", "Hypernatremia", "Hyperkalemia", "Hypokalemia", "Hypercalcemia"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a primary cause of conjugated hyperbilirubinemia in neonates?",
+        "options": ["Biliary atresia", "Immature liver enzymes", "Delayed cord clamping", "High unconjugated bilirubin", "Breastfeeding jaundice"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What enzyme activity is elevated in neonates compared to adults?",
+        "options": ["ALT", "ALP", "Amylase", "Lipase", "AST"],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "What causes hypoglycemia in neonates born to diabetic mothers?",
+        "options": ["Islet cell hyperplasia", "Reduced glycogen stores", "Insulin resistance", "Dehydration", "Adrenal insufficiency"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which organ function matures fully by 2 years of age in neonates?",
+        "options": ["Liver", "Kidney", "Thyroid", "Lungs", "Heart"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary risk factor for kernicterus in neonates?",
+        "options": ["Hypoalbuminemia", "Prematurity", "Hyperbilirubinemia", "Infection", "Dehydration"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following hormones has increased neonatal values compared to adults?",
+        "options": ["Cortisol", "Prolactin", "TSH", "IGF-1", "Androgens"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is a common cause of neonatal hypocalcemia?",
+        "options": [
+            "Transient hypoparathyroidism",
+            "Vitamin D deficiency",
+            "Low placental calcium transport",
+            "Excessive renal calcium loss",
+            "Congenital hypothyroidism"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the normal plasma creatinine level in neonates at birth?",
+        "options": ["5 µmol/L", "15 µmol/L", "35 µmol/L", "75 µmol/L", "100 µmol/L"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which hormone is suppressed at birth due to high fetal calcium levels?",
+        "options": ["PTH", "TSH", "Cortisol", "Aldosterone", "Renin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which neonatal condition requires glucose screening after the first week of life?",
+        "options": [
+            "Prematurity",
+            "Macrosomia",
+            "Maternal diabetes",
+            "Sepsis",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What causes hypernatremia in neonates?",
+        "options": [
+            "Excessive insensible water loss",
+            "Reduced urinary concentrating ability",
+            "Excess sodium bicarbonate infusion",
+            "Congenital adrenal hyperplasia",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which vitamin is poorly synthesized by neonates due to sterile GIT?",
+        "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin E", "Vitamin C"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What physiological adaptation occurs in neonates during the first week of life?",
+        "options": ["Increased intracellular fluid", "Decreased extracellular fluid", "Reduced metabolic rate", "Increased fat stores", "Increased hemoglobin production"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What electrolyte imbalance is observed in neonates with congenital adrenal hyperplasia (CAH)?",
+        "options": ["Hyponatremia", "Hyperkalemia", "Hypoglycemia", "Metabolic acidosis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What percentage of preterm neonates experience physiological jaundice?",
+        "options": ["10%", "25%", "50%", "75%", "100%"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which neonatal condition is associated with elevated IgM at birth?",
+        "options": ["Intrauterine infection", "Sepsis", "Congenital hypothyroidism", "Erythroblastosis fetalis", "Neonatal asphyxia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which nutrient level is lower in neonates compared to adults?",
+        "options": ["Urea", "Carnitine", "Triglycerides", "Cholesterol", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the most common metabolic problem in neonates?",
+        "options": ["Hyperglycemia", "Hypoglycemia", "Hyperkalemia", "Hypocalcemia", "Hyponatremia"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a key physiological function of neonatal GIT flora?",
+        "options": ["Vitamin A production", "Vitamin K production", "Iron absorption", "Calcium absorption", "Phosphorus synthesis"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a preanalytical concern when investigating neonatal capillary blood?",
+        "options": [
+            "Increased K+ concentration",
+            "Increased LDH concentration",
+            "Cellular debris contamination",
+            "Volume depletion",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which enzyme is twice the adult reference range during the first 3 months of neonatal life?",
+        "options": ["ALT", "ALP", "LDH", "AST", "GGT"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is a risk factor for neonatal hyperbilirubinemia?",
+        "options": ["Sepsis", "Dehydration", "Prematurity", "Bruising", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What causes transient hypothyroidism at birth?",
+        "options": [
+            "High maternal iodine levels",
+            "Excess TSH at birth",
+            "Suppressed neonatal thyroid gland",
+            "Immature T4 production",
+            "None of the above"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which hormone stimulates the release of cortisol from the adrenal gland?",
+        "options": ["CRH", "ACTH", "TSH", "FSH", "Prolactin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mineralocorticoid secreted by the adrenal glands?",
+        "options": ["Cortisol", "Aldosterone", "Androstenedione", "DHEA", "DHT"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are functions of aldosterone?",
+        "options": ["Increases potassium excretion", "Increases sodium retention", "Increases water retention", "Stimulates gluconeogenesis", "Increases blood glucose levels"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by primary adrenal insufficiency?",
+        "options": ["Addison's disease", "Conn's syndrome", "Cushing's disease", "Sheehan's syndrome", "Pheochromocytoma"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common endogenous cause of Cushing's syndrome?",
+        "options": ["Adrenal adenoma", "Pituitary adenoma", "Ectopic ACTH production", "Exogenous glucocorticoids", "Congenital adrenal hyperplasia"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the hallmark biochemical finding in primary hyperaldosteronism?",
+        "options": ["High renin levels", "Low renin levels", "High potassium levels", "High aldosterone levels", "Low sodium levels"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which adrenal layer is responsible for producing cortisol?",
+        "options": ["Zona glomerulosa", "Zona fasciculata", "Zona reticularis", "Adrenal medulla", "Hypothalamus"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the diagnostic criterion for adrenal insufficiency during a Synacthen test?",
+        "options": ["High plasma cortisol at baseline", "Low plasma cortisol at baseline", "Blunted cortisol response", "High plasma renin activity", "Low plasma aldosterone levels"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which hormone is most elevated in ectopic ACTH-producing tumors?",
+        "options": ["Cortisol", "ACTH", "Renin", "Aldosterone", "CRH"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are signs of Cushing's syndrome?",
+        "options": ["Buffalo hump", "Moon face", "Purple striae", "Hyperpigmentation", "Hypoglycemia"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is the gold standard test to confirm hypercortisolism in Cushing's syndrome?",
+        "options": ["9am cortisol", "Dexamethasone suppression test", "24-hour urinary free cortisol", "CRH stimulation test", "ACTH stimulation test"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which hormone regulates the secretion of aldosterone?",
+        "options": ["Renin", "CRH", "ACTH", "Angiotensin II", "TSH"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following are features of primary hyperaldosteronism?",
+        "options": ["Hypernatremia", "Hypokalemia", "Hypertension", "Metabolic acidosis", "Hypercalcemia"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which condition results in secondary hyperaldosteronism?",
+        "options": ["Renal artery stenosis", "Conn's syndrome", "Adrenal adenoma", "Adrenal carcinoma", "Pituitary adenoma"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is predominantly produced in the zona reticularis of the adrenal cortex?",
+        "options": ["Aldosterone", "Cortisol", "DHEA", "Renin", "ACTH"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a typical feature of adrenal crisis?",
+        "options": ["Hypernatremia", "Hypotension", "Hypokalemia", "Hyperglycemia", "Hypertension"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What type of tumor is associated with Conn's syndrome?",
+        "options": ["Adrenal adenoma", "Pituitary adenoma", "Adrenal carcinoma", "Pheochromocytoma", "Craniopharyngioma"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the key differentiator between primary and secondary adrenal insufficiency?",
+        "options": ["Cortisol levels", "ACTH levels", "Aldosterone levels", "CRH levels", "Renin levels"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which symptom is specific to adrenal Cushing's syndrome?",
+        "options": ["Central obesity", "Hirsutism", "Hypertension", "Hypokalemia", "Undetectable ACTH levels"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which test distinguishes between pituitary and ectopic ACTH production in Cushing's syndrome?",
+        "options": ["Low-dose dexamethasone test", "High-dose dexamethasone test", "24-hour urinary cortisol", "CRH stimulation test", "Plasma aldosterone levels"],
+        "answer": ["F", "T", "F", "T", "F"]
+    }
+]
