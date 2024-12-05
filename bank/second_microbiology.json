@@ -1,0 +1,495 @@
+[
+    {
+        "question": "What type of antibody mediates Type I hypersensitivity reactions?",
+        "options": ["IgG", "IgM", "IgE", "IgA", "IgD"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which cells are the primary mediators in Type I hypersensitivity reactions?",
+        "options": ["Macrophages", "T cells", "Mast cells", "Neutrophils", "Eosinophils"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a feature of systemic anaphylaxis?",
+        "options": ["Generalized itching", "Bronchoconstriction", "Hypotension", "Local redness", "Laryngeal edema"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the primary mediator released during the early phase of Type I hypersensitivity?",
+        "options": ["Leukotrienes", "Histamine", "Prostaglandins", "IL-4", "IL-13"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the hallmark of Type II hypersensitivity reactions?",
+        "options": ["Immune complex deposition", "IgE-mediated response", "Antibody-dependent cellular cytotoxicity", "Delayed response", "Granuloma formation"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following diseases is associated with Type II hypersensitivity?",
+        "options": ["Asthma", "Myasthenia gravis", "Systemic lupus erythematosus", "Serum sickness", "Contact dermatitis"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What distinguishes Type III hypersensitivity from Type II hypersensitivity?",
+        "options": [
+            "Type III involves IgG or IgM antibodies",
+            "Type III involves immune complexes",
+            "Type II involves immune complexes",
+            "Type III involves immediate response",
+            "Type II is mediated by mast cells"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is caused by immune complex deposition in the kidneys?",
+        "options": ["Graves' disease", "Goodpasture syndrome", "Glomerulonephritis", "Myasthenia gravis", "Contact dermatitis"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which hypersensitivity type is primarily mediated by CD4+ T cells?",
+        "options": ["Type I", "Type II", "Type III", "Type IV", "None of the above"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is a classical example of a Type IV hypersensitivity reaction?",
+        "options": [
+            "Anaphylaxis",
+            "Tuberculin skin test",
+            "Rheumatoid arthritis",
+            "Asthma",
+            "Hemolytic anemia"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary cytokine involved in Type IV hypersensitivity reactions?",
+        "options": ["IL-4", "IL-5", "IFN-gamma", "IL-13", "IL-10"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which mediators are categorized as secondary in Type I hypersensitivity?",
+        "options": ["Histamine", "IL-5", "Prostaglandins", "IL-1", "Leukotrienes"],
+        "answer": ["F", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which hypersensitivity type is associated with antibody-mediated cellular dysfunction?",
+        "options": ["Type I", "Type II", "Type III", "Type IV", "Type V"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common environmental factor contributing to allergic diseases?",
+        "options": [
+            "Genetic predisposition",
+            "Exposure to antibiotics",
+            "High hygiene levels",
+            "Exposure to farm animals",
+            "Socioeconomic status"
+        ],
+        "answer": ["F", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What is the primary test used to diagnose Type I hypersensitivity?",
+        "options": ["RAST", "Skin prick test", "Mantoux test", "Eosinophil count", "FBC"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of these is a systemic Type III hypersensitivity condition?",
+        "options": [
+            "Arthus reaction",
+            "Acute glomerulonephritis",
+            "Goodpasture syndrome",
+            "Contact dermatitis",
+            "Anaphylaxis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which hypersensitivity involves activation of macrophages by T cells?",
+        "options": ["Type I", "Type II", "Type III", "Type IV", "Type V"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What type of hypersensitivity is involved in graft rejection?",
+        "options": ["Type I", "Type II", "Type III", "Type IV", "Type V"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the primary therapeutic intervention for anaphylaxis?",
+        "options": ["Antihistamines", "Steroids", "NSAIDs", "Epinephrine", "Theophylline"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which antibody class is typically involved in Type II hypersensitivity?",
+        "options": ["IgE", "IgA", "IgM", "IgD", "IgG"],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "What is the mechanism of cell destruction in Type II hypersensitivity?",
+        "options": [
+            "Mast cell degranulation",
+            "Complement-mediated lysis",
+            "Immune complex deposition",
+            "T-cell activation",
+            "Natural killer cell cytotoxicity"
+        ],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which of these diseases involves antibody-dependent cytotoxicity?",
+        "options": [
+            "Goodpasture syndrome",
+            "Myasthenia gravis",
+            "Autoimmune thrombocytopenia",
+            "Rheumatoid arthritis",
+            "Asthma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a key feature of the effector phase in Type I hypersensitivity?",
+        "options": [
+            "Activation of TH1 cells",
+            "Release of histamine",
+            "Formation of granulomas",
+            "Delayed response",
+            "Phagocytosis of antigens"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which cytokine is secreted by TH2 cells in Type I hypersensitivity?",
+        "options": ["IL-2", "IFN-gamma", "IL-4", "TNF-alpha", "IL-12"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What does the Mantoux test measure?",
+        "options": [
+            "Immediate hypersensitivity",
+            "Immune complex deposition",
+            "Delayed-type hypersensitivity",
+            "Anaphylaxis",
+            "Complement activation"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary purpose of immunological tolerance?",
+        "options": [
+            "Prevent autoimmune diseases",
+            "Enhance immune responses",
+            "Eliminate all lymphocytes",
+            "Induce hypersensitivity",
+            "Prevent lymphocyte development"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of antigens induce immunological tolerance?",
+        "options": [
+            "Tolerogens",
+            "Immunogens",
+            "Allergens",
+            "Pathogens",
+            "Haptens"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which mechanism is the most common in thymic negative selection?",
+        "options": [
+            "Clonal editing",
+            "Clonal deletion",
+            "Clonal anergy",
+            "Clonal arrest",
+            "Receptor editing"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of central tolerance?",
+        "options": [
+            "Regulate peripheral lymphocytes",
+            "Eliminate autoreactive lymphocytes in the thymus and bone marrow",
+            "Generate immune responses against pathogens",
+            "Activate memory T cells",
+            "Suppress B cell development"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Peripheral tolerance primarily ensures:",
+        "options": [
+            "Self-reactive T cells are deleted or become anergic",
+            "Activation of naive lymphocytes",
+            "Lymphocytes differentiate into plasma cells",
+            "Regeneration of immune cells",
+            "Clonal selection in the thymus"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of these is a mechanism of peripheral tolerance?",
+        "options": [
+            "Clonal deletion",
+            "Anergy induction",
+            "Receptor editing",
+            "Positive selection",
+            "Affinity maturation"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a key feature of regulatory T cells (Tregs) in peripheral tolerance?",
+        "options": [
+            "Promote hypersensitivity reactions",
+            "Suppress self-reactive lymphocytes",
+            "Enhance antigen presentation",
+            "Eliminate infectious agents",
+            "Activate dendritic cells"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which factors promote immunological tolerance?",
+        "options": [
+            "Fetal exposure to antigens",
+            "High doses of antigens",
+            "Presence of adjuvants",
+            "Low antigen persistence",
+            "Activated antigen-presenting cells"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What determines the decision between positive and negative selection during T cell development?",
+        "options": [
+            "Cytokine signals",
+            "Avidity of TCR for MHC-peptide complexes",
+            "Peripheral antigen presentation",
+            "Presence of Tregs",
+            "Thymic epithelial apoptosis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What happens during clonal anergy?",
+        "options": [
+            "Lymphocytes are deleted",
+            "T cells become functionally unresponsive",
+            "B cells undergo receptor editing",
+            "Lymphocytes migrate to lymph nodes",
+            "Memory cells are generated"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which scientist first observed immunological tolerance in dizygotic twin cattle?",
+        "options": [
+            "Traub",
+            "Burnet",
+            "Ray Owen",
+            "Medawar",
+            "Fenner"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the outcome of clonal deletion in central tolerance?",
+        "options": [
+            "Memory T cells are activated",
+            "Self-reactive lymphocytes undergo apoptosis",
+            "Regulatory T cells are induced",
+            "Antigen-specific immunity is enhanced",
+            "Cytokine release is suppressed"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a feature of immunological tolerance?",
+        "options": [
+            "Antigen specificity",
+            "Easier induction in T cells",
+            "Complete suppression of immunity",
+            "Antigen-induced process",
+            "Presence in both B and T cells"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the significance of central tolerance?",
+        "options": [
+            "Control food antigen reactions",
+            "Eliminate lymphocytes reactive to self-antigens",
+            "Enhance hypersensitivity responses",
+            "Promote stem cell transplantation",
+            "Induce graft rejection"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which stage of T cell development is characterized by the expression of both CD4 and CD8?",
+        "options": [
+            "Double negative (DN)",
+            "Double positive (DP)",
+            "Single positive (SP)",
+            "Thymic emigrant",
+            "Naive T cell"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a method for artificially inducing immunological tolerance?",
+        "options": [
+            "Chimerism in immunocompromised hosts",
+            "Positive selection",
+            "B cell receptor editing",
+            "Cytokine storm induction",
+            "TCR crosslinking"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the purpose of peripheral tolerance?",
+        "options": [
+            "Generate B cell memory",
+            "Prevent autoimmune disease in the periphery",
+            "Induce antigen cross-reactivity",
+            "Enhance central tolerance mechanisms",
+            "Activate NK cells against self-antigens"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which mechanism of tolerance is directly related to thymic selection?",
+        "options": [
+            "Peripheral anergy",
+            "Clonal deletion",
+            "B cell maturation",
+            "Induction of Tregs",
+            "Memory T cell activation"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main role of TGF-beta in peripheral tolerance?",
+        "options": [
+            "Induce regulatory T cells",
+            "Activate cytotoxic T cells",
+            "Promote central tolerance",
+            "Inhibit antigen presentation",
+            "Stimulate antibody production"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antigen-presenting cell property promotes tolerance?",
+        "options": [
+            "High activation state",
+            "Low co-stimulatory signals",
+            "Excessive cytokine production",
+            "Strong antigen affinity",
+            "Rapid antigen degradation"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following species of Taenia is known to cause Neurocysticercosis?",
+        "options": ["T. saginata", "T. solium", "T. asiatica", "Diphyllobothrium latum", "T. multiceps"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common route of Taenia solium infection in humans?",
+        "options": ["Ingestion of raw pork containing cysticerci", "Inhalation of eggs", "Direct contact with infected animals", "Drinking contaminated water", "Contact with feces"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which clinical presentation is most characteristic of Neurocysticercosis (NCC)?",
+        "options": ["Convulsions/seizures", "Diarrhea", "Hypertension", "Skin rash", "Abdominal bloating"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following features distinguishes T. solium from T. saginata?",
+        "options": ["Presence of an armed rostellum", "Number of uterine branches in gravid proglottids", "Intermediate host", "Scolex morphology", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the mode of transmission of Taenia asiatica?",
+        "options": ["Ingestion of raw or undercooked pork liver", "Drinking contaminated water", "Inhalation of eggs", "Direct contact with pigs", "Eating raw fish"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which region is endemic for both T. saginata and T. solium?",
+        "options": ["Central Asia", "Southeast Asia", "South America", "Eastern Europe", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the characteristic imaging finding in Neurocysticercosis?",
+        "options": ["Calcified scolex surrounded by a cyst wall", "Diffuse cerebral atrophy", "Hydrocephalus", "Brain abscess", "Ischemic stroke pattern"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which diagnostic test is highly specific for detecting T. solium in stool samples?",
+        "options": ["Copro-PCR", "Stool microscopy", "Serum ELISA", "Copro-ELISA", "Radiography"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the drug of choice for treating Taeniasis caused by adult tapeworms?",
+        "options": ["Praziquantel", "Albendazole", "Niclosamide", "Mebendazole", "Levamisole"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which part of the tapeworm is responsible for attaching to the intestinal wall?",
+        "options": ["Scolex", "Proglottids", "Microtriches", "Rostellum", "Strobila"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the incubation period for adult tapeworm development in humans?",
+        "options": ["8-14 weeks", "4-6 weeks", "2-4 weeks", "1-2 weeks", "Over 1 year"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the preferred imaging modality for detecting intraventricular cysts in Neurocysticercosis?",
+        "options": ["MRI", "CT scan", "Plain radiography", "Ultrasound", "PET scan"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about Cysticercosis is true?",
+        "options": ["It is caused by ingestion of T. solium eggs", "It only affects the brain", "It is always symptomatic", "It is caused by eating raw pork", "It cannot occur in non-pork eaters"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main preventive strategy against T. solium infection recommended by WHO?",
+        "options": ["Mass drug administration", "Vaccination of humans", "Exclusive vegetarian diet", "Eradication of pigs", "Vector control"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is recommended in combination with glucocorticosteroids for symptomatic NCC treatment?",
+        "options": ["Albendazole", "Praziquantel", "Niclosamide", "Mebendazole", "Both A and B"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which muscle tissue is most commonly infected by T. saginata larvae?",
+        "options": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Diaphragm", "Tongue"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What symptom is commonly associated with ocular cysticercosis?",
+        "options": ["Blurred vision", "Tinnitus", "Hearing loss", "Epistaxis", "Diarrhea"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the common habitat of adult tapeworms in humans?",
+        "options": ["Small intestine", "Large intestine", "Stomach", "Esophagus", "Liver"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which species of Taenia lacks a rostellum and hooks?",
+        "options": ["T. saginata", "T. solium", "T. asiatica", "T. multiceps", "D. latum"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common complication of intestinal Taeniasis?",
+        "options": ["Appendicitis", "Cholangitis", "Pancreatic duct obstruction", "Peritonitis", "All of the above"],
+        "answer": ["F", "F", "F", "F", "T"]
+    }
+]
