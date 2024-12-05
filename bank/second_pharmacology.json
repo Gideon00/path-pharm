@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Which of the following drugs acts as an appetite stimulant by blocking dopamine receptors?",
+        "options": ["Olanzapine", "Cyclizine", "Dexamethasone", "Lithium", "Orlistat"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of action of Orlistat as an appetite suppressant?",
+        "options": ["Inhibition of lipase enzymes", "Reduction of neurotransmitter release in the hypothalamus", "Blockage of dopamine receptors", "Activation of cannabinoid receptors", "Inhibition of fatty acid synthase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a clinical use of appetite stimulants?",
+        "options": ["Cystic fibrosis", "Hypertension", "Obesity management", "Diabetes prevention", "Hyperthyroidism"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which appetite suppressant is a peripherally acting drug?",
+        "options": ["Phentermine", "Diethylpropion", "Orlistat", "Dexfenfluramine", "Bupropion"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What are common adverse effects associated with Orlistat use?",
+        "options": ["Steatorrhea", "Faecal incontinence", "Hypercalcemia", "Flatus", "Hypersensitivity"],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which of the following is considered a hallmark of bronchial asthma?",
+        "options": ["Bronchial hyperresponsiveness", "Irreversible airway narrowing", "Cough with no wheezing", "Thickened alveolar walls", "Non-inflammatory bronchospasm"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which mediator is primarily responsible for early asthmatic response?",
+        "options": ["Histamine", "Interleukin-5", "TGF-beta", "TNF-alpha", "GM-CSF"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a characteristic feature of late asthmatic response?",
+        "options": ["Increased IgE levels", "Vascular leakage", "Eosinophilic inflammation", "Smooth muscle relaxation", "Decreased mucus production"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which cytokine is involved in the activation of eosinophils during allergic asthma?",
+        "options": ["Interleukin-5", "Interleukin-10", "Interferon-gamma", "TNF-alpha", "IL-4"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which factor is NOT a trigger for non-allergic asthma?",
+        "options": ["Cold air", "Exercise", "Cigarette smoke", "Pollen", "Sulfur dioxide"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which drug class directly relaxes airway smooth muscle in asthma?",
+        "options": ["Sympathomimetics", "Anti-histamines", "Leukotriene receptor blockers", "Muscarinic antagonists", "Cromolyn"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of mast cell stabilizers in asthma management?",
+        "options": ["Prevent mast cell degranulation", "Stimulate IgE production", "Block vagal motor nerve activity", "Reduce bronchial hyperreactivity", "Directly relax airway smooth muscle"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which phenotype of asthma is mediated by IgE production?",
+        "options": ["Non-allergic asthma", "Allergic asthma", "Exercise-induced asthma", "Nocturnal asthma", "Occupational asthma"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which mediator is released during the late phase of allergic asthma and contributes to mucus production?",
+        "options": ["Interleukin-13", "Histamine", "Leukotriene C4", "Prostaglandin D2", "Serotonin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true regarding asthma as a disease?",
+        "options": ["It is always IgE-mediated", "It is a homogeneous disease", "It can be classified based on frequency of exacerbations", "All patients respond similarly to standard therapy", "Bronchial hyperreactivity is absent"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the primary enzyme targeted by proton pump inhibitors (PPIs)?",
+        "options": ["H+/K+ ATPase", "Carbonic anhydrase", "Pepsin", "Histamine H2 receptor", "Acetylcholinesterase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common adverse effect of proton pump inhibitors?",
+        "options": ["Diarrhea", "Hypoglycemia", "Steatorrhea", "Renal failure", "Hyperkalemia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of H2-receptor antagonists in peptic ulcer treatment?",
+        "options": ["Competitive inhibition of H2 receptors on parietal cells", "Irreversible inhibition of proton pumps", "Increased mucus secretion", "Neutralization of gastric acid", "Blocking vagal nerve signals"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an example of a prostaglandin analog used in peptic ulcer management?",
+        "options": ["Misoprostol", "Omeprazole", "Ranitidine", "Sucralfate", "Tetracycline"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary use of sucralfate in peptic ulcer disease?",
+        "options": ["Forms a protective barrier on ulcers", "Neutralizes gastric acid", "Inhibits gastric acid secretion", "Enhances motility", "Kills H. pylori"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following regimens is used as quadruple therapy for H. pylori eradication?",
+        "options": ["Lansoprazole, bismuth subsalicylate, tetracycline, metronidazole", "Omeprazole, amoxicillin, clarithromycin", "Ranitidine, sucralfate, antacids", "Pantoprazole, azithromycin, doxycycline", "Misoprostol, aluminum hydroxide, ibuprofen"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which phase of gastric acid secretion is primarily controlled by acetylcholine?",
+        "options": ["Cephalic phase", "Basal phase", "Hormonal phase", "Nocturnal phase", "Prostaglandin-mediated phase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common adverse effect of misoprostol?",
+        "options": ["Diarrhea", "Constipation", "Renal failure", "Thrombocytopenia", "Hypercalcemia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antacids is classified as systemic?",
+        "options": ["Sodium bicarbonate", "Magnesium hydroxide", "Aluminum hydroxide", "Calcium carbonate", "Magnesium trisilicate"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a distinguishing property of non-systemic antacids?",
+        "options": ["Do not disturb acid-base balance", "Cause metabolic alkalosis", "Highly soluble in blood", "Liberate CO2", "Neutralize gastric motility"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a contraindication for misoprostol use?",
+        "options": ["Pregnancy", "Gastric ulcer", "H. pylori infection", "GERD", "NSAID use"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of bismuth subsalicylate in peptic ulcer treatment?",
+        "options": ["Protects ulcer base by reacting with proteins", "Neutralizes gastric acid", "Stimulates gastric motility", "Inhibits H+/K+ ATPase", "Reduces vagal stimulation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug inhibits the absorption of vitamins A, D, E, and K when used for peptic ulcer treatment?",
+        "options": ["Orlistat", "Omeprazole", "Sucralfate", "Ranitidine", "Antacids"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a major therapeutic use of H2 blockers?",
+        "options": ["Stress ulcer prophylaxis", "Prevention of NSAID-induced gastric ulcers", "Irritable bowel syndrome treatment", "Pancreatitis management", "Primary H. pylori eradication"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the therapeutic significance of triple therapy for H. pylori?",
+        "options": ["Eradicates infection", "Prevents resistance", "Promotes ulcer healing", "Reduces recurrence rates", "All of the above"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the role of magnesium hydroxide in antacid formulations?",
+        "options": ["Neutralizes acid", "Increases gastric motility", "Decreases mucus secretion", "Inhibits H+/K+ ATPase", "Kills H. pylori"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key adverse effect of aluminum hydroxide?",
+        "options": ["Constipation", "Diarrhea", "Electrolyte imbalance", "Hepatotoxicity", "Anemia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is the prototype proton pump inhibitor?",
+        "options": ["Omeprazole", "Ranitidine", "Famotidine", "Misoprostol", "Sucralfate"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of anticholinergic agents like pirenzepine in peptic ulcer treatment?",
+        "options": ["Selective M1 receptor blockade", "Neutralizes gastric acid", "Enhances gastric motility", "Inhibits prostaglandin synthesis", "Kills H. pylori"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key adverse effect of H2-receptor antagonists like cimetidine?",
+        "options": ["Gynecomastia", "Diarrhea", "Renal toxicity", "Hyperkalemia", "Hepatotoxicity"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key characteristic of Methotrexate?",
+        "options": ["It is a folate antimetabolite", "It acts as an immunosuppressant at high doses", "It is contraindicated in pregnancy", "It is effective immediately in rheumatoid arthritis", "It has a high risk of serious side effects"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is a primary mechanism of action for Hydroxychloroquine in rheumatoid arthritis?",
+        "options": ["Inhibition of lysosomal function in T and B lymphocytes", "Reduction of IgA and IgM production", "Direct inhibition of COX enzymes", "Neutralization of inflammatory cytokines", "Promotion of prostaglandin synthesis"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a known adverse effect of Sulfasalazine?",
+        "options": ["Male infertility", "Discoloration of skin", "Elevated liver enzymes", "Photosensitivity", "Blue or gray skin deposition"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is a distinguishing feature of Gold compounds in treating rheumatoid arthritis?",
+        "options": ["Oral preparations are more effective than parenteral", "They take months to show effects", "They alter macrophage morphology", "They are the most commonly prescribed DMARD", "They have no gastrointestinal side effects"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What ocular toxicity is associated with Chloroquine use at high doses?",
+        "options": ["Retinopathy", "Increased intraocular pressure", "Cataract formation", "Night blindness", "Corneal clouding"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following prostanoids is primarily responsible for inhibiting platelet aggregation?",
+        "options": ["PGE2", "PGI2", "TXA2", "Prostaglandin E1", "Prostaglandin F2α"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of Aspirin in platelets?",
+        "options": ["Irreversible inhibition of COX-1", "Reversible inhibition of COX-1", "Irreversible inhibition of COX-2", "Reversible inhibition of COX-2", "Selective COX-2 inhibition"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which NSAID class is converted to an active metabolite in the liver?",
+        "options": ["Salicylates", "Acetic Acids", "Ketones", "Enolic Acids", "Proprionic Acids"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a significant toxicity associated with NSAID use?",
+        "options": ["Hepatotoxicity", "Nephrotoxicity", "Gastrointestinal bleeding", "Tinnitus", "Hypokalemia"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which NSAID has a long plasma half-life (>10 hours)?",
+        "options": ["Ibuprofen", "Diclofenac", "Piroxicam", "Ketorolac", "Aspirin"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which prostanoid promotes platelet aggregation and vasoconstriction?",
+        "options": ["TXA2", "PGI2", "PGE2", "Leukotrienes", "Histamine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What are key properties shared by all NSAIDs?",
+        "options": ["Anti-inflammatory", "Antipyretic", "Analgesic", "Anti-thrombotic", "Antibiotic"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is the primary target of NSAIDs in inflammation?",
+        "options": ["Cyclooxygenase", "Lipoxygenase", "Phospholipase A2", "Prostaglandin synthase", "Thromboxane synthase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which NSAID is classified as a COX-2 selective inhibitor?",
+        "options": ["Ibuprofen", "Celecoxib", "Diclofenac", "Piroxicam", "Naproxen"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "How does alkalinization of urine help in aspirin toxicity?",
+        "options": ["Reduces absorption", "Increases renal clearance", "Inhibits COX enzymes", "Enhances protein binding", "Prevents hepatic metabolism"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following NSAIDs is a salicylate?",
+        "options": ["Aspirin", "Ketorolac", "Piroxicam", "Celecoxib", "Ibuprofen"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What are the cardinal signs of inflammation?",
+        "options": ["Pain", "Heat", "Redness", "Swelling", "Tingling"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What clinical condition is aspirin contraindicated in children due to potential Reye’s syndrome?",
+        "options": ["Asthma", "Influenza", "Chickenpox", "Rheumatic fever", "Gout"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which NSAID is used for the prevention of MI due to its antiplatelet activity?",
+        "options": ["Ibuprofen", "Naproxen", "Aspirin", "Celecoxib", "Meloxicam"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which NSAID is contraindicated in pregnancy due to the risk of fetal complications?",
+        "options": ["Aspirin", "Ibuprofen", "Celecoxib", "Indomethacin", "Ketorolac"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the principal prostanoid involved in pain and hyperalgesia?",
+        "options": ["PGE2", "PGI2", "TXA2", "Leukotrienes", "Prostacyclin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What gastrointestinal toxicity is associated with NSAIDs?",
+        "options": ["Gastric ulceration", "Diarrhea", "Gastric erosion", "H. pylori infection", "Gastric cancer"],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which NSAID causes salicylism at high doses?",
+        "options": ["Diclofenac", "Ibuprofen", "Aspirin", "Celecoxib", "Piroxicam"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the major pharmacodynamic effect of COX-2 selective NSAIDs?",
+        "options": ["Reduced gastric irritation", "Enhanced platelet aggregation", "Increased cardiovascular risk", "Prolonged bleeding time", "Increased renal toxicity"],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which NSAID is rapidly absorbed after oral administration and has peak plasma concentration in 1-2 hours?",
+        "options": ["Aspirin", "Ketorolac", "Ibuprofen", "Naproxen", "Meloxicam"],
+        "answer": ["T", "F", "F", "F", "F"]
+    }
+]
