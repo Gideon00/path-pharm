@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Which of the following is true about congenital anomalies?",
+    "options": [
+      "They are anatomical defects present at birth.",
+      "They always have a genetic basis.",
+      "They are the leading cause of mortality in the first year.",
+      "They include malformations, disruptions, deformations, and syndromes.",
+      "Environmental factors never contribute to their occurrence."
+    ],
+    "answer": ["T", "F", "T", "T", "F"]
+  },
+  {
+    "question": "Which of the following best defines malformations in congenital anomalies?",
+    "options": [
+      "Primary errors of morphogenesis.",
+      "Result from an intrinsically abnormal developmental process.",
+      "Include disruptions and deformations.",
+      "Are caused by extrinsic biomechanical forces.",
+      "Are secondary effects of abnormal organogenesis."
+    ],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following is an example of a teratogenic effect?",
+    "options": [
+      "Cyclopamine causing holoprosencephaly.",
+      "Valproic acid disrupting homeobox (HOX) proteins.",
+      "Retinoic acid deregulating TGF-β signaling.",
+      "Rubella virus causing congenital heart defects.",
+      "Irradiation having no effect during fetal development."
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Which statement about immune hydrops is correct?",
+    "options": [
+      "It is caused by blood group antigen incompatibility.",
+      "IgM antibodies are involved in Rh disease.",
+      "It is uncommon during the first pregnancy.",
+      "Concurrent ABO incompatibility protects against Rh immunization.",
+      "Kernicterus is a possible consequence."
+    ],
+    "answer": ["T", "F", "T", "T", "T"]
+  },
+  {
+    "question": "Which of the following are true about SIDS?",
+    "options": [
+      "It is the leading cause of death in infants 1 month to 1 year old.",
+      "Brain-stem abnormalities are implicated.",
+      "Prone sleeping position is a risk factor.",
+      "SIDS rates have increased in recent decades.",
+      "Male infants are less commonly affected."
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which of the following is true about the triple-risk model of SIDS?",
+    "options": [
+      "It involves a vulnerable infant.",
+      "A critical developmental period is a factor.",
+      "An exogenous stressor is not involved.",
+      "Delayed arousal is a key mechanism.",
+      "The medulla oblongata plays a critical role."
+    ],
+    "answer": ["T", "T", "F", "T", "T"]
+  },
+  {
+    "question": "Which of the following best describes hamartomas?",
+    "options": [
+      "They are excessive overgrowths of cells native to the organ.",
+      "They lack normal architecture of the surrounding tissue.",
+      "They are always malignant.",
+      "They can cause complications despite being benign.",
+      "They are common in childhood tumours."
+    ],
+    "answer": ["T", "T", "F", "T", "F"]
+  },
+  {
+    "question": "Which of the following statements about Wilms tumour is accurate?",
+    "options": [
+      "It is the most common primary renal tumour in children.",
+      "Most cases involve both kidneys simultaneously.",
+      "The cure rate has improved to approximately 90%.",
+      "It commonly arises from mutations in the WT1 gene.",
+      "Pulmonary metastases are rare at diagnosis."
+    ],
+    "answer": ["T", "F", "T", "T", "F"]
+  },
+  {
+    "question": "Which of the following is a risk factor for SIDS?",
+    "options": [
+      "Prematurity and low birth weight.",
+      "Maternal smoking during pregnancy.",
+      "Brain-stem serotonin abnormalities.",
+      "High socioeconomic status.",
+      "Female infants."
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which of the following best defines agenesis?",
+    "options": [
+      "Complete absence of an organ and its primordium.",
+      "Incomplete development of an organ.",
+      "Absence of an opening in a hollow organ.",
+      "Failure of separation during embryogenesis.",
+      "Intrinsic errors in morphogenesis."
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "What are the most common types of childhood cancers?",
+    "options": [
+      "Leukemias.",
+      "Lung cancers.",
+      "Soft tissue tumours.",
+      "Bone tumours.",
+      "Hepatocellular carcinomas."
+    ],
+    "answer": ["T", "F", "T", "T", "F"]
+  },
+  {
+    "question": "What defines disruptions in congenital anomalies?",
+    "options": [
+      "They are primary errors of morphogenesis.",
+      "They result from extrinsic disturbances.",
+      "They are intrinsic errors of development.",
+      "They occur after normal development of an organ.",
+      "Potter sequence is an example."
+    ],
+    "answer": ["F", "T", "F", "T", "F"]
+  },
+  {
+    "question": "Which of the following is associated with Turner's syndrome?",
+    "options": [
+      "Short stature.",
+      "Webbed neck.",
+      "Coarctation of the aorta.",
+      "47, XXY karyotype.",
+      "Primary amenorrhea."
+    ],
+    "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+    "question": "What are the hallmark findings in anaplastic Wilms tumour?",
+    "options": [
+      "Large hyperchromatic pleomorphic nuclei.",
+      "Abnormal mitoses.",
+      "Loss of cellular differentiation.",
+      "Presence of blastemal, stromal, and epithelial cell types.",
+      "Decreased risk of recurrence."
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which of the following congenital malformations result from environmental causes?",
+    "options": [
+      "Congenital rubella syndrome.",
+      "Fetal alcohol syndrome.",
+      "Neural tube defects due to folate deficiency.",
+      "Klinefelter syndrome.",
+      "Cyclopamine exposure in sheep."
+    ],
+    "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+    "question": "Which of the following describes teratomas?",
+    "options": [
+      "They are exclusively malignant.",
+      "Sacrococcygeal teratomas are the most common in children.",
+      "They can have benign, malignant, or indeterminate potential.",
+      "They arise from germ cell precursors.",
+      "They only occur in midline structures."
+    ],
+    "answer": ["F", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Which of the following factors is implicated in the pathogenesis of SIDS?",
+    "options": [
+      "Delayed arousal mechanisms.",
+      "Brain-stem abnormalities.",
+      "Exposure to thermal stress during sleep.",
+      "Male infants are disproportionately affected.",
+      "Increased serotonin signaling in the medulla."
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Which of the following statements about haemangiomas is true?",
+    "options": [
+      "They are the most common tumours in infancy.",
+      "Capillary haemangiomas are often cellular.",
+      "Cavernous haemangiomas rarely involve the CNS.",
+      "They regress spontaneously in most cases.",
+      "They are always part of von Hippel-Lindau disease."
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Which of the following congenital syndromes is associated with WT1 gene mutations?",
+    "options": [
+      "WAGR syndrome.",
+      "Denys-Drash syndrome.",
+      "Beckwith-Wiedemann syndrome.",
+      "Turner syndrome.",
+      "Trisomy 21."
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "What features distinguish malignant tumours in childhood from adults?",
+    "options": [
+      "Primitive embryonal appearance.",
+      "Common occurrence in haematopoietic and nervous tissue.",
+      "Less likelihood of spontaneous regression.",
+      "High cure rates compared to adults.",
+      "Organ-specific differentiation is uncommon."
+    ],
+    "answer": ["T", "T", "F", "T", "F"]
+  },
+  {
+    "question": "Which of the following is a major category of congenital anomalies?",
+    "options": [
+      "Malformations",
+      "Deformations",
+      "Disruptions",
+      "Sequences",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is the characteristic feature of malformations?",
+    "options": [
+      "Intrinsic errors in morphogenesis",
+      "Extrinsic disturbances in development",
+      "Compression by biomechanical forces",
+      "Secondary destruction of normal tissue",
+      "Environmental influences"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Disruptions result from:",
+    "options": [
+      "Intrinsic developmental errors",
+      "Extrinsic disturbances in morphogenesis",
+      "Abnormal fetal positioning",
+      "Genetic mutations only",
+      "None of the above"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following is an example of a teratogenic environmental cause?",
+    "options": [
+      "Valproic acid",
+      "Alcohol",
+      "Rubella",
+      "Phenytoin",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "During which period is the embryo most sensitive to teratogenic agents?",
+    "options": [
+      "First 3 weeks",
+      "3rd to 9th week",
+      "9th week to birth",
+      "First trimester",
+      "Postnatal period"
+    ],
+    "answer": ["F", "T", "F", "T", "F"]
+  },
+  {
+    "question": "What best describes Potter sequence?",
+    "options": [
+      "A single initiating defect",
+      "Multifactorial causes",
+      "Combination of malformations",
+      "Primary errors of morphogenesis",
+      "None of the above"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Immune hydrops is caused by:",
+    "options": [
+      "Blood group antigen incompatibility",
+      "Prematurity",
+      "Chromosomal abnormalities",
+      "Maternal diabetes",
+      "Fetal infections"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which is NOT a feature of SIDS?",
+    "options": [
+      "Occurs during sleep",
+      "Peaks at 6-12 months",
+      "Associated with prone sleep position",
+      "Multifactorial etiology",
+      "May involve brainstem abnormalities"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Non-immune hydrops can be caused by:",
+    "options": [
+      "Twin-to-twin transfusion",
+      "Parvovirus B19 infection",
+      "Homozygous α-thalassemia",
+      "Congenital heart defects",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is the most common type of tumor in infancy?",
+    "options": [
+      "Haemangioma",
+      "Wilms tumor",
+      "Neuroblastoma",
+      "Hepatoblastoma",
+      "Teratoma"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which chromosomal anomaly is associated with Beckwith-Wiedemann syndrome?",
+    "options": [
+      "11p13 deletion",
+      "11p15.5 imprinting defects",
+      "Trisomy 21",
+      "Trisomy 18",
+      "Turner's syndrome"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which factor is crucial in the prognosis of Wilms tumor?",
+    "options": [
+      "Anaplasia",
+      "Tumor size",
+      "Presence of metastases",
+      "Patient age",
+      "Multifocal tumors"
+    ],
+    "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+    "question": "What defines anaplasia in Wilms tumor?",
+    "options": [
+      "Hyperchromatic nuclei",
+      "Pleomorphic cells",
+      "Abortive tubule formation",
+      "Presence of blastemal cells",
+      "Triphasic tumor pattern"
+    ],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Lymphangiomas are characterized by:",
+    "options": [
+      "Cystic spaces",
+      "Hamartomatous nature",
+      "Benign prognosis",
+      "High rate of malignant transformation",
+      "Involvement of the mediastinum"
+    ],
+    "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+    "question": "Which of the following findings is typical in SIDS autopsies?",
+    "options": [
+      "Petechiae on the thymus",
+      "Congested lungs",
+      "Hepatic extramedullary hematopoiesis",
+      "Brainstem abnormalities",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is true of teratomas?",
+    "options": [
+      "Often occur in sacrococcygeal regions",
+      "Can be benign or malignant",
+      "More common in boys",
+      "Rarely associated with congenital anomalies",
+      "First peak incidence at 2 years"
+    ],
+    "answer": ["T", "T", "F", "F", "T"]
+  },
+  {
+    "question": "Cyclopamine causes anomalies by:",
+    "options": [
+      "Inhibiting Hedgehog signaling",
+      "Enhancing HOX gene expression",
+      "Blocking TGF-β signaling",
+      "Disrupting cellular apoptosis",
+      "None of the above"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "What are the three phases of intrauterine development?",
+    "options": [
+      "Pre-embryonic",
+      "Embryonic",
+      "Fetal",
+      "Neonatal",
+      "Adolescent"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Haemangiomas in infancy:",
+    "options": [
+      "Are often cavernous or capillary",
+      "Always require surgical removal",
+      "Can be associated with von Hippel-Lindau disease",
+      "Commonly affect the face and scalp",
+      "Spontaneously regress in some cases"
+    ],
+    "answer": ["T", "F", "T", "T", "T"]
+  },
+  {
+    "question": "What contributes to kernicterus in hydrops fetalis?",
+    "options": [
+      "Hyperbilirubinemia",
+      "Immature blood-brain barrier",
+      "Severe anemia",
+      "Maternal IgG antibodies",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "What is the primary pathological feature of benign nephrosclerosis in the kidneys?",
+    "options": [
+      "Homogeneous pink hyaline thickening of arterioles",
+      "Necrotizing arteriolitis with fibrinoid deposits",
+      "Onionskin concentric thickening",
+      "Formation of fatty streaks in the renal arteries",
+      "Granuloma formation in renal parenchyma"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which type of arteriosclerosis is characterized by the loss of elasticity and thickening of arterial walls?",
+    "options": [
+      "Atherosclerosis",
+      "Monckeberg medial calcific sclerosis",
+      "Arteriolosclerosis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Which components are typically found in atherosclerotic plaques?",
+    "options": [
+      "Smooth muscle cells",
+      "Foam cells",
+      "Elastic fibers",
+      "Collagen",
+      "T-lymphocytes"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What histological feature is most characteristic of malignant nephrosclerosis?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Fibrinoid necrosis with necrotizing arteriolitis",
+      "Onionskin concentric thickening of arteriolar walls",
+      "Thrombus formation",
+      "Granulomatous inflammation"
+    ],
+    "answer": ["F", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which growth factor is involved in smooth muscle proliferation in atherosclerosis?",
+    "options": ["PDGF", "FGF", "VEGF", "TGF-β", "TNF"],
+    "answer": ["T", "T", "F", "T", "F"]
+  },
+  {
+    "question": "What type of epithelium lines the entire cardiovascular system?",
+    "options": [
+      "Simple columnar epithelium",
+      "Stratified squamous epithelium",
+      "Simple squamous epithelium",
+      "Pseudostratified epithelium"
+    ],
+    "answer": ["F", "F", "T", "F"]
+  },
+  {
+    "question": "Which layer of the arterial wall is primarily composed of endothelial cells?",
+    "options": ["Intima", "Media", "Adventitia", "None of the above"],
+    "answer": ["T", "F", "F", "F"]
+  },
+  {
+    "question": "What is the average weight of the heart in an adult male?",
+    "options": ["200-300 g", "300-400 g", "400-500 g", "100-200 g"],
+    "answer": ["F", "T", "F", "F"]
+  },
+  {
+    "question": "Which vessels are categorized as large or elastic arteries?",
+    "options": ["Aorta", "Subclavian", "Carotid", "Coronary"],
+    "answer": ["T", "T", "T", "F"]
+  },
+  {
+    "question": "Which condition is associated with hyperplastic arteriolosclerosis?",
+    "options": [
+      "Mild hypertension",
+      "Severe hypertension",
+      "Diabetes mellitus",
+      "Hyperlipidemia"
+    ],
+    "answer": ["F", "T", "F", "F"]
+  },
+  {
+    "question": "Which layer of the heart corresponds to the visceral layer of the pericardium?",
+    "options": ["Epicardium", "Myocardium", "Endocardium", "Pericardial sac"],
+    "answer": ["T", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following are modifiable risk factors for hypertension?",
+    "options": ["Age", "Obesity", "Cigarette smoking", "Race"],
+    "answer": ["F", "T", "T", "F"]
+  },
+  {
+    "question": "What are foam cells primarily derived from in atherosclerotic plaques?",
+    "options": [
+      "T-lymphocytes",
+      "Monocytes",
+      "Endothelial cells",
+      "Smooth muscle cells"
+    ],
+    "answer": ["F", "T", "F", "T"]
+  },
+  {
+    "question": "What type of calcification is associated with Monckeberg medial calcific sclerosis?",
+    "options": [
+      "Intimal calcification",
+      "Medial calcification",
+      "Valvular calcification",
+      "Perivascular calcification"
+    ],
+    "answer": ["F", "T", "F", "F"]
+  },
+  {
+    "question": "What type of vegetations are seen in acute rheumatic fever?",
+    "options": [
+      "Fibrin vegetations",
+      "Bacterial vegetations",
+      "Foamy vegetations",
+      "Calcific vegetations"
+    ],
+    "answer": ["T", "F", "F", "F"]
+  },
+  {
+    "question": "Which heart valve is most commonly affected in rheumatic heart disease?",
+    "options": [
+      "Mitral valve",
+      "Aortic valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "answer": ["T", "F", "F", "F"]
+  },
+  {
+    "question": "Which artery is most commonly involved in atherosclerosis?",
+    "options": [
+      "Abdominal aorta",
+      "Renal arteries",
+      "Coronary arteries",
+      "Circle of Willis",
+      "Brachial artery"
+    ],
+    "answer": ["T", "F", "T", "T", "F"]
+  },
+  {
+    "question": "What cytokine is implicated in the progression of atherosclerosis?",
+    "options": ["TNF", "IL-6", "TGF-α", "VEGF"],
+    "answer": ["T", "F", "F", "F"]
+  },
+  {
+    "question": "Which stage of Kaposi sarcoma is histologically indistinguishable from granulation tissue?",
+    "options": [
+      "Nodular lesions",
+      "Raised plaques",
+      "Patches",
+      "None of the above"
+    ],
+    "answer": ["F", "F", "T", "F"]
+  }
+]
