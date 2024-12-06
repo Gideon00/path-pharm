@@ -16,7 +16,12 @@
 {% block title %}
     Over
 {% endblock %}
-
+<style>
+    .highlight {
+        background-color: #f9f9f9;
+        border-left: 5px solid #333;
+    }
+</style>
 {% block main %}
 <div class="question-display">
     <div>
@@ -49,7 +54,7 @@
                     {% for fail in totalFails %}
                     <li>
                         <div class="question" onclick="toggleDropdown('dropdown{{ loop.index }}')"><p>{{ fail["Question_number"] }}. {{ fail["question"] }}</p></div>
-                        <div id="dropdown{{ loop.index }}" class="dropdown">
+                        <div id="dropdown{{ loop.index }}" class="dropdown highlight">
                             {% for i in range(fail.options | length) %}
                                 <p>{{ fail["options"][i] }}: {{ fail["answer"][i] }}</p>
                             {% endfor %}
