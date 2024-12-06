@@ -1,0 +1,123 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Courses and Topics
+{% endblock %}
+
+
+{% block style %}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h1,
+    h2 {
+        color: #333;
+    }
+
+    h2 {
+        margin-top: 20px;
+    }
+
+    p {
+        margin: 10px 0;
+    }
+
+    .highlight {
+        background-color: #f9f9f9;
+        border-left: 5px solid #333;
+    }
+
+
+    ul {
+        padding-left: 20px;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .topic-details {
+        margin-left: 20px;
+        color: gray;
+    }
+</style>
+{% endblock %}
+
+
+{% block script %}
+<script>
+    // Fetch JSON data and render courses
+    fetch('/get_data')
+        .then(response => response.json())
+        .then(data => {
+            const coursesList = document.getElementById('courses-list');
+            data.postings.forEach((course) => {
+                // Create a list item for each course
+                const courseItem = document.createElement('li');
+                courseItem.textContent = course.courses;
+                courseItem.style.cursor = "pointer";
+                courseItem.style.fontWeight = "bold"; // Makes the text bold
+
+                // Create an ordered list for topics (initially hidden)
+                const topicsList = document.createElement('ol');
+                topicsList.classList.add('hidden');
+                topicsList.classList.add('highlight');
+
+                // Add topics to the topics list
+                course.week.forEach(topic => {
+                    const topicItem = document.createElement('li');
+                    topicItem.textContent = topic.topic;
+                    topicItem.style.cursor = "pointer";
+
+                    // Create a paragraph for topic details (initially hidden)
+                    const topicDetails = document.createElement('p');
+                    topicDetails.textContent = `Starts: ${topic.start ?? 'N/A'} and Ends: ${topic.end ?? 'N/A'}`;
+                    topicDetails.classList.add('topic-details', 'hidden');
+
+                    // Add click event listener for the topic
+                    topicItem.addEventListener('click', (event) => {
+                        event.stopPropagation(); // Prevent triggering the parent's event
+                        topicDetails.classList.toggle('hidden');
+                    });
+
+                    topicItem.appendChild(topicDetails); // Append details to topic
+                    topicsList.appendChild(topicItem);  // Append topic to topics list
+                });
+
+                // Show/hide topics list when a course is clicked
+                courseItem.addEventListener('click', () => {
+                    topicsList.classList.toggle('hidden');
+                });
+
+                courseItem.appendChild(topicsList); // Append topics list to course
+                coursesList.appendChild(courseItem); // Append course to main list
+            });
+        })
+        .catch(error => console.error('Error fetching data:', error));
+
+</script>
+{% endblock %}
+
+{% block main %}
+<div class="container">
+    <h1>Courses</h1>
+    <p>
+        Click on a course to view its topics.
+        You can also click on a topic to see the question numbers where it begins and ends.
+    </p>
+
+    <ul id="courses-list"></ul>
+</div>
+
+{% endblock %}
