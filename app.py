@@ -11,7 +11,7 @@ from google.oauth2 import id_token
 from pip._vendor import cachecontrol
 import google.auth.transport.requests
 from google_auth_oauthlib.flow import Flow
-from flask import Flask, abort, redirect, render_template, request, session, url_for
+from flask import Flask, abort, jsonify, redirect, render_template, request, session, url_for
 from helpers import (
     MCQ_REGIONS,
     REGIONS,
@@ -841,3 +841,16 @@ def tower():
     }
     # Return Page of winners in ranks
     return render_template("tower.html", candidates=candidates, king=king)
+
+# Route to serve the HTML page
+@app.route('/guide')
+def guide():
+    return render_template('guide.html')
+
+# Route to fetch JSON data
+@app.route('/get_data')
+def get_data():
+    with open('bank/key.json', encoding="utf-8") as f:  # Load JSON from a file
+        data = json.load(f)
+    return jsonify(data)
+
