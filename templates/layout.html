@@ -36,10 +36,10 @@
                 {% if session["oauth_id"] %}
                     <ul class="navbar-nav me-auto mt-2">
                         <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{ url_for('index') }}">Start Over</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/tower">tower</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/add_admin">See Users</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/profile">profile</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ url_for('guide') }}">Guide</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/tower">Tower</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/add_admin">Users</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/profile">Profile</a></li>
                     </ul>
                     <ul class="navbar-nav ms-auto mt-2">
                         <li class="nav-item"><a class="nav-link" href="/logout">Log Out</a></li>
