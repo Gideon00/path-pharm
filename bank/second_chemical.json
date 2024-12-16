@@ -285,5 +285,240 @@
         "question": "Which test distinguishes between pituitary and ectopic ACTH production in Cushing's syndrome?",
         "options": ["Low-dose dexamethasone test", "High-dose dexamethasone test", "24-hour urinary cortisol", "CRH stimulation test", "Plasma aldosterone levels"],
         "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a primary component of gastric juice?",
+        "options": ["Hydrochloric acid", "Pepsin", "Intrinsic factor", "Amylase", "Bicarbonate"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which cells in the stomach are responsible for acid secretion?",
+        "options": ["Parietal cells", "Chief cells", "Goblet cells", "Enterochromaffin cells", "Mucous cells"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Zollinger-Ellison syndrome is associated with:",
+        "options": ["Gastrinoma", "High basal acid output", "Recurrent duodenal ulcers", "MEN type 1", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a diagnostic test for Helicobacter pylori?",
+        "options": ["Urea breath test", "Serum antibody test", "Stool antigen test", "Endoscopic biopsy", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Pernicious anemia results from:",
+        "options": ["Intrinsic factor deficiency", "Vitamin B12 deficiency", "Hyposecretion of gastric juice", "Autoimmune gastritis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the gold standard for diagnosing celiac disease?",
+        "options": ["Endoscopic biopsy", "IgA anti-tissue transglutaminase antibodies", "IgG anti-gliadin antibodies", "Hydrogen breath test", "Serum gastrin assay"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common cause of lactase deficiency?",
+        "options": ["Celiac disease", "Radiation enteritis", "Tropical sprue", "Crohn's disease", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The hydrogen breath test is used to diagnose:",
+        "options": ["Lactose intolerance", "Small intestinal bacterial overgrowth", "Carbohydrate malabsorption", "Celiac disease", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Bile acid malabsorption is commonly associated with:",
+        "options": ["Ileal resection", "Cholecystectomy", "Irritable bowel syndrome", "Crohn's disease", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The SeHCAT test is used to diagnose:",
+        "options": ["Bile acid malabsorption", "Pancreatic insufficiency", "Celiac disease", "Lactose intolerance", "IBS"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are associated with inflammatory bowel disease (IBD)?",
+        "options": ["Ulcerative colitis", "Crohn's disease", "Calprotectin elevation", "Autoimmune pathology", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Chronic pancreatitis commonly presents with:",
+        "options": ["Fat malabsorption", "Secondary diabetes", "Abdominal pain", "Pancreatic fibrosis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The PABA test is used to assess which pancreatic enzyme?",
+        "options": ["Chymotrypsin", "Amylase", "Lipase", "Trypsin", "Elastase"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the most specific test for exocrine pancreatic insufficiency?",
+        "options": ["Faecal elastase", "Serum lipase", "Serum amylase", "Trypsinogen assay", "PABA test"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Acute pancreatitis is characterized by:",
+        "options": ["Severe epigastric pain", "Elevated serum amylase", "Hypocalcemia", "Hyperglycemia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "The Schilling test is used to diagnose:",
+        "options": ["Vitamin B12 deficiency", "Pernicious anemia", "Small bowel bacterial overgrowth", "Pancreatic insufficiency", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following conditions is associated with small intestinal bacterial overgrowth?",
+        "options": ["Gastric hypochlorhydria", "Impaired motility", "Pancreatic insufficiency", "Blind loop syndrome", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Protein-losing enteropathy is commonly associated with:",
+        "options": ["Hypoalbuminemia", "Edema", "Increased alpha-1-antitrypsin in stool", "Malnutrition", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which test is most commonly used to detect fat malabsorption?",
+        "options": ["Fecal fat measurement", "SeHCAT scan", "Hydrogen breath test", "D-xylose test", "PABA test"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "VIPoma syndrome (WDHA syndrome) is associated with:",
+        "options": ["Watery diarrhea", "Hypokalemia", "Achlorhydria", "Hypercalcemia", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Gastrointestinal neuroendocrine tumors may include:",
+        "options": ["Gastrinomas", "Insulinomas", "VIPomas", "Somatostatinomas", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following conditions causes osmotic diarrhea?",
+        "options": ["Lactose intolerance", "Celiac disease", "Disaccharidase deficiency", "Small bowel bacterial overgrowth", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following tests distinguishes secretory from osmotic diarrhea?",
+        "options": ["Fasting test", "D-xylose test", "Hydrogen breath test", "SeHCAT scan", "Endoscopic biopsy"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a complication of chronic diarrhea?",
+        "options": ["Hypokalemia", "Metabolic alkalosis", "Electrolyte imbalance", "Dehydration", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a major cause of acute abdomen?",
+        "options": ["Acute pancreatitis", "Acute appendicitis", "Acute intestinal ischemia", "Acute diverticulitis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the primary molecule bilirubin is derived from?",
+        "options": ["Heme", "Globin", "Protoporphyrin", "Stercobilin", "Urobilin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme catalyzes the conversion of heme to biliverdin?",
+        "options": ["Heme oxygenase", "Biliverdin reductase", "UDP-glucuronyltransferase", "Cytochrome P450", "Albumin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of glucuronic acid in bilirubin metabolism?",
+        "options": ["Conjugation of bilirubin", "Transport of bilirubin", "Excretion of bilirubin", "Oxidation of bilirubin", "Conversion to stercobilin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary form of bilirubin excreted in feces?",
+        "options": ["Stercobilin", "Urobilin", "Biliverdin", "Conjugated bilirubin", "Free bilirubin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein transports unconjugated bilirubin in the bloodstream?",
+        "options": ["Albumin", "Transferrin", "Hemoglobin", "Haptoglobin", "Globulin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary characteristic of hyperbilirubinemia?",
+        "options": ["Yellow discoloration of skin and sclera", "Dark urine", "Pale stools", "Increased AST and ALT", "Kernicterus"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which type of jaundice is caused by excessive hemolysis?",
+        "options": ["Prehepatic", "Intrahepatic", "Posthepatic", "Physiological", "Neonatal"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common cause of posthepatic jaundice?",
+        "options": ["Gallstones", "Hemolysis", "Viral hepatitis", "Gilbert’s syndrome", "Crigler-Najjar syndrome"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a feature of intrahepatic jaundice?",
+        "options": ["Dark urine", "Pale stools", "Elevated unconjugated bilirubin", "Impaired bilirubin conjugation", "Increased ALT and AST"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What distinguishes Gilbert’s syndrome?",
+        "options": ["Partial deficiency of UDP-glucuronyltransferase", "Complete absence of conjugating enzyme", "Mutation in MRP2 gene", "Pigmented liver", "Neonatal onset"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which condition is characterized by absent enzyme activity and severe hyperbilirubinemia?",
+        "options": ["Crigler-Najjar Syndrome Type I", "Crigler-Najjar Syndrome Type II", "Dubin-Johnson Syndrome", "Rotor Syndrome", "Gilbert's Syndrome"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the hallmark of neonatal jaundice due to hemolytic disease?",
+        "options": ["Rapid bilirubin rise within the first 24 hours", "Dark-colored urine", "Increased ALT levels", "Pigmented stools", "Normal bilirubin metabolism"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following causes conjugated hyperbilirubinemia?",
+        "options": ["Dubin-Johnson Syndrome", "Crigler-Najjar Syndrome", "Gilbert’s Syndrome", "Hemolysis", "Breast milk jaundice"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which diagnostic finding is most associated with posthepatic jaundice?",
+        "options": ["Pale stools", "Dark urine", "Elevated unconjugated bilirubin", "Elevated urobilinogen", "Normal ALT levels"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of phototherapy in neonatal jaundice?",
+        "options": ["Converts bilirubin to water-soluble isomers", "Enhances conjugation in the liver", "Reduces hemolysis", "Inhibits bilirubin production", "Stimulates glucuronidation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which genetic disorder results in pigmented liver and defective bilirubin excretion?",
+        "options": ["Dubin-Johnson Syndrome", "Crigler-Najjar Syndrome", "Gilbert’s Syndrome", "Lucey-Driscoll Syndrome", "Rotor Syndrome"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main complication of severe unconjugated hyperbilirubinemia?",
+        "options": ["Kernicterus", "Cholangitis", "Hemolysis", "Gallstone formation", "Cirrhosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following lab findings is consistent with prehepatic jaundice?",
+        "options": ["Elevated unconjugated bilirubin", "Elevated ALT", "Elevated conjugated bilirubin", "Absent urine bilirubin", "Elevated urobilinogen in urine"],
+        "answer": ["T", "F", "F", "T", "T"]
+    },
+    {
+        "question": "What distinguishes Crigler-Najjar Syndrome Type II from Type I?",
+        "options": ["Partial enzyme activity", "Severe kernicterus", "Pigmented liver", "Recessive inheritance", "Absence of bilirubin in urine"],
+        "answer": ["T", "F", "F", "T", "T"]
+    },
+    {
+        "question": "What is a common feature of breast milk jaundice?",
+        "options": ["Onset 3-5 days after birth", "Conjugated hyperbilirubinemia", "Pigmented liver", "Hemolysis", "Absence of urobilinogen in urine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which bilirubin-related condition is associated with gallstone obstruction?",
+        "options": ["Posthepatic jaundice", "Prehepatic jaundice", "Gilbert’s Syndrome", "Dubin-Johnson Syndrome", "Breast milk jaundice"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a critical indicator for exchange transfusion in neonatal jaundice?",
+        "options": ["Bilirubin > 20 mg/dL", "Presence of kernicterus", "Rapid rise of bilirubin (>0.5 mg/dL per hour)", "Low hemoglobin levels", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
     }
 ]
