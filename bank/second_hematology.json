@@ -193,5 +193,130 @@
         "question": "Which factors are associated with the pathogenesis of MDS?",
         "options": ["Telomerase dysfunction", "Defective DNA repair", "Spliceosome dysregulation", "Abnormal signal transduction", "Vitamin E deficiency"],
         "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a clinical feature of aplastic anemia?",
+        "options": ["Pancytopenia", "Hypocellular bone marrow", "Increased fat cells in bone marrow", "No extensive fibrosis in bone marrow", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the most common cause of acquired aplastic anemia?",
+        "options": ["Idiopathic", "Drug-induced", "Viral infections", "Ionizing radiation", "Pregnancy"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drugs are associated with drug-induced aplastic anemia?",
+        "options": ["Methotrexate", "Chloramphenicol", "Daunorubicin", "Gold salts", "Busulfan"],
+        "answer": ["F", "T", "F", "T", "T"]
+    },
+    {
+        "question": "What is a characteristic feature of bone marrow in aplastic anemia?",
+        "options": ["<25% cellularity", "Increased fibrosis", "Presence of malignancy", "High levels of hematopoietic cells", "Presence of storage diseases"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which test is essential for diagnosing aplastic anemia?",
+        "options": ["Bone marrow biopsy", "Chromosome breakage test", "Flow cytometry", "Reticulocyte count", "Liver function tests"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Inherited causes of aplastic anemia include:",
+        "options": ["Fanconi anemia", "Dyskeratosis congenita", "Shwachman-Diamond syndrome", "Diamond-Blackfan anemia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Fanconi anemia is associated with:",
+        "options": ["Autosomal recessive inheritance", "Short stature", "Hypersensitivity to DNA cross-linkers", "High risk of acute myeloid leukemia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a diagnostic criterion for severe aplastic anemia?",
+        "options": ["Bone marrow cellularity <25%", "Neutrophils <0.5 × 10⁹/L", "Platelets <20 × 10⁹/L", "Reticulocytes <20 × 10⁹/L", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Paroxysmal nocturnal hemoglobinuria (PNH) is characterized by:",
+        "options": ["Chronic intravascular hemolysis", "Venous thrombosis", "Bone marrow failure", "Deficiency of GPI-linked proteins", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the main mechanism of chronic hemolysis in PNH?",
+        "options": ["Absence of CD55 and CD59", "Increased erythropoiesis", "Iron deficiency", "Defective hemoglobin synthesis", "Autoimmune reaction"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Bone marrow failure syndromes result in:",
+        "options": ["Pancytopenia", "Increased risk of infections", "Bleeding tendencies", "Fatigue and pallor", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a feature of pure red cell aplasia (PRCA)?",
+        "options": ["Absence of erythroblasts in bone marrow", "Severe anemia", "Normal white blood cell count", "Reticulocytopenia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which infections are known to cause PRCA?",
+        "options": ["Parvovirus B19", "HIV", "Infectious mononucleosis", "Viral hepatitis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Diamond-Blackfan anemia is characterized by:",
+        "options": ["Normochromic macrocytic anemia", "Craniofacial abnormalities", "Thumb abnormalities", "Cardiac malformations", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the treatment of choice for severe aplastic anemia in patients <40 years with an HLA-matched sibling donor?",
+        "options": ["Hematopoietic stem cell transplantation", "Immunosuppressive therapy", "Blood transfusions", "Growth factors", "Androgens"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Dyskeratosis congenita is associated with mutations in:",
+        "options": ["Telomerase components", "DNA repair enzymes", "Ribosomal protein genes", "HLA antigens", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary hematological abnormality in Schwachman-Diamond syndrome?",
+        "options": ["Neutropenia", "Pancytopenia", "Myelodysplastic syndrome", "Leukemia", "Thrombocytopenia"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following syndromes is associated with congenital aplastic anemia and skeletal abnormalities?",
+        "options": ["Thrombocytopenia-absent radius syndrome", "Fanconi anemia", "Diamond-Blackfan anemia", "Schwachman-Diamond syndrome", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the treatment for neutropenia in Schwachman-Diamond syndrome?",
+        "options": ["G-CSF", "Immunosuppressive therapy", "Stem cell transplantation", "Androgens", "Blood transfusion"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which malignancies are Fanconi anemia patients at risk of developing?",
+        "options": ["Acute myeloid leukemia", "Liver tumors", "Solid organ cancers", "Lymphoma", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What are common complications of bone marrow transplantation in aplastic anemia?",
+        "options": ["Graft failure", "Graft versus host disease", "Infections", "Iron overload", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is a key diagnostic marker for PNH?",
+        "options": ["Absence of CD55 and CD59 on flow cytometry", "Increased hemoglobin F levels", "Low erythropoietin levels", "Macrocytic anemia", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Aplastic anemia often involves destruction of:",
+        "options": ["Hematopoietic stem cells", "Lymphocytes", "Megakaryocytes", "Endothelial cells", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the hallmark hematological finding in Diamond-Blackfan anemia?",
+        "options": ["Selective decrease in erythroid precursors", "Leukopenia", "Thrombocytopenia", "Pancytopenia", "Hypersegmented neutrophils"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a key feature of the bone marrow in aplastic anemia?",
+        "options": ["Hypocellularity", "Increased fibrosis", "Hypercellularity", "Presence of malignant cells", "All of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
