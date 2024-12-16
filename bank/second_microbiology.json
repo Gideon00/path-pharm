@@ -491,5 +491,440 @@
         "question": "What is a common complication of intestinal Taeniasis?",
         "options": ["Appendicitis", "Cholangitis", "Pancreatic duct obstruction", "Peritonitis", "All of the above"],
         "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which species of Echinococcus is the most frequent cause of human echinococcosis?",
+        "options": ["E. granulosus", "E. multilocularis", "E. vogeli", "E. oligarthrus", "E. shiquicus"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary intermediate host in the life cycle of E. granulosus?",
+        "options": ["Sheep", "Humans", "Dogs", "Wolves", "Pigs"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which diagnostic tool is most commonly used to identify hydatid cysts in humans?",
+        "options": ["Ultrasound", "Liver biopsy", "Stool examination", "Erythrocyte sedimentation rate", "Bone marrow aspirate"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the characteristic clinical feature of a ruptured hydatid cyst?",
+        "options": ["Anaphylactic shock", "Fever", "Diarrhea", "Cough", "Weight loss"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which medication is effective for treating intermediate hosts with hydatid disease?",
+        "options": ["Albendazole", "Praziquantel", "Niclosamide", "Mebendazole", "Both A and D"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which organ is most commonly affected by hydatid cysts in humans?",
+        "options": ["Liver", "Heart", "Brain", "Kidney", "Skin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a common mode of transmission of Echinococcus eggs to humans?",
+        "options": ["Contact with feces-contaminated dog fur", "Consumption of undercooked pork", "Drinking untreated water", "Mosquito bites", "Inhalation of cyst fluid"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a preventive measure against hydatid disease?",
+        "options": ["Control stray dog populations", "Eradication of sheep", "Mandatory vaccination of humans", "Use of mosquito repellents", "Consumption of raw meat"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of hydatid sand in the lifecycle of Echinococcus?",
+        "options": ["Contains protoscolices", "Enhances immune response", "Helps cyst attachment", "Prevents cyst rupture", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following cultural practices has been linked to increased prevalence of hydatid disease?",
+        "options": ["Feeding dogs infected sheep entrails", "Consuming raw fish", "Burying the dead in contaminated soil", "Rearing livestock in enclosed pens", "Burning infected carcasses"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which species causes visceral leishmaniasis?",
+        "options": [
+            "Leishmania tropica",
+            "Leishmania major",
+            "Leishmania donovani",
+            "Leishmania braziliensis",
+            "Leishmania mexicana"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary vector of leishmaniasis?",
+        "options": [
+            "Anopheles mosquito",
+            "Tsetse fly",
+            "Phlebotomus sandfly",
+            "Glossina species",
+            "Culex mosquito"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which clinical form of leishmaniasis is associated with destruction of mucous membranes?",
+        "options": [
+            "Cutaneous leishmaniasis",
+            "Visceral leishmaniasis",
+            "Mucocutaneous leishmaniasis",
+            "Diffuse cutaneous leishmaniasis",
+            "Chronic cutaneous leishmaniasis"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the incubation period of visceral leishmaniasis (Kala-azar)?",
+        "options": [
+            "1-2 weeks",
+            "2-6 months",
+            "4-10 months",
+            "12-24 months",
+            "Over 2 years"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a common complication of visceral leishmaniasis?",
+        "options": [
+            "Cancrum oris",
+            "Pulmonary tuberculosis",
+            "Liver cirrhosis",
+            "Destruction of nasal bone",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which diagnostic method uses a delayed hypersensitivity skin test?",
+        "options": [
+            "Giemsa stain",
+            "ELISA",
+            "Montenegro test",
+            "Complement fixation test",
+            "PCR assay"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common lesion type seen in cutaneous leishmaniasis caused by Leishmania tropica?",
+        "options": [
+            "Wet ulcer",
+            "Oriental sore",
+            "Diffuse nodule",
+            "Granulomatous plaque",
+            "Necrotizing fasciitis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which treatment is commonly used for resistant cases of visceral leishmaniasis?",
+        "options": [
+            "Sodium stibogluconate",
+            "Amphotericin B",
+            "Pentamidine isethionate",
+            "Ethyl stibamine",
+            "Urea stibamine"
+        ],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which preventive method is least likely to reduce leishmaniasis transmission?",
+        "options": [
+            "Using insecticide-treated nets",
+            "Treating reservoir hosts",
+            "Using DDT for vector control",
+            "Proper dressing of ulcers",
+            "Avoiding consumption of contaminated water"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which clinical feature is characteristic of mucocutaneous leishmaniasis?",
+        "options": [
+            "Painless nodules",
+            "Hypertrophy of nasal septum",
+            "Granulomatous skin lesions",
+            "Diffuse maculopapular rash",
+            "Chronic diarrhea"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which parasite causes West African trypanosomiasis?",
+        "options": [
+            "Trypanosoma cruzi",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense",
+            "Plasmodium falciparum",
+            "Leishmania donovani"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary vector for African trypanosomiasis?",
+        "options": [
+            "Anopheles mosquito",
+            "Glossina species",
+            "Triatomine insects",
+            "Ixodes ticks",
+            "Culex mosquito"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which morphological form of Trypanosoma is non-motile and intracellular?",
+        "options": [
+            "Trypomastigote",
+            "Epimastigote",
+            "Promastigote",
+            "Amastigote",
+            "Metacyclic trypomastigote"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is a common diagnostic feature of African trypanosomiasis in the cerebrospinal fluid (CSF)?",
+        "options": [
+            "Decreased IgM levels",
+            "Elevated total protein levels",
+            "Eosinophilia",
+            "Elevated white blood cell count",
+            "Decreased erythrocyte sedimentation rate"
+        ],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a distinguishing feature of Trypanosoma brucei rhodesiense compared to T. b. gambiense?",
+        "options": [
+            "Chronic disease progression",
+            "Human reservoir",
+            "East African distribution",
+            "High mortality without treatment",
+            "Transmitted by riverine tsetse fly"
+        ],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which diagnostic technique is the most sensitive for detecting trypanosomes in the CSF?",
+        "options": [
+            "Wright staining",
+            "Giemsa staining",
+            "Double centrifugation",
+            "Card agglutination test for trypanosomiasis (CATT)",
+            "Microscopy of wet preparations"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a key clinical feature of the chronic phase of Chagas disease?",
+        "options": [
+            "Acute myocarditis",
+            "Megaesophagus",
+            "Localized chagoma",
+            "Romaña’s sign",
+            "Painless lymphadenopathy"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which transmission method is not associated with African trypanosomiasis?",
+        "options": [
+            "Congenital transmission",
+            "Sexual contact",
+            "Human-fly-human cycle",
+            "Vector-borne through Glossina species",
+            "Consumption of contaminated water"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which treatment is most effective for late-stage West African trypanosomiasis?",
+        "options": [
+            "Pentamidine",
+            "Suramin",
+            "Eflornithine",
+            "Artemether",
+            "Chloroquine"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about the card agglutination test for trypanosomiasis (CATT) is true?",
+        "options": [
+            "Highly specific but less sensitive",
+            "Can only be performed in laboratory settings",
+            "Used primarily for T. b. rhodesiense diagnosis",
+            "Provides results in approximately 10 minutes",
+            "Requires PCR confirmation for accuracy"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the taxonomic classification of Trypanosoma brucei?",
+        "options": [
+            "Kingdom Plantae",
+            "Phylum Protozoa",
+            "Phylum Platyhelminthes",
+            "Class Insecta",
+            "Kingdom Fungi"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the kinetoplast location in the promastigote stage?",
+        "options": [
+            "Posterior end",
+            "Centrally located",
+            "Anterior end",
+            "Within the undulating membrane",
+            "Absent in this stage"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the characteristic movement mechanism of trypomastigotes?",
+        "options": [
+            "Flagellum pushes the organism forward",
+            "Undulating membrane increases motility",
+            "Stationary intracellular movement",
+            "Ciliary propulsion",
+            "Pseudopodia extension"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which region is primarily affected by T. b. gambiense?",
+        "options": [
+            "North Africa",
+            "Central Africa",
+            "West Africa",
+            "South Africa",
+            "East Africa"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which reservoir is commonly associated with T. b. rhodesiense?",
+        "options": [
+            "Humans",
+            "Wild antelope",
+            "Domestic dogs",
+            "Rodents",
+            "Fish"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which side effect is associated with suramin treatment?",
+        "options": [
+            "Encephalopathy",
+            "Peripheral neuropathy",
+            "Pancreatic dysfunction",
+            "Bone marrow suppression",
+            "Renal impairment"
+        ],
+        "answer": ["F", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which morphological form is seen in the vertebrate host?",
+        "options": [
+            "Epimastigote",
+            "Promastigote",
+            "Amastigote",
+            "Trypomastigote",
+            "Leishmanial form"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the primary habitat of Trypanosoma brucei in the human body?",
+        "options": [
+            "Gastrointestinal tract",
+            "Blood and lymph",
+            "Intracellular spaces only",
+            "Skin epidermis",
+            "Bone marrow"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which characteristic differentiates T. b. gambiense from T. b. rhodesiense?",
+        "options": [
+            "Chronic progression over years",
+            "Predominantly animal reservoirs",
+            "Savanna tsetse fly vector",
+            "Rapid onset of CNS involvement",
+            "Confined to East Africa"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the preferred stain for diagnosing Trypanosoma in blood smears?",
+        "options": [
+            "Leishman stain",
+            "Wright stain",
+            "Giemsa stain",
+            "Gram stain",
+            "Hematoxylin-eosin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the function of the variable surface glycoprotein (VSG) in Trypanosoma?",
+        "options": [
+            "Enhances motility",
+            "Provides immune evasion",
+            "Facilitates cell adhesion",
+            "Increases nutrient absorption",
+            "Promotes intracellular survival"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which clinical feature is least associated with African trypanosomiasis?",
+        "options": [
+            "Thrombocytopenia",
+            "Hypergammaglobulinemia",
+            "Eosinophilia",
+            "Elevated ESR",
+            "Anemia"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the incubation period for Chagas disease after blood transfusion?",
+        "options": [
+            "5-14 days",
+            "20-40 days",
+            "40-60 days",
+            "10-20 days",
+            "15-30 days"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What feature is most characteristic of Romaña’s sign in Chagas disease?",
+        "options": [
+            "Painful induration",
+            "Periorbital edema",
+            "Chronic fever",
+            "Enlarged lymph nodes",
+            "Congestive heart failure"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which laboratory technique is most sensitive for diagnosing acute Chagas disease?",
+        "options": [
+            "Indirect immunofluorescence",
+            "ELISA",
+            "PCR",
+            "Microscopy of blood",
+            "Serological testing"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
     }
 ]
