@@ -598,5 +598,170 @@
       "None of the above"
     ],
     "answer": ["F", "F", "T", "F"]
+  },
+  {
+      "question": "Which of the following is a common complication of chronic GERD?",
+      "options": ["Barrett esophagus", "Esophageal stricture", "Peptic ulcer", "Esophageal adenocarcinoma", "None of the above"],
+      "answer": ["T", "T", "F", "T", "F"]
+  },
+  {
+      "question": "What is the hallmark microscopic feature of Barrett esophagus?",
+      "options": ["Intestinal metaplasia with goblet cells", "Squamous metaplasia", "Eosinophilic infiltration", "Crypt abscesses", "Granulomas"],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is associated with the pathogenesis of GERD?",
+      "options": ["Lower esophageal sphincter (LES) dysfunction", "Increased abdominal pressure", "Delayed gastric emptying", "Hiatal hernia", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Helicobacter pylori contributes to chronic gastritis through:",
+      "options": ["Urease production", "Flagella for motility", "Adhesins for attachment", "CagA toxin production", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which of the following increases the risk of esophageal adenocarcinoma?",
+      "options": ["Barrett esophagus", "Chronic GERD", "Obesity", "Tobacco use", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Peptic ulcer disease commonly affects:",
+      "options": ["Proximal duodenum", "Gastric antrum", "Esophagus", "Colon", "Rectum"],
+      "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+      "question": "Which of the following mechanisms protect the gastric mucosa from injury?",
+      "options": ["Mucin secretion", "Bicarbonate secretion", "Rich vascular supply", "Surface epithelial regeneration", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Adenocarcinoma of the colon arises through:",
+      "options": ["APC mutation", "KRAS mutation", "p53 inactivation", "SMAD4 loss", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which of the following describes the progression of Barrett esophagus to adenocarcinoma?",
+      "options": ["Stepwise genetic mutations", "Chromosomal abnormalities", "p53 overexpression", "Accumulation of mutations", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Colorectal cancer risk factors include:",
+      "options": ["Low fiber diet", "Family history", "Chronic inflammatory bowel disease", "High red meat consumption", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which syndrome is associated with germline APC mutations and multiple colorectal adenomas?",
+      "options": ["Familial adenomatous polyposis", "Lynch syndrome", "Peutz-Jeghers syndrome", "Turcot syndrome", "None of the above"],
+      "answer": ["T", "F", "F", "T", "F"]
+  },
+  {
+      "question": "Which of the following is a feature of chronic gastritis caused by H. pylori?",
+      "options": ["Antral predominance", "High acid production", "Increased risk of gastric cancer", "Intestinal metaplasia", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Peptic ulcers are commonly caused by:",
+      "options": ["Helicobacter pylori", "NSAID use", "Smoking", "Corticosteroids", "All of the above"],
+      "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+      "question": "Which part of the colon is commonly affected in colorectal cancer?",
+      "options": ["Sigmoid colon", "Rectum", "Ascending colon", "Transverse colon", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "The morphology of peptic ulcers includes:",
+      "options": ["Well-defined edges", "Necrotic debris", "Inflammatory exudate", "Granulation tissue", "Fibrotic scar"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which clinical feature is most specific for GERD?",
+      "options": ["Heartburn", "Dysphagia", "Regurgitation", "Odynophagia", "Melena"],
+      "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Esophageal squamous cell carcinoma is associated with:",
+      "options": ["Alcohol", "Tobacco use", "Achalasia", "Plummer-Vinson syndrome", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which histological feature is characteristic of colorectal adenocarcinoma?",
+      "options": ["Elongated hyperchromatic nuclei", "Necrotic debris in gland lumen", "Infiltrating nests of tumor cells", "Mucinous adenocarcinoma pattern", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Complications of chronic gastritis include:",
+      "options": ["Peptic ulcer disease", "Intestinal metaplasia", "Gastric adenocarcinoma", "MALT lymphoma", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "What is the most common cause of chronic gastritis?",
+      "options": ["H. pylori infection", "Autoimmune gastritis", "Radiation injury", "Chronic bile reflux", "Systemic diseases like Crohn's disease"],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "The adenoma-carcinoma sequence involves mutations in:",
+      "options": ["APC", "KRAS", "p53", "SMAD4", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Familial adenomatous polyposis (FAP) is associated with:",
+      "options": ["APC mutations", "Development of colorectal adenocarcinoma", "Prophylactic colectomy", "Osteomas", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "What is the common histological feature in chronic gastritis?",
+      "options": ["Lymphoid aggregates", "Neutrophilic infiltration", "Glandular atrophy", "Intestinal metaplasia", "All of the above"],
+      "answer": ["T", "F", "T", "T", "T"]
+  },
+  {
+      "question": "Complications of GERD include:",
+      "options": ["Barrett esophagus", "Strictures", "Adenocarcinoma", "Chronic esophagitis", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Autoimmune gastritis is characterized by:",
+      "options": ["Anti-parietal cell antibodies", "Vitamin B12 deficiency", "Achlorhydria", "Antral endocrine cell hyperplasia", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "The most common clinical presentation of colorectal cancer is:",
+      "options": ["Rectal bleeding", "Change in bowel habits", "Iron deficiency anemia", "Abdominal pain", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "The mismatch repair pathway in colorectal cancer results in:",
+      "options": ["Microsatellite instability", "Accumulation of mutations", "Right-sided colon cancers", "HNPCC-associated cancers", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "What is the typical feature of adenomas in FAP?",
+      "options": ["Multiple adenomas", "Tubular and villous patterns", "Progression to adenocarcinoma", "Presence in GI tract beyond the colon", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Chronic use of NSAIDs leads to peptic ulcers due to:",
+      "options": ["Inhibition of prostaglandins", "Reduced bicarbonate secretion", "Increased acid secretion", "Mucosal damage", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "In esophageal squamous cell carcinoma, risk factors include:",
+      "options": ["Alcohol", "Tobacco use", "Plummer-Vinson syndrome", "Achalasia", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Molecular changes in the adenoma-carcinoma sequence include mutations in:",
+      "options": ["APC", "KRAS", "SMAD4", "p53", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Microsatellite instability is characteristic of:",
+      "options": ["Lynch syndrome", "Mismatch repair defects", "HNPCC", "Right-sided colon cancers", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "The hallmark of adenocarcinoma of the colon is:",
+      "options": ["Glandular differentiation", "Hyperchromatic nuclei", "Necrotic debris", "Mucinous pattern", "All of the above"],
+      "answer": ["T", "T", "T", "T", "T"]
   }
 ]
