@@ -926,5 +926,116 @@
             "Serological testing"
         ],
         "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about Trichomoniasis?",
+        "options": [
+            "It is caused by the protozoan parasite Trichomonas vaginalis.",
+            "70% of affected individuals are asymptomatic.",
+            "It is the most common viral STI in the world.",
+            "It primarily affects the upper genital tract.",
+            "It can only be transmitted through sexual contact."
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which statement about the epidemiology of Trichomoniasis is correct?",
+        "options": [
+            "It is more common in women than men.",
+            "It has a worldwide distribution.",
+            "It is the second most common non-viral STI.",
+            "Prevalence is higher in low socioeconomic groups.",
+            "Incidence in the U.S. is about 1.1 million new cases per year."
+        ],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which of the following correctly describes the morphology of Trichomonas vaginalis?",
+        "options": [
+            "It exists only in a trophozoite form.",
+            "It forms cysts during its life cycle.",
+            "It has four anterior flagella.",
+            "It measures approximately 9 by 7 microns.",
+            "It uses the axostyle for attachment."
+        ],
+        "answer": ["T", "F", "T", "T", "T"]
+    },
+    {
+        "question": "What are the risk factors for Trichomoniasis?",
+        "options": [
+            "Multiple sexual partners.",
+            "Pregnancy.",
+            "Vaginal douching.",
+            "Use of intrauterine contraceptive devices (IUCD).",
+            "History of viral STIs."
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following clinical findings is commonly associated with Trichomoniasis in women?",
+        "options": [
+            "Foul-smelling vaginal discharge.",
+            "Post-coital spotting.",
+            "Itching and swelling of the vulva.",
+            "Burning pain after urination.",
+            "Painless genital ulcers."
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following laboratory methods is considered the gold standard for diagnosing Trichomoniasis?",
+        "options": [
+            "Saline microscopy.",
+            "Culture using Feinberg-Whittington medium.",
+            "Nucleic acid amplification tests (NAATs).",
+            "Pap smear.",
+            "Litmus paper pH test."
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the recommended treatment for Trichomoniasis?",
+        "options": [
+            "Single-dose oral metronidazole.",
+            "7-day course of oral metronidazole.",
+            "Topical metronidazole gel.",
+            "Only treating symptomatic individuals.",
+            "No treatment is necessary for male partners."
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following complications is associated with untreated Trichomoniasis?",
+        "options": [
+            "Increased risk of HIV transmission.",
+            "Preterm delivery.",
+            "Low birth weight in infants.",
+            "Prostate cancer in men.",
+            "Chronic renal failure."
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following statements about prevention of Trichomoniasis is correct?",
+        "options": [
+            "Screening asymptomatic pregnant women is recommended.",
+            "Use of male or female condoms reduces the risk of transmission.",
+            "Avoiding douching helps prevent infection.",
+            "Abstinence from alcohol during treatment is unnecessary.",
+            "Partners of infected individuals do not require treatment."
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about the prognosis of Trichomoniasis?",
+        "options": [
+            "Metronidazole provides a 90-95% cure rate.",
+            "Trichomoniasis resolves spontaneously in all cases.",
+            "Women living with HIV have better outcomes with single-dose treatment.",
+            "Reinfection is uncommon after treatment.",
+            "Without treatment, the infection can last for months or years."
+        ],
+        "answer": ["T", "F", "F", "F", "T"]
     }
 ]
+
