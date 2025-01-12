@@ -318,5 +318,130 @@
         "question": "What is a key feature of the bone marrow in aplastic anemia?",
         "options": ["Hypocellularity", "Increased fibrosis", "Hypercellularity", "Presence of malignant cells", "All of the above"],
         "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which chromosome encodes the alpha-like globin chains?",
+        "options": ["Chromosome 11", "Chromosome 16", "Chromosome 14", "Chromosome 7", "None of the above"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most predominant hemoglobin in adults?",
+        "options": ["HbA", "HbF", "HbA2", "HbGower I", "HbPortland"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hemoglobins are predominant during embryonic life?",
+        "options": ["HbGower I", "HbGower II", "HbPortland", "HbA", "HbF"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which genetic mutations are responsible for sickle cell anemia?",
+        "options": ["Point mutation in beta-globin gene", "Deletion of alpha-globin gene", "Point mutation in gamma-globin gene", "Insertion in delta-globin gene", "All of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "The mutation causing sickle cell anemia leads to:",
+        "options": ["Glutamic acid being replaced by valine", "Glutamic acid being replaced by lysine", "Valine being replaced by glutamic acid", "Lysine being replaced by glutamic acid", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "HbS polymerization occurs in which condition?",
+        "options": ["Deoxygenation", "Hyperoxygenation", "Neutral pH", "High temperature", "All of the above"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Sickle cell disease results in:",
+        "options": ["Vaso-occlusion", "Chronic hemolysis", "Increased red cell deformability", "Normal oxygen transport", "Increased red cell lifespan"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are features of beta-thalassemia major?",
+        "options": ["Severe anemia", "Erythroid hyperplasia", "Hepatosplenomegaly", "Hair-on-end skull appearance", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the primary function of hemoglobin?",
+        "options": ["Transport of oxygen", "Transport of carbon dioxide", "Buffering blood pH", "Transport of nitrogen", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which test is most specific for identifying hemoglobinopathies?",
+        "options": ["Sickling test", "Hemoglobin electrophoresis", "Complete blood count (CBC)", "Peripheral blood smear", "Bone marrow aspiration"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Hydroxyurea benefits patients with sickle cell disease by:",
+        "options": ["Increasing HbF levels", "Suppressing HbS polymerization", "Decreasing vaso-occlusive crises", "Reducing chronic hemolysis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What are the major chronic complications of sickle cell anemia?",
+        "options": ["Stroke", "Pulmonary hypertension", "Chronic leg ulcers", "Avascular necrosis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which hemoglobin has the highest oxygen affinity?",
+        "options": ["HbF", "HbA", "HbA2", "HbGower I", "HbPortland"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the hallmark of alpha-thalassemia major?",
+        "options": ["Hb Bart's (γ4) formation", "HbH (β4) formation", "Absence of alpha chains", "Intrauterine hydrops fetalis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is true about HbA2?",
+        "options": ["Composed of alpha and delta chains", "Accounts for 2-3% of adult hemoglobin", "Appears after 6 months of life", "Is predominant in fetal life", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Beta-thalassemia results in:",
+        "options": ["Excess alpha chains", "Ineffective erythropoiesis", "Hemolysis", "Severe anemia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "HbC is caused by:",
+        "options": ["Lysine replacing glutamic acid", "Valine replacing glutamic acid", "Glutamine replacing glutamic acid", "Serine replacing glutamic acid", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hemoglobinopathy offers partial protection against malaria?",
+        "options": ["Sickle cell trait", "Beta-thalassemia minor", "HbE", "HbD", "All of the above"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which laboratory finding is characteristic of sickle cell anemia?",
+        "options": ["Target cells", "Polychromasia", "Sickle cells", "Howell-Jolly bodies", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Alpha-thalassemia carrier status can be detected by:",
+        "options": ["DNA analysis", "Hb electrophoresis", "CBC and peripheral smear", "Oxygen dissociation curve", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "HbH disease is caused by:",
+        "options": ["Deletion of three alpha-globin genes", "Point mutation in beta-globin gene", "Deletion of all alpha-globin genes", "Deletion of gamma-globin gene", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the best initial test for suspected sickle cell disease?",
+        "options": ["Sickling test", "Hb electrophoresis", "CBC", "Bone marrow biopsy", "Oxygen saturation test"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Hb Bart's hydrops fetalis results from:",
+        "options": ["Absence of alpha chains", "Excess gamma chains", "Hb Bart's (γ4) formation", "Severe anemia in utero", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which thalassemia type is commonly asymptomatic?",
+        "options": ["Beta-thalassemia minor", "Alpha-thalassemia trait", "Silent carrier", "HbH disease", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which hemoglobinopathies are detected by Hb electrophoresis?",
+        "options": ["HbS", "HbC", "HbD", "HbE", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
     }
 ]
