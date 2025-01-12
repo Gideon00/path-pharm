@@ -443,5 +443,281 @@
         "question": "Which hemoglobinopathies are detected by Hb electrophoresis?",
         "options": ["HbS", "HbC", "HbD", "HbE", "All of the above"],
         "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is true about Non-Hodgkin Lymphomas (NHL)?",
+        "options": [
+            "NHL is a group of clonal lymphoid tumors.",
+            "It involves Reed-Sternberg cells.",
+            "It often disseminates at the time of diagnosis.",
+            "Most cases are derived from NK cells.",
+            "NHL is less common than Hodgkin’s lymphoma."
+        ],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What distinguishes Hodgkin’s lymphoma from Non-Hodgkin’s lymphoma?",
+        "options": [
+            "Presence of Reed-Sternberg cells in Hodgkin’s lymphoma.",
+            "Greater predilection for extranodal dissemination in Non-Hodgkin’s lymphoma.",
+            "Hodgkin’s lymphoma has a more variable natural history.",
+            "NHL has a lower likelihood of dissemination at diagnosis.",
+            "Hodgkin’s lymphoma involves mainly T cells."
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following translocations is associated with Burkitt’s lymphoma?",
+        "options": [
+            "t(8;14)",
+            "t(2;8)",
+            "t(11;14)",
+            "t(8;22)",
+            "t(14;18)"
+        ],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following viruses is implicated in the etiology of Non-Hodgkin Lymphomas?",
+        "options": [
+            "Epstein-Barr virus (EBV).",
+            "Human T-cell leukemia virus type 1 (HTLV-1).",
+            "Human herpesvirus 8 (HHV-8).",
+            "Hepatitis C virus (HCV).",
+            "Varicella-zoster virus (VZV)."
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a B-cell lymphoma?",
+        "options": [
+            "Diffuse large B-cell lymphoma.",
+            "Follicular lymphoma.",
+            "Mantle cell lymphoma.",
+            "Extranodal NK/T-cell lymphoma.",
+            "Small lymphocytic lymphoma."
+        ],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which chromosomal translocation is characteristic of follicular lymphoma?",
+        "options": [
+            "t(14;18)",
+            "t(11;14)",
+            "t(8;14)",
+            "t(1;14)",
+            "t(2;8)"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following factors is associated with a worse prognosis in NHL?",
+        "options": [
+            "Age > 60 years at presentation.",
+            "Elevated serum LDH.",
+            "Stage I disease.",
+            "Presence of bulky disease.",
+            "Poor performance status."
+        ],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which lymphoma subtype is characterized by a 'starry sky' appearance histologically?",
+        "options": [
+            "Diffuse large B-cell lymphoma.",
+            "Burkitt’s lymphoma.",
+            "Mantle cell lymphoma.",
+            "Small lymphocytic lymphoma.",
+            "Primary CNS lymphoma."
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which bacterial infection is linked to MALT lymphoma?",
+        "options": [
+            "Helicobacter pylori.",
+            "Borrelia burgdorferi.",
+            "Campylobacter jejuni.",
+            "Chlamydia psittaci.",
+            "Streptococcus pneumoniae."
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a common clinical feature of NHL?",
+        "options": [
+            "Painless lymphadenopathy.",
+            "Night sweats.",
+            "Fever > 38°C.",
+            "Weight gain.",
+            "Bone pain."
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which lymphoma subtype has a characteristic translocation involving cyclin D1?",
+        "options": [
+            "Mantle cell lymphoma.",
+            "Follicular lymphoma.",
+            "Burkitt’s lymphoma.",
+            "Diffuse large B-cell lymphoma.",
+            "Marginal zone lymphoma."
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main histological finding in diffuse large B-cell lymphoma?",
+        "options": [
+            "Large tumor cells with prominent nucleoli.",
+            "Starry sky pattern.",
+            "Small lymphocytes with cleaved nuclei.",
+            "Germinal center architecture.",
+            "Apoptotic bodies surrounded by macrophages."
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following subtypes of NHL commonly involves the gastrointestinal tract?",
+        "options": [
+            "Mantle cell lymphoma.",
+            "MALT lymphoma.",
+            "Follicular lymphoma.",
+            "Burkitt’s lymphoma.",
+            "Small lymphocytic lymphoma."
+        ],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is considered an indolent NHL?",
+        "options": [
+            "Follicular lymphoma.",
+            "Diffuse large B-cell lymphoma.",
+            "Mantle cell lymphoma.",
+            "Burkitt’s lymphoma.",
+            "Small lymphocytic lymphoma."
+        ],
+        "answer": ["T", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which chromosomal translocation is diagnostic of mantle cell lymphoma?",
+        "options": [
+            "t(11;14).",
+            "t(14;18).",
+            "t(8;14).",
+            "t(1;14).",
+            "t(3;4)."
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common extranodal site involved in NHL?",
+        "options": [
+            "Spleen.",
+            "CNS.",
+            "Liver.",
+            "Bone marrow.",
+            "Thyroid."
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the typical clinical presentation of Burkitt’s lymphoma?",
+        "options": [
+            "Jaw swelling.",
+            "Abdominal masses.",
+            "Rapidly enlarging lymph nodes.",
+            "Prolonged disease course.",
+            "Central nervous system involvement."
+        ],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is true about the staging of NHL?",
+        "options": [
+            "Stage I involves a single lymph node area.",
+            "Stage II involves nodes on both sides of the diaphragm.",
+            "Stage III involves multiple lymph node areas on the same side of the diaphragm.",
+            "Stage IV involves extranodal sites.",
+            "Each stage can be further classified as A or B."
+        ],
+        "answer": ["T", "F", "F", "T", "T"]
+    },
+    {
+        "question": "Which is the most common lymphoma subtype in tropical Africa?",
+        "options": [
+            "Burkitt’s lymphoma.",
+            "Diffuse large B-cell lymphoma.",
+            "Mantle cell lymphoma.",
+            "Small lymphocytic lymphoma.",
+            "Follicular lymphoma."
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which lymphoma is frequently associated with Epstein-Barr virus (EBV) infection?",
+        "options": [
+            "Endemic Burkitt’s lymphoma.",
+            "Primary effusion lymphoma.",
+            "Splenic marginal zone lymphoma.",
+            "T-cell leukemia.",
+            "Anaplastic large cell lymphoma."
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What histological feature characterizes follicular lymphoma?",
+        "options": [
+            "Presence of centrocytes and centroblasts.",
+            "Starry sky pattern.",
+            "Diffuse sheets of large cells.",
+            "Increased apoptosis.",
+            "Prominent nucleoli."
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a feature of aggressive NHL?",
+        "options": [
+            "Rapidly growing lymphadenopathy.",
+            "High cure rates with chemotherapy.",
+            "Indolent disease course.",
+            "Less frequent extranodal involvement.",
+            "No need for CNS prophylaxis."
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the common treatment approach for indolent NHL?",
+        "options": [
+            "Watchful waiting.",
+            "Single-agent chemotherapy.",
+            "Combined chemotherapy with CHOP.",
+            "CNS prophylaxis.",
+            "High-dose therapy with stem cell rescue."
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which lymphoma subtype is commonly treated with CHOP regimen?",
+        "options": [
+            "Diffuse large B-cell lymphoma.",
+            "Burkitt’s lymphoma.",
+            "Mantle cell lymphoma.",
+            "MALT lymphoma.",
+            "Primary CNS lymphoma."
+        ],
+        "answer": ["T", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is a common clinical manifestation in mantle cell lymphoma?",
+        "options": [
+            "Generalized lymphadenopathy.",
+            "Bone marrow infiltration.",
+            "Frequent involvement of extranodal sites.",
+            "Starry sky histological appearance.",
+            "Painless jaw swelling."
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
     }
 ]
+
