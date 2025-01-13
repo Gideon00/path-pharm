@@ -117,6 +117,11 @@
           "topic": "GIT Pathology",
           "start": 60,
           "end": 92
+        },
+        {
+          "topic": "Pathology of the Liver, Gallbladder and Pancreas",
+          "start": 93,
+          "end": 127
         }
       ]
     },
