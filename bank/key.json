@@ -57,7 +57,7 @@
           "topic": "Non-Hodgkin’s lymphoma (NHL)",
           "start": 106,
           "end": 130
-        },
+        }
       ]
     },
     {
@@ -116,7 +116,7 @@
         {
           "topic": "GIT Pathology",
           "start": 60,
-          "end": 1000
+          "end": 92
         }
       ]
     },
