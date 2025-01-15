@@ -765,178 +765,178 @@
       "answer": ["T", "T", "T", "T", "T"]
   },
   {
-      "question": "Which of the following is the hallmark histological feature of chronic viral hepatitis?",
-      "options": ["Mononuclear portal infiltration", "Hepatocyte ballooning", "Kupffer cell hyperplasia", "Ground-glass hepatocytes", "Focal necrosis"],
+      "question": "Which viral hepatitis is most commonly associated with chronic liver disease progression?",
+      "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis D", "Hepatitis E"],
+      "answer": ["F", "T", "T", "T", "F"]
+  },
+  {
+      "question": "Which features are characteristic of alcoholic liver disease histology?",
+      "options": ["Mallory-Denk bodies", "Perivenular fibrosis", "Macrovesicular steatosis", "Ground-glass hepatocytes", "Kupffer cell hyperplasia"],
+      "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+      "question": "What stains are used to identify copper deposits in Wilson's disease?",
+      "options": ["Rhodanine", "Orcein", "PAS", "H&E", "Victoria blue"],
+      "answer": ["T", "T", "F", "F", "T"]
+  },
+  {
+      "question": "Which of the following is a hallmark of chronic viral hepatitis?",
+      "options": ["Portal inflammation", "Interface hepatitis", "Ground-glass hepatocytes", "Macrovesicular steatosis", "Hepatic necrosis"],
+      "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+      "question": "Which of the following clinical conditions are associated with cirrhosis?",
+      "options": ["Portal hypertension", "Ascites", "Esophageal varices", "Hypersplenism", "Renal failure"],
+      "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+      "question": "What is a characteristic feature of hepatocellular carcinoma (HCC)?",
+      "options": ["Invasion into the portal vein", "Pseudoglandular pattern", "Trabecular architecture", "Metastasis to lungs", "Radio-opacity on imaging"],
+      "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+      "question": "What is the primary risk factor for non-alcoholic fatty liver disease (NAFLD)?",
+      "options": ["Metabolic syndrome", "Chronic hepatitis B infection", "Iron overload", "Gallstones", "Wilson's disease"],
       "answer": ["T", "F", "F", "F", "F"]
   },
   {
-      "question": "Which viral hepatitis is most commonly associated with progression to cirrhosis?",
-      "options": ["Hepatitis B", "Hepatitis A", "Hepatitis E", "Hepatitis D", "Hepatitis C"],
-      "answer": ["T", "F", "F", "F", "T"]
+      "question": "Which clinical features are commonly observed in autoimmune hepatitis?",
+      "options": ["Palmar erythema", "Hepatomegaly", "Jaundice", "Hypoglycemia", "Ascites"],
+      "answer": ["T", "T", "T", "F", "F"]
   },
   {
-      "question": "What is the characteristic finding of alcoholic liver disease under the microscope?",
-      "options": ["Mallory-Denk bodies", "Pericellular fibrosis", "Macrovesicular steatosis", "Ballooning degeneration", "All of the above"],
-      "answer": ["F", "F", "F", "F", "T"]
+      "question": "What is the key histological feature of primary biliary cholangitis (PBC)?",
+      "options": ["Florid duct lesion", "Onion-skin fibrosis", "Granulomas", "Lobular necrosis", "Focal fatty change"],
+      "answer": ["T", "F", "T", "F", "F"]
   },
   {
-      "question": "Which genetic liver disease is associated with copper accumulation?",
-      "options": ["Wilson disease", "Hemochromatosis", "Alpha-1 antitrypsin deficiency", "Gilbert’s syndrome", "Crigler-Najjar syndrome"],
+      "question": "What laboratory findings are consistent with Wilson's disease?",
+      "options": ["Low serum ceruloplasmin", "Elevated hepatic copper content", "Kayser-Fleischer rings", "Decreased serum ferritin", "Hyperbilirubinemia"],
+      "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+      "question": "Which diseases are associated with portal hypertension?",
+      "options": ["Cirrhosis", "Acute viral hepatitis", "Schistosomiasis", "Chronic pancreatitis", "Hepatic vein thrombosis"],
+      "answer": ["T", "F", "T", "F", "T"]
+  },
+  {
+      "question": "Which features are diagnostic of chronic passive congestion of the liver (nutmeg liver)?",
+      "options": ["Centrolobular hemorrhagic necrosis", "Atrophic hepatocytes", "Dilated sinusoids", "Portal vein thrombosis", "Kupffer cell hyperplasia"],
+      "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+      "question": "What is a known histological feature of primary sclerosing cholangitis?",
+      "options": ["Onion-skin fibrosis", "Florid duct lesions", "Beading on radiographs", "Hepatocyte rosettes", "Steatosis"],
+      "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which metabolic liver diseases are genetic in origin?",
+      "options": ["Wilson's disease", "Hemochromatosis", "Alpha-1 antitrypsin deficiency", "Non-alcoholic steatohepatitis", "Primary biliary cholangitis"],
+      "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+      "question": "Which condition is characterized by Kayser-Fleischer rings?",
+      "options": ["Wilson's disease", "Hemochromatosis", "Autoimmune hepatitis", "Cholestasis", "Alpha-1 antitrypsin deficiency"],
       "answer": ["T", "F", "F", "F", "F"]
   },
   {
-      "question": "Which clinical feature is commonly associated with cirrhosis?",
-      "options": ["Esophageal varices", "Ascites", "Hepatic encephalopathy", "Portal hypertension", "All of the above"],
-      "answer": ["F", "F", "F", "F", "T"]
+      "question": "What distinguishes autoimmune hepatitis histologically?",
+      "options": ["Portal plasma cell infiltration", "Interface hepatitis", "Emperipolesis", "Bile duct proliferation", "Lobular cholestasis"],
+      "answer": ["T", "T", "T", "F", "F"]
   },
   {
-      "question": "What is the main cause of nutmeg liver?",
-      "options": ["Chronic passive congestion", "Portal hypertension", "Fatty liver disease", "Chronic viral hepatitis", "Autoimmune hepatitis"],
+      "question": "Which substances contribute to Mallory-Denk body formation in alcoholic liver disease?",
+      "options": ["Cytokeratin", "Ubiquitin", "Fatty acids", "Fibrin", "Actin"],
+      "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which viruses are associated with hepatocellular carcinoma?",
+      "options": ["HBV", "HCV", "HAV", "HEV", "Epstein-Barr Virus"],
+      "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following are complications of cirrhosis?",
+      "options": ["Ascites", "Spontaneous bacterial peritonitis", "Hepatocellular carcinoma", "Esophageal varices", "Renal failure"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which conditions may present with ground-glass hepatocytes?",
+      "options": ["Chronic HBV infection", "HCV infection", "Hemochromatosis", "Alpha-1 antitrypsin deficiency", "Drug-induced liver injury"],
       "answer": ["T", "F", "F", "F", "F"]
   },
   {
-      "question": "What characterizes the ground-glass appearance of hepatocytes in chronic HBV infection?",
-      "options": ["Accumulation of HBsAg", "Excessive glycogen deposition", "Iron accumulation", "Excessive fat deposition", "Fibrosis"],
+      "question": "What are the clinical features of advanced liver cirrhosis?",
+      "options": ["Portal hypertension", "Caput medusae", "Spider angiomas", "Gynecomastia", "Hypersplenism"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which risk factors are associated with gallstone formation?",
+      "options": ["Obesity", "Female gender", "Rapid weight loss", "Advanced age", "Hemolytic anemia"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which is the most common malignancy of the gallbladder?",
+      "options": ["Adenocarcinoma", "Cholangiocarcinoma", "Squamous cell carcinoma", "Neuroendocrine tumor", "Metastatic carcinoma"],
       "answer": ["T", "F", "F", "F", "F"]
   },
   {
-      "question": "Which enzyme is classically elevated in acute viral hepatitis?",
-      "options": ["ALT", "Alkaline phosphatase", "GGT", "LDH", "Amylase"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is the most common cause of hepatocellular carcinoma worldwide?",
-      "options": ["HBV and HCV infection", "Aflatoxin exposure", "Alcohol consumption", "NAFLD", "Wilson disease"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which syndrome is associated with primary hemochromatosis?",
-      "options": ["Bronze diabetes", "Hepatic encephalopathy", "Hyperbilirubinemia", "Portal hypertension", "Renal failure"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which liver condition is characterized by micronodular cirrhosis?",
-      "options": ["Alcoholic cirrhosis", "Viral hepatitis", "Autoimmune hepatitis", "Biliary cirrhosis", "Hemochromatosis"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which disorder is characterized by anti-mitochondrial antibodies?",
-      "options": ["Primary biliary cholangitis", "Autoimmune hepatitis", "Primary sclerosing cholangitis", "Wilson disease", "Gilbert’s syndrome"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is the histological hallmark of primary sclerosing cholangitis?",
-      "options": ["Onion-skin fibrosis", "Hyaline droplets", "Lobular necrosis", "Kupffer cell hyperplasia", "Ground-glass inclusions"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which scoring system is used to classify liver fibrosis in chronic hepatitis?",
-      "options": ["METAVIR", "Child-Pugh", "MELD", "APACHE", "Ishak"],
-      "answer": ["T", "F", "F", "F", "T"]
-  },
-  {
-      "question": "Which enzyme is responsible for iron storage in hemochromatosis?",
-      "options": ["Ferritin", "Hepcidin", "Transferrin", "Ceruloplasmin", "Alpha-1 antitrypsin"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which autoimmune liver disease is more common in children?",
-      "options": ["Type 2 autoimmune hepatitis", "Type 1 autoimmune hepatitis", "Primary sclerosing cholangitis", "Wilson disease", "Hemochromatosis"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is the most common benign tumor of the liver?",
-      "options": ["Cavernous hemangioma", "Hepatocellular adenoma", "Focal nodular hyperplasia", "Hepatoblastoma", "Cholangiocarcinoma"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which stain is used to detect copper in Wilson disease?",
-      "options": ["Rhodanine stain", "PAS stain", "H&E stain", "Orcein stain", "Trichrome stain"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What characterizes autoimmune hepatitis on histology?",
-      "options": ["Portal plasma cell infiltration", "Interface hepatitis", "Hepatocyte rosette formation", "Lobular necro-inflammatory activity", "All of the above"],
-      "answer": ["F", "F", "F", "F", "T"]
-  },
-  {
-      "question": "Which disease is linked with aflatoxin B1 exposure?",
-      "options": ["Hepatocellular carcinoma", "Cholangiocarcinoma", "Gallbladder carcinoma", "Pancreatic carcinoma", "Primary biliary cirrhosis"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which condition may lead to spontaneous bacterial peritonitis in cirrhosis?",
-      "options": ["Ascites", "Portal hypertension", "Esophageal varices", "Hepatic encephalopathy", "Hemochromatosis"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is the most common cause of acute calculous cholecystitis?",
-      "options": ["Obstruction of the cystic duct by a stone", "Gallbladder rupture", "Ascending cholangitis", "Cholesterol deposition", "Gallbladder carcinoma"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which pigment is primarily responsible for pigment stones in cholelithiasis?",
-      "options": ["Calcium bilirubinate", "Cholesterol", "Triglycerides", "Bile acids", "Hemoglobin"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is a common risk factor for gallstone formation?",
-      "options": ["Obesity", "Low-fat diet", "Vitamin D deficiency", "Iron deficiency", "Low bile salt concentration"],
-      "answer": ["T", "F", "F", "F", "T"]
-  },
-  {
-      "question": "Which pancreatic enzyme is activated in acute pancreatitis?",
-      "options": ["Trypsin", "Amylase", "Lipase", "Elastase", "Phospholipase"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is a hallmark of chronic pancreatitis on imaging?",
-      "options": ["Pancreatic calcifications", "Diffuse pancreatic enlargement", "Pseudocysts", "Fat necrosis", "Oedema"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which tumor marker is commonly elevated in pancreatic adenocarcinoma?",
-      "options": ["CA 19-9", "AFP", "CEA", "CA 125", "HCG"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is a key clinical feature of pancreatic carcinoma involving the bile duct?",
-      "options": ["Painless jaundice", "Gallbladder rupture", "Hyperbilirubinemia", "Fatty stools", "Acute pancreatitis"],
+      "question": "Which pancreatic enzyme is prematurely activated in acute pancreatitis?",
+      "options": ["Trypsin", "Lipase", "Amylase", "Elastase", "Chymotrypsin"],
       "answer": ["T", "F", "F", "F", "F"]
   },
   {
       "question": "What is Courvoisier’s sign indicative of?",
-      "options": ["Enlarged gallbladder with jaundice", "Pancreatic pseudocyst", "Portal hypertension", "Liver cirrhosis", "Choledochal cyst"],
+      "options": ["Painless jaundice", "Obstructive jaundice", "Pancreatic carcinoma", "Hepatocellular carcinoma", "Gallbladder carcinoma"],
+      "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+      "question": "Which histological features are characteristic of chronic pancreatitis?",
+      "options": ["Fibrosis", "Atrophy of acini", "Dilated ducts", "Inflammatory infiltrate", "Calcifications"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which condition predisposes to pigment gallstone formation?",
+      "options": ["Hemolysis", "Biliary infection", "Chronic pancreatitis", "Obesity", "Pregnancy"],
+      "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+      "question": "What is the most common location of pancreatic carcinoma?",
+      "options": ["Head of pancreas", "Tail of pancreas", "Body of pancreas", "Uncinate process", "Neck of pancreas"],
       "answer": ["T", "F", "F", "F", "F"]
   },
   {
-      "question": "Which pancreatic neoplasm is associated with excessive mucin production?",
-      "options": ["Mucinous cystic neoplasm", "Serous cystadenoma", "Solid pseudopapillary tumor", "Neuroendocrine tumor", "Pancreatic adenocarcinoma"],
-      "answer": ["T", "F", "F", "F", "F"]
+      "question": "What are the complications of untreated cholecystitis?",
+      "options": ["Gallbladder perforation", "Sepsis", "Biliary cirrhosis", "Empyema", "Gallstone ileus"],
+      "answer": ["T", "T", "T", "T", "T"]
   },
   {
-      "question": "What is the most common complication of untreated acute cholecystitis?",
-      "options": ["Gallbladder perforation", "Biliary cirrhosis", "Pancreatic necrosis", "Sepsis", "Chronic pancreatitis"],
-      "answer": ["T", "F", "F", "F", "F"]
+      "question": "Which clinical features are seen in advanced pancreatic carcinoma?",
+      "options": ["Weight loss", "Obstructive jaundice", "Trousseau’s sign", "Epigastric pain", "Anemia"],
+      "answer": ["T", "T", "T", "T", "T"]
   },
   {
-      "question": "What is the most common malignancy of the gallbladder?",
-      "options": ["Adenocarcinoma", "Cholangiocarcinoma", "Papillary carcinoma", "Squamous cell carcinoma", "Small cell carcinoma"],
-      "answer": ["T", "F", "F", "F", "F"]
+      "question": "Which factors predispose to acute pancreatitis?",
+      "options": ["Gallstones", "Alcohol", "Hypertriglyceridemia", "Trauma", "Smoking"],
+      "answer": ["T", "T", "T", "T", "T"]
   },
   {
-      "question": "What is the key risk factor for gallbladder carcinoma?",
-      "options": ["Gallstones", "H. pylori infection", "Alcohol consumption", "Smoking", "Liver cirrhosis"],
-      "answer": ["T", "F", "F", "F", "F"]
+      "question": "Which imaging findings are typical of acute pancreatitis?",
+      "options": ["Pancreatic edema", "Fat necrosis", "Parenchymal hemorrhage", "Pseudocysts", "Dilated ducts"],
+      "answer": ["T", "T", "T", "T", "F"]
   },
   {
-      "question": "What is the primary cause of acute pancreatitis in females?",
-      "options": ["Gallstones", "Alcohol", "Smoking", "Hypertriglyceridemia", "Trauma"],
-      "answer": ["T", "F", "F", "F", "F"]
+      "question": "What are the morphological features of cholesterol gallstones?",
+      "options": ["Radiolucent", "Yellow in color", "Composed of cholesterol monohydrate", "Associated with bile supersaturation", "Faceted surface"],
+      "answer": ["T", "T", "T", "T", "T"]
   },
   {
-      "question": "What characterizes pseudocysts of the pancreas?",
-      "options": ["Lack of epithelial lining", "Presence of calcifications", "Neoplastic cells", "Severe necrosis", "Biliary obstruction"],
-      "answer": ["T", "F", "F", "F", "F"]
+      "question": "What clinical features are seen in obstructive jaundice due to pancreatic cancer?",
+      "options": ["Dark urine", "Pale stools", "Pruritus", "Hepatomegaly", "Enlarged gallbladder"],
+      "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+      "question": "Which congenital anomalies affect the pancreas?",
+      "options": ["Pancreas divisum", "Annular pancreas", "Ectopic pancreas", "Agenesis of pancreas", "Choledochal cyst"],
+      "answer": ["T", "T", "T", "T", "F"]
   }
 ]
