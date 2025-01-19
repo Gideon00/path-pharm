@@ -718,6 +718,151 @@
             "Painless jaw swelling."
         ],
         "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major non-leukaemic myeloproliferative neoplasm (N-MPN)?",
+        "options": ["Polycythemia vera (PV)", "Essential thrombocythemia (ET)", "Primary myelofibrosis (PMF)", "Chronic myeloid leukemia (CML)", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What mutation is present in over 95% of polycythemia vera cases?",
+        "options": ["JAK2V617F mutation", "CALR mutation", "MPL mutation", "TET2 mutation", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Polycythemia vera is associated with which of the following?",
+        "options": ["Elevated red cell mass", "Low serum erythropoietin levels", "JAK2 mutation", "Increased risk of acute myeloid leukemia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Apparent (relative) polycythemia is caused by:",
+        "options": ["Dehydration", "Diuretic use", "Smoking", "Gaisböck syndrome", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic feature of essential thrombocythemia (ET)?",
+        "options": ["Sustained platelet count ≥450 × 10⁹/L", "Risk of thrombotic complications", "Splenic infarctions", "Marked neutrophilia", "Megakaryocytic proliferation"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the hallmark of primary myelofibrosis (PMF)?",
+        "options": ["Bone marrow fibrosis", "Splenomegaly", "Extramedullary hematopoiesis", "Teardrop RBCs", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is a key finding in JAK2-positive essential thrombocythemia?",
+        "options": ["Higher hemoglobin levels", "Higher white blood cell count", "Increased thrombotic risk", "Increased platelet count", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a risk factor for secondary erythrocytosis?",
+        "options": ["High-altitude exposure", "Chronic lung disease", "Erythropoietin administration", "Parathyroid tumors", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which diagnostic feature differentiates polycythemia vera from secondary erythrocytosis?",
+        "options": ["JAK2 mutation positivity", "Increased erythropoietin levels", "Low red cell mass", "Normal platelet counts", "Normal spleen size"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a clinical feature of hyperviscosity in PV?",
+        "options": ["Headache", "Visual disturbances", "Dizziness", "Venous thromboembolism", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Aquagenic pruritus in PV is due to:",
+        "options": ["Histamine release", "Increased mast cell activity", "Elevated basophil counts", "Warm water exposure", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which mutation is associated with a lower risk of thrombosis in ET?",
+        "options": ["CALR mutation", "JAK2 mutation", "MPL mutation", "TET2 mutation", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What are the major diagnostic criteria for polycythemia vera according to WHO?",
+        "options": ["Elevated hemoglobin or hematocrit", "Bone marrow hypercellularity", "JAK2 mutation", "Low serum erythropoietin", "All of the above"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Complications of essential thrombocythemia include:",
+        "options": ["Thrombosis", "Myelofibrotic transformation", "Acute myeloid leukemia", "Pregnancy loss", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the most feared complication of polycythemia vera?",
+        "options": ["Leukemic transformation", "Myelofibrosis", "Hyperviscosity syndrome", "Thrombosis", "Splenomegaly"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "The JAK2 mutation leads to:",
+        "options": ["Hypersensitivity to erythropoietin", "Panmyelosis", "Autonomous erythropoiesis", "Prothrombotic state", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which agent is commonly used to reduce hematocrit in PV?",
+        "options": ["Hydroxyurea", "Interferon-alpha", "Phlebotomy", "Ruxolitinib", "All of the above"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the characteristic blood smear finding in primary myelofibrosis?",
+        "options": ["Teardrop cells", "Leukoerythroblastosis", "Giant platelets", "Normochromic RBCs", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Busulfan is used in PV treatment when:",
+        "options": ["Other treatments fail", "Leukemic transformation occurs", "There is severe pruritus", "The patient has a high platelet count", "All of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which cytokine contributes to bone marrow fibrosis in PMF?",
+        "options": ["TGF-beta", "PDGF", "IL-1", "bFGF", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "In ET, what is the hallmark finding on bone marrow biopsy?",
+        "options": ["Megakaryocyte proliferation", "Increased cellularity", "Hypocellular marrow in MPL mutation", "Giant megakaryocytes", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Splenomegaly in PMF is due to:",
+        "options": ["Extramedullary hematopoiesis", "Splenic infarction", "Portal hypertension", "Leukemic infiltration", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which patient group in ET is considered low risk?",
+        "options": ["Age <40 years", "No prior thrombosis", "Platelet count <1500 × 10⁹/L", "No JAK2 mutation", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which drug is FDA-approved for PV treatment?",
+        "options": ["Ruxolitinib", "Hydroxyurea", "Ropeginterferon alfa-2b", "Anagrelide", "All of the above"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Secondary thrombocytosis is commonly caused by:",
+        "options": ["Acute infection", "Iron deficiency", "Splenectomy", "Drug use", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the median survival in primary myelofibrosis with treatment?",
+        "options": ["3-5 years", "10 years", "15 years", "5-7 years", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which symptom is associated with hypermetabolism in PV?",
+        "options": ["Weight loss", "Night sweats", "Fever", "Increased appetite", "All of the above"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Reactive thrombocytosis can result from:",
+        "options": ["Chronic inflammation", "Surgery", "Recovery from thrombocytopenia", "Acute blood loss", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What distinguishes pre-fibrotic PMF from overt PMF?",
+        "options": ["Bone marrow findings", "Splenomegaly", "Peripheral blood changes", "Presence of mutations", "All of the above"],
+        "answer": ["T", "T", "T", "F", "T"]
     }
 ]
 
