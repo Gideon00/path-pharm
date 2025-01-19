@@ -1036,6 +1036,110 @@
             "Without treatment, the infection can last for months or years."
         ],
         "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following classifications describe the measles virus?",
+        "options": ["Single-stranded RNA virus", "Belongs to the Paramyxoviridae family", "Enveloped virus", "Contains hemagglutinin (H) and fusion (F) glycoproteins", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the mode of transmission for measles?",
+        "options": ["Airborne droplets", "Direct contact with saliva", "Contact with aerosolized respiratory droplets", "Vertical transmission from mother to fetus", "All of the above"],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Koplik's spots in measles are described as:",
+        "options": ["Blue-grey spots with a red base", "Found on the buccal mucosa opposite the second molars", "A hypersensitivity reaction to the virus", "Diagnostic of the prodromal phase of measles", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a complication of measles?",
+        "options": ["Bacterial superinfection", "Subacute sclerosing panencephalitis (SSPE)", "Acute encephalitis", "Viral meningitis", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the role of vitamin A in the management of measles?",
+        "options": ["Re-epithelialization", "Boosting immunity", "Reducing viral replication", "Treating secondary bacterial infections", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Poliovirus belongs to which virus family?",
+        "options": ["Picornaviridae", "Orthomyxoviridae", "Paramyxoviridae", "Flaviviridae", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mode of transmission for poliovirus?",
+        "options": ["Faeco-oral route", "Respiratory droplets", "Vertical transmission", "Sexual contact", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a clinical manifestation of spinal paralytic polio?",
+        "options": ["Flaccid paralysis", "Asymmetrical paralysis", "Dysphagia", "Nasal speech", "All of the above"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the gold standard for diagnosing poliovirus in the CNS?",
+        "options": ["RT-PCR of CSF", "Viral culture of CSF", "Serology for antibodies", "Throat swab analysis", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following vaccines is used for poliovirus prevention?",
+        "options": ["Inactivated polio vaccine (IPV)", "Oral polio vaccine (OPV)", "MMR vaccine", "BCG vaccine", "All of the above"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following mechanisms involves the activation of autoreactive T cells by cytokines released during infection?",
+        "options": [
+            "Molecular mimicry",
+            "Epitope spreading",
+            "Bystander activation",
+            "Superantigens",
+            "Clearance deficiency"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the genetic component most commonly associated with autoimmune diseases?",
+        "options": [
+            "HLA genes",
+            "Genes encoding complement proteins",
+            "Genes regulating apoptosis",
+            "Cytokine receptor genes",
+            "T-cell receptor (TCR) genes"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which infectious mechanism involves self-antigens mimicking microbial antigens, leading to an autoimmune response?",
+        "options": [
+            "Epitope spreading",
+            "Molecular mimicry",
+            "Superantigens",
+            "Bystander activation",
+            "Polyclonal immune response"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which autoimmune disease is associated with deficiencies in the complement system leading to impaired clearance of apoptotic cells?",
+        "options": [
+            "Systemic lupus erythematosus (SLE)",
+            "Type 1 diabetes mellitus (T1D)",
+            "Multiple sclerosis",
+            "Rheumatoid arthritis",
+            "Hashimoto's thyroiditis"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Superantigens contribute to autoimmune diseases by which of the following mechanisms?",
+        "options": [
+            "Directly presenting antigens to CD4+ T cells",
+            "Activating a large number of T cells without antigen processing",
+            "Clearing apoptotic cells effectively",
+            "Inducing cytokine inhibition",
+            "Binding to MHC Class I molecules"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
     }
 ]
-
