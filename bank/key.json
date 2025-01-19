@@ -57,6 +57,11 @@
           "topic": "Non-Hodgkin’s lymphoma (NHL)",
           "start": 90,
           "end": 114
+        },
+        {
+          "topic": "Non-Leukaemic MPNs",
+          "start": 115,
+          "end": 143
         }
       ]
     },
@@ -97,6 +102,31 @@
           "topic": "Trichomoniasis",
           "start": 111,
           "end": 120
+        },
+        {
+          "topic": "Measles",
+          "start": 121,
+          "end": 125
+        },
+        {
+          "topic": "Poliomyelitis",
+          "start": 126,
+          "end": 130
+        },
+        {
+          "topic": "Autoimmune Diseases",
+          "start": 131,
+          "end": 135
+        },
+        {
+          "topic": "mycoses ",
+          "start": 136,
+          "end": 164
+        },
+        {
+          "topic": "Nosocomial Infection",
+          "start": 165,
+          "end": 179
         }
       ]
     },
