@@ -1141,5 +1141,315 @@
             "Binding to MHC Class I molecules"
         ],
         "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which organism is the most common cause of cutaneous mycoses?",
+        "options": ["Candida albicans", "Dermatophytes", "Aspergillus fumigatus", "Cryptococcus neoformans", "Histoplasma capsulatum"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary virulence factor of dermatophytes?",
+        "options": ["Keratinases", "Capsule formation", "Spore production", "Dimorphism", "Endotoxins"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of Tinea infection affects the groin area?",
+        "options": ["Tinea corporis", "Tinea cruris", "Tinea pedis", "Tinea capitis", "Tinea unguium"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which diagnostic tool is used to detect fluorescence in Microsporum infections?",
+        "options": ["Culture", "Wood's lamp", "PCR", "Direct microscopy", "Histology"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary treatment for Tinea capitis?",
+        "options": ["Itraconazole", "Griseofulvin", "Terbinafine", "Clotrimazole", "Fluconazole"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which fungal infection is associated with pigeon droppings?",
+        "options": ["Aspergillosis", "Candidiasis", "Cryptococcosis", "Histoplasmosis", "Blastomycosis"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary risk factor for invasive aspergillosis?",
+        "options": ["Diabetes", "Immunosuppression", "HIV infection", "Antibiotic therapy", "Burns"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following fungi causes mycetoma?",
+        "options": ["Madurella mycetomatis", "Candida albicans", "Trichophyton rubrum", "Aspergillus fumigatus", "Rhizopus spp."],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antifungal is the drug of choice for invasive cryptococcal meningitis?",
+        "options": ["Fluconazole", "Amphotericin B", "Itraconazole", "Ketoconazole", "Caspofungin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the characteristic feature of histoplasmosis in tissue?",
+        "options": ["Budding yeast in macrophages", "Spherules filled with endospores", "Capsulated yeast", "Septate hyphae", "Granules"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which fungal infection presents with 'rose gardener's disease'?",
+        "options": ["Chromoblastomycosis", "Mycetoma", "Sporotrichosis", "Aspergillosis", "Tinea nigra"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which fungal pathogen causes allergic bronchopulmonary aspergillosis?",
+        "options": ["Aspergillus fumigatus", "Candida albicans", "Cryptococcus neoformans", "Rhizopus spp.", "Blastomyces dermatitidis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antifungal is used to treat Tinea unguium?",
+        "options": ["Clotrimazole", "Griseofulvin", "Itraconazole", "Miconazole", "Terbinafine"],
+        "answer": ["F", "F", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is a dimorphic fungus?",
+        "options": ["Histoplasma capsulatum", "Aspergillus fumigatus", "Trichophyton rubrum", "Candida glabrata", "Rhizopus spp."],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which stain is used to identify Pneumocystis jirovecii?",
+        "options": ["Periodic acid-Schiff", "Toluidine blue", "India ink", "Gram stain", "H&E stain"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common site of mycetoma?",
+        "options": ["Hand", "Foot", "Scalp", "Groin", "Back"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What type of hypersensitivity reaction is associated with allergic aspergillosis?",
+        "options": ["Type I", "Type II", "Type III", "Type IV", "Type V"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which type of fungal infection primarily affects immunocompromised individuals?",
+        "options": ["Superficial mycoses", "Cutaneous mycoses", "Opportunistic mycoses", "Endemic mycoses", "Subcutaneous mycoses"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which fungal pathogen is known for its thick capsule?",
+        "options": ["Aspergillus fumigatus", "Candida albicans", "Cryptococcus neoformans", "Histoplasma capsulatum", "Blastomyces dermatitidis"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary portal of entry for systemic mycoses?",
+        "options": ["Skin", "Lungs", "Gastrointestinal tract", "Bloodstream", "Urinary tract"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which fungal infection is characterized by 'valley fever'?",
+        "options": ["Blastomycosis", "Coccidioidomycosis", "Histoplasmosis", "Cryptococcosis", "Aspergillosis"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which fungal pathogen causes chromoblastomycosis?",
+        "options": ["Sporothrix schenckii", "Fonsecaea pedrosoi", "Candida albicans", "Blastomyces dermatitidis", "Aspergillus flavus"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mode of transmission for Tinea pedis?",
+        "options": ["Contact with animals", "Soil exposure", "Direct human contact", "Contaminated surfaces", "Inhalation"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which fungal infection is associated with thorn pricks?",
+        "options": ["Tinea nigra", "Sporotrichosis", "Chromoblastomycosis", "Phaeohyphomycosis", "Mycetoma"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which diagnostic method is used for invasive aspergillosis?",
+        "options": ["Serology", "Culture", "Radiography", "Histopathology", "PCR"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common clinical manifestation of cryptococcosis?",
+        "options": ["Pneumonia", "Meningitis", "Skin lesions", "Osteomyelitis", "Endocarditis"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which fungal pathogen produces 'asteroid bodies' on histology?",
+        "options": ["Blastomyces dermatitidis", "Fonsecaea pedrosoi", "Sporothrix schenckii", "Histoplasma capsulatum", "Aspergillus fumigatus"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary treatment for invasive zygomycosis?",
+        "options": ["Amphotericin B", "Fluconazole", "Voriconazole", "Terbinafine", "Caspofungin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which superficial mycosis is caused by Malassezia furfur?",
+        "options": ["Black piedra", "White piedra", "Tinea nigra", "Tinea versicolor", "Tinea cruris"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the most common cause of nosocomial infections?",
+        "options": [
+            "Contact transmission",
+            "Airborne transmission",
+            "Common-vehicle transmission",
+            "Arthropod-borne transmission",
+            "Fecal-oral transmission"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which bacterium is the most common cause of catheter-associated urinary tract infections?",
+        "options": [
+            "Escherichia coli",
+            "Pseudomonas aeruginosa",
+            "Klebsiella pneumoniae",
+            "Staphylococcus aureus",
+            "Candida albicans"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mode of transmission for respiratory tract nosocomial infections?",
+        "options": [
+            "Contact with contaminated surfaces",
+            "Inhalation of droplets",
+            "Direct blood transfusion",
+            "Vector-borne transmission",
+            "Fecal contamination"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a risk factor for nosocomial bloodstream infections?",
+        "options": [
+            "Urinary catheterization",
+            "Surgical wound infection",
+            "Central venous catheter use",
+            "Ventilator use",
+            "Antibiotic overuse"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a gram-negative bacterium commonly associated with nosocomial infections?",
+        "options": [
+            "Staphylococcus aureus",
+            "Escherichia coli",
+            "Clostridium difficile",
+            "Enterococcus faecalis",
+            "Streptococcus pneumoniae"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common site of nosocomial infections?",
+        "options": [
+            "Surgical wounds",
+            "Respiratory tract",
+            "Urinary tract",
+            "Gastrointestinal tract",
+            "Bloodstream"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary cause of nosocomial gastroenteritis in adults?",
+        "options": [
+            "Rotavirus",
+            "Clostridium difficile",
+            "Escherichia coli",
+            "Salmonella spp.",
+            "Norovirus"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most effective method for reducing nosocomial infections?",
+        "options": [
+            "Antibiotic prophylaxis",
+            "Environmental cleaning",
+            "Hand hygiene",
+            "Protective clothing",
+            "Isolation of patients"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key feature of hospital-acquired pneumonia?",
+        "options": [
+            "Develops within 24 hours of admission",
+            "Associated with contaminated blood transfusions",
+            "Develops after 48 hours of hospitalization",
+            "Primarily affects the gastrointestinal tract",
+            "Transmitted by arthropod vectors"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which type of precaution is essential during activities likely to generate splashes or sprays?",
+        "options": [
+            "Hand hygiene",
+            "Use of gloves",
+            "Use of masks and eye protection",
+            "Sterilization of instruments",
+            "Vaccination"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common fungal pathogen causing nosocomial bloodstream infections?",
+        "options": [
+            "Candida albicans",
+            "Aspergillus fumigatus",
+            "Rhizopus spp.",
+            "Cryptococcus neoformans",
+            "Fusarium spp."
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which pathogen is a common cause of ventilator-associated pneumonia?",
+        "options": [
+            "Streptococcus pneumoniae",
+            "Pseudomonas aeruginosa",
+            "Clostridium difficile",
+            "Escherichia coli",
+            "Rotavirus"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary risk factor for catheter-associated urinary tract infections?",
+        "options": [
+            "Short-term catheter use",
+            "Female gender",
+            "Hospital discharge",
+            "Surgical site infections",
+            "Antibiotic resistance"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary cause of Clostridium difficile-associated diarrhea?",
+        "options": [
+            "Prolonged ICU stay",
+            "Antibiotic therapy",
+            "Ventilator use",
+            "Surgical wound infection",
+            "Inadequate hand hygiene"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is an example of a gram-positive bacterium causing nosocomial infections?",
+        "options": [
+            "Escherichia coli",
+            "Pseudomonas aeruginosa",
+            "Clostridium difficile",
+            "Klebsiella pneumoniae",
+            "Serratia marcescens"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
     }
 ]
