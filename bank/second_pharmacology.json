@@ -298,5 +298,714 @@
         "question": "Which NSAID is rapidly absorbed after oral administration and has peak plasma concentration in 1-2 hours?",
         "options": ["Aspirin", "Ketorolac", "Ibuprofen", "Naproxen", "Meloxicam"],
         "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Corticosteroids are primarily synthesized in which part of the adrenal cortex?",
+        "options": ["Zona glomerulosa", "Zona fasciculata", "Zona reticularis", "Medulla", "Capsule"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is the principal circulating glucocorticoid in humans?",
+        "options": ["Aldosterone", "Cortisol", "Androstenedione", "Pregnenolone", "Dehydroepiandrosterone"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following regulates glucocorticoid secretion?",
+        "options": ["ACTH", "CRH", "FSH", "LH", "GH"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "The diurnal rhythm of cortisol production is characterized by the highest levels at:",
+        "options": ["Midnight", "Early morning", "Afternoon", "Evening", "Noon"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "The rate-limiting step in adrenal steroidogenesis is:",
+        "options": ["Cholesterol conversion to cortisol", "ACTH stimulation of StAR protein", "Secretion of aldosterone", "Release of adrenal androgens", "Feedback inhibition by cortisol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the recommended approach when prescribing corticosteroids?",
+        "options": ["Use the highest effective dose", "Use the lowest effective dose", "Avoid prophylactic medications", "Administer late in the evening", "Avoid patient involvement in planning"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Abrupt cessation of corticosteroids after long-term use can lead to:",
+        "options": ["Diabetes mellitus", "Cushing's syndrome", "Acute adrenal insufficiency", "Hypertension", "Osteoporosis"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a contraindication for systemic corticosteroid use?",
+        "options": ["Osteoporosis", "Psychosis", "Peptic ulcer disease", "Infectious diseases", "Bronchial asthma"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following adverse effects is associated with corticosteroid use?",
+        "options": ["Hypoglycemia", "Cushingoid appearance", "Hyperthyroidism", "Hypercalcemia", "Dehydration"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "In corticosteroid therapy, gastric protection is recommended to prevent:",
+        "options": ["Osteoporosis", "Peptic ulcers", "Hyperglycemia", "Cushing syndrome", "Hypotension"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs may reduce the effectiveness of corticosteroids by enhancing their metabolism?",
+        "options": ["NSAIDs", "Phenytoin", "Aspirin", "Proton pump inhibitors", "Antihistamines"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a therapeutic indication for corticosteroid use?",
+        "options": ["Spinal cord compression", "Cerebral cancer metastasis", "Bronchial asthma", "Septic shock", "Type 1 diabetes"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is a common cause of diarrhea?",
+        "options": ["Infections", "Excess protein intake", "Dehydration", "Hypothyroidism", "Vitamin deficiency"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary principle in managing diarrhea?",
+        "options": [
+            "Aggressive antibiotic therapy",
+            "Electrolyte replacement and rehydration",
+            "Avoidance of all food intake",
+            "Use of opioid agonists immediately",
+            "Surgical intervention"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug acts by decreasing gut motility and increasing water absorption?",
+        "options": ["Diphenoxylate", "Kaolin", "Bismuth subsalicylate", "Octreotide", "Probiotics"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a major side effect of loperamide?",
+        "options": ["CNS depression", "Addiction", "Respiratory depression", "Minimal CNS penetration", "Increased transit time"],
+        "answer": ["F", "F", "F", "T", "T"]
+    },
+    {
+        "question": "What is the primary effect of kaolin and pectin?",
+        "options": [
+            "Binds bacterial toxins",
+            "Acts as a CNS depressant",
+            "Increases gut motility",
+            "Prevents electrolyte loss",
+            "Reduces intestinal inflammation"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is effective in secretory diarrhea caused by hormone-secreting tumors?",
+        "options": ["Diphenoxylate", "Loperamide", "Octreotide", "Bismuth subsalicylate", "Probiotics"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is a contraindication to the use of anti-diarrheal drugs?",
+        "options": [
+            "Bloody diarrhea",
+            "Mild diarrhea",
+            "Acute diarrhea in adults",
+            "Rehydration therapy",
+            "Normal stool output"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a side effect of bismuth subsalicylate?",
+        "options": ["Black stools", "Respiratory depression", "CNS effects", "Increased motility", "Addiction"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of probiotics in diarrhea management?",
+        "options": [
+            "Inhibit bacterial toxins",
+            "Restore normal gut microflora",
+            "Act as CNS stimulants",
+            "Enhance gut motility",
+            "Provide antisecretory effects"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of these agents is most potent in reducing diarrhea symptoms?",
+        "options": [
+            "Loperamide",
+            "Kaolin",
+            "Bismuth subsalicylate",
+            "Probiotics",
+            "Octreotide"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which criteria define constipation according to the Rome IV guidelines?",
+        "options": [
+            "Infrequent passage of stools (<3/week)",
+            "Frequent loose stools",
+            "Complete evacuation",
+            "Normal bowel habits",
+            "Absence of abdominal bloating"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which bulk-forming laxative promotes peristalsis by forming a bulky gel?",
+        "options": ["Methylcellulose", "Sorbitol", "Bisacodyl", "Magnesium citrate", "Lactulose"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a key use of osmotic laxatives such as polyethylene glycol (PEG)?",
+        "options": [
+            "Chronic constipation prevention",
+            "Treatment of acute diarrhea",
+            "Reduction of gut motility",
+            "Management of opioid-induced constipation",
+            "Inducing electrolyte imbalances"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of stimulant laxatives?",
+        "options": [
+            "Increase stool liquidity",
+            "Promote bowel movements by poorly understood mechanisms",
+            "Act as stool surfactants",
+            "Bind to opioid receptors",
+            "Reduce intestinal inflammation"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the function of stool softeners like docusate?",
+        "options": [
+            "Permit water penetration into stool",
+            "Increase gut motility",
+            "Induce colonic contractions",
+            "Reduce stool volume",
+            "Inhibit absorption of fats"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is used to treat opioid-induced constipation?",
+        "options": [
+            "Lactulose",
+            "Methylnaltrexone",
+            "Bisacodyl",
+            "Magnesium oxide",
+            "Psyllium"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the main side effect of long-term use of mineral oil?",
+        "options": [
+            "Impaired fat-soluble vitamin absorption",
+            "Increased gut motility",
+            "Abdominal cramps",
+            "Respiratory depression",
+            "Severe dehydration"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a major application of polyethylene glycol (PEG)?",
+        "options": [
+            "Colonic cleansing before endoscopy",
+            "Stimulation of serotonin receptors",
+            "Inducing diarrhea",
+            "Relieving abdominal cramps",
+            "Preventing dehydration"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which laxative category does psyllium belong to?",
+        "options": [
+            "Osmotic laxatives",
+            "Bulk-forming laxatives",
+            "Stimulant laxatives",
+            "Faecal softeners",
+            "Peripheral opioid antagonists"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which laxative is safe for colonic cleansing in all patients?",
+        "options": [
+            "Magnesium citrate",
+            "Polyethylene glycol (PEG)",
+            "Sorbitol",
+            "Lactulose",
+            "Bisacodyl"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a short-acting β2-adrenergic agonist (SABA)?",
+        "options": ["Salmeterol", "Formoterol", "Terbutaline", "Vilanterol", "Indacaterol"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the preferred route of administration for β2-agonists in asthma treatment?",
+        "options": ["Oral", "Intravenous", "Inhalation", "Subcutaneous", "Intramuscular"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which is a long-acting muscarinic receptor antagonist (LAMA)?",
+        "options": ["Ipratropium bromide", "Tiotropium bromide", "Salbutamol", "Terbutaline", "Formoterol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which corticosteroid is commonly used for inhalation in chronic asthma?",
+        "options": ["Hydrocortisone", "Prednisolone", "Fluticasone", "Methylprednisolone", "Dexamethasone"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of β2-adrenergic agonists in asthma?",
+        "options": ["Blockade of muscarinic receptors", "Stimulation of Gs-adenylyl cyclase-cAMP pathway", "Inhibition of phospholipase A2", "Antagonism of leukotriene receptors", "Reduction of microvascular leakage"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which side effect is associated with β2-adrenergic agonists?",
+        "options": ["Hypokalemia", "Bradycardia", "Hypoglycemia", "Weight gain", "Oropharyngeal candidiasis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which bronchodilator is derived from tea?",
+        "options": ["Aminophylline", "Theobromine", "Caffeine", "Theophylline", "Salbutamol"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which mediator antagonist is used in asthma treatment?",
+        "options": ["Methotrexate", "Montelukast", "Tiotropium", "Beclomethasone", "Formoterol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary action of muscarinic receptor antagonists in asthma?",
+        "options": ["Inhibition of phosphodiesterase", "Reduction of bronchial smooth muscle constriction", "Blockade of β2-adrenergic receptors", "Stimulation of mucus secretion", "Inhibition of histamine release"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which inhalation device is most suitable for children?",
+        "options": ["Metered-dose inhaler (MDI)", "Dry powder inhaler", "Nebulizer", "Oral tablets", "Subcutaneous injections"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which corticosteroid is used as the drug of choice in acute asthma exacerbation?",
+        "options": ["Prednisone", "Hydrocortisone", "Fluticasone", "Beclomethasone", "Budesonide"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the key clinical use of long-acting β2-agonists (LABAs)?",
+        "options": ["Acute severe asthma", "Prophylaxis of asthma attacks", "Reduction of inflammation", "Inhibition of histamine release", "Reduction of mucus secretion"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a notable side effect of inhaled corticosteroids?",
+        "options": ["Dysphonia", "Hypokalemia", "Weight loss", "Tachycardia", "Restlessness"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is used as immunomodulatory therapy in asthma?",
+        "options": ["Salbutamol", "Montelukast", "Methotrexate", "Theophylline", "Tiotropium"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which β2-agonist is classified as an ultra-long-acting agent?",
+        "options": ["Salmeterol", "Terbutaline", "Indacaterol", "Formoterol", "Albuterol"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary goal of diabetes management?",
+        "options": [
+            "Achieve glycemic control at any cost",
+            "Prevent acute and chronic complications",
+            "Avoid the use of medications",
+            "Ensure a strict low-calorie diet",
+            "Focus only on glucose levels"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which parameter reflects glycemic control over the preceding three months?",
+        "options": [
+            "Blood glucose monitoring",
+            "Fructosamine levels",
+            "Hemoglobin A1c",
+            "Plasma glucose",
+            "Serum albumin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the mainstay treatment for Type 1 diabetes mellitus?",
+        "options": [
+            "Oral hypoglycemic drugs",
+            "Insulin therapy",
+            "Exercise alone",
+            "Dietary adjustments",
+            "Bariatric surgery"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Short-acting insulin analogues include:",
+        "options": [
+            "Insulin glargine",
+            "Insulin aspart",
+            "Insulin lispro",
+            "Insulin detemir",
+            "Insulin glulisine"
+        ],
+        "answer": ["F", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a common diabetic emergency?",
+        "options": [
+            "Diabetic ketoacidosis (DKA)",
+            "Hyperosmolar hyperglycemic state (HHS)",
+            "Hypoglycemia",
+            "Myocardial infarction",
+            "Severe dehydration"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the hallmark for diagnosing hyperosmolar hyperglycemic state (HHS)?",
+        "options": [
+            "Plasma glucose >600 mg/dL",
+            "Arterial blood pH <7.0",
+            "Increased blood viscosity",
+            "Profound acidosis",
+            "Increased plasma ketones"
+        ],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a symptom of diabetic ketoacidosis (DKA)?",
+        "options": [
+            "Elevated urine ketones",
+            "Normal blood pH",
+            "Profound dehydration",
+            "No change in respiratory rate",
+            "Normal plasma glucose levels"
+        ],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the treatment of choice for severe hypoglycemia in unconscious patients?",
+        "options": [
+            "Oral glucose",
+            "Intravenous 50% glucose solution",
+            "Subcutaneous glucagon",
+            "Small sips of juice",
+            "Glucose gel"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is the most common complication of insulin therapy?",
+        "options": [
+            "Hyperglycemia",
+            "Hypoglycemia",
+            "Weight loss",
+            "Neuropathy",
+            "Ketoacidosis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which oral hypoglycemic drug is considered the first-line treatment for Type 2 diabetes?",
+        "options": [
+            "Sulfonylureas",
+            "Thiazolidinediones",
+            "Metformin",
+            "Acarbose",
+            "Insulin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which factor commonly contributes to diabetic ketoacidosis?",
+        "options": [
+            "Excessive carbohydrate intake",
+            "Inadequate insulin replacement",
+            "Dehydration",
+            "Physical inactivity",
+            "Dietary fat restriction"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most critical step in managing hyperosmolar hyperglycemic state (HHS)?",
+        "options": [
+            "Aggressive insulin therapy",
+            "Immediate oral glucose",
+            "Aggressive intravenous hydration",
+            "Administration of bicarbonate",
+            "Supplementation with iron"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which symptom is indicative of autonomic hyperactivity in hypoglycemia?",
+        "options": [
+            "Bradycardia",
+            "Sweating",
+            "Confusion",
+            "Seizures",
+            "Coma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which complication is primarily associated with hyperglycemia in Type 2 diabetes?",
+        "options": [
+            "Retinopathy",
+            "Hypoglycemia",
+            "Ketoacidosis",
+            "Severe hypotension",
+            "Increased insulin sensitivity"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which parameter indicates metabolic acidosis in diabetic ketoacidosis (DKA)?",
+        "options": [
+            "Bicarbonate <15 mmol/L",
+            "Plasma glucose <200 mg/dL",
+            "Serum osmolality >320 mmol/L",
+            "Normal urine ketones",
+            "Normal arterial blood pH"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about disinfectants?",
+        "options": ["Selective toxicity to microorganisms", "Sporicidal action", "Used on living tissues", "Applied to inanimate objects", "Safe for internal use"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "What is the mechanism of action for alcohol as a disinfectant?",
+        "options": ["Protein denaturation", "Oxidation of SH groups", "Alkylation of amino groups", "Disruption of DNA synthesis", "Blocking membrane receptors"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which is a characteristic of an ideal biocide?",
+        "options": ["High latency period", "Toxic to human tissues", "Broad spectrum of action", "Corrosive effects", "High residual odor"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which factor does NOT affect the performance of disinfectants?",
+        "options": ["Contact time", "Temperature", "Type of microorganisms", "Concentration of disinfectant", "Color of disinfectant"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the primary use of antiseptics?",
+        "options": ["Sterilization of surgical instruments", "Inhibition of microorganisms on living tissues", "Decontamination of surfaces", "Killing bacterial spores", "Preservation of medical devices"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a limitation of formaldehyde?",
+        "options": ["Non-volatile residue", "Broad-spectrum activity", "Non-sporicidal action", "Non-reactivity with proteins", "Poor penetration"],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What type of sterilization involves the use of gamma radiation?",
+        "options": ["Chemical sterilization", "Dry heat sterilization", "Radiation sterilization", "Filtration sterilization", "Steam sterilization"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which agent disrupts microbial DNA by forming protein-DNA cross-links?",
+        "options": ["Chlorhexidine", "Hydrogen peroxide", "Formaldehyde", "Glutaraldehyde", "Chlorine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which disinfectant is commonly used for hand scrubbing prior to surgery?",
+        "options": ["Chlorhexidine", "Glutaraldehyde", "Phenol", "Ethanol", "Formaldehyde"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which halogen is the most effective for disinfection?",
+        "options": ["Chlorine", "Bromine", "Fluorine", "Iodine", "Astatine"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the limitation of alcohol as a disinfectant?",
+        "options": ["Rapid evaporation", "Lack of sporicidal activity", "Flammable nature", "All of the above", "None of the above"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of hydrogen peroxide as a sterilant?",
+        "options": ["Disruption of DNA", "Denaturation of proteins", "Production of hydroxyl free radicals", "Blocking SH groups in enzymes", "Disruption of cell wall lipids"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which disinfectant works by disrupting the cytoplasmic membrane?",
+        "options": ["Chlorhexidine", "Alcohol", "Phenol", "Halogens", "Formaldehyde"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which sterilization method is best suited for heat-sensitive solutions?",
+        "options": ["Steam sterilization", "Dry heat sterilization", "Filtration sterilization", "Radiation sterilization", "Chemical sterilization"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the ideal concentration for ethanol to achieve optimal antimicrobial activity?",
+        "options": ["30%", "50%", "70%", "90%", "100%"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key criterion for a neurotransmitter?",
+        "options": ["Synthesized in the postsynaptic neuron", "Released upon stimulation of the nerve", "Resistant to enzymatic degradation", "Stored outside synaptic vesicles", "Blocks the receptor it binds to"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary action of neurotransmitters on postsynaptic neurons?",
+        "options": ["Hyperpolarization only", "Depolarization only", "Both hyperpolarization and depolarization", "Inhibition only", "Action potential generation directly"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which neurotransmitter is classified as a monoamine?",
+        "options": ["GABA", "Glutamate", "Serotonin", "Substance P", "Vasopressin"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the role of ionophores during excitation?",
+        "options": ["Block Na+ entry", "Decrease depolarization", "Allow Na+ passage", "Inhibit K+ movement", "Increase membrane resistance"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes temporal summation?",
+        "options": ["Impulses from multiple neurons add up simultaneously", "Impulses from one neuron add up over time", "Simultaneous hyperpolarization and depolarization", "Decreased neurotransmitter release over time", "Inhibition of neuronal firing over time"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug class acts by inhibiting CNS activity?",
+        "options": ["Psychostimulants", "Alcohols", "Amphetamines", "Caffeine", "Nicotine"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which neurotransmitter is associated with both convergence and divergence in the CNS?",
+        "options": ["Acetylcholine", "Glutamate", "Serotonin", "Dopamine", "Substance P"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of psychostimulants?",
+        "options": ["CNS inhibition", "CNS excitation", "Decrease mental alertness", "Increase fatigue", "Cause drowsiness"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which process allows the additive effects of impulses at a single neuron?",
+        "options": ["Inhibition", "Summation", "Divergence", "Convergence", "Repolarization"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the outcome of spatial summation in neurotransmission?",
+        "options": ["Impulses cancel each other out", "Impulses from multiple neurons combine to reach threshold", "A single impulse causes hyperpolarization", "Neurotransmitter release decreases", "Synaptic vesicles are depleted"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a function of the proximal convoluted tubule (PCT)?",
+        "options": ["Reabsorption of NaHCO₃", "Reabsorption of NaCl", "Reabsorption of amino acids", "Reabsorption of water", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the primary mechanism of action of loop diuretics?",
+        "options": ["Inhibition of Na⁺/K⁺/2Cl⁻ cotransporter", "Inhibition of carbonic anhydrase", "Blockage of Na⁺/Cl⁻ cotransporter", "Antagonism of aldosterone receptors", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Thiazide diuretics act primarily on which part of the nephron?",
+        "options": ["Proximal tubule", "Loop of Henle", "Distal convoluted tubule", "Collecting duct", "None of the above"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which diuretic class is most effective in treating acute pulmonary edema?",
+        "options": ["Thiazides", "Loop diuretics", "Carbonic anhydrase inhibitors", "Potassium-sparing diuretics", "Osmotic diuretics"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a selective vasopressin V2 receptor antagonist?",
+        "options": ["Tolvaptan", "Conivaptan", "Spironolactone", "Amiloride", "Furosemide"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "The loop of Henle is responsible for:",
+        "options": ["Counter-current multiplication", "Reabsorption of Na⁺/K⁺/2Cl⁻", "Reabsorption of water in the descending limb", "Production of hypotonic tubular fluid in the ascending limb", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Potassium-sparing diuretics include:",
+        "options": ["Spironolactone", "Amiloride", "Triamterene", "Eplerenone", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the mechanism of action of carbonic anhydrase inhibitors?",
+        "options": ["Inhibition of carbonic anhydrase", "Blocking Na⁺/Cl⁻ cotransporter", "Inhibiting Na⁺/K⁺ ATPase", "Antagonism of aldosterone", "All of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Osmotic diuretics are most commonly used for:",
+        "options": ["Reduction of intracranial pressure", "Treatment of glaucoma", "Prevention of acute renal failure", "All of the above", "None of the above"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "The distal convoluted tubule (DCT) is regulated by which hormone?",
+        "options": ["Aldosterone", "Calcitriol", "Antidiuretic hormone (ADH)", "Erythropoietin", "None of the above"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which diuretic class is known to cause ototoxicity as a side effect?",
+        "options": ["Loop diuretics", "Thiazide diuretics", "Potassium-sparing diuretics", "Carbonic anhydrase inhibitors", "Osmotic diuretics"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following diuretics is effective in nephrogenic diabetes insipidus?",
+        "options": ["Thiazide diuretics", "Loop diuretics", "Carbonic anhydrase inhibitors", "Osmotic diuretics", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Aldosterone antagonists act by:",
+        "options": ["Blocking aldosterone at intracellular receptors", "Inhibiting Na⁺/K⁺ ATPase", "Enhancing water reabsorption", "Blocking Na⁺/Cl⁻ cotransporter", "All of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Antidiuretic hormone (ADH) increases water reabsorption through which mechanism?",
+        "options": ["Insertion of aquaporin-2 channels", "Stimulation of Na⁺/K⁺ ATPase", "Activation of Na⁺/Cl⁻ cotransporter", "Inhibition of carbonic anhydrase", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following diuretics acts primarily on the proximal tubule?",
+        "options": ["Carbonic anhydrase inhibitors", "Loop diuretics", "Thiazide diuretics", "Potassium-sparing diuretics", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Thiazide diuretics can lead to which metabolic derangements?",
+        "options": ["Hypokalemia", "Hyponatremia", "Hypercalcemia", "Hyperglycemia", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which diuretic class is most effective in the treatment of acute hypercalcemia?",
+        "options": ["Loop diuretics", "Thiazide diuretics", "Potassium-sparing diuretics", "Carbonic anhydrase inhibitors", "Osmotic diuretics"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a significant adverse effect of spironolactone?",
+        "options": ["Gynecomastia", "Hyperkalemia", "Metabolic acidosis", "Menstrual irregularities", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is an example of an osmotic diuretic?",
+        "options": ["Mannitol", "Furosemide", "Spironolactone", "Hydrochlorothiazide", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "The mechanism of action of thiazide diuretics includes:",
+        "options": ["Inhibition of Na⁺/Cl⁻ cotransporter", "Blocking Na⁺/K⁺ ATPase", "Inhibition of carbonic anhydrase", "Activation of aquaporin channels", "None of the above"],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
