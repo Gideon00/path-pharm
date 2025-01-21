@@ -994,7 +994,7 @@
         "answer": ["T", "F", "F", "F", "F"]
     },
     {
-        "question": "What is a significant adverse effect of spironolactone?",
+        "question": "What is a significant adverse effect of spironolactones?",
         "options": ["Gynecomastia", "Hyperkalemia", "Metabolic acidosis", "Menstrual irregularities", "All of the above"],
         "answer": ["T", "T", "T", "T", "T"]
     },
