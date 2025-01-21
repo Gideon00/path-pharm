@@ -600,343 +600,951 @@
     "answer": ["F", "F", "T", "F"]
   },
   {
-      "question": "Which of the following is a common complication of chronic GERD?",
-      "options": ["Barrett esophagus", "Esophageal stricture", "Peptic ulcer", "Esophageal adenocarcinoma", "None of the above"],
-      "answer": ["T", "T", "F", "T", "F"]
-  },
-  {
-      "question": "What is the hallmark microscopic feature of Barrett esophagus?",
-      "options": ["Intestinal metaplasia with goblet cells", "Squamous metaplasia", "Eosinophilic infiltration", "Crypt abscesses", "Granulomas"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which of the following is associated with the pathogenesis of GERD?",
-      "options": ["Lower esophageal sphincter (LES) dysfunction", "Increased abdominal pressure", "Delayed gastric emptying", "Hiatal hernia", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Helicobacter pylori contributes to chronic gastritis through:",
-      "options": ["Urease production", "Flagella for motility", "Adhesins for attachment", "CagA toxin production", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which of the following increases the risk of esophageal adenocarcinoma?",
-      "options": ["Barrett esophagus", "Chronic GERD", "Obesity", "Tobacco use", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Peptic ulcer disease commonly affects:",
-      "options": ["Proximal duodenum", "Gastric antrum", "Esophagus", "Colon", "Rectum"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "Which of the following mechanisms protect the gastric mucosa from injury?",
-      "options": ["Mucin secretion", "Bicarbonate secretion", "Rich vascular supply", "Surface epithelial regeneration", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Adenocarcinoma of the colon arises through:",
-      "options": ["APC mutation", "KRAS mutation", "p53 inactivation", "SMAD4 loss", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which of the following describes the progression of Barrett esophagus to adenocarcinoma?",
-      "options": ["Stepwise genetic mutations", "Chromosomal abnormalities", "p53 overexpression", "Accumulation of mutations", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Colorectal cancer risk factors include:",
-      "options": ["Low fiber diet", "Family history", "Chronic inflammatory bowel disease", "High red meat consumption", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which syndrome is associated with germline APC mutations and multiple colorectal adenomas?",
-      "options": ["Familial adenomatous polyposis", "Lynch syndrome", "Peutz-Jeghers syndrome", "Turcot syndrome", "None of the above"],
-      "answer": ["T", "F", "F", "T", "F"]
-  },
-  {
-      "question": "Which of the following is a feature of chronic gastritis caused by H. pylori?",
-      "options": ["Antral predominance", "High acid production", "Increased risk of gastric cancer", "Intestinal metaplasia", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Peptic ulcers are commonly caused by:",
-      "options": ["Helicobacter pylori", "NSAID use", "Smoking", "Corticosteroids", "All of the above"],
-      "answer": ["T", "T", "T", "F", "T"]
-  },
-  {
-      "question": "Which part of the colon is commonly affected in colorectal cancer?",
-      "options": ["Sigmoid colon", "Rectum", "Ascending colon", "Transverse colon", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "The morphology of peptic ulcers includes:",
-      "options": ["Well-defined edges", "Necrotic debris", "Inflammatory exudate", "Granulation tissue", "Fibrotic scar"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which clinical feature is most specific for GERD?",
-      "options": ["Heartburn", "Dysphagia", "Regurgitation", "Odynophagia", "Melena"],
-      "answer": ["T", "F", "T", "F", "F"]
-  },
-  {
-      "question": "Esophageal squamous cell carcinoma is associated with:",
-      "options": ["Alcohol", "Tobacco use", "Achalasia", "Plummer-Vinson syndrome", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which histological feature is characteristic of colorectal adenocarcinoma?",
-      "options": ["Elongated hyperchromatic nuclei", "Necrotic debris in gland lumen", "Infiltrating nests of tumor cells", "Mucinous adenocarcinoma pattern", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Complications of chronic gastritis include:",
-      "options": ["Peptic ulcer disease", "Intestinal metaplasia", "Gastric adenocarcinoma", "MALT lymphoma", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "What is the most common cause of chronic gastritis?",
-      "options": ["H. pylori infection", "Autoimmune gastritis", "Radiation injury", "Chronic bile reflux", "Systemic diseases like Crohn's disease"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "The adenoma-carcinoma sequence involves mutations in:",
-      "options": ["APC", "KRAS", "p53", "SMAD4", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Familial adenomatous polyposis (FAP) is associated with:",
-      "options": ["APC mutations", "Development of colorectal adenocarcinoma", "Prophylactic colectomy", "Osteomas", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "What is the common histological feature in chronic gastritis?",
-      "options": ["Lymphoid aggregates", "Neutrophilic infiltration", "Glandular atrophy", "Intestinal metaplasia", "All of the above"],
-      "answer": ["T", "F", "T", "T", "T"]
-  },
-  {
-      "question": "Complications of GERD include:",
-      "options": ["Barrett esophagus", "Strictures", "Adenocarcinoma", "Chronic esophagitis", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Autoimmune gastritis is characterized by:",
-      "options": ["Anti-parietal cell antibodies", "Vitamin B12 deficiency", "Achlorhydria", "Antral endocrine cell hyperplasia", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "The most common clinical presentation of colorectal cancer is:",
-      "options": ["Rectal bleeding", "Change in bowel habits", "Iron deficiency anemia", "Abdominal pain", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "The mismatch repair pathway in colorectal cancer results in:",
-      "options": ["Microsatellite instability", "Accumulation of mutations", "Right-sided colon cancers", "HNPCC-associated cancers", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "What is the typical feature of adenomas in FAP?",
-      "options": ["Multiple adenomas", "Tubular and villous patterns", "Progression to adenocarcinoma", "Presence in GI tract beyond the colon", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Chronic use of NSAIDs leads to peptic ulcers due to:",
-      "options": ["Inhibition of prostaglandins", "Reduced bicarbonate secretion", "Increased acid secretion", "Mucosal damage", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "In esophageal squamous cell carcinoma, risk factors include:",
-      "options": ["Alcohol", "Tobacco use", "Plummer-Vinson syndrome", "Achalasia", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Molecular changes in the adenoma-carcinoma sequence include mutations in:",
-      "options": ["APC", "KRAS", "SMAD4", "p53", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Microsatellite instability is characteristic of:",
-      "options": ["Lynch syndrome", "Mismatch repair defects", "HNPCC", "Right-sided colon cancers", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "The hallmark of adenocarcinoma of the colon is:",
-      "options": ["Glandular differentiation", "Hyperchromatic nuclei", "Necrotic debris", "Mucinous pattern", "All of the above"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which viral hepatitis is most commonly associated with chronic liver disease progression?",
-      "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis D", "Hepatitis E"],
-      "answer": ["F", "T", "T", "T", "F"]
-  },
-  {
-      "question": "Which features are characteristic of alcoholic liver disease histology?",
-      "options": ["Mallory-Denk bodies", "Perivenular fibrosis", "Macrovesicular steatosis", "Ground-glass hepatocytes", "Kupffer cell hyperplasia"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "What stains are used to identify copper deposits in Wilson's disease?",
-      "options": ["Rhodanine", "Orcein", "PAS", "H&E", "Victoria blue"],
-      "answer": ["T", "T", "F", "F", "T"]
-  },
-  {
-      "question": "Which of the following is a hallmark of chronic viral hepatitis?",
-      "options": ["Portal inflammation", "Interface hepatitis", "Ground-glass hepatocytes", "Macrovesicular steatosis", "Hepatic necrosis"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "Which of the following clinical conditions are associated with cirrhosis?",
-      "options": ["Portal hypertension", "Ascites", "Esophageal varices", "Hypersplenism", "Renal failure"],
-      "answer": ["T", "T", "T", "T", "F"]
-  },
-  {
-      "question": "What is a characteristic feature of hepatocellular carcinoma (HCC)?",
-      "options": ["Invasion into the portal vein", "Pseudoglandular pattern", "Trabecular architecture", "Metastasis to lungs", "Radio-opacity on imaging"],
-      "answer": ["T", "T", "T", "T", "F"]
-  },
-  {
-      "question": "What is the primary risk factor for non-alcoholic fatty liver disease (NAFLD)?",
-      "options": ["Metabolic syndrome", "Chronic hepatitis B infection", "Iron overload", "Gallstones", "Wilson's disease"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which clinical features are commonly observed in autoimmune hepatitis?",
-      "options": ["Palmar erythema", "Hepatomegaly", "Jaundice", "Hypoglycemia", "Ascites"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "What is the key histological feature of primary biliary cholangitis (PBC)?",
-      "options": ["Florid duct lesion", "Onion-skin fibrosis", "Granulomas", "Lobular necrosis", "Focal fatty change"],
-      "answer": ["T", "F", "T", "F", "F"]
-  },
-  {
-      "question": "What laboratory findings are consistent with Wilson's disease?",
-      "options": ["Low serum ceruloplasmin", "Elevated hepatic copper content", "Kayser-Fleischer rings", "Decreased serum ferritin", "Hyperbilirubinemia"],
-      "answer": ["T", "T", "T", "F", "T"]
-  },
-  {
-      "question": "Which diseases are associated with portal hypertension?",
-      "options": ["Cirrhosis", "Acute viral hepatitis", "Schistosomiasis", "Chronic pancreatitis", "Hepatic vein thrombosis"],
-      "answer": ["T", "F", "T", "F", "T"]
-  },
-  {
-      "question": "Which features are diagnostic of chronic passive congestion of the liver (nutmeg liver)?",
-      "options": ["Centrolobular hemorrhagic necrosis", "Atrophic hepatocytes", "Dilated sinusoids", "Portal vein thrombosis", "Kupffer cell hyperplasia"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "What is a known histological feature of primary sclerosing cholangitis?",
-      "options": ["Onion-skin fibrosis", "Florid duct lesions", "Beading on radiographs", "Hepatocyte rosettes", "Steatosis"],
-      "answer": ["T", "F", "T", "F", "F"]
-  },
-  {
-      "question": "Which metabolic liver diseases are genetic in origin?",
-      "options": ["Wilson's disease", "Hemochromatosis", "Alpha-1 antitrypsin deficiency", "Non-alcoholic steatohepatitis", "Primary biliary cholangitis"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "Which condition is characterized by Kayser-Fleischer rings?",
-      "options": ["Wilson's disease", "Hemochromatosis", "Autoimmune hepatitis", "Cholestasis", "Alpha-1 antitrypsin deficiency"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What distinguishes autoimmune hepatitis histologically?",
-      "options": ["Portal plasma cell infiltration", "Interface hepatitis", "Emperipolesis", "Bile duct proliferation", "Lobular cholestasis"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "Which substances contribute to Mallory-Denk body formation in alcoholic liver disease?",
-      "options": ["Cytokeratin", "Ubiquitin", "Fatty acids", "Fibrin", "Actin"],
-      "answer": ["T", "T", "F", "F", "F"]
-  },
-  {
-      "question": "Which viruses are associated with hepatocellular carcinoma?",
-      "options": ["HBV", "HCV", "HAV", "HEV", "Epstein-Barr Virus"],
-      "answer": ["T", "T", "F", "F", "F"]
-  },
-  {
-      "question": "Which of the following are complications of cirrhosis?",
-      "options": ["Ascites", "Spontaneous bacterial peritonitis", "Hepatocellular carcinoma", "Esophageal varices", "Renal failure"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which conditions may present with ground-glass hepatocytes?",
-      "options": ["Chronic HBV infection", "HCV infection", "Hemochromatosis", "Alpha-1 antitrypsin deficiency", "Drug-induced liver injury"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What are the clinical features of advanced liver cirrhosis?",
-      "options": ["Portal hypertension", "Caput medusae", "Spider angiomas", "Gynecomastia", "Hypersplenism"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which risk factors are associated with gallstone formation?",
-      "options": ["Obesity", "Female gender", "Rapid weight loss", "Advanced age", "Hemolytic anemia"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which is the most common malignancy of the gallbladder?",
-      "options": ["Adenocarcinoma", "Cholangiocarcinoma", "Squamous cell carcinoma", "Neuroendocrine tumor", "Metastatic carcinoma"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "Which pancreatic enzyme is prematurely activated in acute pancreatitis?",
-      "options": ["Trypsin", "Lipase", "Amylase", "Elastase", "Chymotrypsin"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What is Courvoisier’s sign indicative of?",
-      "options": ["Painless jaundice", "Obstructive jaundice", "Pancreatic carcinoma", "Hepatocellular carcinoma", "Gallbladder carcinoma"],
-      "answer": ["T", "T", "T", "F", "F"]
-  },
-  {
-      "question": "Which histological features are characteristic of chronic pancreatitis?",
-      "options": ["Fibrosis", "Atrophy of acini", "Dilated ducts", "Inflammatory infiltrate", "Calcifications"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which condition predisposes to pigment gallstone formation?",
-      "options": ["Hemolysis", "Biliary infection", "Chronic pancreatitis", "Obesity", "Pregnancy"],
-      "answer": ["T", "T", "F", "F", "F"]
-  },
-  {
-      "question": "What is the most common location of pancreatic carcinoma?",
-      "options": ["Head of pancreas", "Tail of pancreas", "Body of pancreas", "Uncinate process", "Neck of pancreas"],
-      "answer": ["T", "F", "F", "F", "F"]
-  },
-  {
-      "question": "What are the complications of untreated cholecystitis?",
-      "options": ["Gallbladder perforation", "Sepsis", "Biliary cirrhosis", "Empyema", "Gallstone ileus"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which clinical features are seen in advanced pancreatic carcinoma?",
-      "options": ["Weight loss", "Obstructive jaundice", "Trousseau’s sign", "Epigastric pain", "Anemia"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which factors predispose to acute pancreatitis?",
-      "options": ["Gallstones", "Alcohol", "Hypertriglyceridemia", "Trauma", "Smoking"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which imaging findings are typical of acute pancreatitis?",
-      "options": ["Pancreatic edema", "Fat necrosis", "Parenchymal hemorrhage", "Pseudocysts", "Dilated ducts"],
-      "answer": ["T", "T", "T", "T", "F"]
-  },
-  {
-      "question": "What are the morphological features of cholesterol gallstones?",
-      "options": ["Radiolucent", "Yellow in color", "Composed of cholesterol monohydrate", "Associated with bile supersaturation", "Faceted surface"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "What clinical features are seen in obstructive jaundice due to pancreatic cancer?",
-      "options": ["Dark urine", "Pale stools", "Pruritus", "Hepatomegaly", "Enlarged gallbladder"],
-      "answer": ["T", "T", "T", "T", "T"]
-  },
-  {
-      "question": "Which congenital anomalies affect the pancreas?",
-      "options": ["Pancreas divisum", "Annular pancreas", "Ectopic pancreas", "Agenesis of pancreas", "Choledochal cyst"],
-      "answer": ["T", "T", "T", "T", "F"]
+    "question": "Which of the following is a common complication of chronic GERD?",
+    "options": [
+      "Barrett esophagus",
+      "Esophageal stricture",
+      "Peptic ulcer",
+      "Esophageal adenocarcinoma",
+      "None of the above"
+    ],
+    "answer": ["T", "T", "F", "T", "F"]
+  },
+  {
+    "question": "What is the hallmark microscopic feature of Barrett esophagus?",
+    "options": [
+      "Intestinal metaplasia with goblet cells",
+      "Squamous metaplasia",
+      "Eosinophilic infiltration",
+      "Crypt abscesses",
+      "Granulomas"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following is associated with the pathogenesis of GERD?",
+    "options": [
+      "Lower esophageal sphincter (LES) dysfunction",
+      "Increased abdominal pressure",
+      "Delayed gastric emptying",
+      "Hiatal hernia",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Helicobacter pylori contributes to chronic gastritis through:",
+    "options": [
+      "Urease production",
+      "Flagella for motility",
+      "Adhesins for attachment",
+      "CagA toxin production",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which of the following increases the risk of esophageal adenocarcinoma?",
+    "options": [
+      "Barrett esophagus",
+      "Chronic GERD",
+      "Obesity",
+      "Tobacco use",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Peptic ulcer disease commonly affects:",
+    "options": [
+      "Proximal duodenum",
+      "Gastric antrum",
+      "Esophagus",
+      "Colon",
+      "Rectum"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which of the following mechanisms protect the gastric mucosa from injury?",
+    "options": [
+      "Mucin secretion",
+      "Bicarbonate secretion",
+      "Rich vascular supply",
+      "Surface epithelial regeneration",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Adenocarcinoma of the colon arises through:",
+    "options": [
+      "APC mutation",
+      "KRAS mutation",
+      "p53 inactivation",
+      "SMAD4 loss",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which of the following describes the progression of Barrett esophagus to adenocarcinoma?",
+    "options": [
+      "Stepwise genetic mutations",
+      "Chromosomal abnormalities",
+      "p53 overexpression",
+      "Accumulation of mutations",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Colorectal cancer risk factors include:",
+    "options": [
+      "Low fiber diet",
+      "Family history",
+      "Chronic inflammatory bowel disease",
+      "High red meat consumption",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which syndrome is associated with germline APC mutations and multiple colorectal adenomas?",
+    "options": [
+      "Familial adenomatous polyposis",
+      "Lynch syndrome",
+      "Peutz-Jeghers syndrome",
+      "Turcot syndrome",
+      "None of the above"
+    ],
+    "answer": ["T", "F", "F", "T", "F"]
+  },
+  {
+    "question": "Which of the following is a feature of chronic gastritis caused by H. pylori?",
+    "options": [
+      "Antral predominance",
+      "High acid production",
+      "Increased risk of gastric cancer",
+      "Intestinal metaplasia",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Peptic ulcers are commonly caused by:",
+    "options": [
+      "Helicobacter pylori",
+      "NSAID use",
+      "Smoking",
+      "Corticosteroids",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+    "question": "Which part of the colon is commonly affected in colorectal cancer?",
+    "options": [
+      "Sigmoid colon",
+      "Rectum",
+      "Ascending colon",
+      "Transverse colon",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "The morphology of peptic ulcers includes:",
+    "options": [
+      "Well-defined edges",
+      "Necrotic debris",
+      "Inflammatory exudate",
+      "Granulation tissue",
+      "Fibrotic scar"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which clinical feature is most specific for GERD?",
+    "options": [
+      "Heartburn",
+      "Dysphagia",
+      "Regurgitation",
+      "Odynophagia",
+      "Melena"
+    ],
+    "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+    "question": "Esophageal squamous cell carcinoma is associated with:",
+    "options": [
+      "Alcohol",
+      "Tobacco use",
+      "Achalasia",
+      "Plummer-Vinson syndrome",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which histological feature is characteristic of colorectal adenocarcinoma?",
+    "options": [
+      "Elongated hyperchromatic nuclei",
+      "Necrotic debris in gland lumen",
+      "Infiltrating nests of tumor cells",
+      "Mucinous adenocarcinoma pattern",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Complications of chronic gastritis include:",
+    "options": [
+      "Peptic ulcer disease",
+      "Intestinal metaplasia",
+      "Gastric adenocarcinoma",
+      "MALT lymphoma",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is the most common cause of chronic gastritis?",
+    "options": [
+      "H. pylori infection",
+      "Autoimmune gastritis",
+      "Radiation injury",
+      "Chronic bile reflux",
+      "Systemic diseases like Crohn's disease"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "The adenoma-carcinoma sequence involves mutations in:",
+    "options": ["APC", "KRAS", "p53", "SMAD4", "All of the above"],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Familial adenomatous polyposis (FAP) is associated with:",
+    "options": [
+      "APC mutations",
+      "Development of colorectal adenocarcinoma",
+      "Prophylactic colectomy",
+      "Osteomas",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is the common histological feature in chronic gastritis?",
+    "options": [
+      "Lymphoid aggregates",
+      "Neutrophilic infiltration",
+      "Glandular atrophy",
+      "Intestinal metaplasia",
+      "All of the above"
+    ],
+    "answer": ["T", "F", "T", "T", "T"]
+  },
+  {
+    "question": "Complications of GERD include:",
+    "options": [
+      "Barrett esophagus",
+      "Strictures",
+      "Adenocarcinoma",
+      "Chronic esophagitis",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Autoimmune gastritis is characterized by:",
+    "options": [
+      "Anti-parietal cell antibodies",
+      "Vitamin B12 deficiency",
+      "Achlorhydria",
+      "Antral endocrine cell hyperplasia",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "The most common clinical presentation of colorectal cancer is:",
+    "options": [
+      "Rectal bleeding",
+      "Change in bowel habits",
+      "Iron deficiency anemia",
+      "Abdominal pain",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "The mismatch repair pathway in colorectal cancer results in:",
+    "options": [
+      "Microsatellite instability",
+      "Accumulation of mutations",
+      "Right-sided colon cancers",
+      "HNPCC-associated cancers",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is the typical feature of adenomas in FAP?",
+    "options": [
+      "Multiple adenomas",
+      "Tubular and villous patterns",
+      "Progression to adenocarcinoma",
+      "Presence in GI tract beyond the colon",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Chronic use of NSAIDs leads to peptic ulcers due to:",
+    "options": [
+      "Inhibition of prostaglandins",
+      "Reduced bicarbonate secretion",
+      "Increased acid secretion",
+      "Mucosal damage",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "In esophageal squamous cell carcinoma, risk factors include:",
+    "options": [
+      "Alcohol",
+      "Tobacco use",
+      "Plummer-Vinson syndrome",
+      "Achalasia",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Molecular changes in the adenoma-carcinoma sequence include mutations in:",
+    "options": ["APC", "KRAS", "SMAD4", "p53", "All of the above"],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Microsatellite instability is characteristic of:",
+    "options": [
+      "Lynch syndrome",
+      "Mismatch repair defects",
+      "HNPCC",
+      "Right-sided colon cancers",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "The hallmark of adenocarcinoma of the colon is:",
+    "options": [
+      "Glandular differentiation",
+      "Hyperchromatic nuclei",
+      "Necrotic debris",
+      "Mucinous pattern",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which viral hepatitis is most commonly associated with chronic liver disease progression?",
+    "options": [
+      "Hepatitis A",
+      "Hepatitis B",
+      "Hepatitis C",
+      "Hepatitis D",
+      "Hepatitis E"
+    ],
+    "answer": ["F", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Which features are characteristic of alcoholic liver disease histology?",
+    "options": [
+      "Mallory-Denk bodies",
+      "Perivenular fibrosis",
+      "Macrovesicular steatosis",
+      "Ground-glass hepatocytes",
+      "Kupffer cell hyperplasia"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "What stains are used to identify copper deposits in Wilson's disease?",
+    "options": ["Rhodanine", "Orcein", "PAS", "H&E", "Victoria blue"],
+    "answer": ["T", "T", "F", "F", "T"]
+  },
+  {
+    "question": "Which of the following is a hallmark of chronic viral hepatitis?",
+    "options": [
+      "Portal inflammation",
+      "Interface hepatitis",
+      "Ground-glass hepatocytes",
+      "Macrovesicular steatosis",
+      "Hepatic necrosis"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which of the following clinical conditions are associated with cirrhosis?",
+    "options": [
+      "Portal hypertension",
+      "Ascites",
+      "Esophageal varices",
+      "Hypersplenism",
+      "Renal failure"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "What is a characteristic feature of hepatocellular carcinoma (HCC)?",
+    "options": [
+      "Invasion into the portal vein",
+      "Pseudoglandular pattern",
+      "Trabecular architecture",
+      "Metastasis to lungs",
+      "Radio-opacity on imaging"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "What is the primary risk factor for non-alcoholic fatty liver disease (NAFLD)?",
+    "options": [
+      "Metabolic syndrome",
+      "Chronic hepatitis B infection",
+      "Iron overload",
+      "Gallstones",
+      "Wilson's disease"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which clinical features are commonly observed in autoimmune hepatitis?",
+    "options": [
+      "Palmar erythema",
+      "Hepatomegaly",
+      "Jaundice",
+      "Hypoglycemia",
+      "Ascites"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "What is the key histological feature of primary biliary cholangitis (PBC)?",
+    "options": [
+      "Florid duct lesion",
+      "Onion-skin fibrosis",
+      "Granulomas",
+      "Lobular necrosis",
+      "Focal fatty change"
+    ],
+    "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+    "question": "What laboratory findings are consistent with Wilson's disease?",
+    "options": [
+      "Low serum ceruloplasmin",
+      "Elevated hepatic copper content",
+      "Kayser-Fleischer rings",
+      "Decreased serum ferritin",
+      "Hyperbilirubinemia"
+    ],
+    "answer": ["T", "T", "T", "F", "T"]
+  },
+  {
+    "question": "Which diseases are associated with portal hypertension?",
+    "options": [
+      "Cirrhosis",
+      "Acute viral hepatitis",
+      "Schistosomiasis",
+      "Chronic pancreatitis",
+      "Hepatic vein thrombosis"
+    ],
+    "answer": ["T", "F", "T", "F", "T"]
+  },
+  {
+    "question": "Which features are diagnostic of chronic passive congestion of the liver (nutmeg liver)?",
+    "options": [
+      "Centrolobular hemorrhagic necrosis",
+      "Atrophic hepatocytes",
+      "Dilated sinusoids",
+      "Portal vein thrombosis",
+      "Kupffer cell hyperplasia"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "What is a known histological feature of primary sclerosing cholangitis?",
+    "options": [
+      "Onion-skin fibrosis",
+      "Florid duct lesions",
+      "Beading on radiographs",
+      "Hepatocyte rosettes",
+      "Steatosis"
+    ],
+    "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+    "question": "Which metabolic liver diseases are genetic in origin?",
+    "options": [
+      "Wilson's disease",
+      "Hemochromatosis",
+      "Alpha-1 antitrypsin deficiency",
+      "Non-alcoholic steatohepatitis",
+      "Primary biliary cholangitis"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which condition is characterized by Kayser-Fleischer rings?",
+    "options": [
+      "Wilson's disease",
+      "Hemochromatosis",
+      "Autoimmune hepatitis",
+      "Cholestasis",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "What distinguishes autoimmune hepatitis histologically?",
+    "options": [
+      "Portal plasma cell infiltration",
+      "Interface hepatitis",
+      "Emperipolesis",
+      "Bile duct proliferation",
+      "Lobular cholestasis"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which substances contribute to Mallory-Denk body formation in alcoholic liver disease?",
+    "options": ["Cytokeratin", "Ubiquitin", "Fatty acids", "Fibrin", "Actin"],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which viruses are associated with hepatocellular carcinoma?",
+    "options": ["HBV", "HCV", "HAV", "HEV", "Epstein-Barr Virus"],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following are complications of cirrhosis?",
+    "options": [
+      "Ascites",
+      "Spontaneous bacterial peritonitis",
+      "Hepatocellular carcinoma",
+      "Esophageal varices",
+      "Renal failure"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which conditions may present with ground-glass hepatocytes?",
+    "options": [
+      "Chronic HBV infection",
+      "HCV infection",
+      "Hemochromatosis",
+      "Alpha-1 antitrypsin deficiency",
+      "Drug-induced liver injury"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "What are the clinical features of advanced liver cirrhosis?",
+    "options": [
+      "Portal hypertension",
+      "Caput medusae",
+      "Spider angiomas",
+      "Gynecomastia",
+      "Hypersplenism"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which risk factors are associated with gallstone formation?",
+    "options": [
+      "Obesity",
+      "Female gender",
+      "Rapid weight loss",
+      "Advanced age",
+      "Hemolytic anemia"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which is the most common malignancy of the gallbladder?",
+    "options": [
+      "Adenocarcinoma",
+      "Cholangiocarcinoma",
+      "Squamous cell carcinoma",
+      "Neuroendocrine tumor",
+      "Metastatic carcinoma"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which pancreatic enzyme is prematurely activated in acute pancreatitis?",
+    "options": ["Trypsin", "Lipase", "Amylase", "Elastase", "Chymotrypsin"],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "What is Courvoisier’s sign indicative of?",
+    "options": [
+      "Painless jaundice",
+      "Obstructive jaundice",
+      "Pancreatic carcinoma",
+      "Hepatocellular carcinoma",
+      "Gallbladder carcinoma"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "Which histological features are characteristic of chronic pancreatitis?",
+    "options": [
+      "Fibrosis",
+      "Atrophy of acini",
+      "Dilated ducts",
+      "Inflammatory infiltrate",
+      "Calcifications"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which condition predisposes to pigment gallstone formation?",
+    "options": [
+      "Hemolysis",
+      "Biliary infection",
+      "Chronic pancreatitis",
+      "Obesity",
+      "Pregnancy"
+    ],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "What is the most common location of pancreatic carcinoma?",
+    "options": [
+      "Head of pancreas",
+      "Tail of pancreas",
+      "Body of pancreas",
+      "Uncinate process",
+      "Neck of pancreas"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "What are the complications of untreated cholecystitis?",
+    "options": [
+      "Gallbladder perforation",
+      "Sepsis",
+      "Biliary cirrhosis",
+      "Empyema",
+      "Gallstone ileus"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which clinical features are seen in advanced pancreatic carcinoma?",
+    "options": [
+      "Weight loss",
+      "Obstructive jaundice",
+      "Trousseau’s sign",
+      "Epigastric pain",
+      "Anemia"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which factors predispose to acute pancreatitis?",
+    "options": [
+      "Gallstones",
+      "Alcohol",
+      "Hypertriglyceridemia",
+      "Trauma",
+      "Smoking"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which imaging findings are typical of acute pancreatitis?",
+    "options": [
+      "Pancreatic edema",
+      "Fat necrosis",
+      "Parenchymal hemorrhage",
+      "Pseudocysts",
+      "Dilated ducts"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "What are the morphological features of cholesterol gallstones?",
+    "options": [
+      "Radiolucent",
+      "Yellow in color",
+      "Composed of cholesterol monohydrate",
+      "Associated with bile supersaturation",
+      "Faceted surface"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What clinical features are seen in obstructive jaundice due to pancreatic cancer?",
+    "options": [
+      "Dark urine",
+      "Pale stools",
+      "Pruritus",
+      "Hepatomegaly",
+      "Enlarged gallbladder"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which congenital anomalies affect the pancreas?",
+    "options": [
+      "Pancreas divisum",
+      "Annular pancreas",
+      "Ectopic pancreas",
+      "Agenesis of pancreas",
+      "Choledochal cyst"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+
+  {
+    "question": "The extra-renal abnormalities associated with polycystic kidney disease could be seen in:",
+    "options": [
+      "Asymptomatic polycystic liver disease",
+      "Cystic spleen and pancreas",
+      "Saccular aneurysms in the circle of Willis",
+      "Psammoma bodies in the brain",
+      "Granular deposits of IgG"
+    ],
+    "answer": ["T", "T", "T", "F", "F"]
+  },
+  {
+    "question": "The following are components of the glomerular basement membrane:",
+    "options": [
+      "Collagen type VI",
+      "Fibrinogen",
+      "Closely packed endothelial cells",
+      "Mesangial cells",
+      "Podocytes"
+    ],
+    "answer": ["F", "F", "F", "F", "T"]
+  },
+  {
+    "question": "The following are causes of nephrotic syndrome:",
+    "options": [
+      "Minimal change disease",
+      "IgA nephropathy",
+      "Amyloidosis",
+      "Bacterial endocarditis",
+      "Alport syndrome"
+    ],
+    "answer": ["T", "F", "T", "F", "F"]
+  },
+  {
+    "question": "These cells are involved in glomerular injuries:",
+    "options": [
+      "Macrophages",
+      "Leucocytes",
+      "Monocytes",
+      "T-lymphocytes",
+      "C3bBb"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "Concerning adult polycystic kidney disease:",
+    "options": [
+      "PKD1 mutation on 4q21",
+      "PKD2 accounts for 85% of cases",
+      "Polycystin 1 is involved in cell-cell-matrix interaction",
+      "The kidney may weigh 4000g",
+      "Mitral valve may be affected"
+    ],
+    "answer": ["F", "F", "T", "T", "T"]
+  },
+  {
+    "question": "Pathogenesis of glomerular injuries is hinged on:",
+    "options": [
+      "Alternative complement pathway",
+      "Cell-mediated immunity",
+      "Circulating immune complexes",
+      "In-situ immune complex formation",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Glomerular localization of antigens cannot be affected by the following:",
+    "options": ["Size", "Shape", "Cation", "Anion", "GBM"],
+    "answer": ["F", "F", "T", "F", "T"]
+  },
+  {
+    "question": "Fenestration as a mechanism essential for perfusion is applied to the following organs:",
+    "options": ["Brain", "Heart", "Lungs", "Spleen", "Prostate"],
+    "answer": ["F", "F", "T", "T", "F"]
+  },
+  {
+    "question": "What is the most common cause of acute nephritic syndrome?",
+    "options": [
+      "Post-streptococcal glomerulonephritis",
+      "Membranous nephropathy",
+      "Diabetic nephropathy",
+      "Minimal change disease",
+      "Alport syndrome"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following is NOT a feature of nephrotic syndrome?",
+    "options": [
+      "Proteinuria >3.5 g/day",
+      "Hypoalbuminemia",
+      "Edema",
+      "Hematuria",
+      "Hyperlipidemia"
+    ],
+    "answer": ["F", "F", "F", "T", "F"]
+  },
+  {
+    "question": "Which structure is affected in minimal change disease?",
+    "options": [
+      "Endothelial cells",
+      "Visceral epithelial cells",
+      "Mesangial cells",
+      "Parietal epithelial cells",
+      "Macula densa"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Autosomal dominant polycystic kidney disease (ADPKD) is caused by mutations in which genes?",
+    "options": ["PKD1", "PKD2", "APOL1", "HNF1B", "CFTR"],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following is a characteristic finding in rapidly progressive glomerulonephritis (RPGN)?",
+    "options": [
+      "Crescents in Bowman's capsule",
+      "Thickened glomerular basement membrane",
+      "Immune deposits in the mesangium",
+      "Effacement of podocyte foot processes",
+      "Capillary loop sclerosis"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which condition is NOT associated with nephrotic syndrome?",
+    "options": [
+      "Focal segmental glomerulosclerosis",
+      "Membranous nephropathy",
+      "Minimal change disease",
+      "Post-streptococcal glomerulonephritis",
+      "Amyloidosis"
+    ],
+    "answer": ["F", "F", "F", "T", "F"]
+  },
+  {
+    "question": "What is the key pathological feature in diabetic nephropathy?",
+    "options": [
+      "Kimmelstiel-Wilson nodules",
+      "Hypercellularity of glomeruli",
+      "Crescents in Bowman's capsule",
+      "Subepithelial immune deposits",
+      "Glomerular capillary thrombosis"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following describes Alport syndrome?",
+    "options": [
+      "Autosomal recessive inheritance",
+      "Defect in type IV collagen",
+      "Associated with hearing loss",
+      "Progressive glomerulonephritis",
+      "All of the above"
+    ],
+    "answer": ["F", "T", "T", "T", "T"]
+  },
+  {
+    "question": "What is the most common bacterial cause of pyelonephritis?",
+    "options": [
+      "Klebsiella pneumoniae",
+      "Escherichia coli",
+      "Proteus mirabilis",
+      "Staphylococcus saprophyticus",
+      "Enterococcus faecalis"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which of the following features is associated with membranous nephropathy?",
+    "options": [
+      "Spikes on silver stain",
+      "Subepithelial immune deposits",
+      "Diffuse foot process effacement",
+      "Crescents in Bowman's capsule",
+      "Tubular atrophy"
+    ],
+    "answer": ["T", "T", "F", "F", "F"]
+  },
+  {
+    "question": "Which factor contributes to the pathogenesis of acute tubular necrosis (ATN)?",
+    "options": [
+      "Ischemic injury",
+      "Nephrotoxic agents",
+      "Tubular cell apoptosis",
+      "Disturbance in blood flow",
+      "All of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "T"]
+  },
+  {
+    "question": "Which renal tumor is most commonly associated with von Hippel-Lindau syndrome?",
+    "options": [
+      "Clear cell carcinoma",
+      "Chromophobe renal cell carcinoma",
+      "Papillary renal cell carcinoma",
+      "Angiomyolipoma",
+      "Medullary carcinoma"
+    ],
+    "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+    "question": "Which type of glomerular deposition is seen in lupus nephritis?",
+    "options": [
+      "Subepithelial",
+      "Subendothelial",
+      "Mesangial",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["T", "T", "T", "T", "F"]
+  },
+  {
+    "question": "What is the most common primary renal tumor in adults?",
+    "options": [
+      "Wilms tumor",
+      "Clear cell carcinoma",
+      "Papillary renal cell carcinoma",
+      "Chromophobe renal cell carcinoma",
+      "Angiomyolipoma"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+    "question": "What is the main mode of transmission in ascending urinary tract infections?",
+    "options": [
+      "Hematogenous spread",
+      "Retrograde flow from bladder",
+      "Lymphatic spread",
+      "Direct extension from adjacent organs",
+      "Transluminal migration"
+    ],
+    "answer": ["F", "T", "F", "F", "F"]
   }
 ]
