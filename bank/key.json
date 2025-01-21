@@ -192,6 +192,11 @@
           "topic": "Pathology of the Liver, Gallbladder and Pancreas",
           "start": 93,
           "end": 127
+        },
+        {
+          "topic": "Renal Pathology",
+          "start": 128,
+          "end": 150
         }
       ]
     },
