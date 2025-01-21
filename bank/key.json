@@ -9,24 +9,64 @@
           "end": 5
         },
         {
+          "topic": "Pharmacology of Bronchial Asthma",
+          "start": 6,
+          "end": 15
+        },
+        {
           "topic": "peptic Ulcer Disease",
           "start": 16,
           "end": 35
         },
         {
-          "topic": "Pharmacology of Bronchial Asthma",
-          "start": 6,
-          "end": 15
-        },
+          "topic": "Disease-Modifying Antirheumatic Drugs",
+          "start": 36,
+          "end": 40
+        }
         {
           "topic": "NSAIDS",
           "start": 41,
           "end": 60
         },
         {
-          "topic": "Disease-Modifying Antirheumatic Drugs",
-          "start": 36,
-          "end": 40
+          "topic": "Steroid",
+          "start": 61,
+          "end": 72
+        },
+        {
+          "topic": "Anti-Diarrhea Drugs",
+          "start": 73,
+          "end": 82
+        },
+        {
+          "topic": "Purgatives, Laxatives, and Lactulose",
+          "start": 83,
+          "end": 92
+        },
+        {
+          "topic": "Pharmacotherapy of Bronchial Asthma",
+          "start": 93,
+          "end": 107
+        },
+        {
+          "topic": "Treatment of Diabetes and Diabetic Complications",
+          "start": 108,
+          "end": 122
+        },
+        {
+          "topic": "Disinfectant",
+          "start": 123,
+          "end": 137
+        },
+        {
+          "topic": "CNS",
+          "start": 138,
+          "end": 147
+        },
+        {
+          "topic": "Renals",
+          "start": 148,
+          "end": 167
         }
       ]
     },
