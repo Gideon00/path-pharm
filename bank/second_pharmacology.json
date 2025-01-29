@@ -994,7 +994,7 @@
         "answer": ["T", "F", "F", "F", "F"]
     },
     {
-        "question": "What is a significant adverse effect of spironolactones?",
+        "question": "What is a significant adverse effect of spironolactone?",
         "options": ["Gynecomastia", "Hyperkalemia", "Metabolic acidosis", "Menstrual irregularities", "All of the above"],
         "answer": ["T", "T", "T", "T", "T"]
     },
@@ -1007,5 +1007,984 @@
         "question": "The mechanism of action of thiazide diuretics includes:",
         "options": ["Inhibition of Na⁺/Cl⁻ cotransporter", "Blocking Na⁺/K⁺ ATPase", "Inhibition of carbonic anhydrase", "Activation of aquaporin channels", "None of the above"],
         "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following enzymes play a key role in alcohol metabolism?",
+        "options": ["Alcohol dehydrogenase (ADH)", "Acetaldehyde dehydrogenase (ALDH)", "Cytochrome P450 2E1", "Monoamine oxidase", "Aldolase"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements regarding alcohol absorption is correct?",
+        "options": ["Ethanol is absorbed primarily in the stomach", "Food delays alcohol absorption", "Alcohol absorption is faster on an empty stomach", "Lipophilic foods increase alcohol absorption", "Alcohol is primarily excreted unchanged through the urine"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which neurotransmitter systems are affected by alcohol?",
+        "options": ["Gamma-aminobutyric acid (GABA) receptors", "Glutamate (NMDA) receptors", "Dopamine receptors", "Serotonin receptors", "Histamine receptors"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What is the primary toxic metabolite of ethanol metabolism?",
+        "options": ["Acetaldehyde", "Acetic acid", "Ethanol", "Methanol", "NADH"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme is inhibited by disulfiram, leading to the accumulation of acetaldehyde?",
+        "options": ["Alcohol dehydrogenase", "Cytochrome P450 2E1", "Acetaldehyde dehydrogenase", "Monoamine oxidase", "Xanthine oxidase"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following symptoms are associated with the disulfiram-alcohol reaction?",
+        "options": ["Flushing", "Nausea", "Hypertension", "Sweating", "Respiratory depression"],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which pharmacological agents are used in the management of alcoholism?",
+        "options": ["Naltrexone", "Acamprosate", "Disulfiram", "Diazepam", "Methadone"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following are characteristics of alcohol withdrawal syndrome?",
+        "options": ["Tremors", "Seizures", "Hypertension", "Bradycardia", "Delirium tremens"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which adverse effects are associated with chronic alcohol use?",
+        "options": ["Liver cirrhosis", "Peripheral neuropathy", "Wernicke-Korsakoff syndrome", "Fetal alcohol syndrome", "Increased testosterone levels"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following drug classes can have dangerous interactions with alcohol?",
+        "options": ["Benzodiazepines", "Opioids", "Antihistamines", "Antidepressants", "Beta blockers"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following correctly describes the pharmacological action of alcohol?",
+        "options": ["Alcohol is a CNS stimulant", "Alcohol enhances GABAergic transmission", "Alcohol inhibits NMDA glutamate receptors", "Alcohol increases dopamine release", "Alcohol binds directly to opioid receptors"],
+        "answer": ["F", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which symptoms are commonly seen in fetal alcohol syndrome?",
+        "options": ["Microcephaly", "Retarded growth", "Congenital heart defects", "Spina bifida", "Cleft palate"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following treatments are recommended for alcohol withdrawal?",
+        "options": ["Benzodiazepines", "Thiamine", "Ethanol infusion", "Haloperidol", "Beta blockers"],
+        "answer": ["T", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following are effects of alcohol on the cardiovascular system?",
+        "options": ["Cutaneous vasodilation", "Hypertension", "Arrhythmias", "Increased myocardial contractility", "Cardiomyopathy"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following are methods for alcohol metabolism?",
+        "options": ["Alcohol dehydrogenase pathway", "Cytochrome P450 2E1 pathway", "Catalase pathway", "Aldolase pathway", "Glucuronidation"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following best describes toxicology?",
+        "options": ["Study of adverse effects of chemicals", "Study of biological poisons", "Study of chemical interactions in the body", "Study of genetic mutations", "Study of antibiotic resistance"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which scientist is considered the founder of toxicology?",
+        "options": ["Hippocrates", "Paracelsus", "Galen", "Aristotle", "Claude Bernard"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are specialized areas of toxicology?",
+        "options": ["Clinical toxicology", "Forensic toxicology", "Industrial toxicology", "Genetic toxicology", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which factors influence the toxicity of a substance?",
+        "options": ["Age", "Sex", "Dosage", "Route of exposure", "Genetic mutation"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is true regarding acute toxicity?",
+        "options": ["Results from repeated exposure", "Occurs suddenly with rapid absorption", "Associated with cumulative effects", "Always reversible", "Affects only the liver"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the primary route of exposure for organic solvents?",
+        "options": ["Inhalation", "Dermal absorption", "Ingestion", "Ocular exposure", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the mechanism of toxicity for carbon monoxide?",
+        "options": ["Binds to hemoglobin", "Increases oxygen delivery", "Reduces carboxyhemoglobin formation", "Enhances cellular respiration", "Causes cyanosis by methemoglobin formation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antidotes are correctly paired with their respective toxins?",
+        "options": ["Naloxone - Opioid poisoning", "Deferoxamine - Iron poisoning", "Sodium bicarbonate - Acids", "Atropine - Organophosphate poisoning", "Calcium gluconate - Fluoride poisoning"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which heavy metal is most associated with bone marrow toxicity?",
+        "options": ["Lead", "Mercury", "Arsenic", "Cadmium", "Gold"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which symptoms are associated with acute arsenic poisoning?",
+        "options": ["Gastroenteritis", "Burning esophageal pain", "Peripheral neuropathy", "Hypotension", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following pesticides act by inhibiting acetylcholinesterase?",
+        "options": ["Organochlorines", "Organophosphates", "Carbamates", "Pyrethroids", "Avermectins"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which symptoms are characteristic of organophosphate poisoning?",
+        "options": ["Miosis", "Bradycardia", "Seizures", "Salivation", "Constipation"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following organ systems is most affected by benzene toxicity?",
+        "options": ["Hematopoietic", "Gastrointestinal", "Renal", "Endocrine", "Integumentary"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which heavy metal poisoning is associated with garlic odor on breath?",
+        "options": ["Arsenic", "Lead", "Cadmium", "Mercury", "Aluminum"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What are the common symptoms of acute lead poisoning?",
+        "options": ["Abdominal colic", "Metallic taste", "Hypertension", "Seizures", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a feature of chronic mercury poisoning?",
+        "options": ["Tremors", "Depression", "Blue line on gums", "Peripheral neuropathy", "Liver cirrhosis"],
+        "answer": ["F", "F", "F", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a primary mechanism of benzene toxicity?",
+        "options": ["Alkylation of DNA", "Inhibition of cholinesterase", "Inhibition of cytochrome oxidase", "Formation of carboxyhemoglobin", "Competitive inhibition of folate metabolism"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the treatment of choice for acute carbon monoxide poisoning?",
+        "options": ["Hyperbaric oxygen therapy", "IV fluids", "N-acetylcysteine", "Activated charcoal", "Methylene blue"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which pesticide class is most commonly associated with delayed neurotoxicity?",
+        "options": ["Organochlorines", "Organophosphates", "Carbamates", "Pyrethroids", "Neonicotinoids"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about ethanol metabolism is correct?",
+        "options": ["Alcohol dehydrogenase converts ethanol to acetaldehyde", "Acetaldehyde is detoxified by aldehyde dehydrogenase", "Chronic alcohol use induces CYP2E1", "Ethanol metabolism generates NADH", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the primary toxic metabolite of methanol?",
+        "options": ["Acetaldehyde", "Formic acid", "Oxalic acid", "Acetic acid", "Isopropanol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following treatments is contraindicated in organophosphate poisoning?",
+        "options": ["Atropine", "Pralidoxime", "Oxygen", "Beta-blockers", "Supportive care"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following statements about cyanide poisoning is true?",
+        "options": ["Inhibits cytochrome oxidase", "Bright red venous blood is a key finding", "Sodium thiosulfate can be used as an antidote", "Bitter almond odor is characteristic", "All of the above"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which toxic alcohol is most associated with putaminal necrosis?",
+        "options": ["Ethanol", "Methanol", "Isopropanol", "Ethylene glycol", "Propylene glycol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following hormones are secreted by the pancreatic islets of Langerhans?",
+        "options": [
+            "Insulin from Beta cells",
+            "Glucagon from Alpha cells",
+            "Somatostatin from Delta cells",
+            "Pancreatic polypeptides from PP cells",
+            "Epinephrine from Gamma cells"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following statements regarding insulin synthesis and secretion is FALSE?",
+        "options": [
+            "Insulin is synthesized as preproinsulin in the rough endoplasmic reticulum",
+            "Proinsulin is cleaved into insulin and C-peptide in the Golgi apparatus",
+            "Insulin secretion is independent of blood glucose concentration",
+            "Insulin and C-peptide are stored in beta cells in equimolar amounts",
+            "Exocytosis releases insulin together with small amounts of proinsulin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following insulin preparations is used in emergency intravenous administration?",
+        "options": [
+            "Isophane insulin",
+            "Soluble insulin",
+            "Exenatide",
+            "Liraglutide",
+            "Glargine insulin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is TRUE regarding the insulin receptor?",
+        "options": [
+            "It belongs to the kinase-linked receptor family",
+            "It consists of two alpha and two beta subunits",
+            "Binding to the alpha subunit stimulates tyrosine kinase activity in the beta subunit",
+            "Receptor autophosphorylation occurs upon insulin binding",
+            "It is a G-protein coupled receptor"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following effects does insulin have on glucose metabolism?",
+        "options": [
+            "Increases glucose uptake into muscle and fat via GLUT4",
+            "Increases glycogen synthesis",
+            "Decreases gluconeogenesis",
+            "Decreases glycogen breakdown",
+            "Stimulates glucagon secretion"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a side effect of insulin therapy?",
+        "options": [
+            "Hypoglycemia",
+            "Weight gain",
+            "Hypokalemia",
+            "Heart failure",
+            "Pancreatitis"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is a function of glucagon?",
+        "options": [
+            "Increases blood glucose levels",
+            "Stimulates glycogenolysis",
+            "Inhibits glycogen synthesis",
+            "Enhances glucose oxidation",
+            "Stimulates lipogenesis"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following mechanisms contribute to glucagon's action?",
+        "options": [
+            "Activation of adenylate cyclase",
+            "Increase in intracellular cyclic AMP",
+            "Activation of protein kinase A",
+            "Phosphorylation of glycogen phosphorylase kinase",
+            "Inhibition of phospholipase C"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following conditions is an approved therapeutic indication for glucagon?",
+        "options": [
+            "Severe insulin-induced hypoglycemia",
+            "Radiologic examination of the gastrointestinal tract",
+            "Treatment of ketoacidosis",
+            "Management of type 2 diabetes mellitus",
+            "Acute hyperkalemia"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about incretins is FALSE?",
+        "options": [
+            "Incretins regulate insulin secretion in response to food intake",
+            "Glucose-dependent insulinotropic peptide (GIP) is secreted from K-cells",
+            "Glucagon-like peptide-1 (GLP-1) is secreted from L-cells",
+            "Dipeptidyl peptidase-4 (DPP-4) inactivates incretins",
+            "GLP-1 receptor agonists inhibit insulin secretion"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following oral glucose-lowering agents belongs to the Biguanide class?",
+        "options": [
+            "Metformin",
+            "Glibenclamide",
+            "Rosiglitazone",
+            "Acarbose",
+            "Miglitol"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following mechanisms describes the action of Metformin?",
+        "options": [
+            "Increases glucose uptake and utilization in skeletal muscle",
+            "Reduces hepatic gluconeogenesis",
+            "Reduces gastrointestinal carbohydrate absorption",
+            "Reduces low-density lipoproteins (LDL)",
+            "Inhibits pancreatic beta-cell insulin secretion"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following drugs belong to the Sulfonylurea class?",
+        "options": [
+            "Glibenclamide",
+            "Tolbutamide",
+            "Glipizide",
+            "Glimepiride",
+            "Pioglitazone"
+        ],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following statements about Thiazolidinediones (TZDs) is TRUE?",
+        "options": [
+            "They increase insulin sensitivity",
+            "They undergo hepatic metabolism via cytochrome P450",
+            "They are used as first-line therapy in type 1 diabetes",
+            "They act by inhibiting GLUT4 transporter function",
+            "They have no effect on weight gain"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an Alpha-Glucosidase Inhibitor?",
+        "options": [
+            "Acarbose",
+            "Miglitol",
+            "Voglibose",
+            "Metformin",
+            "Glipizide"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic of opioid analgesics?",
+        "options": [
+            "They bind to G-protein-coupled receptors",
+            "They can cause respiratory depression",
+            "They have no ceiling effect for analgesia",
+            "They act primarily in the CNS",
+            "They reduce the perception of pain but do not eliminate its cause"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a function of NSAIDs?",
+        "options": [
+            "Analgesic action",
+            "Antipyretic action",
+            "Anti-inflammatory action",
+            "Reversal of opioid overdose",
+            "Inhibition of cyclooxygenase enzymes"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following drugs is classified as a synthetic opioid?",
+        "options": [
+            "Morphine",
+            "Codeine",
+            "Fentanyl",
+            "Thebaine",
+            "Heroin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements is TRUE regarding opioid receptors?",
+        "options": [
+            "They are primarily found in the CNS",
+            "They are divided into mu (μ), kappa (κ), and delta (δ) subtypes",
+            "They mediate both analgesic and psychoactive effects",
+            "Sigma (σ) receptors are no longer classified as opioid receptors",
+            "Opioids inhibit neurotransmitter release by blocking calcium channels"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a major side effect of opioid analgesics?",
+        "options": [
+            "Respiratory depression",
+            "Miosis",
+            "Constipation",
+            "Euphoria",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which opioid receptor subtype is primarily responsible for analgesia and euphoria?",
+        "options": [
+            "Mu (μ)",
+            "Kappa (κ)",
+            "Delta (δ)",
+            "Sigma (σ)",
+            "Epsilon (ε)"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is used to reverse opioid overdose?",
+        "options": [
+            "Naloxone",
+            "Methadone",
+            "Buprenorphine",
+            "Fentanyl",
+            "Pentazocine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is an advantage of COX-2 selective NSAIDs over non-selective NSAIDs?",
+        "options": [
+            "Reduced gastrointestinal side effects",
+            "Lower risk of cardiovascular events",
+            "Stronger analgesic effect",
+            "Faster onset of action",
+            "Less hepatotoxicity"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the mechanism of NSAIDs?",
+        "options": [
+            "Inhibition of phospholipase A2",
+            "Inhibition of cyclooxygenase enzymes",
+            "Activation of opioid receptors",
+            "Blocking NMDA receptors",
+            "Binding to GABA-A receptors"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following opioid analgesics is considered a weak agonist?",
+        "options": [
+            "Morphine",
+            "Fentanyl",
+            "Codeine",
+            "Methadone",
+            "Hydromorphone"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which opioid is commonly used as an antitussive agent?",
+        "options": [
+            "Morphine",
+            "Codeine",
+            "Methadone",
+            "Buprenorphine",
+            "Naltrexone"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is classified as a non-opioid analgesic?",
+        "options": [
+            "Acetaminophen",
+            "Ibuprofen",
+            "Aspirin",
+            "Naproxen",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "What is the primary mechanism of action of acetaminophen?",
+        "options": [
+            "Inhibition of cyclooxygenase-1 (COX-1)",
+            "Inhibition of cyclooxygenase-2 (COX-2)",
+            "Central inhibition of prostaglandin synthesis",
+            "Binding to opioid receptors",
+            "Blocking serotonin receptors"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the opioid withdrawal syndrome?",
+        "options": [
+            "Diaphoresis",
+            "Yawning",
+            "Rhinorrhea",
+            "Muscle cramps",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which drug is used to treat opioid dependence?",
+        "options": [
+            "Methadone",
+            "Naloxone",
+            "Flumazenil",
+            "Paracetamol",
+            "Gabapentin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a naturally occurring estrogen in humans?",
+        "options": [
+            "Estradiol",
+            "Estrone",
+            "Estriol",
+            "Testosterone",
+            "Progesterone"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about estrogen synthesis is FALSE?",
+        "options": [
+            "The primary site of estrogen production in premenopausal women is the ovary",
+            "Peripheral conversion of androgens contributes to estrogen synthesis",
+            "The placenta is a major source of estrogen in pregnancy",
+            "Testes do not produce estrogen",
+            "Adipose tissue contributes to estrogen levels postmenopause"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which estrogen receptor subtype is primarily involved in the regulation of reproductive tissues?",
+        "options": [
+            "ER-alpha",
+            "ER-beta",
+            "PR-alpha",
+            "PR-beta",
+            "GR-alpha"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic action of estrogens?",
+        "options": [
+            "Promote growth of the endometrial lining",
+            "Increase HDL and decrease LDL levels",
+            "Stimulate bone formation and inhibit bone resorption",
+            "Enhance blood coagulation by increasing clotting factors",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a common adverse effect of estrogen therapy?",
+        "options": [
+            "Increased risk of thromboembolism",
+            "Nausea and headaches",
+            "Gallbladder disease",
+            "Endometrial hyperplasia",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following drugs is a Selective Estrogen Receptor Modulator (SERM)?",
+        "options": [
+            "Tamoxifen",
+            "Raloxifene",
+            "Clomiphene",
+            "Fulvestrant",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following statements about Tamoxifen is TRUE?",
+        "options": [
+            "It acts as an estrogen agonist in breast tissue",
+            "It reduces the risk of breast cancer recurrence",
+            "It increases the risk of endometrial cancer",
+            "It is classified as a SERM",
+            "All of the above"
+        ],
+        "answer": ["F", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following describes the mechanism of action of Raloxifene?",
+        "options": [
+            "Acts as an estrogen agonist in bone",
+            "Acts as an estrogen antagonist in breast and endometrial tissue",
+            "Maintains a favorable lipid profile",
+            "Increases bone mineral density",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following statements about Clomiphene is FALSE?",
+        "options": [
+            "It is used to treat anovulatory infertility",
+            "It acts as an estrogen antagonist at the hypothalamus",
+            "It increases gonadotropin secretion",
+            "It is primarily used for osteoporosis treatment",
+            "It is a nonsteroidal agent"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following drugs is classified as an aromatase inhibitor?",
+        "options": [
+            "Anastrozole",
+            "Letrozole",
+            "Exemestane",
+            "Testolactone",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following progestins is a spironolactone analog with antimineralocorticoid activity?",
+        "options": [
+            "Medroxyprogesterone acetate",
+            "Norethindrone",
+            "Drospirenone",
+            "Levonorgestrel",
+            "Desogestrel"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major therapeutic use of progestins?",
+        "options": [
+            "Contraception",
+            "Endometrial hyperplasia prevention",
+            "Hormone replacement therapy",
+            "Treatment of abnormal uterine bleeding",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a common adverse effect of progestins?",
+        "options": [
+            "Weight gain",
+            "Depression",
+            "Acne",
+            "Decreased HDL levels",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is TRUE regarding Mifepristone?",
+        "options": [
+            "It is an antiprogestin",
+            "It is used to induce medical abortion",
+            "It causes myometrial contractions",
+            "It is often combined with a prostaglandin analog",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a mechanism of hormonal contraception?",
+        "options": [
+            "Suppression of ovulation by inhibiting gonadotropins",
+            "Thickening of cervical mucus to prevent sperm penetration",
+            "Altering the endometrial lining to prevent implantation",
+            "Inhibition of tubal motility",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following best describes the mechanism of action of benzodiazepines?",
+        "options": [
+            "Inhibit serotonin reuptake",
+            "Block histamine H1 receptors",
+            "Enhance GABAergic neurotransmission",
+            "Act as orexin antagonists",
+            "Inhibit NMDA receptors"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is classified as a non-benzodiazepine hypnotic (Z-drug)?",
+        "options": [
+            "Diazepam",
+            "Phenobarbital",
+            "Zolpidem",
+            "Propranolol",
+            "Buspirone"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key pharmacological effect of benzodiazepines?",
+        "options": [
+            "Anterograde amnesia",
+            "Increased seizure threshold",
+            "Muscle relaxation",
+            "Sedation and sleep induction",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following drugs is used as a benzodiazepine antagonist?",
+        "options": [
+            "Flumazenil",
+            "Ramelteon",
+            "Propranolol",
+            "Diphenhydramine",
+            "Zaleplon"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a major adverse effect of benzodiazepines?",
+        "options": [
+            "Hypertension",
+            "Respiratory depression",
+            "Increased anxiety",
+            "Increased gastrointestinal motility",
+            "Increased seizure activity"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following best describes buspirone’s mechanism of action?",
+        "options": [
+            "Dopamine receptor antagonist",
+            "Serotonin 5-HT1A partial agonist",
+            "Enhances GABAergic activity",
+            "Orexin receptor antagonist",
+            "Histamine H1 receptor blocker"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug class has largely replaced barbiturates for use as anxiolytics and sedatives?",
+        "options": [
+            "Antihistamines",
+            "Orexin inhibitors",
+            "Benzodiazepines",
+            "Beta blockers",
+            "Melatonin agonists"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary clinical use of melatonin receptor agonists such as ramelteon?",
+        "options": [
+            "Treatment of anxiety",
+            "Inducing general anesthesia",
+            "Managing insomnia",
+            "Muscle relaxation",
+            "Seizure control"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which beta-blocker is commonly used to reduce symptoms of performance anxiety?",
+        "options": [
+            "Atenolol",
+            "Metoprolol",
+            "Carvedilol",
+            "Propranolol",
+            "Labetalol"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of orexin receptor antagonists like suvorexant?",
+        "options": [
+            "Inhibit histamine receptors",
+            "Block serotonin reuptake",
+            "Suppress orexin-induced wakefulness",
+            "Enhance dopamine activity",
+            "Inhibit NMDA receptors"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which neurotransmitter is primarily deficient in Parkinson’s disease?",
+        "options": ["Serotonin", "Dopamine", "Acetylcholine", "Glutamate", "Norepinephrine"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which brain region is most affected in Parkinson’s disease?",
+        "options": ["Hippocampus", "Neocortex", "Substantia nigra", "Cerebellum", "Amygdala"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary mechanism leading to neurodegeneration in Parkinson’s disease?",
+        "options": [
+            "Increased acetylcholine activity",
+            "Dopaminergic neuron loss in the substantia nigra",
+            "GABAergic neuron hyperactivity",
+            "Excessive serotonin release",
+            "Reduced NMDA receptor activation"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a hallmark symptom of Parkinson’s disease?",
+        "options": ["Hyperreflexia", "Ataxia", "Resting tremor", "Muscle atrophy", "Seizures"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a cause of secondary Parkinsonism?",
+        "options": ["Antipsychotic drugs", "Encephalitis", "Neurotoxins", "Trauma", "Excess dopamine production"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following describes the role of levodopa in Parkinson’s disease treatment?",
+        "options": [
+            "Directly stimulates dopamine receptors",
+            "Prevents dopamine breakdown",
+            "Crosses the blood-brain barrier and is converted to dopamine",
+            "Inhibits acetylcholine activity",
+            "Blocks NMDA receptors"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which drug is a peripheral DOPA decarboxylase inhibitor used in combination with levodopa?",
+        "options": ["Selegiline", "Entacapone", "Carbidopa", "Pramipexole", "Biperiden"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which medication is a dopamine agonist used in Parkinson’s disease?",
+        "options": ["Bromocriptine", "Metoclopramide", "Rivastigmine", "Phenobarbital", "Haloperidol"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the ‘on-off phenomenon’ associated with levodopa therapy?",
+        "options": [
+            "Sudden worsening of symptoms followed by improvement",
+            "Gradual worsening of symptoms over time",
+            "Constant improvement in symptoms",
+            "Progression of Parkinson’s disease unrelated to medication",
+            "Abrupt development of psychosis"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a side effect of long-term levodopa use?",
+        "options": ["Hypertension", "Dyskinesias", "Increased seizure threshold", "Bradycardia", "Hyperthermia"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug class is used to reduce excessive acetylcholine activity in Parkinson’s disease?",
+        "options": ["Dopamine precursors", "Anticholinergics", "Beta-blockers", "MAO inhibitors", "SSRIs"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a central anticholinergic drug used in Parkinson’s disease?",
+        "options": ["Diphenhydramine", "Benztropine", "Carbidopa", "Rivastigmine", "Donepezil"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which medication is a COMT inhibitor used to prolong levodopa’s effects?",
+        "options": ["Selegiline", "Entacapone", "Bromocriptine", "Pramipexole", "Trihexyphenidyl"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which enzyme metabolizes levodopa in the periphery?",
+        "options": ["COMT", "MAO-B", "DOPA decarboxylase", "Tyrosine hydroxylase", "Glutamate decarboxylase"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the rationale for combining carbidopa with levodopa?",
+        "options": [
+            "To increase dopamine production in the gut",
+            "To inhibit central dopamine metabolism",
+            "To prevent peripheral conversion of levodopa to dopamine",
+            "To enhance NMDA receptor activation",
+            "To decrease the half-life of levodopa"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which symptom is least responsive to levodopa therapy?",
+        "options": ["Tremor", "Rigidity", "Bradykinesia", "Postural instability", "Dyskinesias"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an MAO-B inhibitor used in Parkinson’s disease?",
+        "options": ["Entacapone", "Selegiline", "Tolcapone", "Trihexyphenidyl", "Amantadine"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is used as an adjunct to levodopa therapy to reduce the 'wearing-off' effect?",
+        "options": ["Haloperidol", "Amantadine", "Risperidone", "Clozapine", "Fluoxetine"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a contraindication for levodopa therapy?",
+        "options": ["Schizophrenia", "Essential tremor", "Myasthenia gravis", "Peripheral neuropathy", "Asthma"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which dietary component can interfere with levodopa absorption?",
+        "options": ["Carbohydrates", "Fats", "Proteins", "Vitamins", "Minerals"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following best defines substance dependence?",
+        "options": [
+            "A physiological state where withdrawal symptoms occur upon drug cessation",
+            "Occasional use of a psychoactive substance",
+            "Consumption of a drug in medically approved doses",
+            "Using a substance without experiencing withdrawal",
+            "An immediate and irreversible effect on the brain"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key risk factor for substance use disorder?",
+        "options": [
+            "Male gender",
+            "Family history of substance use",
+            "Peer pressure",
+            "Attention-deficit hyperactivity disorder (ADHD)",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following best describes substance misuse?",
+        "options": [
+            "Taking a substance in medically approved doses",
+            "Using a prescription drug for unintended purposes",
+            "Using over-the-counter drugs occasionally",
+            "Not experiencing withdrawal symptoms",
+            "Self-medicating a diagnosed condition"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is a key characteristic of substance addiction?",
+        "options": [
+            "Irreversible neurotoxicity",
+            "Compulsive drug-seeking behavior",
+            "Ability to stop using at any time",
+            "Using a drug only in social situations",
+            "Exclusive use of prescription medications"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following describes the impact of substance abuse on society?",
+        "options": [
+            "Increased crime rates",
+            "Higher economic burden",
+            "Spread of communicable diseases",
+            "Disruption of social relationships",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
     }
 ]
