@@ -863,6 +863,225 @@
         "question": "What distinguishes pre-fibrotic PMF from overt PMF?",
         "options": ["Bone marrow findings", "Splenomegaly", "Peripheral blood changes", "Presence of mutations", "All of the above"],
         "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "What is the primary goal of haemostasis?",
+        "options": [
+            "Prevent excessive bleeding",
+            "Maintain blood in a fluid state",
+            "Ensure proper vascular remodeling",
+            "Facilitate fibrinolysis",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a component of haemostasis?",
+        "options": [
+            "Blood vessels",
+            "Platelets",
+            "Plasma coagulation factors",
+            "Lymphocytes",
+            "Fibrinolytic system"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following best describes primary haemostasis?",
+        "options": [
+            "Formation of a fibrin clot",
+            "Platelet plug formation",
+            "Activation of coagulation factors",
+            "Fibrinolysis of the clot",
+            "Inhibition of thrombin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which protein is essential for platelet adhesion during primary haemostasis?",
+        "options": [
+            "Thrombin",
+            "Fibrinogen",
+            "Von Willebrand factor",
+            "Plasminogen",
+            "Factor VIII"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the major regulator of platelet formation?",
+        "options": [
+            "Erythropoietin",
+            "Thrombopoietin",
+            "Von Willebrand factor",
+            "Interleukin-6",
+            "Fibrinogen"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the lifespan of circulating platelets?",
+        "options": [
+            "1-2 days",
+            "4-5 days",
+            "7-10 days",
+            "14-21 days",
+            "30 days"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following factors is part of the extrinsic pathway?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Factor VII",
+            "Factor XI",
+            "Factor XII"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the final enzyme responsible for converting fibrinogen to fibrin?",
+        "options": [
+            "Prothrombin",
+            "Factor XIII",
+            "Thrombin",
+            "Plasmin",
+            "Factor X"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about secondary haemostasis is true?",
+        "options": [
+            "It involves platelet aggregation only",
+            "It results in fibrin clot formation",
+            "It is independent of coagulation factors",
+            "It occurs before primary haemostasis",
+            "It does not require calcium"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following pathways is initiated by vascular endothelial damage?",
+        "options": [
+            "Intrinsic pathway",
+            "Extrinsic pathway",
+            "Common pathway",
+            "Fibrinolysis pathway",
+            "Platelet activation pathway"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of Factor XIII in coagulation?",
+        "options": [
+            "Activates thrombin",
+            "Stabilizes the fibrin clot",
+            "Initiates platelet adhesion",
+            "Converts prothrombin to thrombin",
+            "Promotes fibrinolysis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major natural anticoagulant?",
+        "options": [
+            "Plasminogen",
+            "Thrombomodulin",
+            "Thrombin",
+            "Von Willebrand factor",
+            "Factor V"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the role of tissue plasminogen activator (tPA)?",
+        "options": [
+            "Converts fibrinogen to fibrin",
+            "Activates plasminogen to plasmin",
+            "Stimulates platelet aggregation",
+            "Inhibits thrombin formation",
+            "Promotes vasoconstriction"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following factors initiates the intrinsic pathway?",
+        "options": [
+            "Factor VII",
+            "Factor IX",
+            "Factor XI",
+            "Factor XII",
+            "Factor X"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "What is the function of Protein C in haemostasis?",
+        "options": [
+            "Inhibits Factor V and Factor VIII",
+            "Enhances platelet aggregation",
+            "Stimulates fibrin clot formation",
+            "Increases thrombin activity",
+            "Activates plasminogen"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which test is used to assess the extrinsic coagulation pathway?",
+        "options": [
+            "Activated partial thromboplastin time (APTT)",
+            "Thrombin time (TT)",
+            "Prothrombin time (PT)",
+            "D-dimer test",
+            "Bleeding time"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a direct measure of fibrinolysis?",
+        "options": [
+            "D-dimer test",
+            "Bleeding time",
+            "Thrombin time",
+            "Platelet count",
+            "Prothrombin time"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which coagulation factor is NOT part of the common pathway?",
+        "options": [
+            "Factor X",
+            "Factor V",
+            "Factor VIII",
+            "Prothrombin",
+            "Fibrinogen"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is associated with prolonged APTT but normal PT?",
+        "options": [
+            "Factor VII deficiency",
+            "Vitamin K deficiency",
+            "Hemophilia A",
+            "Liver disease",
+            "Disseminated intravascular coagulation"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the major function of plasmin?",
+        "options": [
+            "Breaks down fibrin clots",
+            "Activates Factor X",
+            "Stimulates platelet aggregation",
+            "Promotes vasoconstriction",
+            "Converts prothrombin to thrombin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
-
