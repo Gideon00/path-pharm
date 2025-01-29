@@ -9,20 +9,20 @@
           "end": 5
         },
         {
-          "topic": "Pharmacology of Bronchial Asthma",
-          "start": 6,
-          "end": 15
-        },
-        {
           "topic": "peptic Ulcer Disease",
           "start": 16,
           "end": 35
         },
         {
+          "topic": "Pharmacology of Bronchial Asthma",
+          "start": 6,
+          "end": 15
+        },
+        {
           "topic": "Disease-Modifying Antirheumatic Drugs",
           "start": 36,
           "end": 40
-        }
+        },
         {
           "topic": "NSAIDS",
           "start": 41,
@@ -67,6 +67,46 @@
           "topic": "Renals",
           "start": 148,
           "end": 167
+        },
+        {
+          "topic": "Alcohol and Treatment of alcoholism",
+          "start": 168,
+          "end": 182
+        },
+        {
+          "topic": "Toxicology",
+          "start": 183,
+          "end": 206
+        },
+        {
+          "topic": "INSULIN, GLUCAGON, INCRETINS AND ORAL GLUCOSE LOWERING AGENTS",
+          "start": 207,
+          "end": 221
+        },
+        {
+          "topic": "Analgesics and Narcotics",
+          "start": 222,
+          "end": 236
+        },
+        {
+          "topic": "Estrogen, Progesterone Analogs, and SERMs",
+          "start": 237,
+          "end": 251
+        },
+        {
+          "topic": "Anxiolytics and Hypnotics",
+          "start": 252,
+          "end": 261
+        },
+        {
+          "topic": "Parkinson's Disease",
+          "start": 262,
+          "end": 281
+        },
+        {
+          "topic": "Drug Use Disorder II",
+          "start": 282,
+          "end": 286
         }
       ]
     },
@@ -102,6 +142,11 @@
           "topic": "Non-Leukaemic MPNs",
           "start": 115,
           "end": 143
+        },
+        {
+          "topic": "Overview of Haemostasis",
+          "start": 144,
+          "end": 163
         }
       ]
     },
@@ -154,17 +199,17 @@
           "end": 130
         },
         {
-          "topic": "Autoimmune Diseases",
+          "topic": "Autoimmune Disease",
           "start": 131,
           "end": 135
         },
         {
-          "topic": "mycoses ",
+          "topic": "Mycoses",
           "start": 136,
           "end": 164
         },
         {
-          "topic": "Nosocomial Infection",
+          "topic": "Nosocomial Infections",
           "start": 165,
           "end": 179
         }
@@ -197,6 +242,16 @@
           "topic": "Renal Pathology",
           "start": 128,
           "end": 150
+        },
+        {
+          "topic": "Lymphoid Neoplasms",
+          "start": 151,
+          "end": 168
+        },
+        {
+          "topic": "Head and Neck Pathology",
+          "start": 169,
+          "end": 188
         }
       ]
     },
