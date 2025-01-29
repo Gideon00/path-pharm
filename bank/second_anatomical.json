@@ -1546,5 +1546,423 @@
       "Transluminal migration"
     ],
     "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following best differentiates lymphoma from leukemia?",
+      "options": [
+          "Lymphomas are always confined to lymph nodes",
+          "Leukemias exclusively involve the peripheral blood",
+          "Lymphomas arise as discrete tissue masses, while leukemias involve widespread bone marrow and blood involvement",
+          "Leukemias do not originate from lymphoid cells",
+          "Lymphomas and leukemias are entirely distinct diseases without overlap"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which of the following genetic mutations is most strongly associated with Burkitt lymphoma?",
+      "options": [
+          "BCL2 translocation",
+          "MYC translocation",
+          "JAK2 mutation",
+          "TP53 deletion",
+          "NOTCH1 mutation"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Reed-Sternberg cells are a characteristic histologic feature of which lymphoma?",
+      "options": [
+          "Diffuse large B-cell lymphoma",
+          "Burkitt lymphoma",
+          "Hodgkin lymphoma",
+          "Follicular lymphoma",
+          "Mantle cell lymphoma"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which viral infection is most commonly associated with nasopharyngeal carcinoma and certain lymphomas?",
+      "options": [
+          "Hepatitis B virus",
+          "Epstein-Barr virus (EBV)",
+          "Human papillomavirus (HPV)",
+          "HIV",
+          "Cytomegalovirus (CMV)"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which histologic variant of Hodgkin lymphoma is most commonly associated with Epstein-Barr virus (EBV) infection?",
+      "options": [
+          "Nodular sclerosis",
+          "Lymphocyte-rich",
+          "Mixed cellularity",
+          "Lymphocyte-depleted",
+          "Nodular lymphocyte predominant"
+      ],
+      "answer": ["F", "F", "T", "T", "F"]
+  },
+  {
+      "question": "Which lymphoma subtype is known for its aggressive clinical course and characteristic ‘starry sky’ histologic pattern?",
+      "options": [
+          "Mantle cell lymphoma",
+          "Burkitt lymphoma",
+          "Marginal zone lymphoma",
+          "Follicular lymphoma",
+          "T-cell lymphoma"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following chromosomal translocations is characteristic of follicular lymphoma?",
+      "options": [
+          "t(8;14)",
+          "t(14;18)",
+          "t(9;22)",
+          "t(11;14)",
+          "t(15;17)"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is a characteristic feature of nodular lymphocyte-predominant Hodgkin lymphoma?",
+      "options": [
+          "Classical Reed-Sternberg cells",
+          "Popcorn cells",
+          "CD30 positivity",
+          "CD15 positivity",
+          "EBV positivity"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "What is the most common form of non-Hodgkin lymphoma?",
+      "options": [
+          "Burkitt lymphoma",
+          "Diffuse large B-cell lymphoma",
+          "Follicular lymphoma",
+          "Mantle cell lymphoma",
+          "T-cell lymphoma"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is the most indolent form of non-Hodgkin lymphoma?",
+      "options": [
+          "Diffuse large B-cell lymphoma",
+          "Burkitt lymphoma",
+          "Follicular lymphoma",
+          "Anaplastic large cell lymphoma",
+          "Plasmablastic lymphoma"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which oncogene is most commonly implicated in the pathogenesis of Burkitt lymphoma?",
+      "options": [
+          "BCL2",
+          "MYC",
+          "TP53",
+          "JAK2",
+          "CCND1"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "What is the primary function of BCL2 in lymphoma pathogenesis?",
+      "options": [
+          "Inhibiting apoptosis",
+          "Promoting cell proliferation",
+          "Stimulating angiogenesis",
+          "Inducing genomic instability",
+          "Facilitating metastasis"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following statements about mantle cell lymphoma is correct?",
+      "options": [
+          "It is an indolent lymphoma with a favorable prognosis",
+          "It is associated with t(11;14) translocation leading to overexpression of cyclin D1",
+          "It is strongly associated with Epstein-Barr virus",
+          "It primarily affects children and young adults",
+          "It has a low rate of extranodal involvement"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which classification system is commonly used for staging lymphoma?",
+      "options": [
+          "Duke’s staging",
+          "Ann Arbor staging",
+          "FIGO staging",
+          "TNM staging",
+          "AJCC staging"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is a common site for extranodal lymphoma involvement?",
+      "options": [
+          "Brain",
+          "Liver",
+          "Gastrointestinal tract",
+          "Kidney",
+          "Pancreas"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which of the following is the most common lymphoma in HIV/AIDS patients?",
+      "options": [
+          "Diffuse large B-cell lymphoma",
+          "Follicular lymphoma",
+          "Mantle cell lymphoma",
+          "Hodgkin lymphoma",
+          "T-cell lymphoma"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is a characteristic feature of anaplastic large cell lymphoma?",
+      "options": [
+          "CD30 positivity",
+          "MYC gene translocation",
+          "BCL6 overexpression",
+          "Presence of Popcorn cells",
+          "Involvement of Reed-Sternberg cells"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following lymphomas is most commonly associated with Helicobacter pylori infection?",
+      "options": [
+          "Mantle cell lymphoma",
+          "Extranodal marginal zone lymphoma (MALToma)",
+          "Follicular lymphoma",
+          "Burkitt lymphoma",
+          "Diffuse large B-cell lymphoma"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following bacteria is commonly associated with periodontitis?",
+      "options": [
+          "Streptococcus pneumoniae",
+          "Actinobacillus actinomycetemcomitans",
+          "Escherichia coli",
+          "Bacteroides fragilis",
+          "Clostridium difficile"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which systemic disease is NOT commonly associated with periodontitis?",
+      "options": [
+          "Diabetes mellitus",
+          "Crohn’s disease",
+          "Sarcoidosis",
+          "Parkinson’s disease",
+          "Leukemia"
+      ],
+      "answer": ["F", "F", "F", "T", "F"]
+  },
+  {
+      "question": "Which statement about aphthous ulcers is correct?",
+      "options": [
+          "They are caused by herpes simplex virus",
+          "They are most common in older adults",
+          "They typically resolve within 7-10 days",
+          "They are highly contagious",
+          "They are primarily caused by bacterial infections"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which type of odontogenic cyst is considered locally aggressive?",
+      "options": [
+          "Radicular cyst",
+          "Dentigerous cyst",
+          "Odontogenic keratocyst",
+          "Periapical cyst",
+          "Nasolabial cyst"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which salivary gland is most commonly affected by tumors?",
+      "options": [
+          "Parotid gland",
+          "Sublingual gland",
+          "Submandibular gland",
+          "Minor salivary glands",
+          "Lacrimal gland"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which factor is commonly implicated in the pathogenesis of nasopharyngeal carcinoma?",
+      "options": [
+          "Epstein-Barr Virus (EBV)",
+          "Human papillomavirus (HPV)",
+          "Helicobacter pylori",
+          "Hepatitis B virus",
+          "Cytomegalovirus"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which odontogenic tumor is classified as a hamartoma rather than a true neoplasm?",
+      "options": [
+          "Ameloblastoma",
+          "Odontoma",
+          "Cementoblastoma",
+          "Myxoma",
+          "Squamous odontogenic tumor"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which histological feature characterizes an odontogenic keratocyst?",
+      "options": [
+          "Cyst lining with keratinized stratified squamous epithelium",
+          "Lining of pseudostratified columnar epithelium",
+          "Glandular epithelium with mucin production",
+          "Hyalinized stroma with spindle cells",
+          "Presence of multinucleated giant cells"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which clinical feature is commonly seen in nasopharyngeal carcinoma?",
+      "options": [
+          "Persistent epistaxis",
+          "Difficulty in chewing",
+          "Loss of taste sensation",
+          "Painless jaw swelling",
+          "Trismus"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which benign nasal tumor has a high recurrence rate and potential for invasion?",
+      "options": [
+          "Exophytic papilloma",
+          "Endophytic (inverted) papilloma",
+          "Sinonasal melanoma",
+          "Osteoma",
+          "Angiofibroma"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which bacteria is commonly associated with chronic otitis media?",
+      "options": [
+          "Streptococcus pneumoniae",
+          "Pseudomonas aeruginosa",
+          "Haemophilus influenzae",
+          "Moraxella catarrhalis",
+          "Klebsiella pneumoniae"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which complication is NOT commonly associated with chronic otitis media?",
+      "options": [
+          "Cholesteatoma formation",
+          "Mastoiditis",
+          "Temporal cerebritis",
+          "Facial nerve palsy",
+          "Tracheal stenosis"
+      ],
+      "answer": ["F", "F", "F", "F", "T"]
+  },
+  {
+      "question": "What is the most common benign salivary gland tumor?",
+      "options": [
+          "Pleomorphic adenoma",
+          "Warthin tumor",
+          "Mucoepidermoid carcinoma",
+          "Adenoid cystic carcinoma",
+          "Acinic cell carcinoma"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is a risk factor for mucoepidermoid carcinoma?",
+      "options": [
+          "Smoking",
+          "HPV infection",
+          "EBV infection",
+          "Translocation t(11;19)",
+          "Asbestos exposure"
+      ],
+      "answer": ["F", "F", "F", "T", "F"]
+  },
+  {
+      "question": "Which salivary gland tumor is characterized by both epithelial and mesenchymal differentiation?",
+      "options": [
+          "Mucoepidermoid carcinoma",
+          "Acinic cell carcinoma",
+          "Pleomorphic adenoma",
+          "Adenoid cystic carcinoma",
+          "Basal cell adenoma"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "Which condition is associated with xerostomia and dry eyes?",
+      "options": [
+          "Sjögren’s syndrome",
+          "Cushing’s syndrome",
+          "Addison’s disease",
+          "Pheochromocytoma",
+          "Multiple endocrine neoplasia"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "What is the primary cause of ranula formation?",
+      "options": [
+          "Viral infection",
+          "Ductal obstruction of the sublingual gland",
+          "Bacterial sialadenitis",
+          "Autoimmune destruction of glandular tissue",
+          "Salivary gland neoplasm"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
+  },
+  {
+      "question": "Which of the following is a defining histological feature of cholesteatoma?",
+      "options": [
+          "Keratinized squamous epithelium",
+          "Goblet cell hyperplasia",
+          "Granulomatous inflammation",
+          "Glandular proliferation",
+          "Neoplastic epithelial invasion"
+      ],
+      "answer": ["T", "F", "F", "F", "F"]
+  },
+  {
+      "question": "What is the most common malignant tumor of the salivary glands?",
+      "options": [
+          "Pleomorphic adenoma",
+          "Adenoid cystic carcinoma",
+          "Mucoepidermoid carcinoma",
+          "Warthin tumor",
+          "Basal cell adenoma"
+      ],
+      "answer": ["F", "F", "T", "F", "F"]
+  },
+  {
+      "question": "What is a common presentation of a branchial cyst?",
+      "options": [
+          "Midline neck mass",
+          "Upper lateral neck mass",
+          "Painless jaw swelling",
+          "Erythematous gingival lesion",
+          "Persistent nasal obstruction"
+      ],
+      "answer": ["F", "T", "F", "F", "F"]
   }
 ]
