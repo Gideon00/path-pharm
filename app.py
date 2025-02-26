@@ -306,8 +306,8 @@ def index():
             posting, _, subject = session["region"].lower().split(" ")
             
             # Acept only first posting for now
-            if posting == "third": # New TODO
-                return apology("Sorry Third posting is not available yet", 400) 
+            # if posting == "third": # New TODO
+            #     return apology("Sorry Third posting is not available yet", 400) 
             try:
                 with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
                     question_bank = json.load(f)
