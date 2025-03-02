@@ -147,6 +147,16 @@
           "topic": "Overview of Haemostasis",
           "start": 144,
           "end": 163
+        },
+        {
+          "topic": "Neonatal -3",
+          "start": 1,
+          "end": 19
+        },
+        {
+          "topic": "Haematology of Pregnancy -3",
+          "start": 20,
+          "end": 39
         }
       ]
     },
@@ -212,6 +222,21 @@
           "topic": "Nosocomial Infections",
           "start": 165,
           "end": 179
+        },
+        {
+          "topic": "Automated Methods in Microbioloy -3",
+          "start": 1,
+          "end": 10
+        },
+        {
+          "topic": "Quality Control in Microbiology -3",
+          "start": 11,
+          "end": 20
+        },
+        {
+          "topic": "Principles of Serological Diagnosis -3",
+          "start": 21,
+          "end": 30
         }
       ]
     },
@@ -252,6 +277,16 @@
           "topic": "Head and Neck Pathology",
           "start": 169,
           "end": 188
+        },
+        {
+          "topic": "Soft Tissue Tumor -3",
+          "start": 1,
+          "end": 28
+        },
+        {
+          "topic": "Pathology of Female Breast -3",
+          "start": 29,
+          "end": 53
         }
       ]
     },
@@ -282,6 +317,11 @@
           "topic": "hyperbilirubinemia (classification and management)",
           "start": 80,
           "end": 96
+        },
+        {
+          "topic": "Disorders of calcium and phosphate -3",
+          "start": 1,
+          "end": 19
         }
       ]
     }
