@@ -1,9 +1,11 @@
 import os
 import json
 import pathlib
+import sqlite3
 import requests
 import psycopg2
 from cs50 import SQL
+from asyncio import threads
 from tempfile import mkdtemp
 from dotenv import load_dotenv
 from flask_session import Session
@@ -11,7 +13,7 @@ from google.oauth2 import id_token
 from pip._vendor import cachecontrol
 import google.auth.transport.requests
 from google_auth_oauthlib.flow import Flow
-from flask import Flask, abort, jsonify, redirect, render_template, request, session, url_for
+from flask import Flask, abort, flash, jsonify, redirect, render_template, request, session, url_for
 from helpers import (
     MCQ_REGIONS,
     REGIONS,
@@ -41,17 +43,24 @@ Session(app)
 # Ensure templates are auto-reloaded
 app.config["TEMPLATES_AUTO_RELOAD"] = True
 
+# Configure CS50 Library to use SQLite database
+db = SQL(os.getenv("CS50SQL"))
+
 # Configure CS50 Library to use PostgreSQL database
-db = SQL(os.getenv("POSTGRESQL"))
+# db = SQL(os.getenv("POSTGRESQL"))
 
 os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = os.getenv("NUM")
 
 GOOGLE_CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID")
-# Path for Development environment
-# client_secrets_file = os.path.join(pathlib.Path(__file__).parent, "client_secret.json")
 
-# Path for Production
-client_secrets_file = "/etc/secrets/client_secret.json"
+client_secrets_file = os.path.join(pathlib.Path(__file__).parent, "client_secret.json")
+
+# GitHub OAuth details
+GITHUB_CLIENT_ID = os.getenv("GITHUB_CLIENT_ID")
+GITHUB_CLIENT_SECRET = os.getenv("GITHUB_SECRETE")
+GITHUB_AUTHORIZE_URL = "https://github.com/login/oauth/authorize"
+GITHUB_TOKEN_URL = "https://github.com/login/oauth/access_token"
+GITHUB_API_URL = "https://api.github.com/user"
 
 flow = Flow.from_client_secrets_file(
     client_secrets_file=client_secrets_file,
@@ -60,15 +69,9 @@ flow = Flow.from_client_secrets_file(
         "https://www.googleapis.com/auth/userinfo.email",
         "openid",
     ],
-    redirect_uri="https://path-pharm.onrender.com/callback",
+    redirect_uri="http://127.0.0.1:5000/callback",
 )
 
-# GitHub OAuth details
-GITHUB_CLIENT_ID = os.getenv("GITHUB_CLIENT_ID")
-GITHUB_CLIENT_SECRET = os.getenv("GITHUB_CLIENT_SECRET")
-GITHUB_AUTHORIZE_URL = "https://github.com/login/oauth/authorize"
-GITHUB_TOKEN_URL = "https://github.com/login/oauth/access_token"
-GITHUB_API_URL = "https://api.github.com/user"
 
 question_bank = []
 default_profile_img = ""
@@ -81,6 +84,7 @@ app.jinja_env.filters["number_to_upper"] = number_to_upper
 # Byepass OAuth login
 @app.route("/byepas", methods=["GET", "POST"])
 def byepas():
+    session.clear()
     if request.method == "POST":
 
         user_id = int(request.form.get("bypass"))
@@ -95,22 +99,20 @@ def byepas():
         session["name"] = user["name"]
         session["email"] = user["email"]
         session["picture"] = user.get("picture") or None
-        return redirect("/") # EndBye Pass
+        return redirect(url_for("index")) # EndBye Pass
 
 
 # We begin Auth here
-@app.route("/signin", methods=["GET", "POST"])
-def signin():
-    return render_template("login.html")
+@app.route("/oauth", methods=["GET", "POST"])
+def oauth():
+    session.clear()
+    return render_template("authenticate.html")
 
 
-@app.route("/login")
-def login():
+@app.route("/login/google/authorize")
+def google_oauth():
     # Dynamically generate the redirect URI
-    redirect_uri = url_for('callback', _external=True)
-    print("\n")
-    print(f'Redirect URI: {redirect_uri}')  # This will print the URI to your console/logs
-    print("\n")
+    session.clear()
     authorization_url, state = flow.authorization_url()
     session["state"] = state
     return redirect(authorization_url)
@@ -149,22 +151,15 @@ def callback():
         session["admin"] = existing_user[0]["is_admin"]
     else:
         # Insert new user into the database
-        try:
-            make_admin = db.execute(
-                "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
-                session["oauth_id"],
-                session["name"],
-                session["email"],
-                session["picture"],
-                "Google",
-            )
-        except Exception as e:
-            error_message = str(e)
-            if "duplicate key value violates unique constraint" in error_message:
-                error_message = "Email already exists. Please login with your existing github account."
-            # Handle the error, e.g., render an error page or redirect
-            return render_template("error.html", error_message=error_message), 400
-            
+        make_admin = db.execute(
+            "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
+            session["oauth_id"],
+            session["name"],
+            session["email"],
+            session["picture"],
+            "Google",
+        )
+
         # Make first user admin
         if make_admin[0]["id"] == 1:
             db.execute("UPDATE users SET is_admin = TRUE WHERE id = ?;", make_admin)
@@ -174,7 +169,7 @@ def callback():
         session["user_id"] = make_admin[0]["id"]
 
     # Redirect the user
-    return redirect("/")
+    return redirect(url_for("index"))
 
 
 #  Add Github OAuth here ///////////
@@ -233,22 +228,15 @@ def githubCallback():
         session["admin"] = existing_user[0]["is_admin"]
     else:
         # Insert new user into the database
-        try:
-            new_user = db.execute(
-                "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
-                session["oauth_id"],
-                session["name"],
-                session["email"],
-                session["picture"],
-                "GitHub",
-            )
-        except Exception as e:
-            error_message = str(e)
-            if "duplicate key value violates unique constraint" in error_message:
-                error_message = "Email already exists. Please login with your existing google account."
-            # Handle the error, e.g., render an error page or redirect
-            return render_template("error.html", error_message=error_message), 400
-        
+        new_user = db.execute(
+            "INSERT INTO users (oauth_id, name, email, picture, oauth_provider) VALUES (?, ?, ?, ?, ?);",
+            session["oauth_id"],
+            session["name"],
+            session["email"],
+            session["picture"],
+            "GitHub",
+        )
+
         # Make the first user admin
         if new_user[0]["id"] == 1:
             db.execute("UPDATE users SET is_admin = TRUE WHERE id = ?;", new_user[0]["id"])
@@ -305,16 +293,13 @@ def index():
             # Load the question bank from the JSON file
             posting, _, subject = session["region"].lower().split(" ")
             
-            # Acept only first posting for now
-            # if posting == "third": # New TODO
-            #     return apology("Sorry Third posting is not available yet", 400) 
             try:
                 with open(f"bank/{posting}_{subject}.json", encoding="utf-8") as f:
                     question_bank = json.load(f)
             except json.JSONDecodeError as err:
                 # Can't read an Empty file
                 print(err)
-                return apology(f"{posting.capitalize()} {subject.capitalize()} posting questions are not available yet. \nCheck back later for updates", 400)
+                return apology(f"{posting.capitalize()} {subject.capitalize()} posting questions are not available yet. \nCheck back later for updates", 400) # endNew
 
             if not (1 <= start <= len(question_bank)):
                 return apology("Start number out of range", 403)
@@ -783,17 +768,16 @@ def make_admin():
     if session["user_id"] == 1 and session["admin"] is False:
         db.execute("UPDATE users SET is_admin = TRUE WHERE id = 1;")
         session["admin"] = True
-    print(session["admin"])
+        
     # Make people admin
     if request.method == "POST":
         id = int(request.form.get("id"))
         name = request.form.get("name")
-        print(id)
-        print(name)
         db.execute("UPDATE users SET is_admin = TRUE WHERE id = ?;", id)
         session["admin"] = True
 
-        return f"{name} is now an Admin"
+        flash(f"{name} is now an admin", "success")
+        return redirect(url_for("make_admin"))
 
     # Get page for user
     users = db.execute("SELECT * FROM users;")
@@ -801,14 +785,17 @@ def make_admin():
     return render_template("change_admin.html", users=users)
 
 
-@app.route("/de_admin", methods=["POST"])
+@app.route("/de_admin", methods=["GET", "POST"])
 def de_admin():
     if request.method == "POST":
         id = int(request.form.get("id"))
         name = request.form.get("name")
         db.execute("UPDATE users SET is_admin = False WHERE id = ?;", id)
         session["admin"] = False
-        return f"{name} is no longer an Admin"
+
+        flash(f"{name} is no longer an admin", "error")
+
+        return redirect(url_for("make_admin"))
 
 
 @app.route("/profile")
@@ -854,3 +841,5 @@ def get_data():
         data = json.load(f)
     return jsonify(data)
 
+if __name__ == "__main__":
+    app.run()
