@@ -1,0 +1,211 @@
+[
+    {
+        "question": "Which of the following is the primary regulator of serum calcium levels?",
+        "options": [
+            "Calcitonin",
+            "Parathyroid hormone (PTH)",
+            "Vitamin K",
+            "Insulin",
+            "Erythropoietin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major cause of hypercalcemia?",
+        "options": [
+            "Primary hyperparathyroidism",
+            "Malignancy",
+            "Vitamin D toxicity",
+            "Thiazide diuretics",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following enzymes is responsible for converting 25-hydroxyvitamin D to its active form?",
+        "options": [
+            "1-alpha-hydroxylase",
+            "Alkaline phosphatase",
+            "Tyrosine kinase",
+            "Adenylate cyclase",
+            "Cyclooxygenase"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is TRUE regarding calcium homeostasis?",
+        "options": [
+            "PTH increases renal calcium reabsorption",
+            "PTH increases phosphate excretion",
+            "Vitamin D enhances intestinal calcium absorption",
+            "Calcitonin decreases serum calcium levels",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following clinical signs is associated with hypocalcemia?",
+        "options": [
+            "Chvostek’s sign",
+            "Trousseau’s sign",
+            "Prolonged QT interval",
+            "Tetany",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the major cause of secondary hyperparathyroidism?",
+        "options": [
+            "Chronic kidney disease",
+            "Parathyroid adenoma",
+            "Hypercalcemia",
+            "Thyrotoxicosis",
+            "Sarcoidosis"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a cause of hyperphosphatemia?",
+        "options": [
+            "Acute kidney injury",
+            "Tumor lysis syndrome",
+            "Hypoparathyroidism",
+            "Vitamin D deficiency",
+            "Rhabdomyolysis"
+        ],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following conditions is most likely to present with both hypercalcemia and elevated PTH?",
+        "options": [
+            "Primary hyperparathyroidism",
+            "Hypercalcemia of malignancy",
+            "Vitamin D intoxication",
+            "Chronic renal failure",
+            "Osteomalacia"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following plays a significant role in bone resorption?",
+        "options": [
+            "Osteoclasts",
+            "Osteoblasts",
+            "Chondrocytes",
+            "Fibroblasts",
+            "Erythrocytes"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary storage site of calcium in the human body?",
+        "options": [
+            "Kidney",
+            "Liver",
+            "Bone",
+            "Pancreas",
+            "Spleen"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a clinical feature of rickets?",
+        "options": [
+            "Bowing of legs",
+            "Delayed closure of fontanelles",
+            "Rachitic rosary",
+            "Widening of growth plates",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which laboratory finding is characteristic of osteomalacia?",
+        "options": [
+            "Low serum calcium",
+            "Low serum phosphate",
+            "Elevated alkaline phosphatase",
+            "Low 25-hydroxyvitamin D",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following statements is TRUE regarding phosphate homeostasis?",
+        "options": [
+            "PTH decreases phosphate reabsorption",
+            "Vitamin D increases phosphate absorption in the intestine",
+            "FGF-23 increases phosphate excretion",
+            "Hyperphosphatemia can result from acute kidney injury",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following disorders is characterized by increased osteoclastic activity?",
+        "options": [
+            "Paget’s disease",
+            "Osteopetrosis",
+            "Osteomalacia",
+            "Osteogenesis imperfecta",
+            "Renal osteodystrophy"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is most likely to cause hypercalcemia?",
+        "options": [
+            "Furosemide",
+            "Thiazide diuretics",
+            "Acetaminophen",
+            "Aspirin",
+            "Metformin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which laboratory value is most helpful in differentiating primary from secondary hyperparathyroidism?",
+        "options": [
+            "Serum calcium",
+            "Serum phosphate",
+            "Serum PTH",
+            "Alkaline phosphatase",
+            "Serum creatinine"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is associated with hypocalcemia?",
+        "options": [
+            "Chronic renal failure",
+            "Hypoparathyroidism",
+            "Vitamin D deficiency",
+            "Acute pancreatitis",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following hormones directly stimulates osteoclast activity?",
+        "options": [
+            "Parathyroid hormone",
+            "Calcitonin",
+            "Insulin",
+            "Glucagon",
+            "Erythropoietin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a recommended treatment for hypercalcemia?",
+        "options": [
+            "Hydration with normal saline",
+            "Bisphosphonates",
+            "Calcitonin",
+            "Loop diuretics",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    }
+]

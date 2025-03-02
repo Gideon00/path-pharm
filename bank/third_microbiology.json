@@ -1,0 +1,512 @@
+[
+    {
+        "question": "Which of the following is NOT an advantage of traditional diagnostic microbiology methods?",
+        "options": [
+            "Materials are cheap",
+            "Does not require complex infrastructure",
+            "Faster turnaround time",
+            "Serves as a backup when automation fails",
+            "Easier to maintain facilities"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of these automated methods relies on color changes of pH indicators?",
+        "options": [
+            "Nephelometry",
+            "ELISA",
+            "Colorimetry",
+            "Fluorophore-labelled oxidation-reduction",
+            "Mass spectrometry"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the principle behind nephelometry in microbiology?",
+        "options": [
+            "Measures antigen-antibody complexes",
+            "Measures light scatter proportional to particle size",
+            "Detects changes in electrical impedance",
+            "Uses colorimetric detection of bacterial metabolites",
+            "Uses enzymatic reactions to detect bacterial growth"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which automated method detects microbial growth by measuring CO2 production?",
+        "options": [
+            "Mass spectrometry",
+            "BACTEC system",
+            "Bioluminescence",
+            "Counterimmunoelectrophoresis",
+            "ELISA"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Bioluminescence is based on which enzyme reaction?",
+        "options": [
+            "Luciferase catalysis",
+            "Peroxidase oxidation",
+            "Kinase phosphorylation",
+            "Catalase breakdown",
+            "Amylase hydrolysis"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which automated microbiology technique involves the use of substrate-fluorophore complexes?",
+        "options": [
+            "Nephelometry",
+            "Fluorophore-labeled oxidation-reduction",
+            "Colorimetry",
+            "Electrical impedance",
+            "Counterimmunoelectrophoresis"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT an advantage of automation in microbiology?",
+        "options": [
+            "Lower turnaround time",
+            "Reduction of errors",
+            "Minimized need for quality control",
+            "Improved specimen handling",
+            "Enhanced accuracy"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What principle does mass spectrometry use in microbial identification?",
+        "options": [
+            "Measurement of antigen-antibody reactions",
+            "Separation and measurement of ions to determine structure",
+            "Analysis of pH changes in microbial metabolism",
+            "Measurement of bacterial electrical impedance",
+            "Utilization of radioactive isotopes"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which automated system is used for detecting Mycobacterium tuberculosis based on CO2 production?",
+        "options": [
+            "Vitek system",
+            "BACTEC system",
+            "Bioluminescence assay",
+            "Mass spectrometry",
+            "Nephelometry"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What does an increase in electrical impedance indicate in microbiological testing?",
+        "options": [
+            "Increased bacterial metabolism",
+            "Decreased bacterial count",
+            "No microbial growth",
+            "Increased enzyme activity",
+            "Lower turbidity of culture medium"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What does quality assurance (QA) in a microbiology lab ensure?",
+        "options": [
+            "Right result at the right time",
+            "Testing at the lowest cost",
+            "Using the latest technology",
+            "Minimizing the use of reagents",
+            "Ensuring automation is always used"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a key component of quality assurance?",
+        "options": [
+            "Equipment control",
+            "Personnel training",
+            "Randomized patient selection",
+            "Sensitivity tests",
+            "Reagent control"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which stage of quality control involves verifying test results and reporting?",
+        "options": [
+            "Pre-analytical",
+            "Analytical",
+            "Post-analytical",
+            "Standardization",
+            "Specimen collection"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Why is internal quality assessment (IQA) important in a microbiology lab?",
+        "options": [
+            "To assess laboratory errors in real-time",
+            "To replace external quality control",
+            "To perform research studies",
+            "To eliminate the need for SOPs",
+            "To avoid participation in accreditation programs"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What should be done if contamination in a batch of culture media exceeds 10%?",
+        "options": [
+            "Sterilize the batch again",
+            "Use only the uncontaminated portions",
+            "Discard the entire batch",
+            "Test on a different medium",
+            "Dilute the contaminated batch"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is essential for maintaining a high-quality microbiology laboratory?",
+        "options": [
+            "Only using automated systems",
+            "Ignoring pre-analytical factors",
+            "Regular equipment calibration",
+            "Skipping standard operating procedures",
+            "Focusing only on final test results"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the main function of nodal laboratories in quality control?",
+        "options": [
+            "Conducting research studies",
+            "Providing standardized quality assessment",
+            "Manufacturing laboratory reagents",
+            "Testing only complex microbiology samples",
+            "Avoiding external quality assessments"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What does the pre-analytical stage of quality control include?",
+        "options": [
+            "Proper collection and transport of specimens",
+            "Interpretation of microbiology test results",
+            "Antibiotic sensitivity testing",
+            "Ensuring automation in microbiology labs",
+            "Only reporting positive cultures"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "How should antimicrobial susceptibility discs be quality controlled?",
+        "options": [
+            "Tested weekly with standard organisms",
+            "Checked only when errors occur",
+            "Used indefinitely if stored properly",
+            "Tested only with unknown patient samples",
+            "Only tested if results appear inconsistent"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which environmental factor should be monitored in microbiology laboratories?",
+        "options": [
+            "Airflow sterility",
+            "Magnetic field strength",
+            "Radiation exposure",
+            "Humidity levels",
+            "All of the above"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which of the following best describes antibody affinity?",
+        "options": [
+            "Strength of binding between multiple antigenic determinants",
+            "Strength of binding between a single antigenic determinant and antibody",
+            "Total number of antigen-antibody complexes",
+            "Combination of antibody valence and antigen size",
+            "Rate of antigen-antibody complex formation"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What causes a false-negative result in the prozone phenomenon?",
+        "options": [
+            "Excess antigen",
+            "Excess antibody",
+            "Low incubation temperature",
+            "High pH",
+            "Low sample volume"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of these serological tests detects the consequences of antigen-antibody interactions rather than direct binding?",
+        "options": [
+            "ELISA",
+            "RIA",
+            "Agglutination test",
+            "Western blot",
+            "Immunofluorescence"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which test is commonly used for the detection of viral neutralizing antibodies?",
+        "options": [
+            "ELISA",
+            "Hemagglutination Inhibition Test",
+            "Western Blot",
+            "Counterimmunoelectrophoresis",
+            "Precipitation test"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which ELISA method involves competition between patient antigen and an enzyme-labeled antigen?",
+        "options": [
+            "Direct ELISA",
+            "Indirect ELISA",
+            "Sandwich ELISA",
+            "Competitive ELISA",
+            "Western blot"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which test detects antibodies by their ability to clump red blood cells?",
+        "options": [
+            "Hemagglutination test",
+            "ELISA",
+            "Western blot",
+            "RIA",
+            "Counterimmunoelectrophoresis"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary function of an indirect ELISA?",
+        "options": [
+            "Detects antigens using enzyme-labeled antibodies",
+            "Uses direct antigen-antibody binding",
+            "Measures antigen competition",
+            "Detects patient antibodies using a secondary labeled antibody",
+            "Detects immune complexes by radioactive labeling"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which serological test is considered the gold standard for detecting virus-neutralizing antibodies?",
+        "options": [
+            "ELISA",
+            "Viral neutralization test",
+            "Western blot",
+            "Agglutination test",
+            "Immunofluorescence"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which principle does the Weil-Felix test rely on?",
+        "options": [
+            "Detection of cross-reactive antigens between Proteus and Rickettsia",
+            "Detection of immune complexes",
+            "Measurement of antigen-antibody precipitation",
+            "Identification of bacterial toxins",
+            "Detection of autoantibodies"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What does a positive complement fixation test indicate?",
+        "options": [
+            "Hemolysis occurs",
+            "Complement is not consumed",
+            "Antigen-antibody reaction has taken place",
+            "No antigen is present",
+            "Lack of immune response"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    }
+]

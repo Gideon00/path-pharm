@@ -1,0 +1,585 @@
+[
+    {
+        "question": "Which of the following is the most common benign soft tissue tumor in adults?",
+        "options": [
+            "Liposarcoma",
+            "Leiomyosarcoma",
+            "Lipoma",
+            "Rhabdomyosarcoma",
+            "Dermatofibrosarcoma protuberans"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements regarding soft tissue sarcomas is TRUE?",
+        "options": [
+            "They frequently metastasize via the lymphatic system",
+            "They primarily spread via the hematogenous route",
+            "They have a benign to malignant ratio of 10:1",
+            "They rarely involve the lungs",
+            "They have the highest incidence in children under 5 years"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following tumors is derived from adipose tissue?",
+        "options": [
+            "Fibrosarcoma",
+            "Schwannoma",
+            "Liposarcoma",
+            "Leiomyosarcoma",
+            "Rhabdomyosarcoma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following syndromes is associated with soft tissue tumors?",
+        "options": [
+            "Neurofibromatosis type 1",
+            "Gardner syndrome",
+            "Li-Fraumeni syndrome",
+            "Osler-Weber-Rendu syndrome",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "What is the most common soft tissue sarcoma in children?",
+        "options": [
+            "Leiomyosarcoma",
+            "Fibrosarcoma",
+            "Rhabdomyosarcoma",
+            "Synovial sarcoma",
+            "Liposarcoma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a well-differentiated, slow-growing tumor of fibroblasts?",
+        "options": [
+            "Nodular fasciitis",
+            "Fibromatosis",
+            "Fibrosarcoma",
+            "Malignant fibrous histiocytoma",
+            "Leiomyoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which tumor has a characteristic 'storiform' or cartwheel pattern histologically?",
+        "options": [
+            "Fibrosarcoma",
+            "Dermatofibrosarcoma protuberans",
+            "Synovial sarcoma",
+            "Liposarcoma",
+            "Leiomyosarcoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which vascular tumor is most commonly associated with Human Herpes Virus-8 (HHV-8)?",
+        "options": [
+            "Hemangioma",
+            "Kaposi sarcoma",
+            "Angiosarcoma",
+            "Lymphangioma",
+            "Hemangioendothelioma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic feature of liposarcoma?",
+        "options": [
+            "Presence of lipoblasts",
+            "High metastatic potential in all variants",
+            "Occurs exclusively in young children",
+            "Commonly arises in the skin",
+            "Has a low recurrence rate after excision"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a malignant tumor of smooth muscle origin?",
+        "options": [
+            "Leiomyosarcoma",
+            "Fibrosarcoma",
+            "Rhabdomyosarcoma",
+            "Schwannoma",
+            "Synovial sarcoma"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following soft tissue sarcomas is most commonly seen in young adults?",
+        "options": [
+            "Rhabdomyosarcoma",
+            "Synovial sarcoma",
+            "Fibrosarcoma",
+            "Liposarcoma",
+            "Leiomyosarcoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the most common genetic abnormality associated with synovial sarcoma?",
+        "options": [
+            "t(11;22) translocation",
+            "t(2;13) translocation",
+            "t(X;18) translocation",
+            "Deletion of chromosome 22",
+            "Amplification of MDM2 oncogene"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a benign tumor of peripheral nerves?",
+        "options": [
+            "Neurofibroma",
+            "Schwannoma",
+            "Malignant peripheral nerve sheath tumor",
+            "Ewing sarcoma",
+            "Glomus tumor"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common site of metastasis for soft tissue sarcomas?",
+        "options": [
+            "Lungs",
+            "Liver",
+            "Bone",
+            "Brain",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a risk factor for soft tissue sarcomas?",
+        "options": [
+            "Radiation therapy",
+            "Chronic lymphedema",
+            "Genetic syndromes like Li-Fraumeni",
+            "Chemical exposure (e.g., dioxins)",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following soft tissue sarcomas has a poor prognosis and frequently metastasizes?",
+        "options": [
+            "Dermatofibrosarcoma protuberans",
+            "Pleomorphic rhabdomyosarcoma",
+            "Fibrosarcoma",
+            "Liposarcoma",
+            "Leiomyosarcoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic histological finding in rhabdomyosarcoma?",
+        "options": [
+            "Spindle cells in a herringbone pattern",
+            "Pleomorphic tumor cells with cigar-shaped nuclei",
+            "Strap cells with cross-striations",
+            "Palisading nuclei",
+            "Rosettes with a fibrillary center"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following tumors is most likely to be associated with Gardner syndrome?",
+        "options": [
+            "Lipoma",
+            "Fibromatosis",
+            "Neurofibroma",
+            "Schwannoma",
+            "Leiomyoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common histological feature of dermatofibrosarcoma protuberans (DFSP)?",
+        "options": [
+            "Storiform growth pattern",
+            "Palisading nuclei",
+            "Rosette formation",
+            "Perivascular pseudorosettes",
+            "Cigar-shaped nuclei"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the most common site for angiosarcoma development?",
+        "options": [
+            "Liver",
+            "Breast",
+            "Skin",
+            "Spleen",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following soft tissue tumors commonly arises in deep soft tissues of the extremities?",
+        "options": [
+            "Dermatofibrosarcoma protuberans",
+            "Liposarcoma",
+            "Synovial sarcoma",
+            "Neurofibroma",
+            "Glomus tumor"
+        ],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which soft tissue tumor is associated with exposure to polyvinyl chloride?",
+        "options": [
+            "Fibrosarcoma",
+            "Kaposi sarcoma",
+            "Angiosarcoma",
+            "Schwannoma",
+            "Leiomyosarcoma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following features is characteristic of malignant peripheral nerve sheath tumors (MPNST)?",
+        "options": [
+            "Arises from Schwann cells",
+            "Associated with NF1 (Neurofibromatosis type 1)",
+            "Highly aggressive with frequent metastases",
+            "Displays alternating hypercellular and hypocellular areas",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a defining feature of alveolar rhabdomyosarcoma?",
+        "options": [
+            "t(2;13) PAX3-FOXO1 translocation",
+            "Strap cells with cross-striations",
+            "Cigar-shaped nuclei",
+            "Rosette formation",
+            "Perineural invasion"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which soft tissue sarcoma is most commonly associated with HIV/AIDS?",
+        "options": [
+            "Kaposi sarcoma",
+            "Liposarcoma",
+            "Synovial sarcoma",
+            "Leiomyosarcoma",
+            "Rhabdomyosarcoma"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which immunohistochemical marker is most useful in diagnosing synovial sarcoma?",
+        "options": [
+            "S100",
+            "CD31",
+            "Vimentin",
+            "TLE1",
+            "Desmin"
+        ],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is TRUE regarding fibromatosis?",
+        "options": [
+            "It is locally aggressive but does not metastasize",
+            "It is associated with mutations in the APC gene",
+            "It is commonly seen in Gardner syndrome",
+            "It is also referred to as desmoid tumor",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following tumors arises from the pericytes of small blood vessels?",
+        "options": [
+            "Liposarcoma",
+            "Leiomyosarcoma",
+            "Perivascular epithelioid cell tumor (PEComa)",
+            "Glomus tumor",
+            "Angiosarcoma"
+        ],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is the functional unit of the mammary parenchyma?",
+        "options": [
+            "Lactiferous duct",
+            "Small duct",
+            "Terminal duct lobular unit",
+            "Interlobular stroma",
+            "Supporting connective tissue"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is associated with supernumerary nipples or breasts?",
+        "options": [
+            "Polymastia",
+            "Athelia",
+            "Amastia",
+            "Poland Syndrome",
+            "Fibroadenoma"
+        ],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which inflammatory condition of the breast is commonly seen in smokers and presents with an inverted nipple?",
+        "options": [
+            "Acute mastitis",
+            "Periductal mastitis",
+            "Mammary duct ectasia",
+            "Fat necrosis",
+            "Lymphocytic mastopathy"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common cause of mammary duct ectasia?",
+        "options": [
+            "Lactation",
+            "Cigarette smoking",
+            "Multiparity",
+            "Trauma",
+            "Autoimmune disease"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which histological feature characterizes periductal mastitis?",
+        "options": [
+            "Necrotic debris with neutrophil infiltration",
+            "Squamous metaplasia of ducts",
+            "Fibrosis with calcifications",
+            "Increased number of acini per lobule",
+            "Comedo necrosis"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which benign epithelial lesion carries no increased risk for breast cancer?",
+        "options": [
+            "Fibrocystic changes",
+            "Atypical lobular hyperplasia",
+            "Atypical ductal hyperplasia",
+            "Sclerosing adenosis",
+            "Radial scar"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic feature of fibroadenoma?",
+        "options": [
+            "Biphasic tumor with stromal and glandular components",
+            "Common in women over 50",
+            "Frequently presents with nipple discharge",
+            "Unilateral occurrence only",
+            "Composed entirely of epithelial cells"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true about phyllodes tumors?",
+        "options": [
+            "They are more common in young women",
+            "They have increased stromal cellularity and mitotic activity",
+            "They frequently metastasize to the lungs",
+            "They are typically benign and do not recur",
+            "They originate from interlobular stroma"
+        ],
+        "answer": ["F", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following statements about breast cancer risk factors is correct?",
+        "options": [
+            "Early menarche increases the risk",
+            "Late menopause decreases the risk",
+            "Parity has no effect on risk",
+            "Hormone replacement therapy reduces risk",
+            "BRCA1 mutations are associated with a lower risk"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following breast cancers is most likely to be ER-negative?",
+        "options": [
+            "Ductal carcinoma in situ",
+            "Lobular carcinoma in situ",
+            "Basal-like breast cancer",
+            "Mucinous carcinoma",
+            "Tubular carcinoma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major prognostic factor in breast cancer?",
+        "options": [
+            "Tumor size",
+            "Histologic subtype",
+            "DNA content",
+            "Presence of calcifications",
+            "Gene expression profiling"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is associated with male breast carcinoma?",
+        "options": [
+            "BRCA2 mutations",
+            "Obesity",
+            "Testicular atrophy",
+            "Gynecomastia",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which histologic subtype of invasive breast carcinoma has the worst prognosis?",
+        "options": [
+            "Invasive ductal carcinoma, NST",
+            "Invasive lobular carcinoma",
+            "Mucinous carcinoma",
+            "Tubular carcinoma",
+            "Medullary carcinoma"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following genetic mutations is most strongly associated with breast cancer?",
+        "options": [
+            "BRCA1",
+            "BRCA2",
+            "CHEK2",
+            "PTEN",
+            "All of the above"
+        ],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which breast carcinoma subtype is characterized by single-file infiltration?",
+        "options": [
+            "Invasive ductal carcinoma",
+            "Invasive lobular carcinoma",
+            "Mucinous carcinoma",
+            "Papillary carcinoma",
+            "Basal-like carcinoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is true regarding HER2-positive breast cancer?",
+        "options": [
+            "It is associated with a worse prognosis",
+            "It is treated with trastuzumab",
+            "It is more common in postmenopausal women",
+            "It has a better prognosis than ER-positive tumors",
+            "It never occurs in BRCA1-mutated cancers"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following breast lesions is most likely to present with nipple discharge?",
+        "options": [
+            "Ductal carcinoma in situ",
+            "Intraductal papilloma",
+            "Fibroadenoma",
+            "Sclerosing adenosis",
+            "Radial scar"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which inflammatory breast condition is most likely to mimic carcinoma?",
+        "options": [
+            "Acute mastitis",
+            "Periductal mastitis",
+            "Mammary duct ectasia",
+            "Fat necrosis",
+            "Lymphocytic mastopathy"
+        ],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following is a typical feature of Paget disease of the breast?",
+        "options": [
+            "Eczematous changes of the nipple",
+            "Underlying invasive carcinoma",
+            "No association with DCIS",
+            "Well-circumscribed mass",
+            "Lobular carcinoma in situ"
+        ],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a characteristic feature of lobular carcinoma in situ (LCIS)?",
+        "options": [
+            "Frequently bilateral",
+            "Always presents with calcifications",
+            "Rarely expresses estrogen and progesterone receptors",
+            "Strongly associated with HER2 overexpression",
+            "Highly cohesive tumor cells"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following breast pathologies is associated with trauma or prior surgery?",
+        "options": [
+            "Fat necrosis",
+            "Ductal carcinoma in situ",
+            "Lobular carcinoma in situ",
+            "Paget disease",
+            "Sclerosing adenosis"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about sclerosing adenosis is true?",
+        "options": [
+            "It is associated with an increased risk of breast cancer",
+            "It mimics carcinoma histologically",
+            "It presents as a well-circumscribed mass",
+            "It has no impact on mammographic findings",
+            "It is a type of inflammatory breast condition"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which breast cancer subtype is most commonly associated with BRCA1 mutations?",
+        "options": [
+            "ER-positive, HER2-negative",
+            "HER2-positive",
+            "Basal-like triple-negative",
+            "Mucinous carcinoma",
+            "Lobular carcinoma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major clinical feature of inflammatory breast carcinoma?",
+        "options": [
+            "Peau d'orange appearance",
+            "Well-defined palpable mass",
+            "High incidence of calcifications",
+            "Rare lymphovascular invasion",
+            "Slow-growing tumor with good prognosis"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following genetic mutations is least associated with an increased risk of breast cancer?",
+        "options": [
+            "BRCA1",
+            "BRCA2",
+            "CHEK2",
+            "PTEN",
+            "MYC"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    }
+]

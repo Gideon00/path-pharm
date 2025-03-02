@@ -1,0 +1,665 @@
+[
+    {
+        "question": "Which of the following is the major site of haemopoiesis in the fetus from 6 weeks to 7 months of gestation?",
+        "options": [
+            "Yolk sac",
+            "Liver and spleen",
+            "Bone marrow",
+            "Thymus",
+            "Lymph nodes"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "At birth, what is the normal haemoglobin concentration in the neonate?",
+        "options": [
+            "10-12 g/dL",
+            "13-15 g/dL",
+            "16.5-17.0 g/dL",
+            "18-20 g/dL",
+            "6.5-9.0 g/dL"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic feature of fetal haemoglobin (HbF)?",
+        "options": [
+            "Composed of α2β2 chains",
+            "Composed of α2γ2 chains",
+            "Has a higher oxygen affinity than adult haemoglobin",
+            "Synthesized after birth",
+            "Completely replaced by HbA at birth"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Neonatal anaemia is defined as haemoglobin concentration below which value at birth?",
+        "options": [
+            "10 g/dL",
+            "11 g/dL",
+            "12 g/dL",
+            "13 g/dL",
+            "14 g/dL"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common cause of neonatal anaemia?",
+        "options": [
+            "Fetomaternal bleeding",
+            "Twin-twin transfusion",
+            "Congenital leukaemia",
+            "Haemolytic disease of the newborn",
+            "Iron deficiency"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which condition is associated with erythroblastosis fetalis?",
+        "options": [
+            "Neonatal polycythaemia",
+            "Iron deficiency anaemia",
+            "Rh haemolytic disease of the newborn",
+            "Congenital leukaemia",
+            "Sickle cell disease"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary pathophysiology of HDN?",
+        "options": [
+            "Maternal IgM antibodies destroying fetal red cells",
+            "Maternal IgG antibodies crossing the placenta and destroying fetal red cells",
+            "Reduced fetal erythropoiesis",
+            "Placental dysfunction leading to red cell sequestration",
+            "Iron overload in the fetus"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary treatment for severe HDN?",
+        "options": [
+            "Phototherapy",
+            "Exchange transfusion",
+            "Iron supplementation",
+            "Folic acid therapy",
+            "Erythropoietin"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following blood group combinations is most at risk for ABO HDN?",
+        "options": [
+            "Mother A, baby B",
+            "Mother B, baby A",
+            "Mother AB, baby O",
+            "Mother O, baby A or B",
+            "Mother O, baby O"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which blood product is used for exchange transfusion in HDN?",
+        "options": [
+            "Fresh whole blood",
+            "Packed red blood cells",
+            "Rh-negative, ABO-compatible blood",
+            "Platelet-rich plasma",
+            "Cryoprecipitate"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a late complication of severe HDN?",
+        "options": [
+            "Neonatal jaundice",
+            "Kernicterus",
+            "Thrombocytopenia",
+            "Polycythaemia",
+            "Neutropenia"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following laboratory tests is most useful for detecting fetal-maternal haemorrhage (FMH)?",
+        "options": [
+            "Direct Coombs test",
+            "Kleihauer-Betke test",
+            "Complete blood count",
+            "Liver function tests",
+            "Peripheral blood smear"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which vitamin deficiency is responsible for haemorrhagic disease of the newborn?",
+        "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin K",
+            "Vitamin B12"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which coagulation factors are most affected by vitamin K deficiency?",
+        "options": [
+            "Factor II, VII, IX, X",
+            "Factor V, VIII, XIII",
+            "Fibrinogen, Factor I, XIII",
+            "Protein C, Protein S",
+            "Factor XII, Factor XI"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a cause of vitamin K deficiency in neonates?",
+        "options": [
+            "Poor placental transfer",
+            "Absence of gut flora",
+            "Exclusive breastfeeding",
+            "Iron deficiency",
+            "Maternal use of warfarin"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is the recommended prophylaxis for vitamin K deficiency bleeding?",
+        "options": [
+            "Oral vitamin K only",
+            "Intramuscular vitamin K at birth",
+            "Iron supplementation",
+            "Folic acid supplementation",
+            "Exchange transfusion"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a clinical sign of vitamin K deficiency bleeding?",
+        "options": [
+            "Intracranial haemorrhage",
+            "Gastrointestinal bleeding",
+            "Umbilical stump bleeding",
+            "Excessive bruising",
+            "Polycythaemia"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "T"
+        ]
+    },
+    {
+        "question": "Which type of neonatal jaundice is most commonly associated with kernicterus?",
+        "options": [
+            "Physiological jaundice",
+            "Breastfeeding jaundice",
+            "Haemolytic jaundice",
+            "Obstructive jaundice",
+            "Neonatal sepsis"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which test is most useful for diagnosing neonatal sepsis?",
+        "options": [
+            "Blood culture",
+            "Peripheral blood smear",
+            "Coombs test",
+            "Liver function tests",
+            "Iron studies"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common haematological disorder in pregnancy?",
+        "options": [
+            "Anaemia",
+            "Thrombocytopenia",
+            "Neutrophilia",
+            "Polycythemia",
+            "Leukopenia"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What defines anaemia in pregnancy according to WHO?",
+        "options": [
+            "Hb < 12g/dL",
+            "Hb < 11g/dL",
+            "Hb < 10g/dL",
+            "Hb < 9g/dL",
+            "Hb < 8g/dL"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a cause of anaemia in pregnancy?",
+        "options": [
+            "Iron deficiency",
+            "Vitamin B12 deficiency",
+            "Folic acid deficiency",
+            "Hypercoagulable state",
+            "Malaria"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the primary mechanism behind physiologic anaemia of pregnancy?",
+        "options": [
+            "Suppression of erythropoiesis",
+            "Increased plasma volume relative to red cell mass",
+            "Increased destruction of red blood cells",
+            "Bone marrow failure",
+            "Iron sequestration"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which trimester is physiologic anaemia most prominent?",
+        "options": [
+            "First trimester",
+            "Second trimester",
+            "Third trimester",
+            "Postpartum period",
+            "Equally prominent in all trimesters"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is a common fetal outcome of maternal anaemia?",
+        "options": [
+            "Macrosomia",
+            "Preterm delivery",
+            "Polycythemia",
+            "Neural tube defects",
+            "Twin gestation"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the most common cause of pathologic anaemia in pregnancy?",
+        "options": [
+            "Iron deficiency anaemia",
+            "Sickle cell anaemia",
+            "Megaloblastic anaemia",
+            "Aplastic anaemia",
+            "Autoimmune haemolytic anaemia"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following contributes to iron deficiency anaemia in pregnancy?",
+        "options": [
+            "Increased iron demand for fetal growth",
+            "Increased platelet destruction",
+            "Decreased bone marrow function",
+            "Increased oxygen demand",
+            "Increased erythropoietin production"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which nutrient deficiency is most commonly associated with megaloblastic anaemia in pregnancy?",
+        "options": [
+            "Iron",
+            "Folic acid",
+            "Calcium",
+            "Zinc",
+            "Magnesium"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following infections is strongly associated with anaemia in pregnancy?",
+        "options": [
+            "Hepatitis B",
+            "Malaria",
+            "Tuberculosis",
+            "HIV",
+            "Syphilis"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a risk factor for thrombocytopenia in pregnancy?",
+        "options": [
+            "Preeclampsia",
+            "Iron deficiency",
+            "Immune thrombocytopenic purpura",
+            "HELLP syndrome",
+            "Disseminated intravascular coagulation (DIC)"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the platelet count threshold for diagnosing thrombocytopenia in pregnancy?",
+        "options": [
+            "<200 x 10⁹/L",
+            "<180 x 10⁹/L",
+            "<150 x 10⁹/L",
+            "<120 x 10⁹/L",
+            "<100 x 10⁹/L"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is the most common cause of thrombocytopenia in pregnancy?",
+        "options": [
+            "Gestational thrombocytopenia",
+            "ITP",
+            "HELLP syndrome",
+            "TTP",
+            "Drug-induced thrombocytopenia"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is characteristic of gestational thrombocytopenia?",
+        "options": [
+            "Severe thrombocytopenia <20 x 10⁹/L",
+            "Onset early in pregnancy",
+            "Resolution postpartum",
+            "Associated with fetal thrombocytopenia",
+            "Requires urgent treatment"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following conditions is associated with thrombocytopenia and hypertension in pregnancy?",
+        "options": [
+            "Sickle cell disease",
+            "HELLP syndrome",
+            "ITP",
+            "Vitamin B12 deficiency",
+            "Neutrophilia"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which treatment is preferred for immune thrombocytopenic purpura (ITP) in pregnancy?",
+        "options": [
+            "Methotrexate",
+            "Corticosteroids",
+            "Aspirin",
+            "Warfarin",
+            "Heparin"
+        ],
+        "answer": [
+            "F",
+            "T",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "What is the main pathophysiology of ITP?",
+        "options": [
+            "Platelet destruction by autoantibodies",
+            "Bone marrow failure",
+            "Increased platelet production",
+            "Increased platelet lifespan",
+            "Iron deficiency"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a component of the HELLP syndrome?",
+        "options": [
+            "Haemolysis",
+            "Elevated liver enzymes",
+            "Low platelets",
+            "Leukocytosis",
+            "Proteinuria"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "F",
+            "T",
+            "F"
+        ]
+    },
+    {
+        "question": "Which condition is characterized by microangiopathic haemolytic anaemia, thrombocytopenia, and renal failure?",
+        "options": [
+            "Thrombotic thrombocytopenic purpura (TTP)",
+            "Gestational thrombocytopenia",
+            "Iron deficiency anaemia",
+            "Megaloblastic anaemia",
+            "Neutropenia"
+        ],
+        "answer": [
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ]
+    },
+    {
+        "question": "Which of the following is TRUE regarding thromboembolism in pregnancy?",
+        "options": [
+            "Risk decreases during pregnancy",
+            "Warfarin is the drug of choice",
+            "Low molecular weight heparin is preferred",
+            "Coagulation factors decrease in pregnancy",
+            "Pregnancy is associated with hypocoagulability"
+        ],
+        "answer": [
+            "F",
+            "F",
+            "T",
+            "F",
+            "F"
+        ]
+    }
+]
