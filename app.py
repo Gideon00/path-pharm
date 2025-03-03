@@ -840,6 +840,3 @@ def get_data():
     with open('bank/key.json', encoding="utf-8") as f:  # Load JSON from a file
         data = json.load(f)
     return jsonify(data)
-
-if __name__ == "__main__":
-    app.run()
