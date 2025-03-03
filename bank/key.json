@@ -107,6 +107,21 @@
           "topic": "Drug Use Disorder II",
           "start": 282,
           "end": 286
+        },
+        {
+          "topic": "Intro Antimicrobial Agents -3",
+          "start": 1,
+          "end": 20
+        },
+        {
+          "topic": "TB and Leprosy -3",
+          "start": 21,
+          "end": 45
+        },
+        {
+          "topic": "Antiviral Drugs -3",
+          "start": 46,
+          "end": 70
         }
       ]
     },
@@ -157,6 +172,16 @@
           "topic": "Haematology of Pregnancy -3",
           "start": 20,
           "end": 39
+        },
+        {
+          "topic": "Stem Cell Transplantation -3",
+          "start": 40,
+          "end": 59
+        },
+        {
+          "topic": "Haematological Changes in HIV/AIDS -3",
+          "start": 60,
+          "end": 81
         }
       ]
     },
@@ -322,6 +347,16 @@
           "topic": "Disorders of calcium and phosphate -3",
           "start": 1,
           "end": 19
+        },
+        {
+          "topic": "Endocrine emergencies and the role of the laboratory -3",
+          "start": 20,
+          "end": 39
+        },
+        {
+          "topic": "Biochemical Changes in Protein - Calorie Malnutrition -3",
+          "start": 40,
+          "end": 54
         }
       ]
     }
