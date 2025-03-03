@@ -1,5 +1,5 @@
 from functools import wraps
-from flask import abort, redirect, render_template, session
+from flask import abort, redirect, render_template, session, url_for
 
 
 def apology(message, code=400):
