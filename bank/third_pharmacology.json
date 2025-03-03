@@ -1,0 +1,353 @@
+[
+    {
+        "question": "Which of the following is the primary mechanism of action of beta-lactam antibiotics?",
+        "options": ["Inhibition of cell wall synthesis", "Disruption of protein synthesis", "Inhibition of nucleic acid synthesis", "Interference with metabolic pathways", "Disruption of membrane structure"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which class of antibiotics inhibits bacterial protein synthesis at the ribosomal 50S subunit?",
+        "options": ["Aminoglycosides", "Tetracyclines", "Macrolides", "Fluoroquinolones", "Sulfonamides"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics targets bacterial DNA gyrase?",
+        "options": ["Penicillins", "Cephalosporins", "Aminoglycosides", "Fluoroquinolones", "Macrolides"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following best describes the action of aminoglycosides?",
+        "options": ["Inhibit cell wall synthesis", "Inhibit protein synthesis at the 30S ribosomal subunit", "Inhibit folic acid metabolism", "Disrupt the bacterial membrane", "Inhibit RNA polymerase"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of aminoglycosides?",
+        "options": ["High water solubility", "Oral bioavailability", "Bactericidal action", "Excretion via kidneys", "Nephrotoxicity and ototoxicity"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics inhibit bacterial folic acid synthesis?",
+        "options": ["Fluoroquinolones", "Sulfonamides", "Macrolides", "Aminoglycosides", "Beta-lactams"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a primary mechanism of bacterial resistance to beta-lactam antibiotics?",
+        "options": ["Alteration of ribosomal target sites", "Efflux pump activation", "Beta-lactamase production", "Modification of DNA gyrase", "Increased membrane permeability"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is commonly used in combination with aminoglycosides to extend their spectrum?",
+        "options": ["Macrolides", "Beta-lactams", "Sulfonamides", "Fluoroquinolones", "Tetracyclines"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major side effect of fluoroquinolones?",
+        "options": ["Nephrotoxicity", "Cartilage damage", "Ototoxicity", "Hypokalemia", "Hypersensitivity reactions"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following mechanisms is a major cause of bacterial resistance to fluoroquinolones?",
+        "options": ["Decreased uptake via membrane proteins", "Increased folic acid metabolism", "Ribosomal mutation", "Alteration of cell wall synthesis", "Inhibition of efflux pumps"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is known to cause pseudomembranous colitis due to Clostridium difficile?",
+        "options": ["Tetracycline", "Clindamycin", "Gentamicin", "Fluoroquinolone", "Vancomycin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mode of action of tetracyclines?",
+        "options": ["Inhibition of cell wall synthesis", "Inhibition of 30S ribosomal subunit", "Disruption of membrane integrity", "Inhibition of RNA polymerase", "Inhibition of DNA gyrase"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is most effective in treating anaerobic infections?",
+        "options": ["Aminoglycosides", "Clindamycin", "Fluoroquinolones", "Penicillins", "Macrolides"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is commonly used for tuberculosis treatment?",
+        "options": ["Penicillin", "Rifampin", "Fluoroquinolone", "Macrolide", "Aminoglycoside"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which class of antibiotics primarily acts by inhibiting bacterial topoisomerases?",
+        "options": ["Macrolides", "Fluoroquinolones", "Aminoglycosides", "Beta-lactams", "Sulfonamides"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is contraindicated in children due to potential cartilage damage?",
+        "options": ["Tetracycline", "Fluoroquinolones", "Macrolides", "Beta-lactams", "Aminoglycosides"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics inhibits bacterial RNA polymerase?",
+        "options": ["Penicillin", "Rifampin", "Aminoglycosides", "Tetracyclines", "Cephalosporins"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which class of antibiotics is commonly associated with nephrotoxicity and ototoxicity?",
+        "options": ["Macrolides", "Fluoroquinolones", "Beta-lactams", "Aminoglycosides", "Sulfonamides"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics is known for causing QT prolongation?",
+        "options": ["Fluoroquinolones", "Aminoglycosides", "Beta-lactams", "Sulfonamides", "Tetracyclines"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics should be avoided in pregnancy due to teratogenic effects?",
+        "options": ["Tetracyclines", "Beta-lactams", "Macrolides", "Fluoroquinolones", "Sulfonamides"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a first-line agent for tuberculosis treatment?",
+        "options": ["Isoniazid", "Rifampicin", "Pyrazinamide", "Ethambutol", "Kanamycin"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which anti-TB drug inhibits mycolic acid synthesis?",
+        "options": ["Rifampicin", "Isoniazid", "Ethambutol", "Pyrazinamide", "Streptomycin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which TB drug can cause red-orange discoloration of body fluids?",
+        "options": ["Isoniazid", "Rifampicin", "Ethambutol", "Pyrazinamide", "Streptomycin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a second-line anti-TB drug?",
+        "options": ["Isoniazid", "Rifampicin", "Ethionamide", "Ethambutol", "Pyrazinamide"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements about multidrug-resistant tuberculosis (MDR-TB) is TRUE?",
+        "options": ["It is resistant to at least isoniazid and rifampicin", "It is resistant to all first-line TB drugs", "It can be treated using only first-line agents", "It is not transmissible between humans", "It does not require prolonged treatment"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of ethambutol?",
+        "options": ["Inhibits DNA synthesis", "Inhibits arabinosyl transferase", "Blocks protein synthesis", "Inhibits folic acid synthesis", "Disrupts ribosomal function"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following anti-TB drugs is contraindicated in pregnancy?",
+        "options": ["Isoniazid", "Rifampicin", "Ethambutol", "Streptomycin", "Pyrazinamide"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following second-line TB drugs is a fluoroquinolone?",
+        "options": ["Kanamycin", "Amikacin", "Levofloxacin", "Capreomycin", "Cycloserine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a known adverse effect of pyrazinamide?",
+        "options": ["Optic neuritis", "Hyperuricemia", "Ototoxicity", "Renal failure", "Peripheral neuropathy"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary site of infection for Mycobacterium tuberculosis?",
+        "options": ["Liver", "Lungs", "Kidneys", "Bones", "Brain"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following diagnostic tests is NOT recommended for diagnosing tuberculosis in adults?",
+        "options": ["Sputum smear examination", "Chest X-ray", "Tuberculin skin test (Mantoux test)", "Nucleic acid detection tests", "Sputum culture"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the main cause of leprosy?",
+        "options": ["Mycobacterium tuberculosis", "Mycobacterium bovis", "Mycobacterium leprae", "Mycobacterium avium", "Mycobacterium africanum"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a first-line drug for leprosy treatment?",
+        "options": ["Dapsone", "Rifampicin", "Clofazimine", "Levofloxacin", "Ethambutol"],
+        "answer": ["F", "F", "F", "T", "T"]
+    },
+    {
+        "question": "Which of the following is the recommended treatment duration for multi-bacillary leprosy?",
+        "options": ["3 months", "6 months", "9 months", "12 months", "18 months"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following drugs is used for chemoprophylaxis in leprosy?",
+        "options": ["Dapsone", "Rifampicin", "Clofazimine", "Isoniazid", "Ethambutol"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major complication of leprosy?",
+        "options": ["Hemolytic anemia", "Infertility", "Hyperuricemia", "Blindness", "Seizures"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which classification of leprosy involves large lumps and bumps on the body?",
+        "options": ["Paucibacillary leprosy", "Tuberculoid leprosy", "Multibacillary leprosy", "Borderline leprosy", "Single lesion leprosy"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is NOT recommended for use in children under 6 years?",
+        "options": ["Isoniazid", "Rifampicin", "Ethambutol", "Pyrazinamide", "Clofazimine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is associated with peripheral neuropathy as a side effect?",
+        "options": ["Isoniazid", "Rifampicin", "Ethambutol", "Pyrazinamide", "Streptomycin"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major symptom of pulmonary tuberculosis (PTB)?",
+        "options": ["Severe headache", "Cough lasting more than two weeks", "Diarrhea", "Skin rash", "Neck stiffness"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is included in the WHO-recommended multi-drug therapy (MDT) for leprosy?",
+        "options": ["Ciprofloxacin", "Dapsone", "Metronidazole", "Vancomycin", "Amoxicillin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the recommended treatment duration for paucibacillary leprosy?",
+        "options": ["3 months", "6 months", "9 months", "12 months", "18 months"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which diagnostic method is used to detect acid-fast bacilli in tuberculosis?",
+        "options": ["Gram staining", "Ziehl-Neelsen staining", "Wright's stain", "Giemsa stain", "India ink staining"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a second-line drug used to treat drug-resistant TB?",
+        "options": ["Rifampicin", "Isoniazid", "Bedaquiline", "Ethambutol", "Pyrazinamide"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which vaccine is used for the prevention of tuberculosis?",
+        "options": ["Hepatitis B vaccine", "DTP vaccine", "BCG vaccine", "MMR vaccine", "Polio vaccine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a DNA virus?",
+        "options": ["Adenovirus", "Hepadnavirus", "Herpesvirus", "Rhabdovirus", "Papillomavirus"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following antiviral drugs is a purine analogue?",
+        "options": ["Acyclovir", "Ribavirin", "Amantadine", "Oseltamivir", "Zanamivir"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which virus is responsible for causing shingles?",
+        "options": ["Cytomegalovirus", "Varicella-Zoster Virus", "Epstein-Barr Virus", "Hepatitis B Virus", "Adenovirus"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antiviral drug is primarily used to treat cytomegalovirus (CMV) infections?",
+        "options": ["Acyclovir", "Ganciclovir", "Zidovudine", "Oseltamivir", "Ribavirin"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a neuraminidase inhibitor used for influenza treatment?",
+        "options": ["Amantadine", "Zanamivir", "Rimantadine", "Ganciclovir", "Acyclovir"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of acyclovir?",
+        "options": ["Inhibition of RNA polymerase", "Inhibition of DNA polymerase", "Inhibition of reverse transcriptase", "Inhibition of viral uncoating", "Inhibition of protease"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an entry/fusion inhibitor used in HIV treatment?",
+        "options": ["Enfuvirtide", "Nevirapine", "Zidovudine", "Efavirenz", "Indinavir"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antiviral drug inhibits viral uncoating?",
+        "options": ["Rimantadine", "Acyclovir", "Ganciclovir", "Foscarnet", "Zidovudine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which virus is treated using ribavirin?",
+        "options": ["HIV", "Hepatitis C", "Herpes simplex", "Influenza", "Varicella-Zoster"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the mechanism of action of neuraminidase inhibitors?",
+        "options": ["Inhibit viral DNA synthesis", "Block viral uncoating", "Prevent viral release", "Inhibit viral protease", "Inhibit RNA polymerase"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a non-nucleoside reverse transcriptase inhibitor (NNRTI)?",
+        "options": ["Zidovudine", "Lamivudine", "Efavirenz", "Tenofovir", "Ritonavir"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antiviral drug requires phosphorylation by viral thymidine kinase for activation?",
+        "options": ["Foscarnet", "Acyclovir", "Zanamivir", "Oseltamivir", "Nevirapine"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a protease inhibitor used in HIV treatment?",
+        "options": ["Zidovudine", "Lamivudine", "Indinavir", "Nevirapine", "Efavirenz"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which viral enzyme is inhibited by reverse transcriptase inhibitors?",
+        "options": ["RNA polymerase", "Integrase", "Reverse transcriptase", "Neuraminidase", "Protease"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a chemokine receptor antagonist used in HIV treatment?",
+        "options": ["Enfuvirtide", "Raltegravir", "Maraviroc", "Efavirenz", "Zidovudine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of action of foscarnet?",
+        "options": ["Inhibits DNA polymerase", "Inhibits viral protease", "Blocks viral entry", "Inhibits neuraminidase", "Blocks viral fusion"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which virus does lamivudine primarily target?",
+        "options": ["HIV", "Hepatitis B", "Hepatitis C", "Influenza", "Cytomegalovirus"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which antiviral drug is used in post-exposure prophylaxis for HIV?",
+        "options": ["Acyclovir", "Zidovudine", "Oseltamivir", "Foscarnet", "Maraviroc"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a major adverse effect of protease inhibitors?",
+        "options": ["Nephrotoxicity", "Hyperlipidemia", "Bone marrow suppression", "Retinopathy", "Peripheral neuropathy"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is an integrase inhibitor used in HIV treatment?",
+        "options": ["Efavirenz", "Nevirapine", "Raltegravir", "Maraviroc", "Zidovudine"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which antiviral drug is known to cause bone marrow suppression?",
+        "options": ["Ganciclovir", "Acyclovir", "Ribavirin", "Oseltamivir", "Nevirapine"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an NRTI used in HIV treatment?",
+        "options": ["Efavirenz", "Nevirapine", "Tenofovir", "Indinavir", "Maraviroc"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which viral infection is commonly treated with oseltamivir?",
+        "options": ["HIV", "Hepatitis B", "Influenza", "Cytomegalovirus", "Varicella-Zoster"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following antiviral drugs is effective against hepatitis C?",
+        "options": ["Acyclovir", "Ribavirin", "Oseltamivir", "Zanamivir", "Foscarnet"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of action of tenofovir?",
+        "options": ["Inhibition of integrase", "Inhibition of reverse transcriptase", "Inhibition of protease", "Inhibition of neuraminidase", "Inhibition of viral entry"],
+        "answer": ["F", "T", "F", "F", "F"]
+    }
+]
+
