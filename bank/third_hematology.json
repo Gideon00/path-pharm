@@ -661,5 +661,215 @@
             "F",
             "F"
         ]
+    },
+    {
+        "question": "Which type of stem cells can differentiate into any cell type?",
+        "options": ["Totipotent Stem Cells", "Pluripotent Stem Cells", "Multipotent Stem Cells", "Unipotent Stem Cells", "Induced Pluripotent Stem Cells"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are sources of Hematopoietic Stem Cells (HSCs)?",
+        "options": ["Bone marrow", "Peripheral blood", "Umbilical cord blood", "Adipose tissue", "Neural tissue"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What is the main function of Hematopoietic Stem Cells (HSCs)?",
+        "options": ["Regeneration of blood-forming tissues", "Formation of neural tissues", "Generation of muscle fibers", "Development of skin cells", "Repair of cartilage"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following are types of stem cell transplantation (SCT)?",
+        "options": ["Bone marrow transplantation", "Peripheral blood stem cell transplantation", "Umbilical cord blood transplantation", "Adipose tissue stem cell transplantation", "Liver stem cell transplantation"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "What are the eligibility criteria for an allogeneic hematopoietic stem cell transplant (HSCT)?",
+        "options": ["Age ≤ 50 years", "HLA-matched sibling donor", "Normal liver function tests", "History of active Hepatitis B", "Cardiac ejection fraction ≥ 45%"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following agents are used for mobilization of peripheral blood stem cells (PBSCs)?",
+        "options": ["G-CSF", "GM-CSF", "IL-3", "Thrombopoietin", "CXCR4 antagonist"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following are complications of allogeneic stem cell transplantation (SCT)?",
+        "options": ["Graft failure", "Graft-versus-host disease (GVHD)", "Graft rejection", "Primary immunodeficiency", "Graft-versus-tumor effect"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a type of hematopoietic stem cell transplant donor?",
+        "options": ["Autologous", "Allogeneic", "Syngeneic", "Matched unrelated donor", "Placentally derived donor"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is TRUE about non-myeloablative conditioning in SCT?",
+        "options": ["It is also known as reduced-intensity conditioning", "It is used primarily in older patients or those with comorbidities", "It completely eradicates the recipient's bone marrow", "It is associated with higher treatment-related mortality than myeloablative conditioning", "It aims to induce donor stem cell engraftment without fully eradicating host marrow"],
+        "answer": ["T", "T", "F", "F", "T"]
+    },
+    {
+        "question": "What are potential sources of stem cells for transplantation?",
+        "options": ["Marrow", "Peripheral blood", "Umbilical cord blood", "Placental tissue", "Amniotic fluid"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements regarding graft failure is TRUE?",
+        "options": ["Primary graft failure occurs when donor cells do not engraft", "Secondary graft failure occurs after initial successful engraftment", "Graft failure is common with HLA-matched sibling donors", "It is more likely in unrelated donor transplants", "Graft failure is defined by sustained neutropenia and thrombocytopenia"],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which of the following contribute to successful stem cell engraftment?",
+        "options": ["Stem cell dose", "Intensity of conditioning regimen", "Genetic disparity between donor and host", "Number of transplanted donor T cells", "Patient’s blood type"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which type of donor shares one HLA haplotype with the recipient?",
+        "options": ["Matched sibling donor", "Matched unrelated donor", "Haploidentical donor", "Syngeneic donor", "Xenograft donor"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions can be treated with hematopoietic stem cell transplantation?",
+        "options": ["Leukemia", "Lymphoma", "Multiple myeloma", "Sickle cell disease", "Hypertension"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following factors increase the risk of graft-versus-host disease (GVHD)?",
+        "options": ["HLA mismatch", "Higher number of donor T cells", "Use of umbilical cord blood", "Use of peripheral blood stem cells", "Older donor age"],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "What is the primary role of a conditioning regimen before SCT?",
+        "options": ["Eradicate the recipient’s hematopoietic system", "Reduce the risk of infection", "Eliminate the need for immunosuppressive therapy", "Increase platelet count", "Enhance donor T-cell function"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What are some indications for autologous HSCT?",
+        "options": ["Age ≤ 70 years", "Karnofsky performance status > 80%", "Ejection fraction ≥ 45%", "Active Hepatitis C", "Creatinine clearance ≥ 50 ml/min"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "What is the major side effect of cryopreserved stem cell infusion?",
+        "options": ["Nausea", "Fever", "Seizures", "Hyperglycemia", "Hypertension"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following immune cells are among the first to recover post-transplant?",
+        "options": ["Neutrophils", "Monocytes", "Natural killer (NK) cells", "T-cells", "Platelets"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following statements regarding Graft-Versus-Tumor (GVT) effect is TRUE?",
+        "options": ["GVT effect helps eradicate recipient leukemia", "It is more profound in syngeneic transplants", "It is mediated by donor immune cells", "It is completely independent of GVHD", "It is seen only in autologous SCT"],
+        "answer": ["T", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which hematologic abnormalities are commonly associated with HIV/AIDS?",
+        "options": ["Anemia", "Thrombocytopenia", "Neutropenia", "Lymphopenia", "Polycythemia"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What is the most common cause of anemia in HIV patients?",
+        "options": ["Iron deficiency", "Vitamin B12 deficiency", "Anemia of chronic disease", "Hemolytic anemia", "Polycythemia vera"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which drug is most commonly associated with anemia in HIV patients?",
+        "options": ["Zidovudine", "Efavirenz", "Nevirapine", "Atazanavir", "Lopinavir"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following cytokines contribute to anemia of chronic disease (ACD)?",
+        "options": ["TNF-alpha", "IL-1", "IL-6", "Interferons", "IL-10"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What is the primary mechanism of anemia in chronic kidney disease?",
+        "options": ["Iron deficiency", "Folate deficiency", "Reduced erythropoietin production", "Hemolysis", "Bone marrow infiltration"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following are features of thrombocytopenia in HIV?",
+        "options": ["HIV-associated immune thrombocytopenia (ITP)", "Thrombotic thrombocytopenic purpura (TTP)", "Splenomegaly", "Myelodysplasia", "Polycythemia vera"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following can cause neutropenia in HIV patients?",
+        "options": ["Impaired hematopoiesis", "Myelosuppressive therapy", "Immune neutrophil destruction", "Bacterial infections", "G-CSF therapy"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following best describes lymphopenia in HIV?",
+        "options": ["Low absolute lymphocyte count", "CD4+ T-cell depletion", "Polyclonal B-cell activation", "Decreased monocyte function", "Increased neutrophil production"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "What is a characteristic feature of anemia of chronic disease?",
+        "options": ["Reduced serum iron", "Increased total iron-binding capacity (TIBC)", "Low serum ferritin", "Elevated hepcidin levels", "Macrocytosis"],
+        "answer": ["T", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which hematological abnormalities are associated with malignancies?",
+        "options": ["Anemia", "Polycythemia", "Leukoerythroblastic blood picture", "Disseminated intravascular coagulation (DIC)", "Neutrophilic leukocytosis"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which malignancies are most commonly associated with HIV?",
+        "options": ["Diffuse large B-cell lymphoma", "Burkitt's lymphoma", "Primary effusion lymphoma", "Chronic myeloid leukemia", "Hodgkin’s lymphoma"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following conditions can present with anemia in chronic liver disease?",
+        "options": ["Anemia of chronic disease", "Hemodilution", "Vitamin B12 deficiency", "Iron overload", "Alcohol-related bone marrow suppression"],
+        "answer": ["T", "T", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following hematological changes are seen in chronic renal disease?",
+        "options": ["Normocytic anemia", "Iron deficiency", "Polycythemia", "Thrombocytopathy", "Hypercoagulability"],
+        "answer": ["T", "T", "F", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a major risk factor for venous thromboembolism in HIV patients?",
+        "options": ["Increased lupus anticoagulant", "Increased factor VIII", "Low protein S", "Low antithrombin III", "Hyperhomocysteinemia"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following are hematologic toxicities of antiretroviral therapy?",
+        "options": ["Zidovudine-induced anemia", "Efavirenz-induced thrombocytopenia", "Ganciclovir-induced neutropenia", "Cotrimoxazole-induced bone marrow suppression", "Dapsone-induced hemolysis"],
+        "answer": ["T", "F", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following changes are characteristic of anemia of chronic disease?",
+        "options": ["Low serum iron", "Low TIBC", "Normal to high serum ferritin", "Microcytosis", "Hypochromia"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which hematological changes occur in rheumatoid arthritis?",
+        "options": ["Anemia of chronic disease", "Autoimmune hemolytic anemia", "Thrombocytopenia", "Thrombocytosis", "Polycythemia"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which of the following statements about lymphadenopathy in HIV are true?",
+        "options": ["Generalized lymphadenopathy is a common early finding", "It can persist for more than 3 months", "It is always a sign of lymphoma", "It may regress with disease progression", "It is typically painful"],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which conditions are associated with bone marrow failure in osteopetrosis?",
+        "options": ["Defective osteoclast function", "Extramedullary hematopoiesis", "Brittle bones", "Increased erythropoietin production", "Increased platelet production"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which hematological abnormalities are seen in malaria?",
+        "options": ["Anemia", "Thrombocytopenia", "Hemolysis", "DIC", "Leukocytosis"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "Which hematological conditions are common in bacterial infections?",
+        "options": ["Neutrophilia", "Toxic granulation", "Döhle bodies", "Leukoerythroblastic reaction", "Thrombocytopenia"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following conditions are associated with disseminated intravascular coagulation (DIC)?",
+        "options": ["Sepsis", "Malignancies", "Trauma", "Liver disease", "Polycythemia vera"],
+        "answer": ["T", "T", "T", "T", "F"]
     }
 ]
