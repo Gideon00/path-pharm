@@ -207,5 +207,180 @@
             "All of the above"
         ],
         "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a common cause of hypoglycemia?",
+        "options": ["Insulinomas", "Beta-blockers", "Adrenal insufficiency", "Hyperthyroidism", "Alcohol"],
+        "answer": ["F", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which laboratory findings are typically seen in Diabetic Ketoacidosis (DKA)?",
+        "options": ["Hyperglycemia", "High anion gap metabolic acidosis", "Hypokalemia at presentation", "Ketonemia", "Metabolic alkalosis"],
+        "answer": ["T", "T", "F", "T", "F"]
+    },
+    {
+        "question": "In Hyperosmolar Hyperglycemic State (HHS), which of the following statements is TRUE?",
+        "options": ["Plasma glucose is usually >1000 mg/dL", "Ketone production is prominent", "Occurs predominantly in Type 1 Diabetes", "Has lower mortality than DKA", "Commonly associated with severe dehydration"],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a feature of Addisonian Crisis?",
+        "options": ["Hyponatremia", "Hyperkalemia", "Hypoglycemia", "Hypertension", "Dehydration"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "What is the recommended initial management for Myxedema Coma?",
+        "options": ["IV Levothyroxine", "IV Hydrocortisone", "IV Glucose", "Warming blankets", "Prophylactic antibiotics"],
+        "answer": ["T", "T", "T", "T", "T"]
+    },
+    {
+        "question": "Which of the following is a key feature of Phaeochromocytoma Crisis?",
+        "options": ["Hypertension", "Hypoglycemia", "Bradycardia", "Hypothermia", "Respiratory alkalosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone levels are primarily measured in the diagnosis of Thyroid Storm?",
+        "options": ["TSH", "Free T4", "Free T3", "ACTH", "Cortisol"],
+        "answer": ["F", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a precipitating factor for DKA?",
+        "options": ["Infection", "Myocardial infarction", "Alcohol binge", "Non-compliance with insulin", "Hyperaldosteronism"],
+        "answer": ["T", "T", "T", "T", "F"]
+    },
+    {
+        "question": "In Pituitary Apoplexy, which symptom is most commonly observed?",
+        "options": ["Severe headache", "Hypoglycemia", "Bradycardia", "Hyperkalemia", "Metabolic alkalosis"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following electrolyte disturbances is commonly seen in Addisonian Crisis?",
+        "options": ["Hyponatremia", "Hyperkalemia", "Hypocalcemia", "Metabolic alkalosis", "Hypoglycemia"],
+        "answer": ["T", "T", "F", "F", "T"]
+    },
+    {
+        "question": "What is the role of β-blockers in the management of Thyroid Storm?",
+        "options": ["Decrease heart rate", "Reduce metabolic rate", "Prevent thyrotoxic periodic paralysis", "Enhance T3 conversion to T4", "Induce hypothyroidism"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which is a diagnostic feature of HHS?",
+        "options": ["Blood glucose >40 mmol/L", "pH <7.3", "Serum bicarbonate <15 mmol/L", "Presence of ketonemia", "Severe dehydration"],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following statements regarding Alcoholic Ketoacidosis is TRUE?",
+        "options": ["It presents with hypoglycemia", "It is associated with high anion gap metabolic acidosis", "Glucose levels are always elevated", "Lactate is usually decreased", "Ketone bodies are not present"],
+        "answer": ["T", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the primary treatment for Pituitary Apoplexy?",
+        "options": ["IV Hydrocortisone", "Fluid resuscitation", "Neurosurgical decompression", "Beta-blockers", "Thyroid hormone replacement"],
+        "answer": ["T", "T", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a laboratory finding in Thyroid Storm?",
+        "options": ["Elevated Free T4", "Suppressed TSH", "Hypocholesterolemia", "Metabolic alkalosis", "Hypercalcemia"],
+        "answer": ["T", "T", "T", "F", "T"]
+    },
+    {
+        "question": "Which of the following is a complication of untreated Addisonian Crisis?",
+        "options": ["Circulatory collapse", "Hypertensive emergency", "Metabolic alkalosis", "Hyperglycemia", "Pulmonary edema"],
+        "answer": ["T", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which test is most useful in diagnosing Phaeochromocytoma?",
+        "options": ["Plasma free metanephrines", "Serum cortisol", "ACTH stimulation test", "Serum renin levels", "Dexamethasone suppression test"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the primary cause of Myxedema Coma?",
+        "options": ["Severe hypothyroidism", "Adrenal crisis", "Pituitary adenoma", "DKA", "Hyperaldosteronism"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which is NOT a typical feature of Phaeochromocytoma crisis?",
+        "options": ["Hypertension", "Hypoglycemia", "Sweating", "Palpitations", "Pallor"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the most common precipitating factor for Diabetic Ketoacidosis (DKA)?",
+        "options": ["Myocardial infarction", "Acute infection", "Alcohol binge", "Non-compliance with insulin", "Pancreatitis"],
+        "answer": ["F", "T", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following biochemical changes is commonly seen in Protein-Energy Malnutrition (PEM)?",
+        "options": ["Hypoglycemia", "Increased basal metabolic rate", "Hyperinsulinemia", "Increased fat stores", "Elevated albumin levels"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is typically elevated in PEM due to stress response?",
+        "options": ["Insulin", "Cortisol", "Thyroxine", "Growth Hormone", "Aldosterone"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a common feature of Kwashiorkor?",
+        "options": ["Edema", "Fatty liver", "Increased appetite", "Skin changes", "Hypoalbuminemia"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following metabolic changes is associated with overnutrition?",
+        "options": ["Hyperglycemia", "Hypoinsulinemia", "Reduced fat deposition", "Lower oxidative stress", "Decreased inflammation"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What is a primary cause of increased mortality in malnourished children?",
+        "options": ["Vitamin A toxicity", "Hyperglycemia", "Infections", "Excess fat deposition", "High protein intake"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following electrolyte imbalances is commonly seen in PEM?",
+        "options": ["Hyperkalemia", "Hypokalemia", "Hypernatremia", "Hypermagnesemia", "Hypercalcemia"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a feature of Marasmus but NOT Kwashiorkor?",
+        "options": ["Edema", "Fatty liver", "Muscle wasting", "Hypoalbuminemia", "Moon face"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a cause of PEM in Africa?",
+        "options": ["High birth rate", "Soil degradation", "Political instability", "High dietary protein intake", "Poverty"],
+        "answer": ["F", "F", "F", "T", "F"]
+    },
+    {
+        "question": "Which of the following biochemical markers is commonly used in nutritional assessment?",
+        "options": ["Albumin", "Bilirubin", "Creatinine kinase", "Uric acid", "LDH"],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key feature of overnutrition-related metabolic changes?",
+        "options": ["Decreased leptin levels", "Decreased inflammation", "Increased insulin resistance", "Reduced oxidative stress", "Low triglycerides"],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a hormonal adaptation seen in PEM?",
+        "options": ["Increased insulin secretion", "Decreased cortisol levels", "Increased thyroid hormone levels", "Lowered insulin sensitivity", "Reduced thyroid function"],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a biochemical feature of PEM?",
+        "options": ["Hypoglycemia", "Increased gluconeogenesis", "Reduced protein synthesis", "Muscle wasting", "Elevated albumin levels"],
+        "answer": ["F", "F", "T", "T", "F"]
+    },
+    {
+        "question": "What is a major consequence of overnutrition?",
+        "options": ["Increased insulin sensitivity", "Increased oxidative stress", "Decreased inflammation", "Lower triglycerides", "Reduced adipose tissue"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a gastrointestinal effect of PEM?",
+        "options": ["Increased nutrient absorption", "Atrophy of intestinal mucosa", "Hyperactive gut microbiota", "Increased gastric acid secretion", "Enhanced protein digestion"],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a biochemical feature of severe malnutrition?",
+        "options": ["Increased fat stores", "Elevated insulin levels", "Hypoglycemia", "High protein synthesis", "Increased muscle mass"],
+        "answer": ["F", "F", "T", "F", "F"]
     }
 ]
