@@ -37,7 +37,7 @@ def login_required(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
         if session.get("oauth_id") is None:
-            return redirect("/signin")
+            return redirect(url_for('oauth'))
         return f(*args, **kwargs)
 
     return decorated_function
