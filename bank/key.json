@@ -122,6 +122,36 @@
           "topic": "Antiviral Drugs -3",
           "start": 46,
           "end": 70
+        },
+        {
+          "topic": "General Principles of Antimicrobial Use -3",
+          "start": 71,
+          "end": 85
+        },
+        {
+          "topic": "Rational Use of Antibiotics -3",
+          "start": 86,
+          "end": 88
+        },
+        {
+          "topic": "Cancer Chemo. II -3",
+          "start": 89,
+          "end": 103
+        },
+        {
+          "topic": "Endocrine Manipulation of Cancers -3",
+          "start": 104,
+          "end": 118
+        },
+        {
+          "topic": "EAR, NOSE AND THROAT PHARMACOLOGY -3",
+          "start": 119,
+          "end": 128
+        },
+        {
+          "topic": "DERMATOLOGICAL PHARMACOLOGY -3",
+          "start": 129,
+          "end": 144
         }
       ]
     },
@@ -312,6 +342,10 @@
           "topic": "Pathology of Female Breast -3",
           "start": 29,
           "end": 53
+        },{
+          "topic": "Common Skin Malignancies -3",
+          "start": 54,
+          "end": 68
         }
       ]
     },
