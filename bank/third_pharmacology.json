@@ -348,6 +348,820 @@
         "question": "What is the primary mechanism of action of tenofovir?",
         "options": ["Inhibition of integrase", "Inhibition of reverse transcriptase", "Inhibition of protease", "Inhibition of neuraminidase", "Inhibition of viral entry"],
         "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following best defines antimicrobial drugs?",
+        "options": [
+            "Drugs that relieve inflammation",
+            "Drugs that treat infections caused by microorganisms",
+            "Drugs that boost immune response",
+            "Drugs that cure viral infections only",
+            "Drugs that work only against bacteria"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a category of microorganisms targeted by antimicrobials?",
+        "options": [
+            "Bacteria",
+            "Viruses",
+            "Fungi",
+            "Parasites",
+            "Prions"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which factor does NOT affect the choice of an antimicrobial drug?",
+        "options": [
+            "Site of infection",
+            "Severity of infection",
+            "Patient’s hair color",
+            "Renal and liver function",
+            "Microbial resistance"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the correct classification of antimicrobial drugs based on their origin?",
+        "options": [
+            "Natural, Semisynthetic, Synthetic",
+            "Bactericidal, Bacteriostatic",
+            "Narrow-spectrum, Broad-spectrum",
+            "Cell wall inhibitors, Protein synthesis inhibitors",
+            "Gram-positive, Gram-negative"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antibiotics inhibits cell wall synthesis?",
+        "options": [
+            "Aminoglycosides",
+            "Quinolones",
+            "Penicillins",
+            "Macrolides",
+            "Tetracyclines"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs inhibits protein synthesis in bacteria?",
+        "options": [
+            "Tetracyclines",
+            "Fluoroquinolones",
+            "Beta-lactams",
+            "Polymyxins",
+            "Metronidazole"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a key principle of antimicrobial use?",
+        "options": [
+            "Using the broadest-spectrum antibiotic available",
+            "Delaying therapy until symptoms worsen",
+            "Making an accurate infectious disease diagnosis",
+            "Ignoring bacterial resistance patterns",
+            "Stopping antibiotics once symptoms improve"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "What is the purpose of determining the Minimum Inhibitory Concentration (MIC) of an antibiotic?",
+        "options": [
+            "To determine the lowest concentration that kills bacteria",
+            "To determine the lowest concentration that inhibits bacterial growth",
+            "To measure the toxicity level of an antibiotic",
+            "To identify bacterial species",
+            "To classify antibiotics by mechanism of action"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following antimicrobial drugs is concentration-dependent?",
+        "options": [
+            "Beta-lactams",
+            "Macrolides",
+            "Aminoglycosides",
+            "Tetracyclines",
+            "Clindamycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which type of antimicrobial therapy is used when the causative agent is unknown but serious infection is suspected?",
+        "options": [
+            "Definitive therapy",
+            "Empirical therapy",
+            "Prophylactic therapy",
+            "Palliative therapy",
+            "Symptomatic therapy"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which pharmacokinetic property determines how well an antibiotic reaches its site of infection?",
+        "options": [
+            "Absorption",
+            "Distribution",
+            "Metabolism",
+            "Excretion",
+            "Half-life"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which factor is considered when selecting the route of administration for an antimicrobial?",
+        "options": [
+            "Patient preference",
+            "Severity of infection",
+            "Cost of the drug",
+            "Availability in pharmacies",
+            "Color of the drug"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a primary reason for using combination antimicrobial therapy?",
+        "options": [
+            "To increase drug toxicity",
+            "To prevent microbial resistance",
+            "To delay treatment initiation",
+            "To improve antibiotic taste",
+            "To reduce drug absorption"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which duration is typically recommended for treating community-acquired pneumonia?",
+        "options": [
+            "3 days",
+            "5 days",
+            "10 days",
+            "14 days",
+            "21 days"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a common consequence of irrational antimicrobial use?",
+        "options": [
+            "Decreased drug costs",
+            "Increased antimicrobial resistance",
+            "Improved immune function",
+            "Faster recovery",
+            "Increased drug effectiveness"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a fundamental principle of rational antibiotic use?",
+        "options": [
+            "Using antibiotics for all fevers",
+            "Selecting the broadest-spectrum antibiotic available",
+            "Choosing antibiotics based on infection type and patient factors",
+            "Stopping antibiotics once symptoms improve",
+            "Ignoring antibiotic resistance patterns"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which factor is considered when making a rational choice of an antimicrobial drug?",
+        "options": [
+            "Patient’s weight",
+            "Antimicrobial spectrum",
+            "Mechanism of action",
+            "Drug toxicity",
+            "All of the above"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is NOT a factor in rational antibiotic use?",
+        "options": [
+            "Accurate diagnosis",
+            "Proper drug selection",
+            "Appropriate dosage and duration",
+            "Cost-effectiveness",
+            "Using the newest antibiotic available"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is an alkylating agent used in cancer chemotherapy?",
+        "options": [
+            "Methotrexate",
+            "Cyclophosphamide",
+            "Doxorubicin",
+            "Fluorouracil",
+            "Vincristine"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is classified as an antimetabolite in cancer treatment?",
+        "options": [
+            "Cisplatin",
+            "Methotrexate",
+            "Bleomycin",
+            "Paclitaxel",
+            "Dactinomycin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a topoisomerase inhibitor?",
+        "options": [
+            "Vinblastine",
+            "Etoposide",
+            "Cyclophosphamide",
+            "5-Fluorouracil",
+            "Doxorubicin"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is a vinca alkaloid used in cancer chemotherapy?",
+        "options": [
+            "Vincristine",
+            "Methotrexate",
+            "Carboplatin",
+            "Etoposide",
+            "Irinotecan"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a monoclonal antibody used in cancer therapy?",
+        "options": [
+            "Trastuzumab",
+            "Tamoxifen",
+            "Paclitaxel",
+            "Fluorouracil",
+            "Vinblastine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which chemotherapy agent is a platinum-based compound?",
+        "options": [
+            "Cyclophosphamide",
+            "Methotrexate",
+            "Cisplatin",
+            "Doxorubicin",
+            "Bleomycin"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which drug is an anthracycline antibiotic used in cancer treatment?",
+        "options": [
+            "Doxorubicin",
+            "Methotrexate",
+            "Vinblastine",
+            "Etoposide",
+            "Cisplatin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which anticancer drug inhibits dihydrofolate reductase?",
+        "options": [
+            "Methotrexate",
+            "Cisplatin",
+            "Doxorubicin",
+            "Cyclophosphamide",
+            "Fluorouracil"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which anticancer drug is an example of a taxane?",
+        "options": [
+            "Paclitaxel",
+            "Methotrexate",
+            "Etoposide",
+            "Cisplatin",
+            "Tamoxifen"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which alkylating agent belongs to the nitrosourea class?",
+        "options": [
+            "Carmustine",
+            "Doxorubicin",
+            "Etoposide",
+            "Vincristine",
+            "Fluorouracil"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which chemotherapy agent is a purine analogue?",
+        "options": [
+            "Mercaptopurine",
+            "Methotrexate",
+            "Cisplatin",
+            "Cyclophosphamide",
+            "Bleomycin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a camptothecin derivative used in cancer treatment?",
+        "options": [
+            "Irinotecan",
+            "Vinblastine",
+            "Cyclophosphamide",
+            "Methotrexate",
+            "Dactinomycin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which anticancer drug is used specifically for chronic myeloid leukemia (CML)?",
+        "options": [
+            "Imatinib",
+            "Tamoxifen",
+            "Methotrexate",
+            "Vincristine",
+            "Cisplatin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which chemotherapy drug is a mitotic inhibitor?",
+        "options": [
+            "Vinblastine",
+            "Methotrexate",
+            "Etoposide",
+            "Cisplatin",
+            "Cyclophosphamide"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which nitrosourea is used in brain tumors due to its ability to cross the blood-brain barrier?",
+        "options": [
+            "Carmustine",
+            "Doxorubicin",
+            "Etoposide",
+            "Vincristine",
+            "Fluorouracil"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+
+    {
+        "question": "Which of the following drugs is a selective estrogen receptor modulator (SERM)?",
+        "options": [
+            "Tamoxifen",
+            "Flutamide",
+            "Leuprolide",
+            "Anastrozole",
+            "Megestrol acetate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an aromatase inhibitor?",
+        "options": [
+            "Tamoxifen",
+            "Flutamide",
+            "Anastrozole",
+            "Leuprolide",
+            "Prednisolone"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which drug is a GnRH analogue used in cancer therapy?",
+        "options": [
+            "Leuprolide",
+            "Tamoxifen",
+            "Flutamide",
+            "Anastrozole",
+            "Megestrol acetate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is an antiandrogen used in prostate cancer treatment?",
+        "options": [
+            "Flutamide",
+            "Tamoxifen",
+            "Leuprolide",
+            "Anastrozole",
+            "Megestrol acetate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which hormone is commonly supplemented in advanced breast cancer treatment?",
+        "options": [
+            "Progesterone",
+            "Testosterone",
+            "Thyroxine",
+            "Insulin",
+            "Cortisol"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is used to chemically induce castration in hormone-dependent cancers?",
+        "options": [
+            "Goserelin",
+            "Tamoxifen",
+            "Anastrozole",
+            "Megestrol acetate",
+            "Methotrexate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which corticosteroid is used in lymphomas and leukemias?",
+        "options": [
+            "Prednisolone",
+            "Tamoxifen",
+            "Anastrozole",
+            "Leuprolide",
+            "Cisplatin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is a selective estrogen receptor modulator (SERM)?",
+        "options": [
+            "Tamoxifen",
+            "Flutamide",
+            "Leuprolide",
+            "Anastrozole",
+            "Megestrol acetate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is an aromatase inhibitor?",
+        "options": [
+            "Tamoxifen",
+            "Flutamide",
+            "Anastrozole",
+            "Leuprolide",
+            "Prednisolone"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which GnRH analogue is used for prostate cancer treatment?",
+        "options": [
+            "Leuprolide",
+            "Tamoxifen",
+            "Flutamide",
+            "Anastrozole",
+            "Megestrol acetate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is an antiandrogen used in prostate cancer therapy?",
+        "options": [
+            "Flutamide",
+            "Tamoxifen",
+            "Leuprolide",
+            "Anastrozole",
+            "Megestrol acetate"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which corticosteroid is commonly used in leukemia treatment?",
+        "options": [
+            "Prednisolone",
+            "Tamoxifen",
+            "Anastrozole",
+            "Leuprolide",
+            "Cisplatin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a progestin used in cancer therapy?",
+        "options": [
+            "Megestrol acetate",
+            "Tamoxifen",
+            "Leuprolide",
+            "Flutamide",
+            "Anastrozole"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which somatostatin analogue is used in hormone-sensitive tumors?",
+        "options": [
+            "Octreotide",
+            "Tamoxifen",
+            "Anastrozole",
+            "Leuprolide",
+            "Flutamide"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which estrogen was previously used in prostate cancer therapy?",
+        "options": [
+            "Diethylstilbestrol (DES)",
+            "Tamoxifen",
+            "Flutamide",
+            "Anastrozole",
+            "Leuprolide"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following astringents is used for the treatment of otitis externa?",
+        "options": [
+            "Aluminum acetate",
+            "Ciprofloxacin",
+            "Ibuprofen",
+            "Betamethasone",
+            "Loratidine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which analgesic can be used as an adjunct for ear pain in otitis media?",
+        "options": [
+            "Diclofenac",
+            "Ciprofloxacin",
+            "Amoxicillin",
+            "Cinnarizine",
+            "Chlorpheniramine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antibiotic is a first-line treatment for acute otitis media?",
+        "options": [
+            "Amoxicillin",
+            "Chlorpheniramine",
+            "Betamethasone",
+            "Hydrogen peroxide",
+            "Cinnarizine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antifungal drug is commonly used for otitis externa caused by fungal infections?",
+        "options": [
+            "Clotrimazole",
+            "Ofloxacin",
+            "Diclofenac",
+            "Oxymetazoline",
+            "Cefuroxime"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which class of drugs is used for ear inflammation and often combined with anti-infectives?",
+        "options": [
+            "Corticosteroids",
+            "Beta-lactam antibiotics",
+            "Macrolides",
+            "Fluoroquinolones",
+            "Aminoglycosides"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is the first-line treatment for allergic rhinitis?",
+        "options": [
+            "Loratidine",
+            "Phenylephrine",
+            "Ibuprofen",
+            "Betamethasone",
+            "Cinnarizine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which nasal decongestant is a short-acting alpha-adrenergic agonist?",
+        "options": [
+            "Phenylephrine",
+            "Betamethasone",
+            "Cefdinir",
+            "Clindamycin",
+            "Cinnarizine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which corticosteroid nasal spray is commonly used for allergic rhinitis?",
+        "options": [
+            "Fluticasone",
+            "Ciprofloxacin",
+            "Dexamethasone",
+            "Ibuprofen",
+            "Cinnarizine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which nasal medication is used for prophylaxis in allergic rhinitis?",
+        "options": [
+            "Sodium cromoglycate",
+            "Fluticasone",
+            "Phenylephrine",
+            "Amoxicillin",
+            "Ibuprofen"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which medication is useful in the treatment of Meniere’s disease?",
+        "options": [
+            "Cinnarizine",
+            "Loratidine",
+            "Ofloxacin",
+            "Clotrimazole",
+            "Dexamethasone"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a topical glucocorticoid used in dermatology?",
+        "options": [
+            "Betamethasone dipropionate",
+            "Tretinoin",
+            "Isotretinoin",
+            "Adapalene",
+            "Fluorouracil"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which dermatological drug is a vitamin D analog used for psoriasis?",
+        "options": [
+            "Calcipotriene",
+            "Tazarotene",
+            "Bexarotene",
+            "Adapalene",
+            "Hydrocortisone"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which retinoid is commonly used for the treatment of acne vulgaris?",
+        "options": [
+            "Isotretinoin",
+            "Methotrexate",
+            "Triamcinolone",
+            "Betamethasone",
+            "Psoralen"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which systemic antifungal agent is used for dermatophytosis?",
+        "options": [
+            "Terbinafine",
+            "Tretinoin",
+            "Hydrocortisone",
+            "Permethrin",
+            "Doxycycline"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a first-generation retinoid?",
+        "options": [
+            "Tretinoin",
+            "Acitretin",
+            "Tazarotene",
+            "Bexarotene",
+            "Adapalene"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which oral retinoid is used in the treatment of severe nodulocystic acne?",
+        "options": [
+            "Isotretinoin",
+            "Calcipotriene",
+            "Betamethasone",
+            "Methotrexate",
+            "Clindamycin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which topical antifungal agent is commonly used for tinea infections?",
+        "options": [
+            "Clotrimazole",
+            "Methotrexate",
+            "Tacrolimus",
+            "Fluorouracil",
+            "Azathioprine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which chemotherapy drug is used in dermatology for actinic keratosis?",
+        "options": [
+            "Fluorouracil",
+            "Tretinoin",
+            "Isotretinoin",
+            "Adapalene",
+            "Crotamiton"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which immunosuppressive drug is used in dermatology to treat autoimmune skin diseases?",
+        "options": [
+            "Azathioprine",
+            "Calcipotriene",
+            "Psoralen",
+            "Tretinoin",
+            "Bexarotene"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which oral antimalarial is used for the treatment of cutaneous lupus?",
+        "options": [
+            "Hydroxychloroquine",
+            "Methotrexate",
+            "Fluorouracil",
+            "Tacrolimus",
+            "Isotretinoin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following drugs is a third-generation retinoid used for psoriasis?",
+        "options": [
+            "Tazarotene",
+            "Adapalene",
+            "Etretinate",
+            "Bexarotene",
+            "Isotretinoin"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which topical calcineurin inhibitor is used to treat atopic dermatitis?",
+        "options": [
+            "Tacrolimus",
+            "Isotretinoin",
+            "Hydrocortisone",
+            "Methotrexate",
+            "Psoralen"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which antiparasitic drug is used for the treatment of scabies?",
+        "options": [
+            "Permethrin",
+            "Fluorouracil",
+            "Tazarotene",
+            "Psoralen",
+            "Hydroxychloroquine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which class of drugs is commonly used to treat pemphigus vulgaris?",
+        "options": [
+            "Glucocorticoids",
+            "Retinoids",
+            "Antihistamines",
+            "Antifungals",
+            "Calcineurin inhibitors"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which drug is a photochemotherapy agent used with UVA light in psoriasis?",
+        "options": [
+            "Psoralen",
+            "Betamethasone",
+            "Methotrexate",
+            "Tacrolimus",
+            "Hydroxychloroquine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which cytotoxic agent is used for severe psoriasis treatment?",
+        "options": [
+            "Methotrexate",
+            "Tacrolimus",
+            "Fluorouracil",
+            "Isotretinoin",
+            "Azathioprine"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
     }
 ]
-
