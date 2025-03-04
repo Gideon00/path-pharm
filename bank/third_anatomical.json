@@ -581,5 +581,170 @@
             "MYC"
         ],
         "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following is the second most common tumor of sun-exposed skin in older individuals?",
+        "options": [
+            "Melanoma",
+            "Basal cell carcinoma",
+            "Squamous cell carcinoma",
+            "Actinic keratosis",
+            "Dysplastic nevus"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is the greatest predisposing factor for squamous cell carcinoma?",
+        "options": [
+            "Genetic mutations",
+            "UV radiation",
+            "Chronic inflammation",
+            "Industrial carcinogens",
+            "HPV infection"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which genetic mutation is most commonly associated with squamous cell carcinoma?",
+        "options": [
+            "BRCA1 mutation",
+            "TP53 mutation",
+            "RAS mutation",
+            "RB1 mutation",
+            "MYC amplification"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "What is the most common invasive human cancer?",
+        "options": [
+            "Squamous cell carcinoma",
+            "Melanoma",
+            "Basal cell carcinoma",
+            "Kaposi sarcoma",
+            "Merkel cell carcinoma"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following conditions is associated with an increased incidence of basal cell carcinoma?",
+        "options": [
+            "Dysplastic nevus syndrome",
+            "Nevoid basal cell carcinoma syndrome",
+            "Gorlin syndrome",
+            "Actinic keratosis",
+            "Both B and C"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which genetic pathway is commonly affected in basal cell carcinoma?",
+        "options": [
+            "Wnt signaling",
+            "Hedgehog signaling",
+            "JAK-STAT pathway",
+            "MAP kinase pathway",
+            "Notch signaling"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following best describes the morphology of basal cell carcinoma?",
+        "options": [
+            "Pearly papules with telangiectatic vessels",
+            "Ulcerated plaques with necrotic centers",
+            "Scaly plaques with well-defined borders",
+            "Rapidly enlarging nodules with pus formation",
+            "Hyperpigmented macules with irregular borders"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a risk factor for melanoma?",
+        "options": [
+            "Severe sunburns early in life",
+            "Human papillomavirus infection",
+            "Chronic bacterial infections",
+            "Ionizing radiation exposure",
+            "Basal cell carcinoma"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "Which genetic mutation is strongly associated with familial and sporadic melanomas?",
+        "options": [
+            "MYC amplification",
+            "RAS mutations",
+            "RB1 deletion",
+            "TP53 deletion",
+            "EGFR overexpression"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is NOT a major prognostic factor in melanoma?",
+        "options": [
+            "Breslow thickness",
+            "Ulceration status",
+            "Mitotic rate",
+            "Lymph node involvement",
+            "Sun exposure history"
+        ],
+        "answer": ["F", "F", "F", "F", "T"]
+    },
+    {
+        "question": "Which of the following melanoma subtypes is most common?",
+        "options": [
+            "Lentigo maligna melanoma",
+            "Superficial spreading melanoma",
+            "Acral lentiginous melanoma",
+            "Nodular melanoma",
+            "Desmoplastic melanoma"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which melanoma growth pattern is characterized by horizontal spread within the epidermis and superficial dermis?",
+        "options": [
+            "Radial growth phase",
+            "Vertical growth phase",
+            "Invasive growth phase",
+            "Metastatic growth phase",
+            "Papillary growth phase"
+        ],
+        "answer": ["T", "F", "F", "F", "F"]
+    },
+    {
+        "question": "What does the Breslow thickness measure in melanoma?",
+        "options": [
+            "Tumor diameter",
+            "Depth of invasion",
+            "Number of mitotic figures",
+            "Extent of ulceration",
+            "Tumor vascularity"
+        ],
+        "answer": ["F", "T", "F", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a clinical warning sign for melanoma?",
+        "options": [
+            "Raised, smooth lesion with pearly appearance",
+            "Non-healing ulcer with rolled edges",
+            "Asymmetry and irregular borders",
+            "Scaly, well-demarcated plaques",
+            "Painless nodules with telangiectasia"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
+    },
+    {
+        "question": "Which of the following is a feature of dysplastic nevi?",
+        "options": [
+            "Small, uniform shape",
+            "Well-demarcated borders",
+            "Variegated pigmentation",
+            "Benign, slow-growing lesion",
+            "Firm, nodular consistency"
+        ],
+        "answer": ["F", "F", "T", "F", "F"]
     }
 ]
