@@ -142,7 +142,7 @@ def callback():
 
     # Check if the user exists
     existing_user = db.execute(
-        "SELECT id, is_admin FROM users WHERE oauth_id = ?;", session["oauth_id"]
+        "SELECT id, is_admin FROM users WHERE email = ?;", session["email"]
     )
 
     # If the user exists, store the user_id in the session
@@ -218,8 +218,7 @@ def githubCallback():
 
     # Check if user exists in the database
     existing_user = db.execute(
-        "SELECT id, is_admin FROM users WHERE oauth_id = ? AND oauth_provider = 'GitHub';",
-        session["oauth_id"]
+        "SELECT id, is_admin FROM users WHERE email = ?;", session["email"]
     )
 
     # If the user exists, store user_id in session
